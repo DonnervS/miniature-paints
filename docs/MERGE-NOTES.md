@@ -36,6 +36,20 @@ Known gaps:
 - **Scale75**: the new Code column changes the generated ids from `scale75-<name>` to `scale75-<code>`.
 - bart's `pending/paints.json` (entries without colour values) and logo updates were not taken.
 
+## Warhammer Tone Pro: where the values come from
+
+The 150 Tone Pro paints (set `Tone Pro` in `Warhammer_Colour.md`) come from bart-kooi. Their hex values are not
+measured paint. They match the colours sampled from Games Workshop's announcement graphics (Warhammer Community,
+18 September 2026), as published in Warhue's
+[Tone Pro colour chart](https://warhue.app/blog/warhammer-tone-pro-colour-chart).
+
+Comparison on 2026-11-01: all 150 names match, 42 hex values are identical, and the rest differ by a median
+ΔE2000 of 0.27 (maximum 2.5, Carthalos Skin 2: Warhue `#2D140C`, here `#2C160A`). Both are therefore readings of the
+same GW graphics. Whether bart-kooi took them from Warhue or sampled the graphics independently is not documented.
+
+Treat them as "what the label promises": marketing colours, not dried paint. Warhue states no licence for its
+table. Once the pots are available, measured values (see `measurements/`) should take precedence.
+
 ## Schema v5
 
 - `ean`: barcode list per paint (also a new `EAN` column in every markdown table).
