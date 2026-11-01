@@ -13,7 +13,7 @@ and sets `measuredHex` to the sRGB colour of their average.
 | `paint_id` | Paint id as generated in `paints.json`, e.g. `ak-ak11057` |
 | `brand`, `name` | For humans; `name` is checked against the paint id when the JSON is built |
 | `device` | Instrument, e.g. `Nix Spectro 2`, `Datacolor ColorReader` |
-| `illuminant`, `observer` | Reference white of the Lab values (`D50` or `D65`) and observer angle (`2` or `10`) |
+| `illuminant`, `observer` | Reference white of the Lab values (`D50` or `D65`) and observer angle (`2` or `10`, empty if unknown). Nix Spectro 2: D50/2°. Datacolor ColorReader: D65 (its app hex matches Lab under D65) |
 | `L`, `a`, `b` | CIELAB as reported by the device |
 | `device_hex` | The hex the device's app shows, kept for comparison |
 | `samples` | Number of readings averaged by the device |

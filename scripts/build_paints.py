@@ -237,7 +237,7 @@ def load_measurements():
             m = OrderedDict()
             m["device"] = r['device'].strip()
             m["illuminant"] = ill
-            m["observer"] = (r.get('observer') or '2').strip()
+            m["observer"] = (r.get('observer') or '').strip() or None
             m["lab"] = {"l": L, "a": a, "b": b}
             m["hex"] = lab_to_hex(L, a, b, ill)
             m["deviceHex"] = (r.get('device_hex') or '').strip().upper() or None

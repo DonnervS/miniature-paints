@@ -1228,6 +1228,24 @@
           "date": "2026-11-01",
           "by": "DonnervS",
           "note": null
+        },
+        {
+          "device": "Datacolor ColorReader",
+          "illuminant": "D65",
+          "observer": null,
+          "lab": {
+            "l": 63.13,
+            "a": 2.09,
+            "b": 12.08
+          },
+          "hex": "#A59784",
+          "deviceHex": "#A59784",
+          "samples": 1,
+          "substrate": null,
+          "coats": null,
+          "date": "2026-11-01",
+          "by": "DonnervS",
+          "note": "Lichtart aus Hex-Abgleich bestimmt; Beobachter zeigt die App nicht an"
         }
       ],
       "measuredHex": "#C2B193"

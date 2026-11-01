@@ -4,3 +4,5 @@ product_catalogues/
 
 # Python build script caches
 __pycache__/
+# Internal reference material (third-party images, not for redistribution)
+references/

@@ -270,7 +270,11 @@
           ]
         },
         "observer": {
-          "type": "string"
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Observer angle in degrees (\"2\" or \"10\"); null if the device does not state it."
         },
         "lab": {
           "type": "object",
