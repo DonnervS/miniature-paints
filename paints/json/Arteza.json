@@ -1,6 +1,6 @@
 {
   "$schema": "../../schema/brand.schema.json",
-  "schema": "miniature-paints/v4",
+  "schema": "miniature-paints/v5",
   "displayName": "Arteza",
   "company": "Plaid Enterprises, Inc.",
   "address": {
@@ -20,6 +20,7 @@
       "id": "arteza-a201",
       "name": "Aztec Gold",
       "code": "A201",
+      "ean": null,
       "set": "Acrylic Pearl Paints",
       "hex": "#CD8B45",
       "rgb": {
@@ -30,12 +31,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a403",
       "name": "Bordeaux Red",
       "code": "A403",
+      "ean": null,
       "set": "Acrylic Premium Paints",
       "hex": "#7B2D33",
       "rgb": {
@@ -46,12 +50,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a201-2",
       "name": "Brilliant Red",
       "code": "A201",
+      "ean": [
+        "0810386034090"
+      ],
       "set": "Acrylic Premium Paints",
       "hex": "#C80F15",
       "rgb": {
@@ -62,12 +71,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a202",
       "name": "Bronze",
       "code": "A202",
+      "ean": null,
       "set": "Acrylic Pearl Paints",
       "hex": "#A8724E",
       "rgb": {
@@ -78,12 +90,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a303",
       "name": "Burnt Sienna",
       "code": "A303",
+      "ean": [
+        "0857909007483"
+      ],
       "set": "Acrylic Premium Paints",
       "hex": "#863625",
       "rgb": {
@@ -94,12 +111,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a305",
       "name": "Burnt Umber",
       "code": "A305",
+      "ean": [
+        "0857909007490"
+      ],
       "set": "Acrylic Premium Paints",
       "hex": "#663D34",
       "rgb": {
@@ -110,12 +132,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a205",
       "name": "Carmine Red",
       "code": "A205",
+      "ean": null,
       "set": "Acrylic Premium Paints",
       "hex": "#C31723",
       "rgb": {
@@ -126,12 +151,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a502",
       "name": "Cerulean Blue",
       "code": "A502",
+      "ean": [
+        "0840098715932",
+        "0810386034243"
+      ],
       "set": "Acrylic Premium Paints",
       "hex": "#0388D4",
       "rgb": {
@@ -142,12 +173,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a607",
       "name": "Chromium Oxide Green",
       "code": "A607",
+      "ean": null,
       "set": "Acrylic Premium Paints",
       "hex": "#1C4E40",
       "rgb": {
@@ -158,12 +192,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a501",
       "name": "Cobalt Blue",
       "code": "A501",
+      "ean": null,
       "set": "Acrylic Premium Paints",
       "hex": "#4C98F0",
       "rgb": {
@@ -174,12 +211,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a203",
       "name": "Cochineal Red",
       "code": "A203",
+      "ean": [
+        "0810386034106"
+      ],
       "set": "Acrylic Premium Paints",
       "hex": "#AE0207",
       "rgb": {
@@ -190,12 +232,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a002",
       "name": "Cold Gray",
       "code": "A002",
+      "ean": [
+        "0810386034434"
+      ],
       "set": "Acrylic Premium Paints",
       "hex": "#B2C1D3",
       "rgb": {
@@ -206,12 +253,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a206",
       "name": "Crimson Red",
       "code": "A206",
+      "ean": null,
       "set": "Acrylic Premium Paints",
       "hex": "#B11823",
       "rgb": {
@@ -222,12 +272,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a610",
       "name": "Deep Green",
       "code": "A610",
+      "ean": null,
       "set": "Acrylic Premium Paints",
       "hex": "#375B5F",
       "rgb": {
@@ -238,12 +291,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a103",
       "name": "Deep Yellow",
       "code": "A103",
+      "ean": [
+        "0810386034007"
+      ],
       "set": "Acrylic Premium Paints",
       "hex": "#E27B02",
       "rgb": {
@@ -254,12 +312,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a602",
       "name": "Emerald Green",
       "code": "A602",
+      "ean": null,
       "set": "Acrylic Premium Paints",
       "hex": "#25C0A4",
       "rgb": {
@@ -270,12 +331,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a127",
       "name": "Gold",
       "code": "A127",
+      "ean": [
+        "0857909007551"
+      ],
       "set": "Acrylic Pearl Paints",
       "hex": "#E4B463",
       "rgb": {
@@ -286,12 +352,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a703",
       "name": "Gold",
       "code": "A703",
+      "ean": null,
       "set": "Acrylic Premium Paints",
       "hex": "#CC883A",
       "rgb": {
@@ -302,12 +371,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a003",
       "name": "Gray",
       "code": "A003",
+      "ean": [
+        "0810386034427"
+      ],
       "set": "Acrylic Premium Paints",
       "hex": "#928E95",
       "rgb": {
@@ -318,12 +392,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a107",
       "name": "Indian Yellow",
       "code": "A107",
+      "ean": null,
       "set": "Acrylic Premium Paints",
       "hex": "#EE7A1F",
       "rgb": {
@@ -334,12 +411,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a100",
       "name": "Lemon Yellow",
       "code": "A100",
+      "ean": [
+        "0857909007445",
+        "0840098721469"
+      ],
       "set": "Acrylic Premium Paints",
       "hex": "#EEDF63",
       "rgb": {
@@ -350,12 +433,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a108",
       "name": "Light Apricot",
       "code": "A108",
+      "ean": null,
       "set": "Acrylic Premium Paints",
       "hex": "#FEE6C2",
       "rgb": {
@@ -366,12 +452,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a603",
       "name": "Light Sap Green",
       "code": "A603",
+      "ean": null,
       "set": "Acrylic Premium Paints",
       "hex": "#1A5924",
       "rgb": {
@@ -382,12 +471,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a401",
       "name": "Magenta Light",
       "code": "A401",
+      "ean": [
+        "0840098715956"
+      ],
       "set": "Acrylic Premium Paints",
       "hex": "#C11174",
       "rgb": {
@@ -398,12 +492,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a005",
       "name": "Mars Black",
       "code": "A005",
+      "ean": null,
       "set": "Acrylic Premium Paints",
       "hex": "#131318",
       "rgb": {
@@ -414,12 +511,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a306",
       "name": "Mars Brown",
       "code": "A306",
+      "ean": null,
       "set": "Acrylic Premium Paints",
       "hex": "#200604",
       "rgb": {
@@ -430,12 +530,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a302",
       "name": "Mars Orange",
       "code": "A302",
+      "ean": [
+        "0810386034045"
+      ],
       "set": "Acrylic Premium Paints",
       "hex": "#BC5035",
       "rgb": {
@@ -446,12 +551,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a404",
       "name": "Mauve Pole",
       "code": "A404",
+      "ean": [
+        "0810386034199"
+      ],
       "set": "Acrylic Premium Paints",
       "hex": "#6F59A1",
       "rgb": {
@@ -462,12 +572,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a604",
       "name": "Mid Green",
       "code": "A604",
+      "ean": [
+        "0810386034328"
+      ],
       "set": "Acrylic Premium Paints",
       "hex": "#04633A",
       "rgb": {
@@ -478,12 +593,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a102",
       "name": "Mid Yellow",
       "code": "A102",
+      "ean": null,
       "set": "Acrylic Premium Paints",
       "hex": "#F5CC0D",
       "rgb": {
@@ -494,12 +612,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a105",
       "name": "Naples Yellow",
       "code": "A105",
+      "ean": [
+        "0810386034021"
+      ],
       "set": "Acrylic Premium Paints",
       "hex": "#FACE9A",
       "rgb": {
@@ -510,12 +633,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a800",
       "name": "Neon Pink",
       "code": "A800",
+      "ean": [
+        "0810386034168"
+      ],
       "set": "Acrylic Premium Paints",
       "hex": "#FD5A97",
       "rgb": {
@@ -526,12 +654,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a608",
       "name": "Olive Green",
       "code": "A608",
+      "ean": null,
       "set": "Acrylic Premium Paints",
       "hex": "#455032",
       "rgb": {
@@ -542,12 +673,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a109",
       "name": "Orange Red",
       "code": "A109",
+      "ean": null,
       "set": "Acrylic Premium Paints",
       "hex": "#EE3A18",
       "rgb": {
@@ -558,12 +692,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a108-2",
       "name": "Orange Yellow",
       "code": "A108",
+      "ean": null,
       "set": "Acrylic Premium Paints",
       "hex": "#F1652D",
       "rgb": {
@@ -574,12 +711,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a301",
       "name": "Oxide Yellow",
       "code": "A301",
+      "ean": [
+        "0810386034014"
+      ],
       "set": "Acrylic Premium Paints",
       "hex": "#BA7335",
       "rgb": {
@@ -590,12 +732,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a601",
       "name": "Pale Green",
       "code": "A601",
+      "ean": null,
       "set": "Acrylic Premium Paints",
       "hex": "#03A45E",
       "rgb": {
@@ -606,12 +751,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a004",
       "name": "Payne's Gray",
       "code": "A004",
+      "ean": null,
       "set": "Acrylic Premium Paints",
       "hex": "#3B3A40",
       "rgb": {
@@ -622,12 +770,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a215",
       "name": "Pearl Amaranth Red",
       "code": "A215",
+      "ean": [
+        "0810024627455",
+        "0840098715727"
+      ],
       "set": "Acrylic Pearl Paints",
       "hex": "#EA6355",
       "rgb": {
@@ -638,12 +792,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a230",
       "name": "Pearl Cactus Green",
       "code": "A230",
+      "ean": null,
       "set": "Acrylic Pearl Paints",
       "hex": "#619F8A",
       "rgb": {
@@ -654,12 +811,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a206-2",
       "name": "Pearl Canary Yellow",
       "code": "A206",
+      "ean": null,
       "set": "Acrylic Pearl Paints",
       "hex": "#BBA533",
       "rgb": {
@@ -670,12 +830,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a233",
       "name": "Pearl Chartreuse",
       "code": "A233",
+      "ean": null,
       "set": "Acrylic Pearl Paints",
       "hex": "#A9A54D",
       "rgb": {
@@ -686,12 +849,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a129",
       "name": "Pearl Copper Gold",
       "code": "A129",
+      "ean": null,
       "set": "Acrylic Pearl Paints",
       "hex": "#A66643",
       "rgb": {
@@ -702,12 +868,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a729",
       "name": "Pearl Copper Gold",
       "code": "A729",
+      "ean": null,
       "set": "Acrylic Premium Paints",
       "hex": "#BB7446",
       "rgb": {
@@ -718,12 +887,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a130",
       "name": "Pearl Deep Brown",
       "code": "A130",
+      "ean": null,
       "set": "Acrylic Pearl Paints",
       "hex": "#664632",
       "rgb": {
@@ -734,12 +906,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a733",
       "name": "Pearl Deep Brown",
       "code": "A733",
+      "ean": null,
       "set": "Acrylic Premium Paints",
       "hex": "#865F43",
       "rgb": {
@@ -750,12 +925,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a210",
       "name": "Pearl Electrlc Blue",
       "code": "A210",
+      "ean": null,
       "set": "Acrylic Pearl Paints",
       "hex": "#0594DA",
       "rgb": {
@@ -766,12 +944,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a225",
       "name": "Pearl Glacier Blue",
       "code": "A225",
+      "ean": null,
       "set": "Acrylic Pearl Paints",
       "hex": "#92B8C3",
       "rgb": {
@@ -782,12 +963,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a213",
       "name": "Pearl Golden Hour",
       "code": "A213",
+      "ean": null,
       "set": "Acrylic Pearl Paints",
       "hex": "#C39736",
       "rgb": {
@@ -798,12 +982,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a218",
       "name": "Pearl Hot Pink",
       "code": "A218",
+      "ean": null,
       "set": "Acrylic Pearl Paints",
       "hex": "#E0448E",
       "rgb": {
@@ -814,12 +1001,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a223",
       "name": "Pearl Lilac",
       "code": "A223",
+      "ean": null,
       "set": "Acrylic Pearl Paints",
       "hex": "#B4ABC1",
       "rgb": {
@@ -830,12 +1020,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a211",
       "name": "Pearl Lime Green",
       "code": "A211",
+      "ean": [
+        "0840098715680"
+      ],
       "set": "Acrylic Pearl Paints",
       "hex": "#86A96D",
       "rgb": {
@@ -846,12 +1041,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a221",
       "name": "Pearl Magenta",
       "code": "A221",
+      "ean": null,
       "set": "Acrylic Pearl Paints",
       "hex": "#9F1E63",
       "rgb": {
@@ -862,12 +1060,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a203-2",
       "name": "Pearl Marmalade",
       "code": "A203",
+      "ean": null,
       "set": "Acrylic Pearl Paints",
       "hex": "#A4462D",
       "rgb": {
@@ -878,12 +1079,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a232",
       "name": "Pearl Olive Green",
       "code": "A232",
+      "ean": null,
       "set": "Acrylic Pearl Paints",
       "hex": "#758351",
       "rgb": {
@@ -894,12 +1098,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a207",
       "name": "Pearl Papya Orange",
       "code": "A207",
+      "ean": [
+        "0810024627448"
+      ],
       "set": "Acrylic Pearl Paints",
       "hex": "#F28340",
       "rgb": {
@@ -910,12 +1119,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a228",
       "name": "Pearl Pastel Green",
       "code": "A228",
+      "ean": null,
       "set": "Acrylic Pearl Paints",
       "hex": "#88A38E",
       "rgb": {
@@ -926,12 +1138,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a216",
       "name": "Pearl Pink",
       "code": "A216",
+      "ean": null,
       "set": "Acrylic Pearl Paints",
       "hex": "#BC869D",
       "rgb": {
@@ -942,12 +1157,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a208",
       "name": "Pearl Pink Tulip",
       "code": "A208",
+      "ean": [
+        "0810024627462"
+      ],
       "set": "Acrylic Pearl Paints",
       "hex": "#CC3943",
       "rgb": {
@@ -958,12 +1178,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a234",
       "name": "Pearl Pistachio Green",
       "code": "A234",
+      "ean": null,
       "set": "Acrylic Pearl Paints",
       "hex": "#97B28A",
       "rgb": {
@@ -974,12 +1197,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a220",
       "name": "Pearl Raspberry Red",
       "code": "A220",
+      "ean": null,
       "set": "Acrylic Pearl Paints",
       "hex": "#CC374C",
       "rgb": {
@@ -990,12 +1216,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a218-2",
       "name": "Pearl Rose",
       "code": "A218",
+      "ean": null,
       "set": "Acrylic Pearl Paints",
       "hex": "#B83650",
       "rgb": {
@@ -1006,12 +1235,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a217",
       "name": "Pearl Rose Quartz",
       "code": "A217",
+      "ean": null,
       "set": "Acrylic Pearl Paints",
       "hex": "#AF5C7D",
       "rgb": {
@@ -1022,12 +1254,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a209",
       "name": "Pearl Royal Purple",
       "code": "A209",
+      "ean": null,
       "set": "Acrylic Pearl Paints",
       "hex": "#4E3880",
       "rgb": {
@@ -1038,12 +1273,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a229",
       "name": "Pearl Sage Green",
       "code": "A229",
+      "ean": null,
       "set": "Acrylic Pearl Paints",
       "hex": "#A5BAB7",
       "rgb": {
@@ -1054,12 +1292,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a736",
       "name": "Pearl Sapphire Blue",
       "code": "A736",
+      "ean": [
+        "0840098716007",
+        "0810386034236"
+      ],
       "set": "Acrylic Premium Paints",
       "hex": "#064A96",
       "rgb": {
@@ -1070,12 +1314,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a227",
       "name": "Pearl Sea Green",
       "code": "A227",
+      "ean": null,
       "set": "Acrylic Pearl Paints",
       "hex": "#377C74",
       "rgb": {
@@ -1086,12 +1333,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a224",
       "name": "Pearl Sky Blue",
       "code": "A224",
+      "ean": null,
       "set": "Acrylic Pearl Paints",
       "hex": "#8FBCD8",
       "rgb": {
@@ -1102,12 +1352,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a204",
       "name": "Pearl Space Grey",
       "code": "A204",
+      "ean": null,
       "set": "Acrylic Pearl Paints",
       "hex": "#464C51",
       "rgb": {
@@ -1118,12 +1371,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a222",
       "name": "Pearl Strawberry Red",
       "code": "A222",
+      "ean": null,
       "set": "Acrylic Pearl Paints",
       "hex": "#99322D",
       "rgb": {
@@ -1134,12 +1390,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a214",
       "name": "Pearl Tangerine Orange",
       "code": "A214",
+      "ean": [
+        "0810024627431"
+      ],
       "set": "Acrylic Pearl Paints",
       "hex": "#D7682C",
       "rgb": {
@@ -1150,12 +1411,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a226",
       "name": "Pearl Turquoise",
       "code": "A226",
+      "ean": null,
       "set": "Acrylic Pearl Paints",
       "hex": "#027095",
       "rgb": {
@@ -1166,12 +1430,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a205-2",
       "name": "Pearl White",
       "code": "A205",
+      "ean": [
+        "0840098715574"
+      ],
       "set": "Acrylic Pearl Paints",
       "hex": "#E6E3DE",
       "rgb": {
@@ -1182,12 +1451,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a504",
       "name": "Phthalo Blue",
       "code": "A504",
+      "ean": [
+        "0840098721513",
+        "0840098715789"
+      ],
       "set": "Acrylic Premium Paints",
       "hex": "#252E6B",
       "rgb": {
@@ -1198,12 +1473,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a609",
       "name": "Phthalo Green",
       "code": "A609",
+      "ean": [
+        "0857909007452"
+      ],
       "set": "Acrylic Premium Paints",
       "hex": "#214445",
       "rgb": {
@@ -1214,12 +1494,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a400",
       "name": "Pink",
       "code": "A400",
+      "ean": null,
       "set": "Acrylic Premium Paints",
       "hex": "#FEB6DB",
       "rgb": {
@@ -1230,12 +1513,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a505",
       "name": "Prussian Blue",
       "code": "A505",
+      "ean": [
+        "0840098721674"
+      ],
       "set": "Acrylic Premium Paints",
       "hex": "#343A5C",
       "rgb": {
@@ -1246,12 +1534,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a605",
       "name": "Prussian Green",
       "code": "A605",
+      "ean": null,
       "set": "Acrylic Premium Paints",
       "hex": "#0A451F",
       "rgb": {
@@ -1262,12 +1553,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a300",
       "name": "Raw Sienna",
       "code": "A300",
+      "ean": null,
       "set": "Acrylic Premium Paints",
       "hex": "#B88247",
       "rgb": {
@@ -1278,12 +1572,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a307",
       "name": "Raw Umber",
       "code": "A307",
+      "ean": [
+        "0810386034366"
+      ],
       "set": "Acrylic Premium Paints",
       "hex": "#3E2E29",
       "rgb": {
@@ -1294,12 +1593,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a402",
       "name": "Rose",
       "code": "A402",
+      "ean": null,
       "set": "Acrylic Premium Paints",
       "hex": "#D21F60",
       "rgb": {
@@ -1310,12 +1612,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a204-2",
       "name": "Rose Madder",
       "code": "A204",
+      "ean": null,
       "set": "Acrylic Premium Paints",
       "hex": "#930708",
       "rgb": {
@@ -1326,12 +1631,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a304",
       "name": "Sangria Red",
       "code": "A304",
+      "ean": [
+        "0810386034380"
+      ],
       "set": "Acrylic Premium Paints",
       "hex": "#590C0B",
       "rgb": {
@@ -1342,12 +1652,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a202-2",
       "name": "Scarlet Red",
       "code": "A202",
+      "ean": [
+        "0857909007476"
+      ],
       "set": "Acrylic Premium Paints",
       "hex": "#E32421",
       "rgb": {
@@ -1358,12 +1673,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a734",
       "name": "Silver",
       "code": "A734",
+      "ean": null,
       "set": "Acrylic Premium Paints",
       "hex": "#ACABB1",
       "rgb": {
@@ -1374,12 +1692,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a128",
       "name": "Silver",
       "code": "A128",
+      "ean": [
+        "0857909007568"
+      ],
       "set": "Acrylic Pearl Paints",
       "hex": "#E7E9E8",
       "rgb": {
@@ -1390,12 +1713,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a500",
       "name": "Sky Blue",
       "code": "A500",
+      "ean": null,
       "set": "Acrylic Premium Paints",
       "hex": "#56B1E7",
       "rgb": {
@@ -1406,12 +1732,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a001",
       "name": "Titanium White",
       "code": "A001",
+      "ean": [
+        "0857909007438"
+      ],
       "set": "Acrylic Premium Paints",
       "hex": "#F8F8F8",
       "rgb": {
@@ -1422,12 +1753,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a503",
       "name": "Ultramarine Blue",
       "code": "A503",
+      "ean": [
+        "0840098721681"
+      ],
       "set": "Acrylic Premium Paints",
       "hex": "#12309D",
       "rgb": {
@@ -1438,12 +1774,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a308",
       "name": "Vandyke Brown",
       "code": "A308",
+      "ean": null,
       "set": "Acrylic Premium Paints",
       "hex": "#2E201B",
       "rgb": {
@@ -1454,12 +1793,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a200",
       "name": "Vermillion Red",
       "code": "A200",
+      "ean": null,
       "set": "Acrylic Premium Paints",
       "hex": "#F2372B",
       "rgb": {
@@ -1470,12 +1812,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a405",
       "name": "Violet",
       "code": "A405",
+      "ean": [
+        "0840098715925"
+      ],
       "set": "Acrylic Premium Paints",
       "hex": "#5A5075",
       "rgb": {
@@ -1486,12 +1833,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a606",
       "name": "Viridian Green",
       "code": "A606",
+      "ean": [
+        "0810386034274"
+      ],
       "set": "Acrylic Premium Paints",
       "hex": "#056065",
       "rgb": {
@@ -1502,12 +1854,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a600",
       "name": "Yellow Green",
       "code": "A600",
+      "ean": [
+        "0810386034335"
+      ],
       "set": "Acrylic Premium Paints",
       "hex": "#368B30",
       "rgb": {
@@ -1518,12 +1875,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a104",
       "name": "Yellow Ochre",
       "code": "A104",
+      "ean": [
+        "0840098721636"
+      ],
       "set": "Acrylic Premium Paints",
       "hex": "#CE8E2A",
       "rgb": {
@@ -1534,12 +1896,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "arteza-a101",
       "name": "Yellow Pale",
       "code": "A101",
+      "ean": [
+        "0810386033987"
+      ],
       "set": "Acrylic Premium Paints",
       "hex": "#D2A702",
       "rgb": {
@@ -1550,7 +1917,9 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     }
   ]
 }

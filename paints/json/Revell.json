@@ -1,6 +1,6 @@
 {
   "$schema": "../../schema/brand.schema.json",
-  "schema": "miniature-paints/v4",
+  "schema": "miniature-paints/v5",
   "displayName": "Revell",
   "company": "Carrera Revell GmbH",
   "address": {
@@ -20,6 +20,7 @@
       "id": "revell-32101",
       "name": "Clear",
       "code": "32101",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#E5E6EA",
       "rgb": {
@@ -30,12 +31,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32102",
       "name": "Clear",
       "code": "32102",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#E3DEDD",
       "rgb": {
@@ -46,12 +50,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32104",
       "name": "White RAL 9010",
       "code": "32104",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#F4F3F7",
       "rgb": {
@@ -62,12 +69,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32105",
       "name": "White RAL 9001",
       "code": "32105",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#F5F0EC",
       "rgb": {
@@ -78,12 +88,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32106",
       "name": "Tar black RAL 9021",
       "code": "32106",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#282425",
       "rgb": {
@@ -94,12 +107,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32107",
       "name": "Black RAL 9005",
       "code": "32107",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#010504",
       "rgb": {
@@ -110,12 +126,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32108",
       "name": "Black RAL 9011",
       "code": "32108",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#131313",
       "rgb": {
@@ -126,12 +145,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32109",
       "name": "Anthracite RAL 7021",
       "code": "32109",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#1F2829",
       "rgb": {
@@ -142,12 +164,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32112",
       "name": "Yellow RAL 1018",
       "code": "32112",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#ECD001",
       "rgb": {
@@ -158,12 +183,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32115",
       "name": "Yellow RAL 1017",
       "code": "32115",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#F8BB00",
       "rgb": {
@@ -174,12 +202,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32116",
       "name": "Sandy yellow RAL 1024",
       "code": "32116",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#B99740",
       "rgb": {
@@ -190,12 +221,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32117",
       "name": "Africa brown",
       "code": "32117",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#BF9362",
       "rgb": {
@@ -206,12 +240,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32125",
       "name": "Luminous orange",
       "code": "32125",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#E12E06",
       "rgb": {
@@ -222,12 +259,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32130",
       "name": "Orange RAL 2004",
       "code": "32130",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#E95A02",
       "rgb": {
@@ -238,12 +278,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32131",
       "name": "Fiery red RAL 3000",
       "code": "32131",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#BA1D24",
       "rgb": {
@@ -254,12 +297,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32134",
       "name": "Ferrari red",
       "code": "32134",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#AB1D2B",
       "rgb": {
@@ -270,12 +316,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32135",
       "name": "Flesh",
       "code": "32135",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#E0A782",
       "rgb": {
@@ -286,12 +335,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32136",
       "name": "Carmine red RAL 3002",
       "code": "32136",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#B00A23",
       "rgb": {
@@ -302,12 +354,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32137",
       "name": "Reddish brown RAL 3009",
       "code": "32137",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#80322D",
       "rgb": {
@@ -318,12 +373,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32139",
       "name": "Dark green",
       "code": "32139",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#23513C",
       "rgb": {
@@ -334,12 +392,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32140",
       "name": "Black green",
       "code": "32140",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#022E24",
       "rgb": {
@@ -350,12 +411,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32142",
       "name": "Yellowish olive",
       "code": "32142",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#323529",
       "rgb": {
@@ -366,12 +430,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32143",
       "name": "Medium grey",
       "code": "32143",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#7E8386",
       "rgb": {
@@ -382,12 +449,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32145",
       "name": "Light olive RAL 7003",
       "code": "32145",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#707362",
       "rgb": {
@@ -398,12 +468,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32146",
       "name": "Nato olive RAL 7013",
       "code": "32146",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#4E4734",
       "rgb": {
@@ -414,12 +487,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32147",
       "name": "Mouse grey RAL 7005",
       "code": "32147",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#6A6E6D",
       "rgb": {
@@ -430,12 +506,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32148",
       "name": "Sea green RAL 6028",
       "code": "32148",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#03503C",
       "rgb": {
@@ -446,12 +525,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32149",
       "name": "Light blue",
       "code": "32149",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#8FB9B1",
       "rgb": {
@@ -462,12 +544,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32150",
       "name": "Light blue RAL 5012",
       "code": "32150",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#0294C4",
       "rgb": {
@@ -478,12 +563,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32151",
       "name": "Ultramarine RAL 5002",
       "code": "32151",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#244281",
       "rgb": {
@@ -494,12 +582,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32152",
       "name": "Blue RAL 5005",
       "code": "32152",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#015B90",
       "rgb": {
@@ -510,12 +601,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32154",
       "name": "Night blue RAL 5022",
       "code": "32154",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#21274E",
       "rgb": {
@@ -526,12 +620,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32155",
       "name": "Light green RAL 6027",
       "code": "32155",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#A2E1D6",
       "rgb": {
@@ -542,12 +639,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32156",
       "name": "Blue RAL 5000",
       "code": "32156",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#204677",
       "rgb": {
@@ -558,12 +658,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32157",
       "name": "Grey RAL 7000",
       "code": "32157",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#6A8691",
       "rgb": {
@@ -574,12 +677,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32159",
       "name": "Sky RAF",
       "code": "32159",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#C7D2B0",
       "rgb": {
@@ -590,12 +696,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32161",
       "name": "Emerald green RAL 6029",
       "code": "32161",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#018841",
       "rgb": {
@@ -606,12 +715,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32162",
       "name": "Sea green RAL 6005",
       "code": "32162",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#064226",
       "rgb": {
@@ -622,12 +734,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32165",
       "name": "Bronze green RAL 6031",
       "code": "32165",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#3D4633",
       "rgb": {
@@ -638,12 +753,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32166",
       "name": "Olive grey RAL 7010",
       "code": "32166",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#4C534C",
       "rgb": {
@@ -654,12 +772,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32167",
       "name": "Greenish grey RAL 7009",
       "code": "32167",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#4A614F",
       "rgb": {
@@ -670,12 +791,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32168",
       "name": "Dark green RAF",
       "code": "32168",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#223A2D",
       "rgb": {
@@ -686,12 +810,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32169",
       "name": "Granite grey RAL 7026",
       "code": "32169",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#192D34",
       "rgb": {
@@ -702,12 +829,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32174",
       "name": "Gunship grey",
       "code": "32174",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#4E5357",
       "rgb": {
@@ -718,12 +848,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32175",
       "name": "Stone grey RAL 7030",
       "code": "32175",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#929487",
       "rgb": {
@@ -734,12 +867,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32176",
       "name": "Light grey USAF",
       "code": "32176",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#94999C",
       "rgb": {
@@ -750,12 +886,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32177",
       "name": "Dust grey RAL 7012",
       "code": "32177",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#4A5557",
       "rgb": {
@@ -766,12 +905,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32178",
       "name": "Tank grey RAL 7024",
       "code": "32178",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#283138",
       "rgb": {
@@ -782,12 +924,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32179",
       "name": "Greyish blue RAL 7031",
       "code": "32179",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#556972",
       "rgb": {
@@ -798,12 +943,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32180",
       "name": "Mud brown RAL 8003",
       "code": "32180",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#823F1F",
       "rgb": {
@@ -814,12 +962,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32182",
       "name": "Dark earth RAF",
       "code": "32182",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#725833",
       "rgb": {
@@ -830,12 +981,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32183",
       "name": "Rust",
       "code": "32183",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#70433D",
       "rgb": {
@@ -846,12 +1000,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32184",
       "name": "Leather brown RAL 8027",
       "code": "32184",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#41342E",
       "rgb": {
@@ -862,12 +1019,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32185",
       "name": "Brown RAL 8023",
       "code": "32185",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#A44122",
       "rgb": {
@@ -878,12 +1038,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32186",
       "name": "Olive brown RAL 7008",
       "code": "32186",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#80733F",
       "rgb": {
@@ -894,12 +1057,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32187",
       "name": "Earth brown RAL 7006",
       "code": "32187",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#665F4D",
       "rgb": {
@@ -910,12 +1076,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32188",
       "name": "Ochre brown RAL 1011",
       "code": "32188",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#C1924E",
       "rgb": {
@@ -926,12 +1095,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32189",
       "name": "Beige RAL 1019",
       "code": "32189",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#9F8F75",
       "rgb": {
@@ -942,12 +1114,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32190",
       "name": "Silver",
       "code": "32190",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#B3B8BC",
       "rgb": {
@@ -958,12 +1133,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32191",
       "name": "Steel",
       "code": "32191",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#ABB0B4",
       "rgb": {
@@ -974,12 +1152,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32192",
       "name": "Brass",
       "code": "32192",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#C19134",
       "rgb": {
@@ -990,12 +1171,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32193",
       "name": "Copper",
       "code": "32193",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#C1876A",
       "rgb": {
@@ -1006,12 +1190,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32194",
       "name": "Gold",
       "code": "32194",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#D6BA8A",
       "rgb": {
@@ -1022,12 +1209,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32195",
       "name": "Bronze",
       "code": "32195",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#BB6754",
       "rgb": {
@@ -1038,12 +1228,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32199",
       "name": "Aluminium",
       "code": "32199",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#CBD0D4",
       "rgb": {
@@ -1054,12 +1247,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32301",
       "name": "White RAL 9010",
       "code": "32301",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#F4F3F6",
       "rgb": {
@@ -1070,12 +1266,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32302",
       "name": "Black RAL 9005",
       "code": "32302",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#010101",
       "rgb": {
@@ -1086,12 +1285,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32310",
       "name": "Lufthansa yellow RAL 1028",
       "code": "32310",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#F5A802",
       "rgb": {
@@ -1102,12 +1304,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32312",
       "name": "Luminous yellow RAL 1026",
       "code": "32312",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#FBDF12",
       "rgb": {
@@ -1118,12 +1323,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32314",
       "name": "Beige RAL 1001",
       "code": "32314",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#DCC693",
       "rgb": {
@@ -1134,12 +1342,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32330",
       "name": "Fiery red RAL 3000",
       "code": "32330",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#B9181E",
       "rgb": {
@@ -1150,12 +1361,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32331",
       "name": "Purple red RAL 3004",
       "code": "32331",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#801525",
       "rgb": {
@@ -1166,12 +1380,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32332",
       "name": "Luminous red RAL 3026",
       "code": "32332",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#DC2213",
       "rgb": {
@@ -1182,12 +1399,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32350",
       "name": "Lufthansa blue RAL 5013",
       "code": "32350",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#002F61",
       "rgb": {
@@ -1198,12 +1418,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32360",
       "name": "Fern green RAL 6025",
       "code": "32360",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#4E7836",
       "rgb": {
@@ -1214,12 +1437,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32361",
       "name": "Olive green RAL 6003",
       "code": "32361",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#495432",
       "rgb": {
@@ -1230,12 +1456,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32362",
       "name": "Greyish green RAL 6013",
       "code": "32362",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#777254",
       "rgb": {
@@ -1246,12 +1475,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32363",
       "name": "Dark green RAL 6020",
       "code": "32363",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#123717",
       "rgb": {
@@ -1262,12 +1494,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32364",
       "name": "Leaf green RAL 6001",
       "code": "32364",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#027A3C",
       "rgb": {
@@ -1278,12 +1513,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32365",
       "name": "Patina green RAL 6000",
       "code": "32365",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#2C7965",
       "rgb": {
@@ -1294,12 +1532,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32371",
       "name": "Light grey RAL 7035",
       "code": "32371",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#D0D5CF",
       "rgb": {
@@ -1310,12 +1551,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32374",
       "name": "Grey RAL 7001",
       "code": "32374",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#88A0AB",
       "rgb": {
@@ -1326,12 +1570,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32378",
       "name": "Dark grey RAL 7012",
       "code": "32378",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#4C5155",
       "rgb": {
@@ -1342,12 +1589,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32381",
       "name": "Brown RAL 8025",
       "code": "32381",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#65473C",
       "rgb": {
@@ -1358,12 +1608,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32382",
       "name": "Wood brown RAL 8001",
       "code": "32382",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#A05601",
       "rgb": {
@@ -1374,12 +1627,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32730",
       "name": "Orange",
       "code": "32730",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#F89750",
       "rgb": {
@@ -1390,12 +1646,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32731",
       "name": "Red",
       "code": "32731",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#F66A56",
       "rgb": {
@@ -1406,12 +1665,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-32752",
       "name": "Blue",
       "code": "32752",
+      "ean": null,
       "set": "Revell Email Color (Enamel)",
       "hex": "#B1D8E7",
       "rgb": {
@@ -1422,12 +1684,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36101",
       "name": "Clear",
       "code": "36101",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#E5E6EA",
       "rgb": {
@@ -1438,12 +1703,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36102",
       "name": "Clear",
       "code": "36102",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#E3DEDD",
       "rgb": {
@@ -1454,12 +1722,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36104",
       "name": "White RAL 9010",
       "code": "36104",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#F4F3F7",
       "rgb": {
@@ -1470,12 +1741,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36105",
       "name": "White RAL 9001",
       "code": "36105",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#F5F0EC",
       "rgb": {
@@ -1486,12 +1760,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36106",
       "name": "Tar black RAL 9021",
       "code": "36106",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#282425",
       "rgb": {
@@ -1502,12 +1779,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36107",
       "name": "Black RAL 9005",
       "code": "36107",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#010504",
       "rgb": {
@@ -1518,12 +1798,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36108",
       "name": "Black RAL 9011",
       "code": "36108",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#131313",
       "rgb": {
@@ -1534,12 +1817,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36109",
       "name": "Anthracite RAL 7021",
       "code": "36109",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#1E2829",
       "rgb": {
@@ -1550,12 +1836,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36112",
       "name": "Yellow RAL 1018",
       "code": "36112",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#ECD001",
       "rgb": {
@@ -1566,12 +1855,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36115",
       "name": "Yellow RAL 1017",
       "code": "36115",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#F8BB00",
       "rgb": {
@@ -1582,12 +1874,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36116",
       "name": "Sandy yellow RAL 1024",
       "code": "36116",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#B99740",
       "rgb": {
@@ -1598,12 +1893,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36117",
       "name": "Africa brown",
       "code": "36117",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#BE9261",
       "rgb": {
@@ -1614,12 +1912,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36125",
       "name": "Luminous orange",
       "code": "36125",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#E12E06",
       "rgb": {
@@ -1630,12 +1931,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36130",
       "name": "Orange RAL 2004",
       "code": "36130",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#E95A02",
       "rgb": {
@@ -1646,12 +1950,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36131",
       "name": "Fiery red RAL 3000",
       "code": "36131",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#BA1D24",
       "rgb": {
@@ -1662,12 +1969,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36134",
       "name": "Ferrari red",
       "code": "36134",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#AB1D2B",
       "rgb": {
@@ -1678,12 +1988,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36135",
       "name": "Flesh",
       "code": "36135",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#E1A782",
       "rgb": {
@@ -1694,12 +2007,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36136",
       "name": "Carmine red RAL 3002",
       "code": "36136",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#B00A22",
       "rgb": {
@@ -1710,12 +2026,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36137",
       "name": "Reddish brown RAL 3009",
       "code": "36137",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#80332D",
       "rgb": {
@@ -1726,12 +2045,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36139",
       "name": "Dark green",
       "code": "36139",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#23513C",
       "rgb": {
@@ -1742,12 +2064,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36140",
       "name": "Black green",
       "code": "36140",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#012E24",
       "rgb": {
@@ -1758,12 +2083,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36142",
       "name": "Yellowish olive",
       "code": "36142",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#313529",
       "rgb": {
@@ -1774,12 +2102,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36143",
       "name": "Medium grey",
       "code": "36143",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#7E8386",
       "rgb": {
@@ -1790,12 +2121,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36145",
       "name": "Light olive RAL 7003",
       "code": "36145",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#707362",
       "rgb": {
@@ -1806,12 +2140,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36146",
       "name": "Nato olive RAL 7013",
       "code": "36146",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#4E4734",
       "rgb": {
@@ -1822,12 +2159,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36147",
       "name": "Mouse grey RAL 7005",
       "code": "36147",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#6A6E6D",
       "rgb": {
@@ -1838,12 +2178,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36148",
       "name": "Sea green RAL 6028",
       "code": "36148",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#03503C",
       "rgb": {
@@ -1854,12 +2197,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36149",
       "name": "Light blue",
       "code": "36149",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#8FB9B1",
       "rgb": {
@@ -1870,12 +2216,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36150",
       "name": "Light blue RAL 5012",
       "code": "36150",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#0596C7",
       "rgb": {
@@ -1886,12 +2235,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36151",
       "name": "Ultramarine RAL 5002",
       "code": "36151",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#244281",
       "rgb": {
@@ -1902,12 +2254,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36152",
       "name": "Blue RAL 5005",
       "code": "36152",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#015B90",
       "rgb": {
@@ -1918,12 +2273,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36154",
       "name": "Night blue RAL 5022",
       "code": "36154",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#21274E",
       "rgb": {
@@ -1934,12 +2292,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36155",
       "name": "Light green RAL 6027",
       "code": "36155",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#A2E1D6",
       "rgb": {
@@ -1950,12 +2311,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36156",
       "name": "Blue RAL 5000",
       "code": "36156",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#204677",
       "rgb": {
@@ -1966,12 +2330,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36157",
       "name": "Grey RAL 7000",
       "code": "36157",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#6A8692",
       "rgb": {
@@ -1982,12 +2349,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36159",
       "name": "Sky",
       "code": "36159",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#C7D2B0",
       "rgb": {
@@ -1998,12 +2368,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36161",
       "name": "Emerald green RAL 6029",
       "code": "36161",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#038942",
       "rgb": {
@@ -2014,12 +2387,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36162",
       "name": "Sea green RAL 6005",
       "code": "36162",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#0D4529",
       "rgb": {
@@ -2030,12 +2406,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36165",
       "name": "Bronze green RAL 6031",
       "code": "36165",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#3D4633",
       "rgb": {
@@ -2046,12 +2425,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36166",
       "name": "Olive grey RAL 7010",
       "code": "36166",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#4C534C",
       "rgb": {
@@ -2062,12 +2444,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36167",
       "name": "Greenish grey RAL 7009",
       "code": "36167",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#4A614F",
       "rgb": {
@@ -2078,12 +2463,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36168",
       "name": "Dark green RAF",
       "code": "36168",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#223A2D",
       "rgb": {
@@ -2094,12 +2482,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36169",
       "name": "Granite grey RAL 7026",
       "code": "36169",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#192D34",
       "rgb": {
@@ -2110,12 +2501,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36174",
       "name": "Gunship grey",
       "code": "36174",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#4E5357",
       "rgb": {
@@ -2126,12 +2520,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36175",
       "name": "Stone grey RAL 7030",
       "code": "36175",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#929487",
       "rgb": {
@@ -2142,12 +2539,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36176",
       "name": "Light grey USAF",
       "code": "36176",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#94999C",
       "rgb": {
@@ -2158,12 +2558,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36177",
       "name": "Dust grey RAL 7012",
       "code": "36177",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#4A5557",
       "rgb": {
@@ -2174,12 +2577,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36178",
       "name": "Tank grey RAL 7024",
       "code": "36178",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#283138",
       "rgb": {
@@ -2190,12 +2596,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36179",
       "name": "Greyish blue RAL 7031",
       "code": "36179",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#556972",
       "rgb": {
@@ -2206,12 +2615,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36180",
       "name": "Mud brown RAL 8003",
       "code": "36180",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#844223",
       "rgb": {
@@ -2222,12 +2634,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36182",
       "name": "Dark earth RAF",
       "code": "36182",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#725833",
       "rgb": {
@@ -2238,12 +2653,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36183",
       "name": "Rust",
       "code": "36183",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#70433D",
       "rgb": {
@@ -2254,12 +2672,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36184",
       "name": "Leather brown RAL 8027",
       "code": "36184",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#41342E",
       "rgb": {
@@ -2270,12 +2691,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36185",
       "name": "Brown RAL 8023",
       "code": "36185",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#A44022",
       "rgb": {
@@ -2286,12 +2710,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36186",
       "name": "Olive brown RAL 7008",
       "code": "36186",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#80733F",
       "rgb": {
@@ -2302,12 +2729,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36187",
       "name": "Earth brown RAL 7006",
       "code": "36187",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#665F4D",
       "rgb": {
@@ -2318,12 +2748,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36188",
       "name": "Ochre brown RAL 1011",
       "code": "36188",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#C1924E",
       "rgb": {
@@ -2334,12 +2767,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36189",
       "name": "Beige RAL 1019",
       "code": "36189",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#9F8F75",
       "rgb": {
@@ -2350,12 +2786,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36190",
       "name": "Silver",
       "code": "36190",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#B2B7BB",
       "rgb": {
@@ -2366,12 +2805,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36191",
       "name": "Steel",
       "code": "36191",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#ABB0B4",
       "rgb": {
@@ -2382,12 +2824,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36192",
       "name": "Brass",
       "code": "36192",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#C19034",
       "rgb": {
@@ -2398,12 +2843,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36193",
       "name": "Copper",
       "code": "36193",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#C1876A",
       "rgb": {
@@ -2414,12 +2862,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36194",
       "name": "Gold",
       "code": "36194",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#D6B98A",
       "rgb": {
@@ -2430,12 +2881,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36195",
       "name": "Bronze",
       "code": "36195",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#BD6755",
       "rgb": {
@@ -2446,12 +2900,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36199",
       "name": "Aluminium",
       "code": "36199",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#CBD0D4",
       "rgb": {
@@ -2462,12 +2919,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36301",
       "name": "White RAL 9010",
       "code": "36301",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#F4F3F6",
       "rgb": {
@@ -2478,12 +2938,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36302",
       "name": "Black RAL 9005",
       "code": "36302",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#010101",
       "rgb": {
@@ -2494,12 +2957,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36310",
       "name": "Lufthansa yellow RAL 1028",
       "code": "36310",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#F5A802",
       "rgb": {
@@ -2510,12 +2976,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36312",
       "name": "Luminous yellow RAL 1026",
       "code": "36312",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#FBDF15",
       "rgb": {
@@ -2526,12 +2995,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36314",
       "name": "Beige RAL 1001",
       "code": "36314",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#DCC694",
       "rgb": {
@@ -2542,12 +3014,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36330",
       "name": "Fiery red RAL 3000",
       "code": "36330",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#B9181E",
       "rgb": {
@@ -2558,12 +3033,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36331",
       "name": "Purple red RAL 3004",
       "code": "36331",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#821525",
       "rgb": {
@@ -2574,12 +3052,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36332",
       "name": "Luminous red RAL 3026",
       "code": "36332",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#DC2313",
       "rgb": {
@@ -2590,12 +3071,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36350",
       "name": "Lufthansa blue RAL 5013",
       "code": "36350",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#002F60",
       "rgb": {
@@ -2606,12 +3090,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36360",
       "name": "Fern green RAL 6025",
       "code": "36360",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#4E7836",
       "rgb": {
@@ -2622,12 +3109,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36361",
       "name": "Olive green RAL 6003",
       "code": "36361",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#485332",
       "rgb": {
@@ -2638,12 +3128,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36362",
       "name": "Greyish green RAL 6013",
       "code": "36362",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#797455",
       "rgb": {
@@ -2654,12 +3147,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36363",
       "name": "Dark green RAL 6020",
       "code": "36363",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#163919",
       "rgb": {
@@ -2670,12 +3166,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36364",
       "name": "Leaf green RAL 6001",
       "code": "36364",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#027A3C",
       "rgb": {
@@ -2686,12 +3185,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36365",
       "name": "Patina green RAL 6000",
       "code": "36365",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#327A67",
       "rgb": {
@@ -2702,12 +3204,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36371",
       "name": "Light grey RAL 7035",
       "code": "36371",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#D0D5CF",
       "rgb": {
@@ -2718,12 +3223,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36374",
       "name": "Grey RAL 7001",
       "code": "36374",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#87A0AB",
       "rgb": {
@@ -2734,12 +3242,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36378",
       "name": "Dark grey RAL 7012",
       "code": "36378",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#4C5155",
       "rgb": {
@@ -2750,12 +3261,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36381",
       "name": "Brown RAL 8025",
       "code": "36381",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#65473C",
       "rgb": {
@@ -2766,12 +3280,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36382",
       "name": "Wood brown RAL 8001",
       "code": "36382",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#A05601",
       "rgb": {
@@ -2782,12 +3299,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36730",
       "name": "Orange",
       "code": "36730",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#F99851",
       "rgb": {
@@ -2798,12 +3318,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36731",
       "name": "Red",
       "code": "36731",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#F66C58",
       "rgb": {
@@ -2814,12 +3337,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-36752",
       "name": "Blue",
       "code": "36752",
+      "ean": null,
       "set": "Revell Aqua Color (Acrylic)",
       "hex": "#B4DAE8",
       "rgb": {
@@ -2830,12 +3356,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34101",
       "name": "Clear",
       "code": "34101",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#E5E6EA",
       "rgb": {
@@ -2846,12 +3375,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34102",
       "name": "Clear",
       "code": "34102",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#E3DEDD",
       "rgb": {
@@ -2862,12 +3394,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34104",
       "name": "White RAL 9010",
       "code": "34104",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#F4F3F7",
       "rgb": {
@@ -2878,12 +3413,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34105",
       "name": "White RAL 9001",
       "code": "34105",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#F5F0EC",
       "rgb": {
@@ -2894,12 +3432,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34107",
       "name": "Black RAL 9005",
       "code": "34107",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#010504",
       "rgb": {
@@ -2910,12 +3451,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34108",
       "name": "Black RAL 9011",
       "code": "34108",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#131313",
       "rgb": {
@@ -2926,12 +3470,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34109",
       "name": "Anthracite RAL 7021",
       "code": "34109",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#1F2829",
       "rgb": {
@@ -2942,12 +3489,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34112",
       "name": "Yellow RAL 1018",
       "code": "34112",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#ECD001",
       "rgb": {
@@ -2958,12 +3508,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34115",
       "name": "Yellow RAL 1017",
       "code": "34115",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#F8BB00",
       "rgb": {
@@ -2974,12 +3527,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34116",
       "name": "Sandy yellow RAL 1024",
       "code": "34116",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#B99740",
       "rgb": {
@@ -2990,12 +3546,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34125",
       "name": "Luminous orange",
       "code": "34125",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#E12E06",
       "rgb": {
@@ -3006,12 +3565,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34131",
       "name": "Fiery red RAL 3000",
       "code": "34131",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#BA1D24",
       "rgb": {
@@ -3022,12 +3584,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34134",
       "name": "Ferrari red",
       "code": "34134",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#AB1D2B",
       "rgb": {
@@ -3038,12 +3603,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34136",
       "name": "Carmine red RAL 3002",
       "code": "34136",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#B00A23",
       "rgb": {
@@ -3054,12 +3622,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34146",
       "name": "Nato olive RAL 7013",
       "code": "34146",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#4E4734",
       "rgb": {
@@ -3070,12 +3641,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34152",
       "name": "Blue RAL 5005",
       "code": "34152",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#015B90",
       "rgb": {
@@ -3086,12 +3660,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34156",
       "name": "Blue RAL 5000",
       "code": "34156",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#204677",
       "rgb": {
@@ -3102,12 +3679,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34157",
       "name": "Grey RAL 7000",
       "code": "34157",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#6A8691",
       "rgb": {
@@ -3118,12 +3698,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34176",
       "name": "Light grey USAF",
       "code": "34176",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#94999C",
       "rgb": {
@@ -3134,12 +3717,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34178",
       "name": "Tank grey RAL 7024",
       "code": "34178",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#283138",
       "rgb": {
@@ -3150,12 +3736,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34185",
       "name": "Brown RAL 8023",
       "code": "34185",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#A44122",
       "rgb": {
@@ -3166,12 +3755,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34188",
       "name": "Ochre brown RAL 1011",
       "code": "34188",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#C1924E",
       "rgb": {
@@ -3182,12 +3774,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34190",
       "name": "Silver",
       "code": "34190",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#B3B8BC",
       "rgb": {
@@ -3198,12 +3793,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34191",
       "name": "Steel",
       "code": "34191",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#ABB0B4",
       "rgb": {
@@ -3214,12 +3812,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34194",
       "name": "Gold",
       "code": "34194",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#D6BA8A",
       "rgb": {
@@ -3230,12 +3831,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34199",
       "name": "Aluminium",
       "code": "34199",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#CBD0D4",
       "rgb": {
@@ -3246,24 +3850,30 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34200",
       "name": "RBR Blue",
       "code": "34200",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": null,
       "rgb": null,
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34301",
       "name": "White RAL 9010",
       "code": "34301",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#F4F3F6",
       "rgb": {
@@ -3274,12 +3884,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34302",
       "name": "Black RAL 9005",
       "code": "34302",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#010101",
       "rgb": {
@@ -3290,12 +3903,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34330",
       "name": "Fiery red RAL 3000",
       "code": "34330",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#B9181E",
       "rgb": {
@@ -3306,12 +3922,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34371",
       "name": "Light grey RAL 7035",
       "code": "34371",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#D0D5CF",
       "rgb": {
@@ -3322,12 +3941,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "revell-34374",
       "name": "Grey RAL 7001",
       "code": "34374",
+      "ean": null,
       "set": "Revell Spray Color",
       "hex": "#88A0AB",
       "rgb": {
@@ -3338,7 +3960,9 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     }
   ]
 }

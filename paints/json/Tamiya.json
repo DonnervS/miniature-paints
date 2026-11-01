@@ -1,6 +1,6 @@
 {
   "$schema": "../../schema/brand.schema.json",
-  "schema": "miniature-paints/v4",
+  "schema": "miniature-paints/v5",
   "displayName": "Tamiya",
   "company": "Tamiya, Inc.",
   "address": {
@@ -20,6 +20,10 @@
       "id": "tamiya-x-20a",
       "name": "Acrylic thinner",
       "code": "X-20A",
+      "ean": [
+        "45032899",
+        "4950344069361"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#FFFFFF",
       "rgb": {
@@ -30,12 +34,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-12",
       "name": "Bare-metal silver",
       "code": "AS-12",
+      "ean": [
+        "4950344075386"
+      ],
       "set": "Aircraft Spray",
       "hex": "#C2C8CA",
       "rgb": {
@@ -46,12 +55,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-101",
       "name": "Base white",
       "code": "TS-101",
+      "ean": [
+        "4950344074198",
+        "4950344851010"
+      ],
       "set": "Tamiya Spray",
       "hex": "#FFFFFF",
       "rgb": {
@@ -62,12 +77,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-1",
       "name": "Black",
       "code": "LP-1",
+      "ean": [
+        "45194320",
+        "4950344070237"
+      ],
       "set": "Lacquer Paint",
       "hex": "#040000",
       "rgb": {
@@ -78,12 +99,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-1",
       "name": "Black",
       "code": "X-1",
+      "ean": [
+        "45032707",
+        "4950344068913"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#000000",
       "rgb": {
@@ -94,12 +121,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-14",
       "name": "Black",
       "code": "TS-14",
+      "ean": [
+        "4950344072255"
+      ],
       "set": "Tamiya Spray",
       "hex": "#333333",
       "rgb": {
@@ -110,12 +142,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-27",
       "name": "Black green",
       "code": "XF-27",
+      "ean": [
+        "45035746",
+        "4950344069767"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#00260F",
       "rgb": {
@@ -126,12 +164,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-15",
       "name": "Blue",
       "code": "TS-15",
+      "ean": [
+        "4950344072293",
+        "4950344993574"
+      ],
       "set": "Tamiya Spray",
       "hex": "#09347B",
       "rgb": {
@@ -142,12 +186,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-4",
       "name": "Blue",
       "code": "X-4",
+      "ean": [
+        "45032738",
+        "4950344068944"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#09347B",
       "rgb": {
@@ -158,12 +208,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-57",
       "name": "Blue violet",
       "code": "TS-57",
+      "ean": [
+        "4950344073245",
+        "4950344993994"
+      ],
       "set": "Tamiya Spray",
       "hex": "#5172B3",
       "rgb": {
@@ -174,12 +230,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-85",
       "name": "Bright mica red",
       "code": "TS-85",
+      "ean": [
+        "4950344073887"
+      ],
       "set": "Tamiya Spray",
       "hex": "#E50012",
       "rgb": {
@@ -190,12 +251,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-31",
       "name": "Bright orange",
       "code": "TS-31",
+      "ean": [
+        "4950344072675",
+        "4950344988259",
+        "4950344993734"
+      ],
       "set": "Tamiya Spray",
       "hex": "#FE1B0E",
       "rgb": {
@@ -206,12 +274,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-49",
       "name": "Bright red",
       "code": "TS-49",
+      "ean": [
+        "4950344072996",
+        "4950344993918"
+      ],
       "set": "Tamiya Spray",
       "hex": "#FF0000",
       "rgb": {
@@ -222,12 +296,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-50",
       "name": "Bright red",
       "code": "LP-50",
+      "ean": [
+        "45207211",
+        "4950344070725"
+      ],
       "set": "Lacquer Paint",
       "hex": "#E50014",
       "rgb": {
@@ -238,12 +318,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-44",
       "name": "Brilliant blue",
       "code": "TS-44",
+      "ean": [
+        "4950344072880",
+        "4950344993864"
+      ],
       "set": "Tamiya Spray",
       "hex": "#0860A8",
       "rgb": {
@@ -254,12 +340,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-56",
       "name": "Brilliant orange",
       "code": "TS-56",
+      "ean": [
+        "4950344073238",
+        "4950344993987"
+      ],
       "set": "Tamiya Spray",
       "hex": "#FF7F00",
       "rgb": {
@@ -270,12 +362,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-9",
       "name": "British green",
       "code": "TS-9",
+      "ean": [
+        "4950344072149",
+        "4950344993512"
+      ],
       "set": "Tamiya Spray",
       "hex": "#002B11",
       "rgb": {
@@ -286,12 +384,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-33",
       "name": "Bronze",
       "code": "X-33",
+      "ean": [
+        "49376890",
+        "4950344069477"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#672622",
       "rgb": {
@@ -302,12 +406,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-9",
       "name": "Brown",
       "code": "X-9",
+      "ean": [
+        "45032783",
+        "4950344068999"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#4D2207",
       "rgb": {
@@ -318,12 +428,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-25",
       "name": "Brown (JGSDF)",
       "code": "LP-25",
+      "ean": [
+        "45206368",
+        "4950344070473"
+      ],
       "set": "Lacquer Paint",
       "hex": "#715A3D",
       "rgb": {
@@ -334,12 +450,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-72",
       "name": "Brown (JGSDF)",
       "code": "XF-72",
+      "ean": [
+        "45035982",
+        "4950344070015"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#734C0C",
       "rgb": {
@@ -350,12 +472,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-90",
       "name": "Brown (JGSDF)",
       "code": "TS-90",
+      "ean": [
+        "4950344073955"
+      ],
       "set": "Tamiya Spray",
       "hex": "#826636",
       "rgb": {
@@ -366,12 +493,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-75",
       "name": "Buff",
       "code": "LP-75",
+      "ean": [
+        "45211812",
+        "4950344070985"
+      ],
       "set": "Lacquer Paint",
       "hex": "#CCA77B",
       "rgb": {
@@ -382,12 +515,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-57",
       "name": "Buff",
       "code": "XF-57",
+      "ean": [
+        "45035838",
+        "4950344069866"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#B8B36A",
       "rgb": {
@@ -398,12 +537,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-34",
       "name": "Camel yellow",
       "code": "TS-34",
+      "ean": [
+        "4950344072712",
+        "4950344993765"
+      ],
       "set": "Tamiya Spray",
       "hex": "#FFB300",
       "rgb": {
@@ -414,12 +559,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-52",
       "name": "Candy lime green",
       "code": "TS-52",
+      "ean": [
+        "4950344073115",
+        "4950344993949"
+      ],
       "set": "Tamiya Spray",
       "hex": "#4DAC26",
       "rgb": {
@@ -430,12 +581,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-71",
       "name": "Champagne gold",
       "code": "LP-71",
+      "ean": [
+        "45210167",
+        "4950344070947"
+      ],
       "set": "Lacquer Paint",
       "hex": "#D2C79A",
       "rgb": {
@@ -446,12 +603,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-75",
       "name": "Champagne gold",
       "code": "TS-75",
+      "ean": [
+        "4950344073788",
+        "4950344850754",
+        "4950344994175"
+      ],
       "set": "Tamiya Spray",
       "hex": "#C3B87E",
       "rgb": {
@@ -462,12 +626,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-11",
       "name": "Chrome silver",
       "code": "X-11",
+      "ean": [
+        "45032806",
+        "4950344069279"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#C2C8CA",
       "rgb": {
@@ -478,12 +648,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-47",
       "name": "Chrome yellow",
       "code": "TS-47",
+      "ean": [
+        "4950344072972",
+        "4950344993895"
+      ],
       "set": "Tamiya Spray",
       "hex": "#FFCC00",
       "rgb": {
@@ -494,12 +670,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-13",
       "name": "Clear",
       "code": "TS-13",
+      "ean": [
+        "4950344072248",
+        "4950344993550"
+      ],
       "set": "Tamiya Spray",
       "hex": "#FFFFFF",
       "rgb": {
@@ -510,12 +692,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-9",
       "name": "Clear",
       "code": "LP-9",
+      "ean": [
+        "45206207",
+        "4950344070312"
+      ],
       "set": "Lacquer Paint",
       "hex": "#FFFFFF",
       "rgb": {
@@ -526,12 +714,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-22",
       "name": "Clear",
       "code": "X-22",
+      "ean": [
+        "45035418",
+        "4950344069385"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#FFFFFF",
       "rgb": {
@@ -542,12 +736,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-23",
       "name": "Clear blue",
       "code": "X-23",
+      "ean": [
+        "45035425",
+        "4950344069392"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#34B3D1",
       "rgb": {
@@ -558,12 +758,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-68",
       "name": "Clear blue",
       "code": "LP-68",
+      "ean": [
+        "45210136",
+        "4950344070909"
+      ],
       "set": "Lacquer Paint",
       "hex": "#00A6EA",
       "rgb": {
@@ -574,12 +780,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-72",
       "name": "Clear blue",
       "code": "TS-72",
+      "ean": [
+        "4950344073672",
+        "4950344850723"
+      ],
       "set": "Tamiya Spray",
       "hex": "#34B0B9",
       "rgb": {
@@ -590,12 +802,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-25",
       "name": "Clear green",
       "code": "X-25",
+      "ean": [
+        "45035449",
+        "4950344069415"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#1A9641",
       "rgb": {
@@ -606,12 +824,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-26",
       "name": "Clear orange",
       "code": "X-26",
+      "ean": [
+        "45035456",
+        "4950344069422"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#FE8C14",
       "rgb": {
@@ -622,12 +846,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-73",
       "name": "Clear orange",
       "code": "TS-73",
+      "ean": [
+        "4950344073689",
+        "4950344850730",
+        "4950344994151"
+      ],
       "set": "Tamiya Spray",
       "hex": "#FF7300",
       "rgb": {
@@ -638,12 +869,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-53",
       "name": "Clear orange",
       "code": "LP-53",
+      "ean": [
+        "45207242",
+        "4950344070756"
+      ],
       "set": "Lacquer Paint",
       "hex": "#F08900",
       "rgb": {
@@ -654,12 +891,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-52",
       "name": "Clear red",
       "code": "LP-52",
+      "ean": [
+        "45207235",
+        "4950344070749"
+      ],
       "set": "Lacquer Paint",
       "hex": "#E5007F",
       "rgb": {
@@ -670,12 +913,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-27",
       "name": "Clear red",
       "code": "X-27",
+      "ean": [
+        "45035463",
+        "4950344069439"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#FA0026",
       "rgb": {
@@ -686,12 +935,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-74",
       "name": "Clear red",
       "code": "TS-74",
+      "ean": [
+        "4950344073696",
+        "4950344850747",
+        "4950344994168"
+      ],
       "set": "Tamiya Spray",
       "hex": "#F0027F",
       "rgb": {
@@ -702,12 +958,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-69",
       "name": "Clear yellow",
       "code": "LP-69",
+      "ean": [
+        "45210143",
+        "4950344070923"
+      ],
       "set": "Lacquer Paint",
       "hex": "#FFE500",
       "rgb": {
@@ -718,12 +980,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-24",
       "name": "Clear yellow",
       "code": "X-24",
+      "ean": [
+        "45035432",
+        "4950344069408"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#FFE600",
       "rgb": {
@@ -734,12 +1002,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-71",
       "name": "Cockpit green (IJN)",
       "code": "XF-71",
+      "ean": [
+        "45035975",
+        "45136627",
+        "4950344070008"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#74925D",
       "rgb": {
@@ -750,12 +1025,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-6",
       "name": "Copper",
       "code": "XF-6",
+      "ean": [
+        "45035531",
+        "4950344069552"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#CC5C03",
       "rgb": {
@@ -766,12 +1047,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-41",
       "name": "Coral blue",
       "code": "TS-41",
+      "ean": [
+        "4950344072781",
+        "4950344988341",
+        "4950344993833"
+      ],
       "set": "Tamiya Spray",
       "hex": "#4EB8A3",
       "rgb": {
@@ -782,12 +1070,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-55",
       "name": "Dark blue",
       "code": "TS-55",
+      "ean": [
+        "4950344073221",
+        "4950344993970"
+      ],
       "set": "Tamiya Spray",
       "hex": "#02142E",
       "rgb": {
@@ -798,12 +1092,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-28",
       "name": "Dark copper",
       "code": "XF-28",
+      "ean": [
+        "49376944",
+        "4950344069774"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#995F3B",
       "rgb": {
@@ -814,12 +1114,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-22",
       "name": "Dark earth",
       "code": "AS-22",
+      "ean": [
+        "4950344075485",
+        "4950344994946"
+      ],
       "set": "Aircraft Spray",
       "hex": "#674B2B",
       "rgb": {
@@ -830,12 +1136,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-36",
       "name": "Dark ghost gray",
       "code": "LP-36",
+      "ean": [
+        "45206474",
+        "4950344070589"
+      ],
       "set": "Lacquer Paint",
       "hex": "#80A1B0",
       "rgb": {
@@ -846,12 +1158,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-25",
       "name": "Dark ghost grey",
       "code": "AS-25",
+      "ean": [
+        "4950344075515",
+        "4950344865253",
+        "4950344994977"
+      ],
       "set": "Aircraft Spray",
       "hex": "#6C898E",
       "rgb": {
@@ -862,12 +1181,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-2",
       "name": "Dark green",
       "code": "TS-2",
+      "ean": [
+        "4950344071951",
+        "4950344987962",
+        "4950344993444"
+      ],
       "set": "Tamiya Spray",
       "hex": "#1A2D0F",
       "rgb": {
@@ -878,12 +1204,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-61",
       "name": "Dark green",
       "code": "XF-61",
+      "ean": [
+        "45035876",
+        "4950344069903"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#1A2D0F",
       "rgb": {
@@ -894,12 +1226,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-1",
       "name": "Dark green",
       "code": "AS-1",
+      "ean": [
+        "4950344075270",
+        "4950344865017",
+        "4950344994731"
+      ],
       "set": "Aircraft Spray",
       "hex": "#113915",
       "rgb": {
@@ -910,12 +1249,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-9",
       "name": "Dark green",
       "code": "AS-9",
+      "ean": [
+        "4950344075355",
+        "4950344994816"
+      ],
       "set": "Aircraft Spray",
       "hex": "#2E4814",
       "rgb": {
@@ -926,12 +1271,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-17",
       "name": "Dark green (IJA)",
       "code": "AS-17",
+      "ean": [
+        "4950344075430",
+        "4950344865178",
+        "4950344994892"
+      ],
       "set": "Aircraft Spray",
       "hex": "#184316",
       "rgb": {
@@ -942,12 +1294,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-91",
       "name": "Dark green (JGSDF)",
       "code": "TS-91",
+      "ean": [
+        "4950344073962",
+        "4950344850914"
+      ],
       "set": "Tamiya Spray",
       "hex": "#FFFFFF",
       "rgb": {
@@ -958,12 +1316,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-73",
       "name": "Dark green (JGSDF)",
       "code": "XF-73",
+      "ean": [
+        "45035999",
+        "4950344070022"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#1A4316",
       "rgb": {
@@ -974,12 +1338,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-26",
       "name": "Dark green (JGSDF).jpeg",
       "code": "LP-26",
+      "ean": [
+        "45206375",
+        "4950344070480"
+      ],
       "set": "Lacquer Paint",
       "hex": "#3D593F",
       "rgb": {
@@ -990,12 +1360,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-24",
       "name": "Dark green (Luftwaffe)",
       "code": "AS-24",
+      "ean": [
+        "4950344075508",
+        "4950344994960"
+      ],
       "set": "Aircraft Spray",
       "hex": "#18280D",
       "rgb": {
@@ -1006,12 +1382,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-56",
       "name": "Dark green 2",
       "code": "LP-56",
+      "ean": [
+        "45207273",
+        "4950344070787"
+      ],
       "set": "Lacquer Paint",
       "hex": "#5B8361",
       "rgb": {
@@ -1022,12 +1404,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-70",
       "name": "Dark green 2",
       "code": "XF-70",
+      "ean": [
+        "45035968",
+        "45136610",
+        "4950344069996"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#00250F",
       "rgb": {
@@ -1038,12 +1427,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-89",
       "name": "Dark green 2",
       "code": "XF-89",
+      "ean": [
+        "45207341",
+        "4950344070183"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#FFFFFF",
       "rgb": {
@@ -1054,12 +1449,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-30",
       "name": "Dark green 2",
       "code": "AS-30",
+      "ean": [
+        "4950344075560",
+        "4950344865307"
+      ],
       "set": "Aircraft Spray",
       "hex": "#355533",
       "rgb": {
@@ -1070,12 +1471,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-21",
       "name": "Dark green 2 (IJN)",
       "code": "AS-21",
+      "ean": [
+        "4950344075478",
+        "4950344865215",
+        "4950344994939"
+      ],
       "set": "Aircraft Spray",
       "hex": "#002C12",
       "rgb": {
@@ -1086,12 +1494,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-31",
       "name": "Dark green 2 (IJN)",
       "code": "LP-31",
+      "ean": [
+        "45206429",
+        "4950344070534"
+      ],
       "set": "Lacquer Paint",
       "hex": "#004234",
       "rgb": {
@@ -1102,12 +1516,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-81",
       "name": "Dark green 2 (RAF)",
       "code": "XF-81",
+      "ean": [
+        "45073991",
+        "4950344070107"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#FFFFFF",
       "rgb": {
@@ -1118,12 +1538,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-24",
       "name": "Dark grey",
       "code": "XF-24",
+      "ean": [
+        "45035715",
+        "4950344069736"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#3E4448",
       "rgb": {
@@ -1134,12 +1560,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-84",
       "name": "Dark iron",
       "code": "XF-84",
+      "ean": [
+        "45074158",
+        "4950344070138"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#FFFFFF",
       "rgb": {
@@ -1150,12 +1582,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-54",
       "name": "Dark iron",
       "code": "LP-54",
+      "ean": [
+        "45207259",
+        "4950344070763"
+      ],
       "set": "Lacquer Paint",
       "hex": "#534334",
       "rgb": {
@@ -1166,12 +1604,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-64",
       "name": "Dark mica blue",
       "code": "TS-64",
+      "ean": [
+        "4950344073382",
+        "4950344850648",
+        "4950344994069"
+      ],
       "set": "Tamiya Spray",
       "hex": "#0A1423",
       "rgb": {
@@ -1182,12 +1627,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-54",
       "name": "Dark sea grey",
       "code": "XF-54",
+      "ean": [
+        "45035807",
+        "4950344069835"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#5C5D61",
       "rgb": {
@@ -1198,12 +1649,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-60",
       "name": "Dark yellow",
       "code": "XF-60",
+      "ean": [
+        "45035869",
+        "4950344069897"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#C7B140",
       "rgb": {
@@ -1214,12 +1671,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-3",
       "name": "Dark yellow",
       "code": "TS-3",
+      "ean": [
+        "4950344071968",
+        "4950344993451"
+      ],
       "set": "Tamiya Spray",
       "hex": "#CBAF5B",
       "rgb": {
@@ -1230,12 +1693,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-88",
       "name": "Dark yellow 2",
       "code": "XF-88",
+      "ean": [
+        "45207334",
+        "4950344070176"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#FFFFFF",
       "rgb": {
@@ -1246,12 +1715,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-55",
       "name": "Dark yellow 2",
       "code": "LP-55",
+      "ean": [
+        "45207266",
+        "4950344070770"
+      ],
       "set": "Lacquer Paint",
       "hex": "#C9B44B",
       "rgb": {
@@ -1262,12 +1737,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-55",
       "name": "Deck tan",
       "code": "XF-55",
+      "ean": [
+        "45035814",
+        "45136467",
+        "4950344069842"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#B7B187",
       "rgb": {
@@ -1278,12 +1760,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-26",
       "name": "Deep green",
       "code": "XF-26",
+      "ean": [
+        "45035739",
+        "4950344069750"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#2E1F09",
       "rgb": {
@@ -1294,12 +1782,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-53",
       "name": "Deep metallic blue",
       "code": "TS-53",
+      "ean": [
+        "4950344073146",
+        "4950344850532"
+      ],
       "set": "Tamiya Spray",
       "hex": "#112135",
       "rgb": {
@@ -1310,12 +1804,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-59",
       "name": "Desert yellow",
       "code": "XF-59",
+      "ean": [
+        "45035852",
+        "4950344069880"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#D89C42",
       "rgb": {
@@ -1326,12 +1826,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-33",
       "name": "Dull red",
       "code": "TS-33",
+      "ean": [
+        "4950344072705",
+        "4950344993758"
+      ],
       "set": "Tamiya Spray",
       "hex": "#660000",
       "rgb": {
@@ -1342,12 +1848,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-18",
       "name": "Dull red.jpeg",
       "code": "LP-18",
+      "ean": [
+        "45206290",
+        "4950344070404"
+      ],
       "set": "Lacquer Paint",
       "hex": "#7B4538",
       "rgb": {
@@ -1358,12 +1870,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-50",
       "name": "Field blue",
       "code": "XF-50",
+      "ean": [
+        "45035760",
+        "4950344069798"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#364146",
       "rgb": {
@@ -1374,12 +1892,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-65",
       "name": "Field grey",
       "code": "XF-65",
+      "ean": [
+        "45035913",
+        "45136566",
+        "4950344069941"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#67866B",
       "rgb": {
@@ -1390,12 +1915,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-78",
       "name": "Field grey",
       "code": "TS-78",
+      "ean": [
+        "4950344073818",
+        "4950344850785"
+      ],
       "set": "Tamiya Spray",
       "hex": "#4F6C56",
       "rgb": {
@@ -1406,12 +1937,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-38",
       "name": "Flat aluminum",
       "code": "LP-38",
+      "ean": [
+        "45206498",
+        "4950344070602"
+      ],
       "set": "Lacquer Paint",
       "hex": "#DCDEDD",
       "rgb": {
@@ -1422,12 +1959,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-16",
       "name": "Flat aluminum",
       "code": "XF-16",
+      "ean": [
+        "45035630",
+        "4950344069651"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#CCCCCC",
       "rgb": {
@@ -1438,12 +1981,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-22",
       "name": "Flat base",
       "code": "LP-22",
+      "ean": [
+        "45206337",
+        "4950344070442"
+      ],
       "set": "Lacquer Paint",
       "hex": "#FFFFFE",
       "rgb": {
@@ -1454,12 +2003,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-21",
       "name": "Flat base",
       "code": "X-21",
+      "ean": [
+        "45035401",
+        "4950344069378"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#FFFFFF",
       "rgb": {
@@ -1470,12 +2025,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-3",
       "name": "Flat black",
       "code": "LP-3",
+      "ean": [
+        "4950344070251"
+      ],
       "set": "Lacquer Paint",
       "hex": "#040000",
       "rgb": {
@@ -1486,12 +2046,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-1",
       "name": "Flat black",
       "code": "XF-1",
+      "ean": [
+        "45035487",
+        "4950344069507"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#333333",
       "rgb": {
@@ -1502,12 +2068,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-78",
       "name": "Flat blue",
       "code": "LP-78",
+      "ean": [
+        "45211843",
+        "4950344071111"
+      ],
       "set": "Lacquer Paint",
       "hex": "#006A94",
       "rgb": {
@@ -1518,12 +2090,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-8",
       "name": "Flat blue",
       "code": "XF-8",
+      "ean": [
+        "45035555",
+        "4950344069576"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#284C7B",
       "rgb": {
@@ -1534,12 +2112,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-10",
       "name": "Flat brown",
       "code": "XF-10",
+      "ean": [
+        "45035579",
+        "4950344069590"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#3E2A09",
       "rgb": {
@@ -1550,12 +2134,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-23",
       "name": "Flat clear",
       "code": "LP-23",
+      "ean": [
+        "45206344",
+        "4950344070459"
+      ],
       "set": "Lacquer Paint",
       "hex": "#9DB3BF",
       "rgb": {
@@ -1566,12 +2156,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-86",
       "name": "Flat clear",
       "code": "XF-86",
+      "ean": [
+        "45136832",
+        "4950344070152"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#FFFFFF",
       "rgb": {
@@ -1582,12 +2178,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-80",
       "name": "Flat clear",
       "code": "TS-80",
+      "ean": [
+        "4950344073832",
+        "4950344850808"
+      ],
       "set": "Tamiya Spray",
       "hex": "#FFFFFF",
       "rgb": {
@@ -1598,12 +2200,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-74",
       "name": "Flat earth",
       "code": "LP-74",
+      "ean": [
+        "45211805",
+        "4950344070978"
+      ],
       "set": "Lacquer Paint",
       "hex": "#99472F",
       "rgb": {
@@ -1614,12 +2222,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-52",
       "name": "Flat earth",
       "code": "XF-52",
+      "ean": [
+        "45035784",
+        "4950344069811"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#734834",
       "rgb": {
@@ -1630,12 +2244,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-77",
       "name": "Flat flesh",
       "code": "TS-77",
+      "ean": [
+        "4950344073801",
+        "4950344850778",
+        "4950344994199"
+      ],
       "set": "Tamiya Spray",
       "hex": "#FDC086",
       "rgb": {
@@ -1646,12 +2267,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-15",
       "name": "Flat flesh",
       "code": "XF-15",
+      "ean": [
+        "45035623",
+        "4950344069644"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#FDCDA1",
       "rgb": {
@@ -1662,12 +2289,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-66",
       "name": "Flat flesh",
       "code": "LP-66",
+      "ean": [
+        "45210112",
+        "4950344070886"
+      ],
       "set": "Lacquer Paint",
       "hex": "#FACC8E",
       "rgb": {
@@ -1678,12 +2311,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-5",
       "name": "Flat green",
       "code": "XF-5",
+      "ean": [
+        "45035524",
+        "4950344069545"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#244313",
       "rgb": {
@@ -1694,12 +2333,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-79",
       "name": "Flat red",
       "code": "LP-79",
+      "ean": [
+        "45211874",
+        "4950344071210"
+      ],
       "set": "Lacquer Paint",
       "hex": "#E6001C",
       "rgb": {
@@ -1710,12 +2355,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-7",
       "name": "Flat red",
       "code": "XF-7",
+      "ean": [
+        "45035548",
+        "4950344069569"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#FF0000",
       "rgb": {
@@ -1726,12 +2377,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-4",
       "name": "Flat white",
       "code": "LP-4",
+      "ean": [
+        "45194351",
+        "4950344070268"
+      ],
       "set": "Lacquer Paint",
       "hex": "#FFFFFF",
       "rgb": {
@@ -1742,12 +2399,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-2",
       "name": "Flat white",
       "code": "XF-2",
+      "ean": [
+        "45035494",
+        "4950344069514"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#FFFFFF",
       "rgb": {
@@ -1758,12 +2421,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-3",
       "name": "Flat yellow",
       "code": "XF-3",
+      "ean": [
+        "45035500",
+        "4950344069521"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#FFCC00",
       "rgb": {
@@ -1774,12 +2443,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-80",
       "name": "Flat yellow",
       "code": "LP-80",
+      "ean": [
+        "45211881",
+        "4950344071227"
+      ],
       "set": "Lacquer Paint",
       "hex": "#FEE101",
       "rgb": {
@@ -1790,12 +2465,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-96",
       "name": "Fluorescent orange",
       "code": "TS-96",
+      "ean": [
+        "4950344074044",
+        "4950344850969"
+      ],
       "set": "Tamiya Spray",
       "hex": "#FFFFFF",
       "rgb": {
@@ -1806,12 +2487,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-36",
       "name": "Fluorescent red",
       "code": "TS-36",
+      "ean": [
+        "4950344072736",
+        "4950344850365",
+        "4950344993789"
+      ],
       "set": "Tamiya Spray",
       "hex": "#FC0019",
       "rgb": {
@@ -1822,12 +2510,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-10",
       "name": "French blue",
       "code": "TS-10",
+      "ean": [
+        "4950344072217",
+        "4950344993529"
+      ],
       "set": "Tamiya Spray",
       "hex": "#3690C0",
       "rgb": {
@@ -1838,12 +2532,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-27",
       "name": "German gray",
       "code": "LP-27",
+      "ean": [
+        "45206382",
+        "4950344070497"
+      ],
       "set": "Lacquer Paint",
       "hex": "#415862",
       "rgb": {
@@ -1854,12 +2554,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-4",
       "name": "German grey",
       "code": "TS-4",
+      "ean": [
+        "4950344071975",
+        "4950344993468"
+      ],
       "set": "Tamiya Spray",
       "hex": "#3E474A",
       "rgb": {
@@ -1870,12 +2576,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-63",
       "name": "German grey",
       "code": "XF-63",
+      "ean": [
+        "45035890",
+        "4950344069927"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#3E474A",
       "rgb": {
@@ -1886,12 +2598,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-17",
       "name": "Gloss aluminum",
       "code": "TS-17",
+      "ean": [
+        "4950344072361",
+        "4950344993598"
+      ],
       "set": "Tamiya Spray",
       "hex": "#C2C8CA",
       "rgb": {
@@ -1902,12 +2620,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-70",
       "name": "Gloss aluminum",
       "code": "LP-70",
+      "ean": [
+        "45210150",
+        "4950344070930"
+      ],
       "set": "Lacquer Paint",
       "hex": "#DCDEDD",
       "rgb": {
@@ -1918,12 +2642,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-21",
       "name": "Gold",
       "code": "TS-21",
+      "ean": [
+        "4950344072422",
+        "4950344993635"
+      ],
       "set": "Tamiya Spray",
       "hex": "#CCA208",
       "rgb": {
@@ -1934,12 +2664,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-12",
       "name": "Gold leaf",
       "code": "X-12",
+      "ean": [
+        "45032813",
+        "4950344069286"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#CCA208",
       "rgb": {
@@ -1950,12 +2686,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-3",
       "name": "Gray green",
       "code": "AS-3",
+      "ean": [
+        "4950344075294",
+        "4950344865031",
+        "4950344994755"
+      ],
       "set": "Aircraft Spray",
       "hex": "#253A2E",
       "rgb": {
@@ -1966,12 +2709,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-33",
       "name": "Gray green (IJN)",
       "code": "LP-33",
+      "ean": [
+        "45206443",
+        "4950344070558"
+      ],
       "set": "Lacquer Paint",
       "hex": "#B9C4A6",
       "rgb": {
@@ -1982,12 +2731,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-76",
       "name": "Gray green (IJN)",
       "code": "XF-76",
+      "ean": [
+        "45073922",
+        "45136672",
+        "4950344070053"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#B8C3A7",
       "rgb": {
@@ -1998,12 +2754,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-29",
       "name": "Gray green (IJN)",
       "code": "AS-29",
+      "ean": [
+        "4950344075553",
+        "4950344995011"
+      ],
       "set": "Aircraft Spray",
       "hex": "#B8C3A7",
       "rgb": {
@@ -2014,12 +2776,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-4",
       "name": "Gray violet",
       "code": "AS-4",
+      "ean": [
+        "4950344075300",
+        "4950344994762"
+      ],
       "set": "Aircraft Spray",
       "hex": "#405367",
       "rgb": {
@@ -2030,12 +2798,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-5",
       "name": "Green",
       "code": "X-5",
+      "ean": [
+        "45032745",
+        "4950344068951"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#00441B",
       "rgb": {
@@ -2046,12 +2820,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-13",
       "name": "Green",
       "code": "AS-13",
+      "ean": [
+        "4950344075393",
+        "4950344865130",
+        "4950344994854"
+      ],
       "set": "Aircraft Spray",
       "hex": "#163126",
       "rgb": {
@@ -2062,12 +2843,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-19",
       "name": "Gun metal",
       "code": "LP-19",
+      "ean": [
+        "45206306",
+        "4950344070411"
+      ],
       "set": "Lacquer Paint",
       "hex": "#4D4E4D",
       "rgb": {
@@ -2078,12 +2865,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-10",
       "name": "Gun metal",
       "code": "X-10",
+      "ean": [
+        "45032790",
+        "4950344069002"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#505557",
       "rgb": {
@@ -2094,12 +2887,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-38",
       "name": "Gun metal",
       "code": "TS-38",
+      "ean": [
+        "4950344072750",
+        "4950344850389",
+        "4950344993802"
+      ],
       "set": "Tamiya Spray",
       "hex": "#505557",
       "rgb": {
@@ -2110,12 +2910,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-27",
       "name": "Gunship gray 2",
       "code": "AS-27",
+      "ean": [
+        "4950344075539",
+        "4950344865277",
+        "4950344994991"
+      ],
       "set": "Aircraft Spray",
       "hex": "#3D4E59",
       "rgb": {
@@ -2126,12 +2933,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-48",
       "name": "Gunship grey",
       "code": "TS-48",
+      "ean": [
+        "4950344072989"
+      ],
       "set": "Tamiya Spray",
       "hex": "#464A4B",
       "rgb": {
@@ -2142,12 +2954,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-32",
       "name": "Haze grey",
       "code": "TS-32",
+      "ean": [
+        "4950344072682",
+        "4950344993741"
+      ],
       "set": "Tamiya Spray",
       "hex": "#7B8E92",
       "rgb": {
@@ -2158,12 +2976,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-9",
       "name": "Hull red",
       "code": "XF-9",
+      "ean": [
+        "45035562",
+        "4950344069583"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#3E0E02",
       "rgb": {
@@ -2174,12 +2998,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-66",
       "name": "IJN gray (Kure Arsenal)",
       "code": "TS-66",
+      "ean": [
+        "4950344073443",
+        "4950344994083"
+      ],
       "set": "Tamiya Spray",
       "hex": "#828D93",
       "rgb": {
@@ -2190,12 +3020,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-75",
       "name": "IJN gray (Kure Arsenal)",
       "code": "XF-75",
+      "ean": [
+        "45073915",
+        "4950344070046"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#828D93",
       "rgb": {
@@ -2206,12 +3042,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-99",
       "name": "IJN gray (Maizuru Arsenal)",
       "code": "TS-99",
+      "ean": [
+        "4950344074112",
+        "4950344850990"
+      ],
       "set": "Tamiya Spray",
       "hex": "#FFFFFF",
       "rgb": {
@@ -2222,12 +3064,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-87",
       "name": "IJN gray (Maizuru Arsenal)",
       "code": "XF-87",
+      "ean": [
+        "45194313",
+        "4950344070169"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#FFFFFF",
       "rgb": {
@@ -2238,12 +3086,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-77",
       "name": "IJN gray (Sasebo Arsenal)",
       "code": "XF-77",
+      "ean": [
+        "45073939",
+        "4950344070060"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#686D71",
       "rgb": {
@@ -2254,12 +3108,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-91",
       "name": "IJN gray (Yokosuka Arsenal)",
       "code": "XF-91",
+      "ean": [
+        "45210181",
+        "4950344070206"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#FFFFFF",
       "rgb": {
@@ -2270,12 +3130,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-12",
       "name": "IJN gray<br>(Kure Arsenal)",
       "code": "LP-12",
+      "ean": [
+        "45206238",
+        "4950344070343"
+      ],
       "set": "Lacquer Paint",
       "hex": "#717B85",
       "rgb": {
@@ -2286,12 +3152,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-14",
       "name": "IJN gray<br>(Maizuru Arsenal)",
       "code": "LP-14",
+      "ean": [
+        "45206252",
+        "4950344070367"
+      ],
       "set": "Lacquer Paint",
       "hex": "#7D8087",
       "rgb": {
@@ -2302,12 +3174,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-13",
       "name": "IJN gray<br>(Sasebo Arsenal)",
       "code": "LP-13",
+      "ean": [
+        "45206245",
+        "4950344070350"
+      ],
       "set": "Lacquer Paint",
       "hex": "#535760",
       "rgb": {
@@ -2318,12 +3196,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-15",
       "name": "IJN gray<br>(Yokosuka Arsenal)",
       "code": "LP-15",
+      "ean": [
+        "45206269",
+        "4950344070374"
+      ],
       "set": "Lacquer Paint",
       "hex": "#646B75",
       "rgb": {
@@ -2334,12 +3218,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-67",
       "name": "IJN graySasebo Arsenal",
       "code": "TS-67",
+      "ean": [
+        "4950344073498",
+        "4950344994090"
+      ],
       "set": "Tamiya Spray",
       "hex": "#686D71",
       "rgb": {
@@ -2350,12 +3240,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-35",
       "name": "Insignia white",
       "code": "LP-35",
+      "ean": [
+        "45206467",
+        "4950344070572"
+      ],
       "set": "Lacquer Paint",
       "hex": "#DDDCD7",
       "rgb": {
@@ -2366,12 +3262,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-20",
       "name": "Insignia white",
       "code": "AS-20",
+      "ean": [
+        "4950344075461",
+        "4950344865208",
+        "4950344994922"
+      ],
       "set": "Aircraft Spray",
       "hex": "#F2F2E5",
       "rgb": {
@@ -2382,12 +3285,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-19",
       "name": "Intermediate blue",
       "code": "AS-19",
+      "ean": [
+        "4950344075454",
+        "4950344865192",
+        "4950344994915"
+      ],
       "set": "Aircraft Spray",
       "hex": "#5B8E98",
       "rgb": {
@@ -2398,12 +3308,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-21",
       "name": "Italian red",
       "code": "LP-21",
+      "ean": [
+        "45206320",
+        "4950344070435"
+      ],
       "set": "Lacquer Paint",
       "hex": "#C63834",
       "rgb": {
@@ -2414,12 +3330,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-8",
       "name": "Italian red",
       "code": "TS-8",
+      "ean": [
+        "4950344072118",
+        "4950344988020",
+        "4950344993505"
+      ],
       "set": "Tamiya Spray",
       "hex": "#FF0000",
       "rgb": {
@@ -2430,12 +3353,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-13",
       "name": "J.A. green",
       "code": "XF-13",
+      "ean": [
+        "45035609",
+        "4950344069620"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#334A1F",
       "rgb": {
@@ -2446,12 +3375,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-14",
       "name": "J.A. grey",
       "code": "XF-14",
+      "ean": [
+        "45035616",
+        "45136252",
+        "4950344069637"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#B3CA8E",
       "rgb": {
@@ -2462,12 +3398,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-11",
       "name": "J.N. green",
       "code": "XF-11",
+      "ean": [
+        "45035586",
+        "4950344069606"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#26330B",
       "rgb": {
@@ -2478,12 +3420,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-12",
       "name": "J.N. grey",
       "code": "XF-12",
+      "ean": [
+        "45035593",
+        "45136238",
+        "4950344069613"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#B3CBAE",
       "rgb": {
@@ -2494,12 +3443,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-73",
       "name": "Khaki",
       "code": "LP-73",
+      "ean": [
+        "45210198",
+        "4950344070961"
+      ],
       "set": "Lacquer Paint",
       "hex": "#9A8F33",
       "rgb": {
@@ -2510,12 +3465,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-49",
       "name": "Khaki",
       "code": "XF-49",
+      "ean": [
+        "45035753",
+        "4950344069781"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#7E783F",
       "rgb": {
@@ -2526,12 +3487,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-51",
       "name": "Khaki drab",
       "code": "XF-51",
+      "ean": [
+        "45035777",
+        "4950344069804"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#29330E",
       "rgb": {
@@ -2542,12 +3509,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-10",
       "name": "Lacquer thinner",
       "code": "LP-10",
+      "ean": [
+        "45206214",
+        "4950344070329"
+      ],
       "set": "Lacquer Paint",
       "hex": "#FFFFFF",
       "rgb": {
@@ -2558,12 +3531,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-37",
       "name": "Lavender",
       "code": "TS-37",
+      "ean": [
+        "4950344072743",
+        "4950344988303"
+      ],
       "set": "Tamiya Spray",
       "hex": "#6A2990",
       "rgb": {
@@ -2574,12 +3553,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-8",
       "name": "Lemon yellow",
       "code": "X-8",
+      "ean": [
+        "45032776",
+        "4950344068982"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#FFE600",
       "rgb": {
@@ -2590,12 +3575,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-23",
       "name": "Light blue",
       "code": "TS-23",
+      "ean": [
+        "4950344072446",
+        "4950344993659"
+      ],
       "set": "Tamiya Spray",
       "hex": "#28AECF",
       "rgb": {
@@ -2606,12 +3597,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-5",
       "name": "Light blue",
       "code": "AS-5",
+      "ean": [
+        "4950344075317",
+        "4950344994779"
+      ],
       "set": "Aircraft Spray",
       "hex": "#99C2B5",
       "rgb": {
@@ -2622,12 +3619,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-23",
       "name": "Light blue",
       "code": "XF-23",
+      "ean": [
+        "45035708",
+        "45136344",
+        "4950344069729"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#8FB5AD",
       "rgb": {
@@ -2638,12 +3642,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-77",
       "name": "Light brown (DAK 1941)",
       "code": "LP-77",
+      "ean": [
+        "45211836",
+        "4950344071005"
+      ],
       "set": "Lacquer Paint",
       "hex": "#E5B36E",
       "rgb": {
@@ -2654,12 +3664,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-37",
       "name": "Light ghost gray",
       "code": "LP-37",
+      "ean": [
+        "45206481",
+        "4950344070596"
+      ],
       "set": "Lacquer Paint",
       "hex": "#98B4C0",
       "rgb": {
@@ -2670,12 +3686,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-26",
       "name": "Light ghost grey",
       "code": "AS-26",
+      "ean": [
+        "4950344075522",
+        "4950344994984"
+      ],
       "set": "Aircraft Spray",
       "hex": "#85A0A3",
       "rgb": {
@@ -2686,12 +3708,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-2",
       "name": "Light gray",
       "code": "AS-2",
+      "ean": [
+        "4950344075287",
+        "4950344865024",
+        "4950344994748"
+      ],
       "set": "Aircraft Spray",
       "hex": "#A3AA96",
       "rgb": {
@@ -2702,12 +3731,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-34",
       "name": "Light gray",
       "code": "LP-34",
+      "ean": [
+        "45206450",
+        "4950344070565"
+      ],
       "set": "Lacquer Paint",
       "hex": "#D0CCC0",
       "rgb": {
@@ -2718,12 +3753,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-16",
       "name": "Light gray",
       "code": "AS-16",
+      "ean": [
+        "4950344075423",
+        "4950344865161",
+        "4950344994885"
+      ],
       "set": "Aircraft Spray",
       "hex": "#CCD4BC",
       "rgb": {
@@ -2734,12 +3776,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-18",
       "name": "Light gray (IJA)",
       "code": "AS-18",
+      "ean": [
+        "4950344075447",
+        "4950344865185"
+      ],
       "set": "Aircraft Spray",
       "hex": "#A1B7A7",
       "rgb": {
@@ -2750,12 +3798,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-32",
       "name": "Light gray (IJN)",
       "code": "LP-32",
+      "ean": [
+        "45206436",
+        "4950344070541"
+      ],
       "set": "Lacquer Paint",
       "hex": "#C9D1C2",
       "rgb": {
@@ -2766,12 +3820,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-15",
       "name": "Light green",
       "code": "X-15",
+      "ean": [
+        "45032844",
+        "4950344069316"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#66B821",
       "rgb": {
@@ -2782,12 +3842,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-22",
       "name": "Light green",
       "code": "TS-22",
+      "ean": [
+        "4950344072439",
+        "4950344850228",
+        "4950344993642"
+      ],
       "set": "Tamiya Spray",
       "hex": "#7FC31C",
       "rgb": {
@@ -2798,12 +3865,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-23",
       "name": "Light green (Luftwaffe)",
       "code": "AS-23",
+      "ean": [
+        "4950344075492",
+        "4950344994953"
+      ],
       "set": "Aircraft Spray",
       "hex": "#33701F",
       "rgb": {
@@ -2814,12 +3887,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-66",
       "name": "Light grey",
       "code": "XF-66",
+      "ean": [
+        "45035920",
+        "4950344069958"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#667679",
       "rgb": {
@@ -2830,12 +3909,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-20",
       "name": "Light gun metal",
       "code": "LP-20",
+      "ean": [
+        "45206313",
+        "4950344070428"
+      ],
       "set": "Lacquer Paint",
       "hex": "#777776",
       "rgb": {
@@ -2846,12 +3931,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-42",
       "name": "Light gun metal",
       "code": "TS-42",
+      "ean": [
+        "4950344072798",
+        "4950344988358",
+        "4950344993840"
+      ],
       "set": "Tamiya Spray",
       "hex": "#737A7C",
       "rgb": {
@@ -2862,12 +3954,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-54",
       "name": "Light metallic blue",
       "code": "TS-54",
+      "ean": [
+        "4950344073191",
+        "4950344850549",
+        "4950344993963"
+      ],
       "set": "Tamiya Spray",
       "hex": "#10667A",
       "rgb": {
@@ -2878,12 +3977,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-30",
       "name": "Light sand",
       "code": "LP-30",
+      "ean": [
+        "45206412",
+        "4950344070527"
+      ],
       "set": "Lacquer Paint",
       "hex": "#D1AB7C",
       "rgb": {
@@ -2894,12 +3999,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-46",
       "name": "Light sand",
       "code": "TS-46",
+      "ean": [
+        "4950344072965",
+        "4950344988396",
+        "4950344993888"
+      ],
       "set": "Tamiya Spray",
       "hex": "#CBA458",
       "rgb": {
@@ -2910,12 +4022,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-25",
       "name": "Light sea grey",
       "code": "XF-25",
+      "ean": [
+        "45035722",
+        "45136368",
+        "4950344069743"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#7A8BA9",
       "rgb": {
@@ -2926,12 +4045,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-69",
       "name": "Linoleum deck brown",
       "code": "TS-69",
+      "ean": [
+        "4950344073573",
+        "4950344994113"
+      ],
       "set": "Tamiya Spray",
       "hex": "#5C2105",
       "rgb": {
@@ -2942,12 +4067,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-79",
       "name": "Linoleum deck brown",
       "code": "XF-79",
+      "ean": [
+        "45073953",
+        "4950344070084",
+        "4950344817795"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#784629",
       "rgb": {
@@ -2958,12 +4090,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-17",
       "name": "Linoleum deck brown.jpeg",
       "code": "LP-17",
+      "ean": [
+        "45206283",
+        "4950344070398"
+      ],
       "set": "Lacquer Paint",
       "hex": "#564A3A",
       "rgb": {
@@ -2974,12 +4112,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-11",
       "name": "Maroon",
       "code": "TS-11",
+      "ean": [
+        "4950344072224",
+        "4950344988051",
+        "4950344993536"
+      ],
       "set": "Tamiya Spray",
       "hex": "#4D1202",
       "rgb": {
@@ -2990,12 +4135,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-6",
       "name": "Matt black",
       "code": "TS-6",
+      "ean": [
+        "4950344071999",
+        "4950344993482"
+      ],
       "set": "Tamiya Spray",
       "hex": "#333333",
       "rgb": {
@@ -3006,12 +4157,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-27",
       "name": "Matt white",
       "code": "TS-27",
+      "ean": [
+        "4950344072569",
+        "4950344993697"
+      ],
       "set": "Tamiya Spray",
       "hex": "#FFFFFF",
       "rgb": {
@@ -3022,12 +4179,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-18",
       "name": "Medium blue",
       "code": "XF-18",
+      "ean": [
+        "45035654",
+        "4950344069675"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#485B5F",
       "rgb": {
@@ -3038,12 +4201,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-28",
       "name": "Medium gray",
       "code": "AS-28",
+      "ean": [
+        "4950344075546",
+        "4950344865284",
+        "4950344995004"
+      ],
       "set": "Aircraft Spray",
       "hex": "#727D7D",
       "rgb": {
@@ -3054,12 +4224,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-20",
       "name": "Medium grey",
       "code": "XF-20",
+      "ean": [
+        "45035678",
+        "4950344069699"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#A3AA96",
       "rgb": {
@@ -3070,12 +4246,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-11",
       "name": "Medium sea gray",
       "code": "AS-11",
+      "ean": [
+        "4950344075379"
+      ],
       "set": "Aircraft Spray",
       "hex": "#8F9D87",
       "rgb": {
@@ -3086,12 +4267,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-32",
       "name": "Medium sea gray 2",
       "code": "AS-32",
+      "ean": [
+        "4950344075584",
+        "4950344865321"
+      ],
       "set": "Aircraft Spray",
       "hex": "#AABEB9",
       "rgb": {
@@ -3102,12 +4289,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-83",
       "name": "Medium sea gray 2 (RAF)",
       "code": "XF-83",
+      "ean": [
+        "45074011",
+        "4950344070121"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#FFFFFF",
       "rgb": {
@@ -3118,12 +4311,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-40",
       "name": "Metallic black",
       "code": "TS-40",
+      "ean": [
+        "4950344072774",
+        "4950344993826"
+      ],
       "set": "Tamiya Spray",
       "hex": "#393D3E",
       "rgb": {
@@ -3134,12 +4333,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-40",
       "name": "Metallic black",
       "code": "LP-40",
+      "ean": [
+        "45207112",
+        "4950344070626"
+      ],
       "set": "Lacquer Paint",
       "hex": "#3F3B3A",
       "rgb": {
@@ -3150,12 +4355,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-13",
       "name": "Metallic blue",
       "code": "X-13",
+      "ean": [
+        "45032820",
+        "4950344069293",
+        "5701558235252"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#1E7497",
       "rgb": {
@@ -3166,12 +4378,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-19",
       "name": "Metallic blue",
       "code": "TS-19",
+      "ean": [
+        "4950344072385"
+      ],
       "set": "Tamiya Spray",
       "hex": "#0A50A1",
       "rgb": {
@@ -3182,12 +4399,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-34",
       "name": "Metallic brown",
       "code": "X-34",
+      "ean": [
+        "45136115",
+        "49376807",
+        "4950344069484"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#993F06",
       "rgb": {
@@ -3198,12 +4422,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-84",
       "name": "Metallic gold",
       "code": "TS-84",
+      "ean": [
+        "4950344050840",
+        "4950344850846"
+      ],
       "set": "Tamiya Spray",
       "hex": "#DDD29D",
       "rgb": {
@@ -3214,12 +4444,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-94",
       "name": "Metallic gray",
       "code": "TS-94",
+      "ean": [
+        "4950344073993",
+        "4950344850945"
+      ],
       "set": "Tamiya Spray",
       "hex": "#FFFFFF",
       "rgb": {
@@ -3230,12 +4466,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-61",
       "name": "Metallic gray",
       "code": "LP-61",
+      "ean": [
+        "45207365",
+        "4950344070831"
+      ],
       "set": "Lacquer Paint",
       "hex": "#727071",
       "rgb": {
@@ -3246,12 +4488,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-20",
       "name": "Metallic green",
       "code": "TS-20",
+      "ean": [
+        "4950344072392",
+        "4950344993628"
+      ],
       "set": "Tamiya Spray",
       "hex": "#279E4F",
       "rgb": {
@@ -3262,12 +4510,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-56",
       "name": "Metallic grey",
       "code": "XF-56",
+      "ean": [
+        "45035821",
+        "4950344069859"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#5C6264",
       "rgb": {
@@ -3278,12 +4532,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-92",
       "name": "Metallic orange",
       "code": "TS-92",
+      "ean": [
+        "4950344073979",
+        "4950344850921"
+      ],
       "set": "Tamiya Spray",
       "hex": "#FFFFFF",
       "rgb": {
@@ -3294,12 +4554,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-44",
       "name": "Metallic orange",
       "code": "LP-44",
+      "ean": [
+        "45207150",
+        "4950344070664"
+      ],
       "set": "Lacquer Paint",
       "hex": "#EF7800",
       "rgb": {
@@ -3310,12 +4576,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-18",
       "name": "Metallic red",
       "code": "TS-18",
+      "ean": [
+        "4950344072378",
+        "4950344988129"
+      ],
       "set": "Tamiya Spray",
       "hex": "#E30017",
       "rgb": {
@@ -3326,12 +4598,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-83",
       "name": "Metallic silver",
       "code": "TS-83",
+      "ean": [
+        "4950344850839"
+      ],
       "set": "Tamiya Spray",
       "hex": "#D9DADE",
       "rgb": {
@@ -3342,12 +4619,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-41",
       "name": "Mica blue",
       "code": "LP-41",
+      "ean": [
+        "45207129",
+        "4950344070633"
+      ],
       "set": "Lacquer Paint",
       "hex": "#01398E",
       "rgb": {
@@ -3358,12 +4641,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-50",
       "name": "Mica blue",
       "code": "TS-50",
+      "ean": [
+        "4950344073009",
+        "4950344988433",
+        "4950344993925"
+      ],
       "set": "Tamiya Spray",
       "hex": "#0B3A8B",
       "rgb": {
@@ -3374,12 +4664,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-42",
       "name": "Mica red",
       "code": "LP-42",
+      "ean": [
+        "45207136",
+        "4950344070640"
+      ],
       "set": "Lacquer Paint",
       "hex": "#C8171D",
       "rgb": {
@@ -3390,12 +4686,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-39",
       "name": "Mica red",
       "code": "TS-39",
+      "ean": [
+        "4950344072767"
+      ],
       "set": "Tamiya Spray",
       "hex": "#E60000",
       "rgb": {
@@ -3406,12 +4707,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-72",
       "name": "Mica silver",
       "code": "LP-72",
+      "ean": [
+        "45210174",
+        "4950344070954"
+      ],
       "set": "Lacquer Paint",
       "hex": "#D4D9DC",
       "rgb": {
@@ -3422,12 +4729,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-76",
       "name": "Mica silver",
       "code": "TS-76",
+      "ean": [
+        "4950344073795",
+        "4950344850761",
+        "4950344994182"
+      ],
       "set": "Tamiya Spray",
       "hex": "#CCCCCC",
       "rgb": {
@@ -3438,12 +4752,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-81",
       "name": "Mixing blue",
       "code": "LP-81",
+      "ean": [
+        "4950344821815"
+      ],
       "set": "Lacquer Paint",
       "hex": "#202A67",
       "rgb": {
@@ -3454,12 +4773,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-82",
       "name": "Mixing red",
       "code": "LP-82",
+      "ean": [
+        "4950344821822"
+      ],
       "set": "Lacquer Paint",
       "hex": "#C8113D",
       "rgb": {
@@ -3470,12 +4794,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-83",
       "name": "Mixing yellow",
       "code": "LP-83",
+      "ean": [
+        "4950344821839"
+      ],
       "set": "Lacquer Paint",
       "hex": "#FED700",
       "rgb": {
@@ -3486,12 +4815,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-60",
       "name": "NATO black",
       "code": "LP-60",
+      "ean": [
+        "45207310",
+        "4950344070824"
+      ],
       "set": "Lacquer Paint",
       "hex": "#000000",
       "rgb": {
@@ -3502,12 +4837,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-63",
       "name": "NATO black",
       "code": "TS-63",
+      "ean": [
+        "4950344073351",
+        "4950344850631"
+      ],
       "set": "Tamiya Spray",
       "hex": "#222424",
       "rgb": {
@@ -3518,12 +4859,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-69",
       "name": "NATO black",
       "code": "XF-69",
+      "ean": [
+        "45035951",
+        "4950344069989"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#222424",
       "rgb": {
@@ -3534,12 +4881,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-59",
       "name": "NATO brown",
       "code": "LP-59",
+      "ean": [
+        "45207303",
+        "4950344070817"
+      ],
       "set": "Lacquer Paint",
       "hex": "#6A4A31",
       "rgb": {
@@ -3550,12 +4903,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-68",
       "name": "NATO brown",
       "code": "XF-68",
+      "ean": [
+        "45035944",
+        "4950344069972"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#733007",
       "rgb": {
@@ -3566,12 +4925,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-62",
       "name": "NATO brown",
       "code": "TS-62",
+      "ean": [
+        "4950344073337",
+        "4950344850624"
+      ],
       "set": "Tamiya Spray",
       "hex": "#733007",
       "rgb": {
@@ -3582,12 +4947,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-58",
       "name": "NATO green",
       "code": "LP-58",
+      "ean": [
+        "45207297",
+        "4950344070800"
+      ],
       "set": "Lacquer Paint",
       "hex": "#295438",
       "rgb": {
@@ -3598,12 +4969,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-67",
       "name": "NATO green",
       "code": "XF-67",
+      "ean": [
+        "45035937",
+        "4950344069965"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#33601A",
       "rgb": {
@@ -3614,12 +4991,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-61",
       "name": "NATO green",
       "code": "TS-61",
+      "ean": [
+        "4950344073306",
+        "4950344994038"
+      ],
       "set": "Tamiya Spray",
       "hex": "#33601A",
       "rgb": {
@@ -3630,12 +5013,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-8",
       "name": "Navy blue",
       "code": "AS-8",
+      "ean": [
+        "4950344075348"
+      ],
       "set": "Aircraft Spray",
       "hex": "#28425E",
       "rgb": {
@@ -3646,12 +5034,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-7",
       "name": "Neutral gray",
       "code": "AS-7",
+      "ean": [
+        "4950344075331",
+        "4950344994793"
+      ],
       "set": "Aircraft Spray",
       "hex": "#7E8789",
       "rgb": {
@@ -3662,12 +5056,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-53",
       "name": "Neutral grey",
       "code": "XF-53",
+      "ean": [
+        "45035791",
+        "4950344069828"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#6C787B",
       "rgb": {
@@ -3678,12 +5078,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-10",
       "name": "Ocean gray",
       "code": "AS-10",
+      "ean": [
+        "4950344075362",
+        "4950344994823"
+      ],
       "set": "Aircraft Spray",
       "hex": "#525A5F",
       "rgb": {
@@ -3694,12 +5100,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-31",
       "name": "Ocean gray 2",
       "code": "AS-31",
+      "ean": [
+        "4950344075577",
+        "4950344865314"
+      ],
       "set": "Aircraft Spray",
       "hex": "#6C8C99",
       "rgb": {
@@ -3710,12 +5122,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-82",
       "name": "Ocean gray 2 (RAF)",
       "code": "XF-82",
+      "ean": [
+        "45074004",
+        "4950344070114"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#FFFFFF",
       "rgb": {
@@ -3726,12 +5144,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-62",
       "name": "Olive drab",
       "code": "XF-62",
+      "ean": [
+        "45035883",
+        "4950344069910"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#404B13",
       "rgb": {
@@ -3742,12 +5166,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-28",
       "name": "Olive drab",
       "code": "LP-28",
+      "ean": [
+        "45206399",
+        "4950344070503"
+      ],
       "set": "Lacquer Paint",
       "hex": "#4D5641",
       "rgb": {
@@ -3758,12 +5188,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-5",
       "name": "Olive drab",
       "code": "TS-5",
+      "ean": [
+        "4950344071982",
+        "4950344993475"
+      ],
       "set": "Tamiya Spray",
       "hex": "#404B13",
       "rgb": {
@@ -3774,12 +5210,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-6",
       "name": "Olive drab",
       "code": "AS-6",
+      "ean": [
+        "4950344075324",
+        "4950344994786"
+      ],
       "set": "Aircraft Spray",
       "hex": "#404B13",
       "rgb": {
@@ -3790,12 +5232,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-64",
       "name": "Olive drab (JGSDF)",
       "code": "LP-64",
+      "ean": [
+        "45207396",
+        "4950344070862"
+      ],
       "set": "Lacquer Paint",
       "hex": "#295438",
       "rgb": {
@@ -3806,12 +5254,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-74",
       "name": "Olive drab (JGSDF)",
       "code": "XF-74",
+      "ean": [
+        "45073908",
+        "4950344070039"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#334012",
       "rgb": {
@@ -3822,12 +5276,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-70",
       "name": "Olive drab (JGSDF)",
       "code": "TS-70",
+      "ean": [
+        "4950344073658",
+        "4950344850709"
+      ],
       "set": "Tamiya Spray",
       "hex": "#2E4112",
       "rgb": {
@@ -3838,12 +5298,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-28",
       "name": "Olive drab 2",
       "code": "TS-28",
+      "ean": [
+        "4950344072644",
+        "4950344993703"
+      ],
       "set": "Tamiya Spray",
       "hex": "#4D5613",
       "rgb": {
@@ -3854,12 +5320,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-29",
       "name": "Olive drab 2",
       "code": "LP-29",
+      "ean": [
+        "45206405",
+        "4950344070510"
+      ],
       "set": "Lacquer Paint",
       "hex": "#47573E",
       "rgb": {
@@ -3870,12 +5342,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-58",
       "name": "Olive green",
       "code": "XF-58",
+      "ean": [
+        "45035845",
+        "4950344069873"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#1A3B14",
       "rgb": {
@@ -3886,12 +5364,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-14",
       "name": "Olive green",
       "code": "AS-14",
+      "ean": [
+        "4950344075409",
+        "4950344994861"
+      ],
       "set": "Aircraft Spray",
       "hex": "#335016",
       "rgb": {
@@ -3902,12 +5386,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-6",
       "name": "Orange",
       "code": "X-6",
+      "ean": [
+        "45032752",
+        "4950344068968"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#FF7F00",
       "rgb": {
@@ -3918,12 +5408,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-12",
       "name": "Orange",
       "code": "TS-12",
+      "ean": [
+        "4950344072231",
+        "4950344993543"
+      ],
       "set": "Tamiya Spray",
       "hex": "#FF5900",
       "rgb": {
@@ -3934,12 +5430,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-28",
       "name": "Park green",
       "code": "X-28",
+      "ean": [
+        "45035470",
+        "45136078",
+        "4950344069446"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#33A44D",
       "rgb": {
@@ -3950,12 +5453,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-35",
       "name": "Park green",
       "code": "TS-35",
+      "ean": [
+        "4950344072729",
+        "4950344988297",
+        "4950344993772"
+      ],
       "set": "Tamiya Spray",
       "hex": "#33A23D",
       "rgb": {
@@ -3966,12 +5476,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-47",
       "name": "Pearl blue",
       "code": "LP-47",
+      "ean": [
+        "45207181",
+        "4950344070695"
+      ],
       "set": "Lacquer Paint",
       "hex": "#013B8F",
       "rgb": {
@@ -3982,12 +5498,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-89",
       "name": "Pearl blue",
       "code": "TS-89",
+      "ean": [
+        "4950344073948",
+        "4950344850891"
+      ],
       "set": "Tamiya Spray",
       "hex": "#0C3E80",
       "rgb": {
@@ -3998,12 +5520,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-49",
       "name": "Pearl clear",
       "code": "LP-49",
+      "ean": [
+        "45207204",
+        "4950344070718"
+      ],
       "set": "Lacquer Paint",
       "hex": "#F7F9F8",
       "rgb": {
@@ -4014,12 +5542,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-65",
       "name": "Pearl clear",
       "code": "TS-65",
+      "ean": [
+        "4950344073436",
+        "4950344850655",
+        "4950344994076"
+      ],
       "set": "Tamiya Spray",
       "hex": "#E6E6CF",
       "rgb": {
@@ -4030,12 +5565,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-60",
       "name": "Pearl green",
       "code": "TS-60",
+      "ean": [
+        "4950344073290",
+        "4950344850600",
+        "4950344994021"
+      ],
       "set": "Tamiya Spray",
       "hex": "#99CA90",
       "rgb": {
@@ -4046,12 +5588,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-58",
       "name": "Pearl light blue",
       "code": "TS-58",
+      "ean": [
+        "4950344073252",
+        "4950344850587",
+        "4950344994007"
+      ],
       "set": "Tamiya Spray",
       "hex": "#7396BA",
       "rgb": {
@@ -4062,12 +5611,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-59",
       "name": "Pearl light red",
       "code": "TS-59",
+      "ean": [
+        "4950344073283",
+        "4950344850594",
+        "4950344994014"
+      ],
       "set": "Tamiya Spray",
       "hex": "#CC86A3",
       "rgb": {
@@ -4078,12 +5634,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-43",
       "name": "Pearl white",
       "code": "LP-43",
+      "ean": [
+        "45207143",
+        "4950344070657"
+      ],
       "set": "Lacquer Paint",
       "hex": "#FFFFFF",
       "rgb": {
@@ -4094,12 +5656,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-45",
       "name": "Pearl white",
       "code": "TS-45",
+      "ean": [
+        "4950344072897",
+        "4950344988389",
+        "4950344993871"
+      ],
       "set": "Tamiya Spray",
       "hex": "#F2F2E5",
       "rgb": {
@@ -4110,12 +5679,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-97",
       "name": "Pearl yellow",
       "code": "TS-97",
+      "ean": [
+        "4950344074082",
+        "4950344850976"
+      ],
       "set": "Tamiya Spray",
       "hex": "#FFFFFF",
       "rgb": {
@@ -4126,12 +5701,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-25",
       "name": "Pink",
       "code": "TS-25",
+      "ean": [
+        "4950344072484",
+        "4950344988198",
+        "4950344993673"
+      ],
       "set": "Tamiya Spray",
       "hex": "#FA9AB8",
       "rgb": {
@@ -4142,12 +5724,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-17",
       "name": "Pink",
       "code": "X-17",
+      "ean": [
+        "45032868",
+        "4950344069330"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#F881AC",
       "rgb": {
@@ -4158,12 +5746,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-6",
       "name": "Pure blue",
       "code": "LP-6",
+      "ean": [
+        "45194375",
+        "4950344070282"
+      ],
       "set": "Lacquer Paint",
       "hex": "#005BAC",
       "rgb": {
@@ -4174,12 +5768,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-93",
       "name": "Pure blue",
       "code": "TS-93",
+      "ean": [
+        "4950344073986",
+        "4950344850938"
+      ],
       "set": "Tamiya Spray",
       "hex": "#FFFFFF",
       "rgb": {
@@ -4190,12 +5790,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-95",
       "name": "Pure metallic red",
       "code": "TS-95",
+      "ean": [
+        "4950344074006",
+        "4950344850952"
+      ],
       "set": "Tamiya Spray",
       "hex": "#FFFFFF",
       "rgb": {
@@ -4206,12 +5812,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-46",
       "name": "Pure metallic red",
       "code": "LP-46",
+      "ean": [
+        "45207174",
+        "4950344070688"
+      ],
       "set": "Lacquer Paint",
       "hex": "#DF0012",
       "rgb": {
@@ -4222,12 +5834,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-51",
       "name": "Pure orange",
       "code": "LP-51",
+      "ean": [
+        "45207228",
+        "4950344070732"
+      ],
       "set": "Lacquer Paint",
       "hex": "#F18D01",
       "rgb": {
@@ -4238,12 +5856,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-98",
       "name": "Pure orange",
       "code": "TS-98",
+      "ean": [
+        "4950344074099",
+        "4950344850983"
+      ],
       "set": "Tamiya Spray",
       "hex": "#FFFFFF",
       "rgb": {
@@ -4254,12 +5878,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-7",
       "name": "Pure red",
       "code": "LP-7",
+      "ean": [
+        "45194382",
+        "4950344070299"
+      ],
       "set": "Lacquer Paint",
       "hex": "#E70012",
       "rgb": {
@@ -4270,12 +5900,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-86",
       "name": "Pure red",
       "code": "TS-86",
+      "ean": [
+        "4950344073894"
+      ],
       "set": "Tamiya Spray",
       "hex": "#E50012",
       "rgb": {
@@ -4286,12 +5921,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-26",
       "name": "Pure white",
       "code": "TS-26",
+      "ean": [
+        "4950344072521",
+        "4950344988204",
+        "4950344993680"
+      ],
       "set": "Tamiya Spray",
       "hex": "#FFFFFF",
       "rgb": {
@@ -4302,12 +5944,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-8",
       "name": "Pure yellow",
       "code": "LP-8",
+      "ean": [
+        "45194399",
+        "4950344070305"
+      ],
       "set": "Lacquer Paint",
       "hex": "#FFF001",
       "rgb": {
@@ -4318,12 +5966,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-16",
       "name": "Purple",
       "code": "X-16",
+      "ean": [
+        "45032851",
+        "4950344069323"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#474BA0",
       "rgb": {
@@ -4334,12 +5988,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-24",
       "name": "Purple",
       "code": "TS-24",
+      "ean": [
+        "4950344072477",
+        "4950344993666"
+      ],
       "set": "Tamiya Spray",
       "hex": "#474BA0",
       "rgb": {
@@ -4350,12 +6010,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-22",
       "name": "RLM grey",
       "code": "XF-22",
+      "ean": [
+        "45035692",
+        "4950344069712"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#7B8D7D",
       "rgb": {
@@ -4366,12 +6032,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-45",
       "name": "Racing blue",
       "code": "LP-45",
+      "ean": [
+        "45207167",
+        "4950344070671"
+      ],
       "set": "Lacquer Paint",
       "hex": "#013B8F",
       "rgb": {
@@ -4382,12 +6054,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-51",
       "name": "Racing blue",
       "code": "TS-51",
+      "ean": [
+        "4950344073092",
+        "4950344850518"
+      ],
       "set": "Tamiya Spray",
       "hex": "#0E1E7D",
       "rgb": {
@@ -4398,12 +6076,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-43",
       "name": "Racing green",
       "code": "TS-43",
+      "ean": [
+        "4950344072873",
+        "4950344988365",
+        "4950344993857"
+      ],
       "set": "Tamiya Spray",
       "hex": "#184316",
       "rgb": {
@@ -4414,12 +6099,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-7",
       "name": "Racing white",
       "code": "TS-7",
+      "ean": [
+        "4950344072002",
+        "4950344988013"
+      ],
       "set": "Tamiya Spray",
       "hex": "#E6E6E6",
       "rgb": {
@@ -4430,12 +6121,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-39",
       "name": "Racing white",
       "code": "LP-39",
+      "ean": [
+        "45207105",
+        "4950344070619"
+      ],
       "set": "Lacquer Paint",
       "hex": "#FFFFFF",
       "rgb": {
@@ -4446,12 +6143,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-7",
       "name": "Red",
       "code": "X-7",
+      "ean": [
+        "45032769",
+        "4950344068975"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#FF0000",
       "rgb": {
@@ -4462,12 +6165,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-1",
       "name": "Red brown",
       "code": "TS-1",
+      "ean": [
+        "4950344071944",
+        "4950344987955",
+        "4950344993437"
+      ],
       "set": "Tamiya Spray",
       "hex": "#66370A",
       "rgb": {
@@ -4478,12 +6188,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-64",
       "name": "Red brown",
       "code": "XF-64",
+      "ean": [
+        "45035906",
+        "4950344069934"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#66370A",
       "rgb": {
@@ -4494,12 +6210,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-57",
       "name": "Red brown 2",
       "code": "LP-57",
+      "ean": [
+        "45207280",
+        "4950344070794"
+      ],
       "set": "Lacquer Paint",
       "hex": "#4F3733",
       "rgb": {
@@ -4510,12 +6232,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-90",
       "name": "Red brown 2",
       "code": "XF-90",
+      "ean": [
+        "45207358",
+        "4950344070190"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#FFFFFF",
       "rgb": {
@@ -4526,12 +6254,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-3",
       "name": "Royal blue",
       "code": "X-3",
+      "ean": [
+        "45032721",
+        "4950344068937"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#1D2D53",
       "rgb": {
@@ -4542,12 +6276,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-81",
       "name": "Royal light gray",
       "code": "TS-81",
+      "ean": [
+        "4950344073849",
+        "4950344850815",
+        "4950344950812"
+      ],
       "set": "Tamiya Spray",
       "hex": "#C1CAC8",
       "rgb": {
@@ -4558,12 +6299,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-80",
       "name": "Royal light gray",
       "code": "XF-80",
+      "ean": [
+        "45073984",
+        "4950344070091"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#C1CAC8",
       "rgb": {
@@ -4574,12 +6321,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-85",
       "name": "Rubber black",
       "code": "XF-85",
+      "ean": [
+        "45074165",
+        "4950344070145"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#FFFFFF",
       "rgb": {
@@ -4590,12 +6343,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-65",
       "name": "Rubber black",
       "code": "LP-65",
+      "ean": [
+        "45210105",
+        "4950344070879"
+      ],
       "set": "Lacquer Paint",
       "hex": "#000000",
       "rgb": {
@@ -4606,12 +6365,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-82",
       "name": "Rubber black",
       "code": "TS-82",
+      "ean": [
+        "4950344073856",
+        "4950344850822"
+      ],
       "set": "Tamiya Spray",
       "hex": "#444648",
       "rgb": {
@@ -4622,12 +6387,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-17",
       "name": "Sea blue",
       "code": "XF-17",
+      "ean": [
+        "45035647",
+        "45136283",
+        "4950344069668"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#2E3B43",
       "rgb": {
@@ -4638,12 +6410,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-29",
       "name": "Semi gloss black",
       "code": "TS-29",
+      "ean": [
+        "4950344072651",
+        "4950344988235",
+        "4950344993710"
+      ],
       "set": "Tamiya Spray",
       "hex": "#333333",
       "rgb": {
@@ -4654,12 +6433,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-5",
       "name": "Semi gloss black",
       "code": "LP-5",
+      "ean": [
+        "45194368",
+        "4950344070275"
+      ],
       "set": "Lacquer Paint",
       "hex": "#040000",
       "rgb": {
@@ -4670,12 +6455,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-18",
       "name": "Semi gloss black",
       "code": "X-18",
+      "ean": [
+        "45032875",
+        "4950344069347"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#333333",
       "rgb": {
@@ -4686,12 +6477,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-79",
       "name": "Semi gloss clear",
       "code": "TS-79",
+      "ean": [
+        "4950344073825",
+        "4950344850792"
+      ],
       "set": "Tamiya Spray",
       "hex": "#FFFFFF",
       "rgb": {
@@ -4702,12 +6499,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-24",
       "name": "Semi gloss clear",
       "code": "LP-24",
+      "ean": [
+        "45206351",
+        "4950344070466"
+      ],
       "set": "Lacquer Paint",
       "hex": "#FFFFFE",
       "rgb": {
@@ -4718,12 +6521,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-100",
       "name": "Semi-gloss bright gun metal",
       "code": "TS-100",
+      "ean": [
+        "4950344074143",
+        "4950344851003"
+      ],
       "set": "Tamiya Spray",
       "hex": "#FFFFFF",
       "rgb": {
@@ -4734,12 +6543,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-35",
       "name": "Semi-gloss clear",
       "code": "X-35",
+      "ean": [
+        "45136825",
+        "4950344069491"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#FFFFFF",
       "rgb": {
@@ -4750,12 +6565,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-11",
       "name": "Silver",
       "code": "LP-11",
+      "ean": [
+        "45206221",
+        "4950344070336"
+      ],
       "set": "Lacquer Paint",
       "hex": "#DFDFDF",
       "rgb": {
@@ -4766,12 +6587,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-30",
       "name": "Silver leaf",
       "code": "TS-30",
+      "ean": [
+        "4950344072668",
+        "4950344850303",
+        "4950344993727"
+      ],
       "set": "Tamiya Spray",
       "hex": "#CCCCCC",
       "rgb": {
@@ -4782,12 +6610,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-21",
       "name": "Sky",
       "code": "XF-21",
+      "ean": [
+        "45035685",
+        "4950344069705"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#B8BE77",
       "rgb": {
@@ -4798,12 +6632,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-14",
       "name": "Sky blue",
       "code": "X-14",
+      "ean": [
+        "45032837",
+        "4950344069309"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#1D99C4",
       "rgb": {
@@ -4814,12 +6654,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-19",
       "name": "Sky grey",
       "code": "XF-19",
+      "ean": [
+        "45035661",
+        "4950344069682"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#ADB7C0",
       "rgb": {
@@ -4830,12 +6676,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-67",
       "name": "Smoke",
       "code": "LP-67",
+      "ean": [
+        "45210129",
+        "4950344070893"
+      ],
       "set": "Lacquer Paint",
       "hex": "#C7C9C8",
       "rgb": {
@@ -4846,12 +6698,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-19",
       "name": "Smoke",
       "code": "X-19",
+      "ean": [
+        "45032882",
+        "4950344069354"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#8F918C",
       "rgb": {
@@ -4862,12 +6720,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-71",
       "name": "Smoke",
       "code": "TS-71",
+      "ean": [
+        "4950344073665",
+        "4950344850716",
+        "4950344994137"
+      ],
       "set": "Tamiya Spray",
       "hex": "#B3AAAE",
       "rgb": {
@@ -4878,12 +6743,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-48",
       "name": "Sparkling silver",
       "code": "LP-48",
+      "ean": [
+        "45207198",
+        "4950344070701"
+      ],
       "set": "Lacquer Paint",
       "hex": "#DEE0DF",
       "rgb": {
@@ -4894,12 +6765,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-as-15",
       "name": "Tan",
       "code": "AS-15",
+      "ean": [
+        "4950344075416",
+        "4950344994878"
+      ],
       "set": "Aircraft Spray",
       "hex": "#A68354",
       "rgb": {
@@ -4910,12 +6787,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-31",
       "name": "Titanium gold",
       "code": "X-31",
+      "ean": [
+        "49376487",
+        "4950344069453"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#CBBB72",
       "rgb": {
@@ -4926,12 +6809,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-87",
       "name": "Titanium gold",
       "code": "TS-87",
+      "ean": [
+        "4950344073924",
+        "4950344850877"
+      ],
       "set": "Tamiya Spray",
       "hex": "#C7BA82",
       "rgb": {
@@ -4942,12 +6831,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-62",
       "name": "Titanium gold",
       "code": "LP-62",
+      "ean": [
+        "45207372",
+        "4950344070848"
+      ],
       "set": "Lacquer Paint",
       "hex": "#DAC993",
       "rgb": {
@@ -4958,12 +6853,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-88",
       "name": "Titanium silver",
       "code": "TS-88",
+      "ean": [
+        "4950344073931",
+        "4950344850884"
+      ],
       "set": "Tamiya Spray",
       "hex": "#C6CDC2",
       "rgb": {
@@ -4974,12 +6875,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-63",
       "name": "Titanium silver",
       "code": "LP-63",
+      "ean": [
+        "45207389",
+        "4950344070855"
+      ],
       "set": "Lacquer Paint",
       "hex": "#DBDCCE",
       "rgb": {
@@ -4990,12 +6897,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-32",
       "name": "Titanium silver",
       "code": "X-32",
+      "ean": [
+        "49376609",
+        "4950344069460"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#CCCCB8",
       "rgb": {
@@ -5006,12 +6919,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-2",
       "name": "White",
       "code": "LP-2",
+      "ean": [
+        "45194337",
+        "4950344070244"
+      ],
       "set": "Lacquer Paint",
       "hex": "#FFFFFF",
       "rgb": {
@@ -5022,12 +6941,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-x-2",
       "name": "White",
       "code": "X-2",
+      "ean": [
+        "45032714",
+        "4950344068920"
+      ],
       "set": "Acrylics Mini Gloss",
       "hex": "#FFFFFF",
       "rgb": {
@@ -5038,12 +6963,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-16",
       "name": "Wooden deck tan",
       "code": "LP-16",
+      "ean": [
+        "45206276",
+        "4950344070381"
+      ],
       "set": "Lacquer Paint",
       "hex": "#ACA184",
       "rgb": {
@@ -5054,12 +6985,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-78",
       "name": "Wooden deck tan",
       "code": "XF-78",
+      "ean": [
+        "45073946",
+        "4950344070077"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#D3B685",
       "rgb": {
@@ -5070,12 +7007,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-68",
       "name": "Wooden deck tan",
       "code": "TS-68",
+      "ean": [
+        "4950344073528",
+        "4950344850686",
+        "4950344994106"
+      ],
       "set": "Tamiya Spray",
       "hex": "#CBA46C",
       "rgb": {
@@ -5086,12 +7030,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-ts-16",
       "name": "Yellow",
       "code": "TS-16",
+      "ean": [
+        "4950344072309",
+        "4950344993581"
+      ],
       "set": "Tamiya Spray",
       "hex": "#FFE600",
       "rgb": {
@@ -5102,12 +7052,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-xf-4",
       "name": "Yellow green",
       "code": "XF-4",
+      "ean": [
+        "45035517",
+        "4950344069538"
+      ],
       "set": "Acrylics Mini Flat",
       "hex": "#B3C60F",
       "rgb": {
@@ -5118,12 +7074,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tamiya-lp-76",
       "name": "Yellow-brown (DAK 1941)",
       "code": "LP-76",
+      "ean": [
+        "45211829",
+        "4950344070992"
+      ],
       "set": "Lacquer Paint",
       "hex": "#B18150",
       "rgb": {
@@ -5134,7 +7096,9 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     }
   ]
 }

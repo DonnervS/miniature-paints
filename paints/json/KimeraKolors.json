@@ -1,6 +1,6 @@
 {
   "$schema": "../../schema/brand.schema.json",
-  "schema": "miniature-paints/v4",
+  "schema": "miniature-paints/v5",
   "displayName": "Kimera Kolors",
   "company": "Pegaso Models S.r.l.",
   "address": {
@@ -20,6 +20,7 @@
       "id": "kimerakolors-pr-179",
       "name": "Alizarin Crimson",
       "code": "PR 179",
+      "ean": null,
       "set": "Kimera Kolors Expansion Set 1",
       "hex": "#62192F",
       "rgb": {
@@ -30,12 +31,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-pbk7",
       "name": "Carbon Black",
       "code": "PBK7",
+      "ean": null,
       "set": "Kimera Kolors Pure Pigments",
       "hex": "#2D2A2D",
       "rgb": {
@@ -46,12 +50,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-null",
       "name": "Cartacci Red",
       "code": "null",
+      "ean": null,
       "set": "Kimera Kolors Danilo Cartacci Signature Set",
       "hex": "#D02C2A",
       "rgb": {
@@ -62,12 +69,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-null-2",
       "name": "Caucasian Skintone",
       "code": "null",
+      "ean": null,
       "set": "Kimera Kolors Danilo Cartacci Signature Set",
       "hex": "#C2835C",
       "rgb": {
@@ -78,12 +88,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-null-3",
       "name": "Cloudy Sky",
       "code": "null",
+      "ean": null,
       "set": "Kimera Kolors Michal Pisarski Signature Set",
       "hex": "#A99E85",
       "rgb": {
@@ -94,12 +107,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-pb-36",
       "name": "Cobalt Bluegreen",
       "code": "PB 36",
+      "ean": null,
       "set": "Kimera Kolors Expansion Set 1",
       "hex": "#285E68",
       "rgb": {
@@ -110,12 +126,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-py151",
       "name": "Cold Yellow",
       "code": "PY151",
+      "ean": null,
       "set": "Kimera Kolors Pure Pigments",
       "hex": "#E5D828",
       "rgb": {
@@ -126,12 +145,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-pbr-48",
       "name": "Dark Ochre",
       "code": "PBR 48",
+      "ean": null,
       "set": "Kimera Kolors Expansion Set 1",
       "hex": "#956B23",
       "rgb": {
@@ -142,12 +164,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-py-170",
       "name": "Diarylide Yellow",
       "code": "PY 170",
+      "ean": null,
       "set": "Kimera Kolors Expansion Set 1",
       "hex": "#EAA339",
       "rgb": {
@@ -158,12 +183,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-null-4",
       "name": "Fallen Grass",
       "code": "null",
+      "ean": null,
       "set": "Kimera Kolors Michal Pisarski Signature Set",
       "hex": "#6F7C63",
       "rgb": {
@@ -174,12 +202,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-null-5",
       "name": "Golden Brown",
       "code": "null",
+      "ean": null,
       "set": "Kimera Kolors Danilo Cartacci Signature Set",
       "hex": "#885A1E",
       "rgb": {
@@ -190,12 +221,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-null-6",
       "name": "Ground Brown",
       "code": "null",
+      "ean": null,
       "set": "Kimera Kolors Michal Pisarski Signature Set",
       "hex": "#54483C",
       "rgb": {
@@ -206,12 +240,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-pbr-24",
       "name": "Honey Moon Yellow",
       "code": "PBR 24",
+      "ean": null,
       "set": "Kimera Kolors Expansion Set 1",
       "hex": "#C79131",
       "rgb": {
@@ -222,12 +259,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-null-7",
       "name": "Iron Hue",
       "code": "null",
+      "ean": null,
       "set": "Kimera Kolors Michal Pisarski Signature Set",
       "hex": "#757973",
       "rgb": {
@@ -238,12 +278,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-null-8",
       "name": "Kiwi Brown",
       "code": "null",
+      "ean": null,
       "set": "Kimera Kolors Danilo Cartacci Signature Set",
       "hex": "#665B28",
       "rgb": {
@@ -254,12 +297,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-pr122",
       "name": "Magenta",
       "code": "PR122",
+      "ean": null,
       "set": "Kimera Kolors Pure Pigments",
       "hex": "#A1195B",
       "rgb": {
@@ -270,12 +316,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-pr-101",
       "name": "Mars Orange",
       "code": "PR 101",
+      "ean": null,
       "set": "Kimera Kolors Expansion Set 1",
       "hex": "#9A5622",
       "rgb": {
@@ -286,12 +335,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-null-9",
       "name": "Morning Sky",
       "code": "null",
+      "ean": null,
       "set": "Kimera Kolors Michal Pisarski Signature Set",
       "hex": "#5D8499",
       "rgb": {
@@ -302,12 +354,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-po34",
       "name": "Orange",
       "code": "PO34",
+      "ean": null,
       "set": "Kimera Kolors Pure Pigments",
       "hex": "#CB552E",
       "rgb": {
@@ -318,12 +373,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-pbr-11-dark",
       "name": "Oxide Brown Dark",
       "code": "PBR 11 Dark",
+      "ean": null,
       "set": "Kimera Kolors Expansion Set 1",
       "hex": "#4B3229",
       "rgb": {
@@ -334,12 +392,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-pbr-11-light",
       "name": "Oxide Brown Light",
       "code": "PBR 11 Light",
+      "ean": null,
       "set": "Kimera Kolors Expansion Set 1",
       "hex": "#7D5B44",
       "rgb": {
@@ -350,12 +411,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-pbr-11-medium",
       "name": "Oxide Brown Medium",
       "code": "PBR 11 Medium",
+      "ean": null,
       "set": "Kimera Kolors Expansion Set 1",
       "hex": "#6B4842",
       "rgb": {
@@ -366,12 +430,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-pg-17",
       "name": "Oxide Green",
       "code": "PG 17",
+      "ean": null,
       "set": "Kimera Kolors Expansion Set 1",
       "hex": "#506C48",
       "rgb": {
@@ -382,12 +449,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-pg7",
       "name": "Phtalo Green",
       "code": "PG7",
+      "ean": null,
       "set": "Kimera Kolors Pure Pigments",
       "hex": "#344C50",
       "rgb": {
@@ -398,12 +468,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-pb15-4",
       "name": "Phthalo Blu (Green Shade)",
       "code": "PB15.4",
+      "ean": null,
       "set": "Kimera Kolors Pure Pigments",
       "hex": "#203479",
       "rgb": {
@@ -414,12 +487,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-pb15-2",
       "name": "Phthalo Blu (Red Shade)",
       "code": "PB15.2",
+      "ean": null,
       "set": "Kimera Kolors Pure Pigments",
       "hex": "#44307B",
       "rgb": {
@@ -430,12 +506,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-pv-19",
       "name": "Purple",
       "code": "PV 19",
+      "ean": null,
       "set": "Kimera Kolors Expansion Set 1",
       "hex": "#87217A",
       "rgb": {
@@ -446,12 +525,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-pr101",
       "name": "Red Oxide",
       "code": "PR101",
+      "ean": null,
       "set": "Kimera Kolors Pure Pigments",
       "hex": "#6B2F0C",
       "rgb": {
@@ -462,12 +544,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-pbr-25",
       "name": "Royal Brown",
       "code": "PBR 25",
+      "ean": null,
       "set": "Kimera Kolors Expansion Set 1",
       "hex": "#65271D",
       "rgb": {
@@ -478,12 +563,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-null-10",
       "name": "Samurai Green",
       "code": "null",
+      "ean": null,
       "set": "Kimera Kolors Danilo Cartacci Signature Set",
       "hex": "#306E64",
       "rgb": {
@@ -494,12 +582,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-null-11",
       "name": "Silver Grey",
       "code": "null",
+      "ean": null,
       "set": "Kimera Kolors Danilo Cartacci Signature Set",
       "hex": "#788388",
       "rgb": {
@@ -510,12 +601,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-null-12",
       "name": "Sun Ray",
       "code": "null",
+      "ean": null,
       "set": "Kimera Kolors Michal Pisarski Signature Set",
       "hex": "#FDF6AD",
       "rgb": {
@@ -526,12 +620,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-pr170",
       "name": "The Red",
       "code": "PR170",
+      "ean": null,
       "set": "Kimera Kolors Pure Pigments",
       "hex": "#A82135",
       "rgb": {
@@ -542,12 +639,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-pw6",
       "name": "The White",
       "code": "PW6",
+      "ean": null,
       "set": "Kimera Kolors Pure Pigments",
       "hex": "#E4E4E4",
       "rgb": {
@@ -558,12 +658,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-pr-3",
       "name": "Toluidine Red",
       "code": "PR 3",
+      "ean": null,
       "set": "Kimera Kolors Expansion Set 1",
       "hex": "#D5502B",
       "rgb": {
@@ -574,12 +677,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-pb-29",
       "name": "Ultramarine Blue",
       "code": "PB 29",
+      "ean": null,
       "set": "Kimera Kolors Expansion Set 1",
       "hex": "#2E4993",
       "rgb": {
@@ -590,12 +696,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-pv23",
       "name": "Violet",
       "code": "PV23",
+      "ean": null,
       "set": "Kimera Kolors Pure Pigments",
       "hex": "#3E0F7F",
       "rgb": {
@@ -606,12 +715,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-py83",
       "name": "Warm Yellow",
       "code": "PY83",
+      "ean": null,
       "set": "Kimera Kolors Pure Pigments",
       "hex": "#E6A91D",
       "rgb": {
@@ -622,12 +734,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "kimerakolors-py42",
       "name": "Yellow Oxide",
       "code": "PY42",
+      "ean": null,
       "set": "Kimera Kolors Pure Pigments",
       "hex": "#C69825",
       "rgb": {
@@ -638,7 +753,9 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     }
   ]
 }

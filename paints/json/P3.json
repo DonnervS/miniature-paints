@@ -1,6 +1,6 @@
 {
   "$schema": "../../schema/brand.schema.json",
-  "schema": "miniature-paints/v4",
+  "schema": "miniature-paints/v5",
   "displayName": "P3",
   "company": "Privateer Press Inc.",
   "address": {
@@ -20,6 +20,10 @@
       "id": "p3-amethyst-rose",
       "name": "Amethyst Rose",
       "code": null,
+      "ean": [
+        "0875582024788",
+        "5061060701936"
+      ],
       "set": "Acrylics",
       "hex": "#390C09",
       "rgb": {
@@ -36,12 +40,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-arcane-blue",
       "name": "Arcane Blue",
       "code": null,
+      "ean": [
+        "0875582009495",
+        "5061060701561"
+      ],
       "set": "Acrylics",
       "hex": "#68999D",
       "rgb": {
@@ -58,12 +68,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-arcantrik-green",
       "name": "Arcantrik Green",
       "code": null,
+      "ean": [
+        "5061060701578"
+      ],
       "set": "Acrylics",
       "hex": "#0F8636",
       "rgb": {
@@ -80,12 +95,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-asheth-grey",
       "name": "Asheth Grey",
       "code": null,
+      "ean": [
+        "0875582020421",
+        "5061060701585"
+      ],
       "set": "Acrylics",
       "hex": "#1C0E0B",
       "rgb": {
@@ -102,12 +123,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-bad-bruise",
       "name": "Bad Bruise",
       "code": null,
+      "ean": [
+        "0875582020544",
+        "5061060701592"
+      ],
       "set": "Acrylics",
       "hex": "#1E0D17",
       "rgb": {
@@ -124,12 +151,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-bane-grey",
       "name": "Bane Grey",
       "code": null,
+      "ean": [
+        "5061060701608"
+      ],
       "set": "Acrylics",
       "hex": "#373423",
       "rgb": {
@@ -146,12 +178,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-basilisk-brown",
       "name": "Basilisk Brown",
       "code": null,
+      "ean": [
+        "5061060701615"
+      ],
       "set": "Acrylics",
       "hex": "#5C2A13",
       "rgb": {
@@ -168,12 +205,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-bastion-grey",
       "name": "Bastion Grey",
       "code": null,
+      "ean": [
+        "0875582009686",
+        "5061060701622"
+      ],
       "set": "Acrylics",
       "hex": "#42412C",
       "rgb": {
@@ -190,12 +233,15 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-battle-dress-green",
       "name": "Battle Dress Green",
       "code": null,
+      "ean": null,
       "set": "Acrylics",
       "hex": "#4E420E",
       "rgb": {
@@ -212,12 +258,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-battlefield-brown",
       "name": "Battlefield Brown",
       "code": null,
+      "ean": [
+        "0875582009273",
+        "5061060701646"
+      ],
       "set": "Acrylics",
       "hex": "#1E0C0A",
       "rgb": {
@@ -234,12 +286,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-beast-hide",
       "name": "Beast Hide",
       "code": null,
+      "ean": [
+        "0875582009563",
+        "5061060701653"
+      ],
       "set": "Acrylics",
       "hex": "#69431C",
       "rgb": {
@@ -256,12 +314,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-beaten-purple",
       "name": "Beaten Purple",
       "code": null,
+      "ean": [
+        "0875582009518",
+        "5061060701660"
+      ],
       "set": "Acrylics",
       "hex": "#2E1348",
       "rgb": {
@@ -278,12 +342,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-bile-thrall",
       "name": "Bile Thrall",
       "code": null,
+      "ean": [
+        "5061060701677"
+      ],
       "set": "Acrylics",
       "hex": "#563C0B",
       "rgb": {
@@ -300,12 +369,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-blackwater-sand",
       "name": "Blackwater Sand",
       "code": null,
+      "ean": [
+        "5061060701684"
+      ],
       "set": "Acrylics",
       "hex": "#706350",
       "rgb": {
@@ -322,12 +396,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-blighted-gold",
       "name": "Blighted Gold",
       "code": null,
+      "ean": [
+        "0875582009815",
+        "5061060702421"
+      ],
       "set": "Metallics",
       "hex": "#6D612C",
       "rgb": {
@@ -344,12 +424,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-blindwater-green",
       "name": "Blindwater Green",
       "code": null,
+      "ean": [
+        "5061060701691"
+      ],
       "set": "Acrylics",
       "hex": "#15150B",
       "rgb": {
@@ -366,12 +451,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-bloodstone",
       "name": "Bloodstone",
       "code": null,
+      "ean": [
+        "0875582009297",
+        "5061060701707"
+      ],
       "set": "Acrylics",
       "hex": "#73260C",
       "rgb": {
@@ -388,12 +479,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-bloodtracker-brown",
       "name": "Bloodtracker Brown",
       "code": null,
+      "ean": [
+        "0875582009303",
+        "5061060701714"
+      ],
       "set": "Acrylics",
       "hex": "#713B0D",
       "rgb": {
@@ -410,12 +507,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-bog-moss",
       "name": "Bog Moss",
       "code": null,
+      "ean": [
+        "0875582020537",
+        "5061060701721"
+      ],
       "set": "Acrylics",
       "hex": "#8A8E1D",
       "rgb": {
@@ -432,12 +535,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-bogrin-brown",
       "name": "Bogrin Brown",
       "code": null,
+      "ean": [
+        "0875582020513",
+        "5061060701738"
+      ],
       "set": "Acrylics",
       "hex": "#70370C",
       "rgb": {
@@ -454,12 +563,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-boiler-black",
       "name": "Boiler Black",
       "code": null,
+      "ean": [
+        "5061060702438"
+      ],
       "set": "Acrylics",
       "hex": "#50403F",
       "rgb": {
@@ -476,12 +590,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-bootstrap-leather",
       "name": "Bootstrap Leather",
       "code": null,
+      "ean": [
+        "0875582009310",
+        "5061060701745"
+      ],
       "set": "Acrylics",
       "hex": "#69380F",
       "rgb": {
@@ -498,12 +618,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-brass-balls",
       "name": "Brass Balls",
       "code": null,
+      "ean": [
+        "0875582009822",
+        "5061060702445"
+      ],
       "set": "Metallics",
       "hex": "#C5B58A",
       "rgb": {
@@ -520,12 +646,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-broken-brick",
       "name": "Broken Brick",
       "code": null,
+      "ean": [
+        "5061060701752"
+      ],
       "set": "Acrylics",
       "hex": "#901C1F",
       "rgb": {
@@ -542,12 +673,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-bronze-badge",
       "name": "Bronze Badge",
       "code": null,
+      "ean": [
+        "5061060702452"
+      ],
       "set": "Metallics",
       "hex": "#904A21",
       "rgb": {
@@ -564,12 +700,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-carnal-pink",
       "name": "Carnal Pink",
       "code": null,
+      "ean": [
+        "0875582009549",
+        "5061060702582"
+      ],
       "set": "Acrylics",
       "hex": "#AF9FA2",
       "rgb": {
@@ -586,12 +728,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-caspian-blue",
       "name": "Caspian Blue",
       "code": null,
+      "ean": [
+        "5061060702568"
+      ],
       "set": "Acrylics",
       "hex": "#24375F",
       "rgb": {
@@ -608,12 +755,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-coal-black",
       "name": "Coal Black",
       "code": null,
+      "ean": [
+        "0875582009464",
+        "5061060701769"
+      ],
       "set": "Acrylics",
       "hex": "#0C3635",
       "rgb": {
@@ -630,12 +783,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-cold-steel",
       "name": "Cold Steel",
       "code": null,
+      "ean": [
+        "0875582009754",
+        "5061060702469"
+      ],
       "set": "Acrylics",
       "hex": "#677A81",
       "rgb": {
@@ -652,12 +811,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-copper-penny",
       "name": "Copper Penny",
       "code": null,
+      "ean": [
+        "5061060702605"
+      ],
       "set": "Metallics",
       "hex": "#9D5E31",
       "rgb": {
@@ -674,12 +838,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-copper-pipe",
       "name": "Copper Pipe",
       "code": null,
+      "ean": [
+        "5061060702476"
+      ],
       "set": "Metallics",
       "hex": "#684C36",
       "rgb": {
@@ -696,12 +865,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-cryx-green",
       "name": "Cryx Green",
       "code": null,
+      "ean": [
+        "5061060701776"
+      ],
       "set": "Acrylics",
       "hex": "#151509",
       "rgb": {
@@ -718,12 +892,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-cygnar-blue",
       "name": "Cygnar Blue",
       "code": null,
+      "ean": [
+        "5061060701783"
+      ],
       "set": "Acrylics",
       "hex": "#0C3A6C",
       "rgb": {
@@ -740,12 +919,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-cygnus-yellow",
       "name": "Cygnus Yellow",
       "code": null,
+      "ean": [
+        "0875582009259",
+        "5061060701790"
+      ],
       "set": "Acrylics",
       "hex": "#EACE22",
       "rgb": {
@@ -762,12 +947,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-deathless-metal",
       "name": "Deathless Metal",
       "code": null,
+      "ean": [
+        "0875582020810",
+        "5061060702483"
+      ],
       "set": "Metallics",
       "hex": "#492D21",
       "rgb": {
@@ -784,12 +975,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-devout-white",
       "name": "Devout White",
       "code": null,
+      "ean": [
+        "5061060701806"
+      ],
       "set": "Acrylics",
       "hex": "#DED8C0",
       "rgb": {
@@ -806,12 +1002,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-drake-grey",
       "name": "Drake Grey",
       "code": null,
+      "ean": [
+        "5061060701813"
+      ],
       "set": "Acrylics",
       "hex": "#C5BBB1",
       "rgb": {
@@ -828,12 +1029,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-eldritch-green",
       "name": "Eldritch Green",
       "code": null,
+      "ean": [
+        "5061060701820"
+      ],
       "set": "Acrylics",
       "hex": "#0B4930",
       "rgb": {
@@ -850,12 +1056,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-ember-orange",
       "name": "Ember Orange",
       "code": null,
+      "ean": [
+        "0875582009235",
+        "5061060701837"
+      ],
       "set": "Acrylics",
       "hex": "#B65511",
       "rgb": {
@@ -872,12 +1084,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-exile-blue",
       "name": "Exile Blue",
       "code": null,
+      "ean": [
+        "0875582009402",
+        "5061060701844"
+      ],
       "set": "Acrylics",
       "hex": "#0E1937",
       "rgb": {
@@ -894,12 +1112,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-frostbite",
       "name": "Frostbite",
       "code": null,
+      "ean": [
+        "0875582009457",
+        "5061060701851"
+      ],
       "set": "Acrylics",
       "hex": "#798486",
       "rgb": {
@@ -916,12 +1140,15 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-galvanised-steel",
       "name": "Galvanised Steel",
       "code": null,
+      "ean": null,
       "set": "Metallics",
       "hex": "#85877A",
       "rgb": {
@@ -938,12 +1165,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-gnarls-green",
       "name": "Gnarls Green",
       "code": null,
+      "ean": [
+        "0875582009341",
+        "5061060701868"
+      ],
       "set": "Acrylics",
       "hex": "#0E340D",
       "rgb": {
@@ -960,12 +1193,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-gravedigger-denim",
       "name": "Gravedigger Denim",
       "code": null,
+      "ean": [
+        "0875582020414",
+        "5061060701875"
+      ],
       "set": "Acrylics",
       "hex": "#2E4C66",
       "rgb": {
@@ -982,12 +1221,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-greatcoat-grey",
       "name": "Greatcoat Grey",
       "code": null,
+      "ean": [
+        "0875582009433",
+        "5061060701882"
+      ],
       "set": "Acrylics",
       "hex": "#091211",
       "rgb": {
@@ -1004,12 +1249,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-greylord",
       "name": "Greylord",
       "code": null,
+      "ean": [
+        "5061060701899"
+      ],
       "set": "Acrylics",
       "hex": "#252621",
       "rgb": {
@@ -1026,12 +1276,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-gun-corps-brown",
       "name": "Gun Corps Brown",
       "code": null,
+      "ean": [
+        "0875582009617",
+        "5061060701905"
+      ],
       "set": "Acrylics",
       "hex": "#7E7056",
       "rgb": {
@@ -1048,12 +1304,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-hammerfall-khaki",
       "name": "Hammerfall Khaki",
       "code": null,
+      "ean": [
+        "0875582009327",
+        "5061060701912"
+      ],
       "set": "Acrylics",
       "hex": "#87765A",
       "rgb": {
@@ -1070,12 +1332,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-heartfire",
       "name": "Heartfire",
       "code": null,
+      "ean": [
+        "0875582009242",
+        "5061060701929"
+      ],
       "set": "Acrylics",
       "hex": "#BD782B",
       "rgb": {
@@ -1092,12 +1360,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-icy-yellow",
       "name": "Icy Yellow",
       "code": null,
+      "ean": [
+        "5061060701943"
+      ],
       "set": "Acrylics",
       "hex": "#E9CF94",
       "rgb": {
@@ -1114,12 +1387,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-idrian-flesh",
       "name": "Idrian Flesh",
       "code": null,
+      "ean": [
+        "0875582009556",
+        "5061060701950"
+      ],
       "set": "Acrylics",
       "hex": "#6C320C",
       "rgb": {
@@ -1136,12 +1415,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-illuminated-gold",
       "name": "Illuminated Gold",
       "code": null,
+      "ean": [
+        "5061060702636"
+      ],
       "set": "Metallics",
       "hex": "#AA9C77",
       "rgb": {
@@ -1158,12 +1442,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-immortal-black",
       "name": "Immortal Black",
       "code": null,
+      "ean": [
+        "5061060701967"
+      ],
       "set": "Acrylics",
       "hex": "#1B140E",
       "rgb": {
@@ -1180,12 +1469,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-inferno-orange",
       "name": "Inferno Orange",
       "code": null,
+      "ean": [
+        "5061060701974"
+      ],
       "set": "Acrylics",
       "hex": "#C44510",
       "rgb": {
@@ -1202,12 +1496,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-iosan-green",
       "name": "Iosan Green",
       "code": null,
+      "ean": [
+        "0875582009358",
+        "5061060701981"
+      ],
       "set": "Acrylics",
       "hex": "#0A4C31",
       "rgb": {
@@ -1224,12 +1524,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-ironhull-grey",
       "name": "Ironhull Grey",
       "code": null,
+      "ean": [
+        "0875582009440",
+        "5061060701998"
+      ],
       "set": "Acrylics",
       "hex": "#394143",
       "rgb": {
@@ -1246,12 +1552,15 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-jack-bone",
       "name": "Jack Bone",
       "code": null,
+      "ean": null,
       "set": "Acrylics",
       "hex": "#837955",
       "rgb": {
@@ -1268,12 +1577,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-kapitan-red",
       "name": "Kapitan Red",
       "code": null,
+      "ean": [
+        "5061060702018"
+      ],
       "set": "Acrylics",
       "hex": "#BE6425",
       "rgb": {
@@ -1290,12 +1604,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-khador-red",
       "name": "Khador Red",
       "code": null,
+      "ean": [
+        "5061060702025"
+      ],
       "set": "Acrylics",
       "hex": "#B92211",
       "rgb": {
@@ -1312,12 +1631,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-khardic-flesh",
       "name": "Khardic Flesh",
       "code": null,
+      "ean": [
+        "0875582009570",
+        "5061060702032"
+      ],
       "set": "Acrylics",
       "hex": "#99482D",
       "rgb": {
@@ -1334,12 +1659,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-lyossan-flesh",
       "name": "Lyossan Flesh",
       "code": null,
+      "ean": [
+        "5061060702049"
+      ],
       "set": "Acrylics",
       "hex": "#926639",
       "rgb": {
@@ -1356,12 +1686,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-mage-hunter-green",
       "name": "Mage Hunter Green",
       "code": null,
+      "ean": [
+        "0875582020384",
+        "5061060702056"
+      ],
       "set": "Acrylics",
       "hex": "#272A19",
       "rgb": {
@@ -1378,12 +1714,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-meaty-ochre",
       "name": "Meaty Ochre",
       "code": null,
+      "ean": [
+        "0875582020506",
+        "5061060702063"
+      ],
       "set": "Acrylics",
       "hex": "#915010",
       "rgb": {
@@ -1400,12 +1742,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-menoth-white",
       "name": "Menoth White",
       "code": null,
+      "ean": [
+        "5061060702070"
+      ],
       "set": "Acrylics",
       "hex": "#968F63",
       "rgb": {
@@ -1422,12 +1769,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-meredius-blue",
       "name": "Meredius Blue",
       "code": null,
+      "ean": [
+        "0875582009488",
+        "5061060702087"
+      ],
       "set": "Acrylics",
       "hex": "#128389",
       "rgb": {
@@ -1444,12 +1797,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-midlund-flesh",
       "name": "Midlund Flesh",
       "code": null,
+      "ean": [
+        "0875582009587",
+        "5061060702094"
+      ],
       "set": "Acrylics",
       "hex": "#AE6E52",
       "rgb": {
@@ -1466,12 +1825,15 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-mixing-medium",
       "name": "Mixing Medium",
       "code": null,
+      "ean": null,
       "set": "Acrylics",
       "hex": "#A8A9A4",
       "rgb": {
@@ -1488,12 +1850,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-molten-bronze",
       "name": "Molten Bronze",
       "code": null,
+      "ean": [
+        "0875582009785",
+        "5061060702490"
+      ],
       "set": "Metallics",
       "hex": "#A25F37",
       "rgb": {
@@ -1510,12 +1878,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-morrow-white",
       "name": "Morrow White",
       "code": null,
+      "ean": [
+        "0875582009730",
+        "5061060701554"
+      ],
       "set": "Acrylics",
       "hex": "#E0DEDF",
       "rgb": {
@@ -1532,12 +1906,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-mouldy-ochre",
       "name": "Mouldy Ochre",
       "code": null,
+      "ean": [
+        "0875582009631",
+        "5061060702100"
+      ],
       "set": "Acrylics",
       "hex": "#977110",
       "rgb": {
@@ -1554,12 +1934,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-mud-rut",
       "name": "Mud Rut",
       "code": null,
+      "ean": [
+        "5061060702117"
+      ],
       "set": "Acrylics",
       "hex": "#503615",
       "rgb": {
@@ -1576,12 +1961,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-murderous-magenta",
       "name": "Murderous Magenta",
       "code": null,
+      "ean": [
+        "0875582009525",
+        "5061060702124"
+      ],
       "set": "Acrylics",
       "hex": "#6E082F",
       "rgb": {
@@ -1598,12 +1989,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-necrotite-green",
       "name": "Necrotite Green",
       "code": null,
+      "ean": [
+        "0875582009396",
+        "5061060702131"
+      ],
       "set": "Acrylics",
       "hex": "#5C8D20",
       "rgb": {
@@ -1620,12 +2017,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-ordic-olive",
       "name": "Ordic Olive",
       "code": null,
+      "ean": [
+        "0875582009365",
+        "5061060702148"
+      ],
       "set": "Acrylics",
       "hex": "#434810",
       "rgb": {
@@ -1642,12 +2045,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-orgoth-bronze",
       "name": "Orgoth Bronze",
       "code": null,
+      "ean": [
+        "0875582020834",
+        "5061060702506"
+      ],
       "set": "Metallics",
       "hex": "#3C3324",
       "rgb": {
@@ -1664,12 +2073,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-pig-iron",
       "name": "Pig Iron",
       "code": null,
+      "ean": [
+        "0875582009747",
+        "5061060702513"
+      ],
       "set": "Metallics",
       "hex": "#53524C",
       "rgb": {
@@ -1686,12 +2101,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-pyg-grey",
       "name": "Pyg Grey",
       "code": null,
+      "ean": [
+        "5061060702155"
+      ],
       "set": "Acrylics",
       "hex": "#3E4440",
       "rgb": {
@@ -1708,12 +2128,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-quick-silver",
       "name": "Quick Silver",
       "code": null,
+      "ean": [
+        "0875582009761",
+        "5061060702520"
+      ],
       "set": "Metallics",
       "hex": "#A3ACAB",
       "rgb": {
@@ -1730,12 +2156,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-radiant-platinum",
       "name": "Radiant Platinum",
       "code": null,
+      "ean": [
+        "0875582009778",
+        "5061060702612"
+      ],
       "set": "Metallics",
       "hex": "#AC9A86",
       "rgb": {
@@ -1752,12 +2184,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-retribution-white",
       "name": "Retribution White",
       "code": null,
+      "ean": [
+        "5061060702599"
+      ],
       "set": "Acrylics",
       "hex": "#B3B5B0",
       "rgb": {
@@ -1774,12 +2211,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-rhok-hide",
       "name": "Rhok Hide",
       "code": null,
+      "ean": [
+        "5061060702162"
+      ],
       "set": "Acrylics",
       "hex": "#26090B",
       "rgb": {
@@ -1796,12 +2238,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-rhulic-gold",
       "name": "Rhulic Gold",
       "code": null,
+      "ean": [
+        "0875582009792",
+        "5061060702537"
+      ],
       "set": "Metallics",
       "hex": "#BA7A25",
       "rgb": {
@@ -1818,12 +2266,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-riven-green",
       "name": "Riven Green",
       "code": null,
+      "ean": [
+        "5061060702179"
+      ],
       "set": "Acrylics",
       "hex": "#A8D3C9",
       "rgb": {
@@ -1840,12 +2293,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-royal-violet",
       "name": "Royal Violet",
       "code": null,
+      "ean": [
+        "5061060702186"
+      ],
       "set": "Acrylics",
       "hex": "#422B49",
       "rgb": {
@@ -1862,12 +2320,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-rucksack-tan",
       "name": "Rucksack Tan",
       "code": null,
+      "ean": [
+        "0875582009624",
+        "5061060702193"
+      ],
       "set": "Acrylics",
       "hex": "#886313",
       "rgb": {
@@ -1884,12 +2348,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-ruddy-blush",
       "name": "Ruddy Blush",
       "code": null,
+      "ean": [
+        "5061060702209"
+      ],
       "set": "Acrylics",
       "hex": "#93231F",
       "rgb": {
@@ -1906,12 +2375,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-runeshot",
       "name": "Runeshot",
       "code": null,
+      "ean": [
+        "5061060702216"
+      ],
       "set": "Acrylics",
       "hex": "#176883",
       "rgb": {
@@ -1928,12 +2402,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-ryn-flesh",
       "name": "Ryn Flesh",
       "code": null,
+      "ean": [
+        "0875582009594",
+        "5061060702223"
+      ],
       "set": "Acrylics",
       "hex": "#D5AD93",
       "rgb": {
@@ -1950,12 +2430,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-sanguine-shadow",
       "name": "Sanguine Shadow",
       "code": null,
+      "ean": [
+        "5061060702230"
+      ],
       "set": "Acrylics",
       "hex": "#440A09",
       "rgb": {
@@ -1972,12 +2457,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-sickly-skin",
       "name": "Sickly Skin",
       "code": null,
+      "ean": [
+        "0875582020445",
+        "5061060702247"
+      ],
       "set": "Acrylics",
       "hex": "#9F9A7D",
       "rgb": {
@@ -1994,12 +2485,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-sinari-skin",
       "name": "Sinari Skin",
       "code": null,
+      "ean": [
+        "5061060702254"
+      ],
       "set": "Acrylics",
       "hex": "#3A180C",
       "rgb": {
@@ -2016,12 +2512,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-skorne-flesh",
       "name": "Skorne Flesh",
       "code": null,
+      "ean": [
+        "5061060702261"
+      ],
       "set": "Acrylics",
       "hex": "#8A5217",
       "rgb": {
@@ -2038,12 +2539,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-skorne-red",
       "name": "Skorne Red",
       "code": null,
+      "ean": [
+        "0875582009204",
+        "5061060702278"
+      ],
       "set": "Acrylics",
       "hex": "#8A0C10",
       "rgb": {
@@ -2060,12 +2567,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-solid-gold",
       "name": "Solid Gold",
       "code": null,
+      "ean": [
+        "0875582009808",
+        "5061060702544"
+      ],
       "set": "Metallics",
       "hex": "#BFA051",
       "rgb": {
@@ -2082,12 +2595,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-spectral-steel",
       "name": "Spectral Steel",
       "code": null,
+      "ean": [
+        "5061060702643"
+      ],
       "set": "Metallics",
       "hex": "#ABA18F",
       "rgb": {
@@ -2104,12 +2622,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-stormguard-blue",
       "name": "Stormguard Blue",
       "code": null,
+      "ean": [
+        "5061060702285"
+      ],
       "set": "Acrylics",
       "hex": "#10588A",
       "rgb": {
@@ -2126,12 +2649,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-sul-red",
       "name": "Sul Red",
       "code": null,
+      "ean": [
+        "5061060702292"
+      ],
       "set": "Acrylics",
       "hex": "#3A110B",
       "rgb": {
@@ -2148,12 +2676,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-sulfuric-yellow",
       "name": "Sulfuric Yellow",
       "code": null,
+      "ean": [
+        "0875582009266",
+        "5061060702308"
+      ],
       "set": "Acrylics",
       "hex": "#B48E29",
       "rgb": {
@@ -2170,12 +2704,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-tenderfoot-flesh",
       "name": "Tenderfoot Flesh",
       "code": null,
+      "ean": [
+        "5061060702575"
+      ],
       "set": "Acrylics",
       "hex": "#B89C87",
       "rgb": {
@@ -2192,12 +2731,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-thamar-black",
       "name": "Thamar Black",
       "code": null,
+      "ean": [
+        "0875582009723",
+        "5061060702315"
+      ],
       "set": "Acrylics",
       "hex": "#14080A",
       "rgb": {
@@ -2214,12 +2759,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-tharn-flesh",
       "name": "Tharn Flesh",
       "code": null,
+      "ean": [
+        "5061060702322"
+      ],
       "set": "Acrylics",
       "hex": "#643916",
       "rgb": {
@@ -2236,12 +2786,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-thornwood-green",
       "name": "Thornwood Green",
       "code": null,
+      "ean": [
+        "0875582009334",
+        "5061060702339"
+      ],
       "set": "Acrylics",
       "hex": "#3A3015",
       "rgb": {
@@ -2258,12 +2814,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-thrall-flesh",
       "name": "Thrall Flesh",
       "code": null,
+      "ean": [
+        "0875582009716",
+        "5061060702346"
+      ],
       "set": "Acrylics",
       "hex": "#8C8968",
       "rgb": {
@@ -2280,12 +2842,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-traitor-green",
       "name": "Traitor Green",
       "code": null,
+      "ean": [
+        "0875582009372",
+        "5061060702353"
+      ],
       "set": "Acrylics",
       "hex": "#51532B",
       "rgb": {
@@ -2302,12 +2870,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-troll-tongue",
       "name": "Troll Tongue",
       "code": null,
+      "ean": [
+        "5061060702360"
+      ],
       "set": "Acrylics",
       "hex": "#A44A66",
       "rgb": {
@@ -2324,12 +2897,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-trollblood-blue",
       "name": "Trollblood Blue",
       "code": null,
+      "ean": [
+        "5061060702377"
+      ],
       "set": "Acrylics",
       "hex": "#096069",
       "rgb": {
@@ -2346,12 +2924,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-umbral-umber",
       "name": "Umbral Umber",
       "code": null,
+      "ean": [
+        "0875582009280",
+        "5061060702384"
+      ],
       "set": "Acrylics",
       "hex": "#1E0A0B",
       "rgb": {
@@ -2368,12 +2952,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-underbelly-blue",
       "name": "Underbelly Blue",
       "code": null,
+      "ean": [
+        "0875582009501",
+        "5061060702391"
+      ],
       "set": "Acrylics",
       "hex": "#889494",
       "rgb": {
@@ -2390,12 +2980,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-voltaic-blue",
       "name": "Voltaic Blue",
       "code": null,
+      "ean": [
+        "5061060702407"
+      ],
       "set": "Acrylics",
       "hex": "#62909F",
       "rgb": {
@@ -2412,12 +3007,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "p3-wurm-green",
       "name": "Wurm Green",
       "code": null,
+      "ean": [
+        "0875582009389",
+        "5061060702414"
+      ],
       "set": "Acrylics",
       "hex": "#668B21",
       "rgb": {
@@ -2434,7 +3035,9 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     }
   ]
 }

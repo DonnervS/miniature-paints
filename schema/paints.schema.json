@@ -10,17 +10,30 @@
     },
     "schema": {
       "type": "string",
-      "const": "miniature-paints/v4",
+      "const": "miniature-paints/v5",
       "description": "Dataset schema version."
     },
-    "brandCount": { "type": "integer", "minimum": 0 },
-    "paintCount": { "type": "integer", "minimum": 0 },
+    "brandCount": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "paintCount": {
+      "type": "integer",
+      "minimum": 0
+    },
     "brands": {
       "type": "object",
       "description": "Map of file stem (paints/<stem>.md) to its brand object.",
-      "additionalProperties": { "$ref": "brand.schema.json" }
+      "additionalProperties": {
+        "$ref": "brand.schema.json"
+      }
     }
   },
-  "required": ["schema", "brandCount", "paintCount", "brands"],
+  "required": [
+    "schema",
+    "brandCount",
+    "paintCount",
+    "brands"
+  ],
   "additionalProperties": false
 }

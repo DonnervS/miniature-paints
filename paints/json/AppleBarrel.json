@@ -1,6 +1,6 @@
 {
   "$schema": "../../schema/brand.schema.json",
-  "schema": "miniature-paints/v4",
+  "schema": "miniature-paints/v5",
   "displayName": "Apple Barrel",
   "company": "Plaid Enterprises, Inc.",
   "address": {
@@ -20,6 +20,9 @@
       "id": "applebarrel-21972e",
       "name": "Acapulco",
       "code": "21972E",
+      "ean": [
+        "0028995219726"
+      ],
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#68AAA8",
       "rgb": {
@@ -30,12 +33,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21484",
       "name": "Admiral Blue",
       "code": "21484",
+      "ean": [
+        "0028995214844"
+      ],
       "set": "Colors",
       "hex": "#393C5F",
       "rgb": {
@@ -46,12 +54,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21463",
       "name": "Antique Parchment",
       "code": "21463",
+      "ean": [
+        "0028995214639",
+        "5056698712027"
+      ],
       "set": "Colors",
       "hex": "#DAD3B7",
       "rgb": {
@@ -62,12 +76,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20505",
       "name": "Antique White",
       "code": "20505",
+      "ean": [
+        "0028995205057",
+        "5056698718883"
+      ],
       "set": "Colors",
       "hex": "#BFB399",
       "rgb": {
@@ -78,12 +98,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20764",
       "name": "Apricot",
       "code": "20764",
+      "ean": [
+        "0028995207648"
+      ],
       "set": "Colors",
       "hex": "#CD6B22",
       "rgb": {
@@ -94,12 +119,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-99262e",
       "name": "Aqua Sky",
       "code": "99262E",
+      "ean": [
+        "0028995992629"
+      ],
       "set": "Colors",
       "hex": "#DEDDE5",
       "rgb": {
@@ -110,12 +140,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20774",
       "name": "Aquamarine",
       "code": "20774",
+      "ean": [
+        "0028995207747"
+      ],
       "set": "Colors",
       "hex": "#DEE3E9",
       "rgb": {
@@ -126,12 +161,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21386",
       "name": "Arbor Green",
       "code": "21386",
+      "ean": [
+        "0028995213861",
+        "5056698706286"
+      ],
       "set": "Colors",
       "hex": "#043A27",
       "rgb": {
@@ -142,12 +183,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21971e",
       "name": "Atlantis",
       "code": "21971E",
+      "ean": [
+        "0028995219719"
+      ],
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#0291A1",
       "rgb": {
@@ -158,12 +204,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21892",
       "name": "Award Blue",
       "code": "21892",
+      "ean": null,
       "set": "Colors",
       "hex": "#1F435B",
       "rgb": {
@@ -174,12 +223,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21397",
       "name": "Bahama Blue",
       "code": "21397",
+      "ean": null,
       "set": "Gloss™",
       "hex": "#497F7F",
       "rgb": {
@@ -190,12 +242,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20219",
       "name": "Banana",
       "code": "20219",
+      "ean": null,
       "set": "Colors",
       "hex": "#E4B81E",
       "rgb": {
@@ -206,12 +261,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20577",
       "name": "Barn Red",
       "code": "20577",
+      "ean": [
+        "0028995205774"
+      ],
       "set": "Colors",
       "hex": "#5C1B15",
       "rgb": {
@@ -222,12 +282,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20663",
       "name": "Beachcomber Beige",
       "code": "20663",
+      "ean": [
+        "0028995206634"
+      ],
       "set": "Gloss™",
       "hex": "#AA9B84",
       "rgb": {
@@ -238,12 +303,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-4471e",
       "name": "Beige",
       "code": "4471E",
+      "ean": [
+        "0028995044717"
+      ],
       "set": "Colors",
       "hex": "#B09A82",
       "rgb": {
@@ -254,12 +324,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20525",
       "name": "Berry Red",
       "code": "20525",
+      "ean": null,
       "set": "Colors",
       "hex": "#8D152E",
       "rgb": {
@@ -270,12 +343,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21482",
       "name": "Bimini Blue",
       "code": "21482",
+      "ean": null,
       "set": "Colors",
       "hex": "#6BA6B4",
       "rgb": {
@@ -286,12 +362,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21985e",
       "name": "Black",
       "code": "21985E",
+      "ean": [
+        "0028995219856"
+      ],
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#1D2333",
       "rgb": {
@@ -302,12 +383,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20662",
       "name": "Black",
       "code": "20662",
+      "ean": [
+        "0028995206627"
+      ],
       "set": "Gloss™",
       "hex": "#0A0907",
       "rgb": {
@@ -318,12 +404,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20504",
       "name": "Black",
       "code": "20504",
+      "ean": [
+        "0028995205040",
+        "5056698734449"
+      ],
       "set": "Colors",
       "hex": "#010101",
       "rgb": {
@@ -334,12 +426,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21485",
       "name": "Blue Bonnet",
       "code": "21485",
+      "ean": [
+        "0028995214851"
+      ],
       "set": "Colors",
       "hex": "#6289B2",
       "rgb": {
@@ -350,12 +447,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-23892e",
       "name": "Blue Charm",
       "code": "23892E",
+      "ean": [
+        "0028995238925"
+      ],
       "set": "Gloss™",
       "hex": "#114F7E",
       "rgb": {
@@ -366,12 +468,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21886",
       "name": "Blue Cotton",
       "code": "21886",
+      "ean": [
+        "0028995218866"
+      ],
       "set": "Colors",
       "hex": "#8ABCD7",
       "rgb": {
@@ -382,12 +489,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-99263e",
       "name": "Blue Kazoo",
       "code": "99263E",
+      "ean": [
+        "0028995992636",
+        "5056698732162"
+      ],
       "set": "Colors",
       "hex": "#91B8D9",
       "rgb": {
@@ -398,12 +511,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-99264e",
       "name": "Blueberry Frost",
       "code": "99264E",
+      "ean": [
+        "0028995992643"
+      ],
       "set": "Colors",
       "hex": "#5F74A3",
       "rgb": {
@@ -414,12 +532,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20225",
       "name": "Bright Blue",
       "code": "20225",
+      "ean": [
+        "0028995202254"
+      ],
       "set": "Colors",
       "hex": "#A6D2EF",
       "rgb": {
@@ -430,12 +553,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20361",
       "name": "Bright Green",
       "code": "20361",
+      "ean": [
+        "0028995203619"
+      ],
       "set": "Gloss™",
       "hex": "#C2CDBF",
       "rgb": {
@@ -446,12 +574,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20591",
       "name": "Bright Magenta",
       "code": "20591",
+      "ean": [
+        "0028995205910"
+      ],
       "set": "Colors",
       "hex": "#84165F",
       "rgb": {
@@ -462,12 +595,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20501",
       "name": "Bright Red",
       "code": "20501",
+      "ean": [
+        "0028995205019",
+        "5056698729063"
+      ],
       "set": "Colors",
       "hex": "#7F0222",
       "rgb": {
@@ -478,12 +617,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20513",
       "name": "Bright Yellow",
       "code": "20513",
+      "ean": [
+        "0028995205132",
+        "5056698728653"
+      ],
       "set": "Colors",
       "hex": "#D0B200",
       "rgb": {
@@ -494,12 +639,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20511",
       "name": "Brown Oxide",
       "code": "20511",
+      "ean": null,
       "set": "Colors",
       "hex": "#766259",
       "rgb": {
@@ -510,12 +658,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20512",
       "name": "Burnt Umber",
       "code": "20512",
+      "ean": [
+        "0028995205125"
+      ],
       "set": "Colors",
       "hex": "#4A423F",
       "rgb": {
@@ -526,12 +679,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21464",
       "name": "Cameo Pink",
       "code": "21464",
+      "ean": [
+        "0028995214646"
+      ],
       "set": "Colors",
       "hex": "#C2A4A6",
       "rgb": {
@@ -542,12 +700,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21344",
       "name": "Camouflage",
       "code": "21344",
+      "ean": null,
       "set": "Colors",
       "hex": "#1B1B19",
       "rgb": {
@@ -558,12 +719,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20586",
       "name": "Canary Yellow",
       "code": "20586",
+      "ean": [
+        "0028995205866"
+      ],
       "set": "Colors",
       "hex": "#ECC71D",
       "rgb": {
@@ -574,12 +740,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21958e",
       "name": "Candy Apple",
       "code": "21958E",
+      "ean": [
+        "0028995219580"
+      ],
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#A50819",
       "rgb": {
@@ -590,12 +761,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21465",
       "name": "Candy Pink",
       "code": "21465",
+      "ean": [
+        "0028995214653",
+        "5056698720183"
+      ],
       "set": "Colors",
       "hex": "#C86B86",
       "rgb": {
@@ -606,12 +783,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20590",
       "name": "Cardinal Crimson",
       "code": "20590",
+      "ean": [
+        "0028995205903"
+      ],
       "set": "Colors",
       "hex": "#9D0210",
       "rgb": {
@@ -622,12 +804,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20247",
       "name": "Caribbean",
       "code": "20247",
+      "ean": [
+        "0028995202476"
+      ],
       "set": "Colors",
       "hex": "#68B6B6",
       "rgb": {
@@ -638,12 +825,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21342",
       "name": "Caterpillar",
       "code": "21342",
+      "ean": [
+        "0028995213427"
+      ],
       "set": "Colors",
       "hex": "#546B37",
       "rgb": {
@@ -654,12 +846,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21391",
       "name": "Chestnut",
       "code": "21391",
+      "ean": [
+        "5056698704961"
+      ],
       "set": "Colors",
       "hex": "#A28982",
       "rgb": {
@@ -670,12 +867,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21483",
       "name": "China Blue",
       "code": "21483",
+      "ean": null,
       "set": "Colors",
       "hex": "#A5B8BE",
       "rgb": {
@@ -686,12 +886,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20578",
       "name": "Chocolate Bar",
       "code": "20578",
+      "ean": [
+        "0028995205781"
+      ],
       "set": "Colors",
       "hex": "#342220",
       "rgb": {
@@ -702,12 +907,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21982e",
       "name": "Chocolate Sprinkle",
       "code": "21982E",
+      "ean": null,
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#50434C",
       "rgb": {
@@ -718,12 +926,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20529",
       "name": "Christmas Green",
       "code": "20529",
+      "ean": [
+        "0028995205293"
+      ],
       "set": "Colors",
       "hex": "#214A2C",
       "rgb": {
@@ -734,12 +947,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21981e",
       "name": "Classic Caramel",
       "code": "21981E",
+      "ean": [
+        "0028995219818"
+      ],
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#B0895E",
       "rgb": {
@@ -750,12 +968,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20741",
       "name": "Cloudless",
       "code": "20741",
+      "ean": null,
       "set": "Colors",
       "hex": "#96BEC0",
       "rgb": {
@@ -766,12 +987,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20596",
       "name": "Cobalt Hue",
       "code": "20596",
+      "ean": [
+        "0028995205965"
+      ],
       "set": "Colors",
       "hex": "#02307D",
       "rgb": {
@@ -782,12 +1008,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21362",
       "name": "Cobalt Hue",
       "code": "21362",
+      "ean": null,
       "set": "Gloss™",
       "hex": "#4A5897",
       "rgb": {
@@ -798,12 +1027,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20666",
       "name": "Coffee Bean",
       "code": "20666",
+      "ean": null,
       "set": "Gloss™",
       "hex": "#2F1E16",
       "rgb": {
@@ -814,12 +1046,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20595",
       "name": "Concord Grape",
       "code": "20595",
+      "ean": [
+        "0028995205958"
+      ],
       "set": "Colors",
       "hex": "#303183",
       "rgb": {
@@ -830,12 +1067,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20255",
       "name": "Cool Blue",
       "code": "20255",
+      "ean": [
+        "0028995202551"
+      ],
       "set": "Colors",
       "hex": "#64B3DC",
       "rgb": {
@@ -846,12 +1088,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20526",
       "name": "Country Grey",
       "code": "20526",
+      "ean": [
+        "5056698711617"
+      ],
       "set": "Colors",
       "hex": "#DFE0E5",
       "rgb": {
@@ -862,12 +1109,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21380",
       "name": "Cranberry",
       "code": "21380",
+      "ean": [
+        "0028995213809"
+      ],
       "set": "Colors",
       "hex": "#730123",
       "rgb": {
@@ -878,12 +1130,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21890",
       "name": "Crisp Green",
       "code": "21890",
+      "ean": [
+        "0028995218903"
+      ],
       "set": "Colors",
       "hex": "#59904D",
       "rgb": {
@@ -894,12 +1151,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20265e",
       "name": "Crushed Curry",
       "code": "20265E",
+      "ean": null,
       "set": "Gloss™",
       "hex": "#BB6C0D",
       "rgb": {
@@ -910,12 +1170,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20646",
       "name": "Dandelion Yellow",
       "code": "20646",
+      "ean": null,
       "set": "Gloss™",
       "hex": "#E2B42A",
       "rgb": {
@@ -926,12 +1189,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21984e",
       "name": "Dark Granite",
       "code": "21984E",
+      "ean": null,
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#343D4E",
       "rgb": {
@@ -942,12 +1208,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20366",
       "name": "Dark Gray",
       "code": "20366",
+      "ean": null,
       "set": "Gloss™",
       "hex": "#464742",
       "rgb": {
@@ -958,12 +1227,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21976e",
       "name": "Deep Navy",
       "code": "21976E",
+      "ean": null,
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#263755",
       "rgb": {
@@ -974,12 +1246,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20625",
       "name": "Deep Purple",
       "code": "20625",
+      "ean": [
+        "0028995206252"
+      ],
       "set": "Gloss™",
       "hex": "#1B295A",
       "rgb": {
@@ -990,12 +1267,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21354",
       "name": "Denim Blue",
       "code": "21354",
+      "ean": [
+        "0028995213540"
+      ],
       "set": "Colors",
       "hex": "#465363",
       "rgb": {
@@ -1006,12 +1288,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20254",
       "name": "Diva Pink",
       "code": "20254",
+      "ean": null,
       "set": "Colors",
       "hex": "#C35789",
       "rgb": {
@@ -1022,12 +1307,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20624",
       "name": "Dolphin Grey",
       "code": "20624",
+      "ean": [
+        "0028995206245"
+      ],
       "set": "Gloss™",
       "hex": "#A5A59B",
       "rgb": {
@@ -1038,12 +1328,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21974e",
       "name": "Electric Blue",
       "code": "21974E",
+      "ean": [
+        "0028995219740"
+      ],
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#018AD2",
       "rgb": {
@@ -1054,12 +1349,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-4470e",
       "name": "Elephant Gray",
       "code": "4470E",
+      "ean": [
+        "0028995044700",
+        "5056698701700"
+      ],
       "set": "Colors",
       "hex": "#D8DBE2",
       "rgb": {
@@ -1070,12 +1371,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20756",
       "name": "English Ivy Green",
       "code": "20756",
+      "ean": [
+        "0028995207563"
+      ],
       "set": "Colors",
       "hex": "#414932",
       "rgb": {
@@ -1086,12 +1392,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20773",
       "name": "English Navy",
       "code": "20773",
+      "ean": [
+        "0028995207730"
+      ],
       "set": "Colors",
       "hex": "#191F2B",
       "rgb": {
@@ -1102,12 +1413,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21469",
       "name": "Flag Red",
       "code": "21469",
+      "ean": [
+        "0028995214691",
+        "5056698711594"
+      ],
       "set": "Colors",
       "hex": "#800001",
       "rgb": {
@@ -1118,12 +1435,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21468",
       "name": "Flamenco Red",
       "code": "21468",
+      "ean": [
+        "0028995214684"
+      ],
       "set": "Colors",
       "hex": "#590F20",
       "rgb": {
@@ -1134,12 +1456,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-99259e",
       "name": "Flamingo Coral",
       "code": "99259E",
+      "ean": [
+        "0028995992599"
+      ],
       "set": "Colors",
       "hex": "#F6DDE1",
       "rgb": {
@@ -1150,12 +1477,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21393e",
       "name": "Fruit Punch",
       "code": "21393E",
+      "ean": [
+        "0028995213939"
+      ],
       "set": "Gloss™",
       "hex": "#B90043",
       "rgb": {
@@ -1166,12 +1498,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20216",
       "name": "Fuchsia",
       "code": "20216",
+      "ean": [
+        "0028995202162"
+      ],
       "set": "Colors",
       "hex": "#98306F",
       "rgb": {
@@ -1182,12 +1519,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21186",
       "name": "Golden Sunset",
       "code": "21186",
+      "ean": [
+        "0028995211867"
+      ],
       "set": "Colors",
       "hex": "#9F7426",
       "rgb": {
@@ -1198,12 +1540,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21395",
       "name": "Golden Yellow",
       "code": "21395",
+      "ean": [
+        "0028995213953"
+      ],
       "set": "Gloss™",
       "hex": "#ECA900",
       "rgb": {
@@ -1214,12 +1561,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21966e",
       "name": "Golden Yellow",
       "code": "21966E",
+      "ean": [
+        "0028995219665"
+      ],
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#EBA825",
       "rgb": {
@@ -1230,12 +1582,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21392",
       "name": "Granite Gray",
       "code": "21392",
+      "ean": [
+        "0028995213922"
+      ],
       "set": "Colors",
       "hex": "#868F8A",
       "rgb": {
@@ -1246,12 +1603,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20288e",
       "name": "Grape Freeze",
       "code": "20288E",
+      "ean": null,
       "set": "Gloss™",
       "hex": "#722688",
       "rgb": {
@@ -1262,12 +1622,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21176",
       "name": "Grape Jam",
       "code": "21176",
+      "ean": [
+        "0028995211768"
+      ],
       "set": "Colors",
       "hex": "#A848AA",
       "rgb": {
@@ -1278,12 +1643,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20598",
       "name": "Green Clover",
       "code": "20598",
+      "ean": null,
       "set": "Colors",
       "hex": "#0B7352",
       "rgb": {
@@ -1294,12 +1662,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-4469e",
       "name": "Green Machine",
       "code": "4469E",
+      "ean": [
+        "0028995044694"
+      ],
       "set": "Colors",
       "hex": "#30643E",
       "rgb": {
@@ -1310,12 +1683,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20589",
       "name": "Harvest Orange",
       "code": "20589",
+      "ean": [
+        "0028995205897"
+      ],
       "set": "Colors",
       "hex": "#AA4322",
       "rgb": {
@@ -1326,12 +1704,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21478",
       "name": "Holly Branch",
       "code": "21478",
+      "ean": [
+        "0028995214783",
+        "5056698706651"
+      ],
       "set": "Colors",
       "hex": "#0A380A",
       "rgb": {
@@ -1342,12 +1726,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21466",
       "name": "Honeysuckle Pink",
       "code": "21466",
+      "ean": [
+        "0028995214660"
+      ],
       "set": "Colors",
       "hex": "#A73847",
       "rgb": {
@@ -1358,12 +1747,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20264e",
       "name": "Hot Ember",
       "code": "20264E",
+      "ean": null,
       "set": "Gloss™",
       "hex": "#922D25",
       "rgb": {
@@ -1374,12 +1766,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20637",
       "name": "Hot Rod Red",
       "code": "20637",
+      "ean": [
+        "0028995206375"
+      ],
       "set": "Gloss™",
       "hex": "#750418",
       "rgb": {
@@ -1390,12 +1787,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20754",
       "name": "Hunter Green",
       "code": "20754",
+      "ean": [
+        "0028995207549"
+      ],
       "set": "Colors",
       "hex": "#555F54",
       "rgb": {
@@ -1406,12 +1808,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-k20516",
       "name": "Ivory",
       "code": "K20516",
+      "ean": [
+        "0028995205163"
+      ],
       "set": "Colors",
       "hex": "#B8AB7E",
       "rgb": {
@@ -1422,12 +1829,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21472",
       "name": "Jack-O-Lantern",
       "code": "21472",
+      "ean": [
+        "0028995214721"
+      ],
       "set": "Colors",
       "hex": "#B85923",
       "rgb": {
@@ -1438,12 +1850,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21885",
       "name": "Jet Black",
       "code": "21885",
+      "ean": [
+        "0028995218859",
+        "5056698740389"
+      ],
       "set": "Colors",
       "hex": "#0A0907",
       "rgb": {
@@ -1454,12 +1872,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20523",
       "name": "Kelly Green",
       "code": "20523",
+      "ean": [
+        "0028995205231"
+      ],
       "set": "Colors",
       "hex": "#295D2C",
       "rgb": {
@@ -1470,12 +1893,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21481",
       "name": "Key West",
       "code": "21481",
+      "ean": [
+        "0028995214813"
+      ],
       "set": "Colors",
       "hex": "#80B9AA",
       "rgb": {
@@ -1486,12 +1914,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21390",
       "name": "Khaki",
       "code": "21390",
+      "ean": [
+        "0028995213908"
+      ],
       "set": "Colors",
       "hex": "#AF9F7D",
       "rgb": {
@@ -1502,12 +1935,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20760",
       "name": "King’s Gold",
       "code": "20760",
+      "ean": [
+        "0028995207600"
+      ],
       "set": "Colors",
       "hex": "#EAB148",
       "rgb": {
@@ -1518,12 +1956,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20221",
       "name": "Kiwi",
       "code": "20221",
+      "ean": null,
       "set": "Colors",
       "hex": "#98A23F",
       "rgb": {
@@ -1534,12 +1975,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20562",
       "name": "Laguna",
       "code": "20562",
+      "ean": [
+        "0028995205620"
+      ],
       "set": "Colors",
       "hex": "#40817D",
       "rgb": {
@@ -1550,12 +1996,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20520",
       "name": "Lavender",
       "code": "20520",
+      "ean": [
+        "0028995205200"
+      ],
       "set": "Colors",
       "hex": "#927D8C",
       "rgb": {
@@ -1566,12 +2017,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21893",
       "name": "Lavender Sachet",
       "code": "21893",
+      "ean": [
+        "0028995218934"
+      ],
       "set": "Colors",
       "hex": "#928195",
       "rgb": {
@@ -1582,12 +2038,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20528",
       "name": "Leaf Green",
       "code": "20528",
+      "ean": [
+        "0028995205286"
+      ],
       "set": "Colors",
       "hex": "#A2B297",
       "rgb": {
@@ -1598,12 +2059,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21964e",
       "name": "Lemon",
       "code": "21964E",
+      "ean": [
+        "0028995219641"
+      ],
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#E8C02D",
       "rgb": {
@@ -1614,12 +2080,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20584",
       "name": "Lemon Chiffon",
       "code": "20584",
+      "ean": null,
       "set": "Colors",
       "hex": "#BDAF6E",
       "rgb": {
@@ -1630,12 +2099,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20364",
       "name": "Light Blue",
       "code": "20364",
+      "ean": [
+        "0028995203640"
+      ],
       "set": "Gloss™",
       "hex": "#8AAFBC",
       "rgb": {
@@ -1646,12 +2120,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20211",
       "name": "Light Leaf Green",
       "code": "20211",
+      "ean": null,
       "set": "Colors",
       "hex": "#99A16E",
       "rgb": {
@@ -1662,12 +2139,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-44844e",
       "name": "Light Pink",
       "code": "44844E",
+      "ean": [
+        "0028995448447"
+      ],
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#DBC8CA",
       "rgb": {
@@ -1678,12 +2160,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20535",
       "name": "Light Pink",
       "code": "20535",
+      "ean": [
+        "0028995205354"
+      ],
       "set": "Colors",
       "hex": "#432122",
       "rgb": {
@@ -1694,12 +2181,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20360",
       "name": "Light Yellow",
       "code": "20360",
+      "ean": [
+        "0028995203602"
+      ],
       "set": "Gloss™",
       "hex": "#CCB845",
       "rgb": {
@@ -1710,12 +2202,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-44845e",
       "name": "Light Yellow",
       "code": "44845E",
+      "ean": null,
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#EBCE4C",
       "rgb": {
@@ -1726,12 +2221,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20559",
       "name": "Lilac Dust",
       "code": "20559",
+      "ean": [
+        "0028995205590"
+      ],
       "set": "Colors",
       "hex": "#807583",
       "rgb": {
@@ -1742,12 +2242,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21388",
       "name": "Lilac Mist",
       "code": "21388",
+      "ean": [
+        "0028995213885"
+      ],
       "set": "Colors",
       "hex": "#7E73AB",
       "rgb": {
@@ -1758,12 +2263,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21480",
       "name": "Lime Sherbert",
       "code": "21480",
+      "ean": [
+        "0028995214806"
+      ],
       "set": "Colors",
       "hex": "#9BB459",
       "rgb": {
@@ -1774,12 +2284,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21476",
       "name": "Lime Tree",
       "code": "21476",
+      "ean": [
+        "0028995214769"
+      ],
       "set": "Colors",
       "hex": "#9EB10A",
       "rgb": {
@@ -1790,12 +2305,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20253",
       "name": "Limeade",
       "code": "20253",
+      "ean": null,
       "set": "Colors",
       "hex": "#809320",
       "rgb": {
@@ -1806,12 +2324,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21489",
       "name": "Lite Mocha",
       "code": "21489",
+      "ean": [
+        "0028995214899",
+        "5056698710870"
+      ],
       "set": "Colors",
       "hex": "#CCB39D",
       "rgb": {
@@ -1822,12 +2346,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20218",
       "name": "Mango",
       "code": "20218",
+      "ean": [
+        "0028995202186"
+      ],
       "set": "Colors",
       "hex": "#B26946",
       "rgb": {
@@ -1838,12 +2367,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21891",
       "name": "Marsh Green",
       "code": "21891",
+      "ean": [
+        "5056698713475"
+      ],
       "set": "Colors",
       "hex": "#154C2F",
       "rgb": {
@@ -1854,12 +2388,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20757",
       "name": "Meadow Green",
       "code": "20757",
+      "ean": null,
       "set": "Colors",
       "hex": "#0F3A04",
       "rgb": {
@@ -1870,12 +2407,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20258",
       "name": "Melted Chocolate",
       "code": "20258",
+      "ean": [
+        "0028995202582"
+      ],
       "set": "Colors",
       "hex": "#291E18",
       "rgb": {
@@ -1886,12 +2428,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-44848e",
       "name": "Milk Chocolate",
       "code": "44848E",
+      "ean": null,
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#4F3220",
       "rgb": {
@@ -1902,12 +2447,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20286e",
       "name": "Mint Crush",
       "code": "20286E",
+      "ean": null,
       "set": "Gloss™",
       "hex": "#57AFA1",
       "rgb": {
@@ -1918,12 +2466,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20782",
       "name": "Misty White",
       "code": "20782",
+      "ean": [
+        "0028995207822"
+      ],
       "set": "Colors",
       "hex": "#716F72",
       "rgb": {
@@ -1934,12 +2487,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20287e",
       "name": "Moody Blue",
       "code": "20287E",
+      "ean": null,
       "set": "Gloss™",
       "hex": "#27688E",
       "rgb": {
@@ -1950,12 +2506,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20648",
       "name": "Mossy Green",
       "code": "20648",
+      "ean": [
+        "0028995206481"
+      ],
       "set": "Gloss™",
       "hex": "#3A3C24",
       "rgb": {
@@ -1966,12 +2527,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21353",
       "name": "Mountain Blue",
       "code": "21353",
+      "ean": [
+        "0028995213533"
+      ],
       "set": "Colors",
       "hex": "#DEDCDF",
       "rgb": {
@@ -1982,12 +2548,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21970e",
       "name": "Mountain Forest",
       "code": "21970E",
+      "ean": [
+        "0028995219702"
+      ],
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#2D5241",
       "rgb": {
@@ -1998,12 +2569,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21960e",
       "name": "Nectarine",
       "code": "21960E",
+      "ean": null,
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#FF9C3E",
       "rgb": {
@@ -2014,12 +2588,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20492",
       "name": "Neon Blue",
       "code": "20492",
+      "ean": [
+        "0028995204920"
+      ],
       "set": "Colors",
       "hex": "#385575",
       "rgb": {
@@ -2030,12 +2609,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20491",
       "name": "Neon Green",
       "code": "20491",
+      "ean": [
+        "0028995204913"
+      ],
       "set": "Colors",
       "hex": "#569D3D",
       "rgb": {
@@ -2046,12 +2630,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20489",
       "name": "Neon Orange",
       "code": "20489",
+      "ean": null,
       "set": "Colors",
       "hex": "#F69D3F",
       "rgb": {
@@ -2062,12 +2649,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20487",
       "name": "Neon Pink",
       "code": "20487",
+      "ean": null,
       "set": "Colors",
       "hex": "#E63E8B",
       "rgb": {
@@ -2078,12 +2668,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20493",
       "name": "Neon Purple",
       "code": "20493",
+      "ean": [
+        "0028995204937"
+      ],
       "set": "Colors",
       "hex": "#7C437A",
       "rgb": {
@@ -2094,12 +2689,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20488",
       "name": "Neon Red",
       "code": "20488",
+      "ean": [
+        "0028995204883"
+      ],
       "set": "Colors",
       "hex": "#CB5673",
       "rgb": {
@@ -2110,12 +2710,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20490",
       "name": "Neon Yellow",
       "code": "20490",
+      "ean": [
+        "0028995204906"
+      ],
       "set": "Colors",
       "hex": "#F3ED7D",
       "rgb": {
@@ -2126,12 +2731,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21479",
       "name": "New Shamrock",
       "code": "21479",
+      "ean": [
+        "0028995214790"
+      ],
       "set": "Colors",
       "hex": "#3D6E37",
       "rgb": {
@@ -2142,12 +2752,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20521",
       "name": "Nutmeg Brown",
       "code": "20521",
+      "ean": [
+        "0028995205217"
+      ],
       "set": "Colors",
       "hex": "#412A1A",
       "rgb": {
@@ -2158,12 +2773,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20561",
       "name": "Orange",
       "code": "20561",
+      "ean": [
+        "0028995205613"
+      ],
       "set": "Colors",
       "hex": "#DB2C00",
       "rgb": {
@@ -2174,12 +2794,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21961e",
       "name": "Outrageous Orange",
       "code": "21961E",
+      "ean": [
+        "0028995219610"
+      ],
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#D54D13",
       "rgb": {
@@ -2190,12 +2815,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21473",
       "name": "Pale Daffodil",
       "code": "21473",
+      "ean": [
+        "0028995214738",
+        "5056698732513"
+      ],
       "set": "Colors",
       "hex": "#D6C14E",
       "rgb": {
@@ -2206,12 +2837,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21477",
       "name": "Palm Leaf",
       "code": "21477",
+      "ean": [
+        "0028995214776"
+      ],
       "set": "Colors",
       "hex": "#606D35",
       "rgb": {
@@ -2222,12 +2858,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21957e",
       "name": "Paradise Pink",
       "code": "21957E",
+      "ean": [
+        "0028995219573"
+      ],
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#D42B62",
       "rgb": {
@@ -2238,12 +2879,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20740",
       "name": "Parakeet",
       "code": "20740",
+      "ean": [
+        "0028995207402"
+      ],
       "set": "Colors",
       "hex": "#416D0B",
       "rgb": {
@@ -2254,12 +2900,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21185",
       "name": "Parrot Blue",
       "code": "21185",
+      "ean": [
+        "0028995211850"
+      ],
       "set": "Colors",
       "hex": "#71A4A7",
       "rgb": {
@@ -2270,12 +2921,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21490",
       "name": "Pavement",
       "code": "21490",
+      "ean": [
+        "0028995214905"
+      ],
       "set": "Colors",
       "hex": "#272624",
       "rgb": {
@@ -2286,12 +2942,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21963e",
       "name": "Peach",
       "code": "21963E",
+      "ean": [
+        "0028995219634"
+      ],
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#D0A583",
       "rgb": {
@@ -2302,12 +2963,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20226",
       "name": "Petunia Purple",
       "code": "20226",
+      "ean": null,
       "set": "Colors",
       "hex": "#4F438B",
       "rgb": {
@@ -2318,12 +2982,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20580",
       "name": "Pewter Grey",
       "code": "20580",
+      "ean": [
+        "0028995205804"
+      ],
       "set": "Colors",
       "hex": "#353630",
       "rgb": {
@@ -2334,12 +3003,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20631",
       "name": "Pink Blush",
       "code": "20631",
+      "ean": [
+        "0028995206313"
+      ],
       "set": "Gloss™",
       "hex": "#B56A81",
       "rgb": {
@@ -2350,12 +3024,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21889",
       "name": "Pink Eraser",
       "code": "21889",
+      "ean": [
+        "0028995218897"
+      ],
       "set": "Colors",
       "hex": "#A8305E",
       "rgb": {
@@ -2366,12 +3045,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20251",
       "name": "Pink Parfait",
       "code": "20251",
+      "ean": [
+        "0028995202513"
+      ],
       "set": "Colors",
       "hex": "#C66F7F",
       "rgb": {
@@ -2382,12 +3066,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21379",
       "name": "Pink Polish",
       "code": "21379",
+      "ean": [
+        "0028995213793"
+      ],
       "set": "Colors",
       "hex": "#E0DFE5",
       "rgb": {
@@ -2398,12 +3087,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20223",
       "name": "Pool Blue",
       "code": "20223",
+      "ean": [
+        "0028995202230"
+      ],
       "set": "Colors",
       "hex": "#67A3BB",
       "rgb": {
@@ -2414,12 +3108,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21339",
       "name": "Pretty in Pink",
       "code": "21339",
+      "ean": null,
       "set": "Colors",
       "hex": "#E55D7D",
       "rgb": {
@@ -2430,12 +3127,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21975e",
       "name": "Primary Blue",
       "code": "21975E",
+      "ean": null,
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#014689",
       "rgb": {
@@ -2446,12 +3146,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21956e",
       "name": "Princess Pink",
       "code": "21956E",
+      "ean": [
+        "0028995219566"
+      ],
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#E793B4",
       "rgb": {
@@ -2462,12 +3167,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21978e",
       "name": "Princess Purple",
       "code": "21978E",
+      "ean": [
+        "0028995219788"
+      ],
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#573484",
       "rgb": {
@@ -2478,12 +3188,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20359",
       "name": "Pumpkin Orange",
       "code": "20359",
+      "ean": null,
       "set": "Gloss™",
       "hex": "#B85A1A",
       "rgb": {
@@ -2494,12 +3207,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20588",
       "name": "Pumpkin Orange",
       "code": "20588",
+      "ean": [
+        "0028995205880",
+        "5056698702745"
+      ],
       "set": "Colors",
       "hex": "#EE4F0E",
       "rgb": {
@@ -2510,12 +3229,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20761",
       "name": "Pure Gold",
       "code": "20761",
+      "ean": [
+        "0028995207617"
+      ],
       "set": "Colors",
       "hex": "#00214E",
       "rgb": {
@@ -2526,12 +3250,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20346",
       "name": "Pure Pink",
       "code": "20346",
+      "ean": null,
       "set": "Gloss™",
       "hex": "#AC3A7F",
       "rgb": {
@@ -2542,12 +3269,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20762",
       "name": "Pure Silver",
       "code": "20762",
+      "ean": null,
       "set": "Colors",
       "hex": "#99979A",
       "rgb": {
@@ -2558,12 +3288,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21486",
       "name": "Purple Iris",
       "code": "21486",
+      "ean": [
+        "0028995214868"
+      ],
       "set": "Colors",
       "hex": "#35277C",
       "rgb": {
@@ -2574,12 +3309,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21488",
       "name": "Purple Pansy",
       "code": "21488",
+      "ean": [
+        "0028995214882"
+      ],
       "set": "Colors",
       "hex": "#1E1832",
       "rgb": {
@@ -2590,12 +3330,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20627",
       "name": "Purple Velvet",
       "code": "20627",
+      "ean": null,
       "set": "Gloss™",
       "hex": "#1F0F33",
       "rgb": {
@@ -2606,12 +3349,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20660",
       "name": "Real Blue",
       "code": "20660",
+      "ean": null,
       "set": "Gloss™",
       "hex": "#012148",
       "rgb": {
@@ -2622,12 +3368,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20354",
       "name": "Real Brown",
       "code": "20354",
+      "ean": [
+        "0028995203541"
+      ],
       "set": "Gloss™",
       "hex": "#3E2318",
       "rgb": {
@@ -2638,12 +3389,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20651",
       "name": "Real Green",
       "code": "20651",
+      "ean": null,
       "set": "Gloss™",
       "hex": "#163315",
       "rgb": {
@@ -2654,12 +3408,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20353",
       "name": "Real Navy",
       "code": "20353",
+      "ean": [
+        "0028995203534"
+      ],
       "set": "Gloss™",
       "hex": "#BEC2C5",
       "rgb": {
@@ -2670,12 +3429,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20636",
       "name": "Real Red",
       "code": "20636",
+      "ean": [
+        "0028995206368"
+      ],
       "set": "Gloss™",
       "hex": "#59051F",
       "rgb": {
@@ -2686,12 +3450,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20645",
       "name": "Real Yellow",
       "code": "20645",
+      "ean": null,
       "set": "Gloss™",
       "hex": "#D1B82A",
       "rgb": {
@@ -2702,12 +3469,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20784",
       "name": "Red Apple",
       "code": "20784",
+      "ean": [
+        "0028995207846",
+        "5056698734159"
+      ],
       "set": "Colors",
       "hex": "#780004",
       "rgb": {
@@ -2718,12 +3491,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21348",
       "name": "Reef Blue",
       "code": "21348",
+      "ean": [
+        "0028995213489"
+      ],
       "set": "Colors",
       "hex": "#214F45",
       "rgb": {
@@ -2734,12 +3512,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20751",
       "name": "Regency Blue",
       "code": "20751",
+      "ean": [
+        "0028995207518"
+      ],
       "set": "Colors",
       "hex": "#90AFCB",
       "rgb": {
@@ -2750,12 +3533,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21470",
       "name": "Ripe Tomato",
       "code": "21470",
+      "ean": null,
       "set": "Colors",
       "hex": "#8E3821",
       "rgb": {
@@ -2766,12 +3552,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20594",
       "name": "Royal Violet",
       "code": "20594",
+      "ean": [
+        "0028995205941"
+      ],
       "set": "Colors",
       "hex": "#292244",
       "rgb": {
@@ -2782,12 +3573,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20575",
       "name": "Sandstone",
       "code": "20575",
+      "ean": [
+        "0028995205750"
+      ],
       "set": "Colors",
       "hex": "#3E382C",
       "rgb": {
@@ -2798,12 +3594,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20770",
       "name": "Sky Blue",
       "code": "20770",
+      "ean": [
+        "0028995207709"
+      ],
       "set": "Colors",
       "hex": "#4E6B7D",
       "rgb": {
@@ -2814,12 +3615,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-23891e",
       "name": "Sky Haze",
       "code": "23891E",
+      "ean": null,
       "set": "Gloss™",
       "hex": "#4B87AC",
       "rgb": {
@@ -2830,12 +3634,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21884",
       "name": "Snow White",
       "code": "21884",
+      "ean": [
+        "0028995218842",
+        "5056698719774"
+      ],
       "set": "Colors",
       "hex": "#CDCCC7",
       "rgb": {
@@ -2846,12 +3656,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21377",
       "name": "Snowflake",
       "code": "21377",
+      "ean": [
+        "0028995213779"
+      ],
       "set": "Colors",
       "hex": "#E4E3E1",
       "rgb": {
@@ -2862,12 +3677,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21959e",
       "name": "Spiced Berry",
       "code": "21959E",
+      "ean": [
+        "0028995219597"
+      ],
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#4D0103",
       "rgb": {
@@ -2878,12 +3698,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21471",
       "name": "Spiced Carrot",
       "code": "21471",
+      "ean": null,
       "set": "Colors",
       "hex": "#DB733E",
       "rgb": {
@@ -2894,12 +3717,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20652",
       "name": "Spring Green",
       "code": "20652",
+      "ean": [
+        "0028995206528"
+      ],
       "set": "Gloss™",
       "hex": "#A8CAA6",
       "rgb": {
@@ -2910,12 +3738,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20587",
       "name": "Spring Green",
       "code": "20587",
+      "ean": null,
       "set": "Colors",
       "hex": "#588B22",
       "rgb": {
@@ -2926,12 +3757,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21973e",
       "name": "Summer Sky",
       "code": "21973E",
+      "ean": [
+        "0028995219733"
+      ],
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#9EC3D6",
       "rgb": {
@@ -2942,12 +3778,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21965e",
       "name": "Sunbeam",
       "code": "21965E",
+      "ean": [
+        "0028995219658"
+      ],
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#F1A420",
       "rgb": {
@@ -2958,12 +3799,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21888",
       "name": "Sunkissed Peach",
       "code": "21888",
+      "ean": [
+        "5056698733268"
+      ],
       "set": "Colors",
       "hex": "#C9A889",
       "rgb": {
@@ -2974,12 +3820,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21384",
       "name": "Sunny Day",
       "code": "21384",
+      "ean": [
+        "0028995213847"
+      ],
       "set": "Colors",
       "hex": "#D0A024",
       "rgb": {
@@ -2990,12 +3841,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21381",
       "name": "Sweet Potato",
       "code": "21381",
+      "ean": null,
       "set": "Colors",
       "hex": "#A42A18",
       "rgb": {
@@ -3006,12 +3860,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21093e",
       "name": "Tangelo",
       "code": "21093E",
+      "ean": [
+        "0028995210938"
+      ],
       "set": "Gloss™",
       "hex": "#EF8531",
       "rgb": {
@@ -3022,12 +3881,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20592",
       "name": "Tapestry Wine",
       "code": "20592",
+      "ean": [
+        "0028995205927"
+      ],
       "set": "Colors",
       "hex": "#3D2324",
       "rgb": {
@@ -3038,12 +3902,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-4473e",
       "name": "Teal Treat",
       "code": "4473E",
+      "ean": null,
       "set": "Colors",
       "hex": "#096C83",
       "rgb": {
@@ -3054,12 +3921,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20558",
       "name": "Territorial Beige",
       "code": "20558",
+      "ean": null,
       "set": "Colors",
       "hex": "#866E56",
       "rgb": {
@@ -3070,12 +3940,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21983e",
       "name": "Timeless Gray",
       "code": "21983E",
+      "ean": null,
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#95999A",
       "rgb": {
@@ -3086,12 +3959,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21955e",
       "name": "Toasted Marshmallow",
       "code": "21955E",
+      "ean": null,
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#E2D5C2",
       "rgb": {
@@ -3102,12 +3978,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20576",
       "name": "Toffee",
       "code": "20576",
+      "ean": null,
       "set": "Colors",
       "hex": "#87552C",
       "rgb": {
@@ -3118,12 +3997,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20771",
       "name": "Too Blue",
       "code": "20771",
+      "ean": [
+        "0028995207716"
+      ],
       "set": "Colors",
       "hex": "#002F6A",
       "rgb": {
@@ -3134,12 +4018,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21341",
       "name": "Tropic Orange",
       "code": "21341",
+      "ean": [
+        "0028995213410"
+      ],
       "set": "Colors",
       "hex": "#CB664A",
       "rgb": {
@@ -3150,12 +4039,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20348",
       "name": "Tropical Blue",
       "code": "20348",
+      "ean": null,
       "set": "Gloss™",
       "hex": "#387A92",
       "rgb": {
@@ -3166,12 +4058,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21968e",
       "name": "True Green",
       "code": "21968E",
+      "ean": [
+        "0028995219689"
+      ],
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#048753",
       "rgb": {
@@ -3182,12 +4079,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21360",
       "name": "Turquoise",
       "code": "21360",
+      "ean": [
+        "0028995213601"
+      ],
       "set": "Gloss™",
       "hex": "#55657C",
       "rgb": {
@@ -3198,12 +4100,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20210",
       "name": "Turquoise",
       "code": "20210",
+      "ean": [
+        "0028995202100"
+      ],
       "set": "Colors",
       "hex": "#246A76",
       "rgb": {
@@ -3214,12 +4121,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21467",
       "name": "Tuscan Red",
       "code": "21467",
+      "ean": [
+        "0028995214677"
+      ],
       "set": "Colors",
       "hex": "#84474F",
       "rgb": {
@@ -3230,12 +4142,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21887",
       "name": "Tuscan Teal",
       "code": "21887",
+      "ean": [
+        "0028995218873",
+        "5056698709577"
+      ],
       "set": "Colors",
       "hex": "#2C4C57",
       "rgb": {
@@ -3246,12 +4164,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21378",
       "name": "Vanilla Ice Cream",
       "code": "21378",
+      "ean": null,
       "set": "Colors",
       "hex": "#CFCCBB",
       "rgb": {
@@ -3262,12 +4183,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21487",
       "name": "Velvet Crush",
       "code": "21487",
+      "ean": [
+        "0028995214875",
+        "5056698738935"
+      ],
       "set": "Colors",
       "hex": "#422752",
       "rgb": {
@@ -3278,12 +4205,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21980e",
       "name": "Warm Buff",
       "code": "21980E",
+      "ean": [
+        "0028995219801"
+      ],
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#E1D0C9",
       "rgb": {
@@ -3294,12 +4226,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20530",
       "name": "Wedgewood Green",
       "code": "20530",
+      "ean": null,
       "set": "Colors",
       "hex": "#7E8C72",
       "rgb": {
@@ -3310,12 +4245,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20621",
       "name": "White",
       "code": "20621",
+      "ean": null,
       "set": "Gloss™",
       "hex": "#CECBC6",
       "rgb": {
@@ -3326,12 +4264,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20503",
       "name": "White",
       "code": "20503",
+      "ean": [
+        "0028995205033",
+        "5056698728394"
+      ],
       "set": "Colors",
       "hex": "#ECECEC",
       "rgb": {
@@ -3342,12 +4286,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21954e",
       "name": "White",
       "code": "21954E",
+      "ean": [
+        "0028995219542"
+      ],
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#E0DFDB",
       "rgb": {
@@ -3358,12 +4307,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21979e",
       "name": "Wild Grapes",
       "code": "21979E",
+      "ean": [
+        "0028995219795"
+      ],
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#533D64",
       "rgb": {
@@ -3374,12 +4328,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21977e",
       "name": "Wisteria",
       "code": "21977E",
+      "ean": [
+        "0028995219771"
+      ],
       "set": "Multi-Surface Satin Acrylic Paints",
       "hex": "#AC98BD",
       "rgb": {
@@ -3390,12 +4349,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-20502",
       "name": "Yellow",
       "code": "20502",
+      "ean": [
+        "0028995205026",
+        "5056698710535"
+      ],
       "set": "Colors",
       "hex": "#D2940B",
       "rgb": {
@@ -3406,12 +4371,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "applebarrel-21474",
       "name": "Yellow Flame",
       "code": "21474",
+      "ean": null,
       "set": "Colors",
       "hex": "#CCB63E",
       "rgb": {
@@ -3422,7 +4390,9 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     }
   ]
 }

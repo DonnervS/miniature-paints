@@ -10,34 +10,64 @@
     },
     "schema": {
       "type": "string",
-      "const": "miniature-paints/v4",
+      "const": "miniature-paints/v5",
       "description": "Dataset schema version (present only on the standalone files)."
     },
-    "displayName": { "type": "string" },
-    "company": { "type": "string" },
+    "displayName": {
+      "type": "string"
+    },
+    "company": {
+      "type": "string"
+    },
     "address": {
       "type": "object",
       "properties": {
-        "street": { "type": "string" },
-        "city": { "type": "string" },
-        "postcode": { "type": "string" },
-        "country": { "type": "string" }
+        "street": {
+          "type": "string"
+        },
+        "city": {
+          "type": "string"
+        },
+        "postcode": {
+          "type": "string"
+        },
+        "country": {
+          "type": "string"
+        }
       },
-      "required": ["street", "city", "postcode", "country"],
+      "required": [
+        "street",
+        "city",
+        "postcode",
+        "country"
+      ],
       "additionalProperties": false
     },
-    "contactEmail": { "type": "string" },
-    "contactForm": { "type": "string" },
-    "website": { "type": "string" },
-    "phone": { "type": "string" },
+    "contactEmail": {
+      "type": "string"
+    },
+    "contactForm": {
+      "type": "string"
+    },
+    "website": {
+      "type": "string"
+    },
+    "phone": {
+      "type": "string"
+    },
     "updatedCatalogueRequested": {
       "type": "string",
       "description": "Free-text date the brand was last asked for an updated catalogue; may be empty."
     },
-    "paintCount": { "type": "integer", "minimum": 0 },
+    "paintCount": {
+      "type": "integer",
+      "minimum": 0
+    },
     "paints": {
       "type": "array",
-      "items": { "$ref": "#/$defs/paint" }
+      "items": {
+        "$ref": "#/$defs/paint"
+      }
     }
   },
   "required": [
@@ -63,55 +93,135 @@
           "type": "string",
           "description": "Unique within a brand: \"<brand-slug>-<code or name-slug>\"."
         },
-        "name": { "type": "string" },
+        "name": {
+          "type": "string"
+        },
         "code": {
-          "type": ["string", "null"],
+          "type": [
+            "string",
+            "null"
+          ],
           "description": "Manufacturer code; null for brands whose table has no Code column."
         },
-        "set": { "type": ["string", "null"] },
+        "ean": {
+          "type": [
+            "array",
+            "null"
+          ],
+          "items": {
+            "type": "string",
+            "pattern": "^[0-9]{8,14}$"
+          },
+          "description": "EAN/GTIN barcodes (one per pot size or packaging variant); null if unknown."
+        },
+        "set": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
         "hex": {
-          "type": ["string", "null"],
+          "type": [
+            "string",
+            "null"
+          ],
           "pattern": "^#[0-9A-Fa-f]{6}$",
           "description": "Single colour. Null for colour-shift paints (see shiftColors) and for colourless products (see colourless)."
         },
         "rgb": {
-          "type": ["object", "null"],
+          "type": [
+            "object",
+            "null"
+          ],
           "description": "Null if any channel is missing or non-numeric in the source table.",
           "properties": {
-            "r": { "type": "integer", "minimum": 0, "maximum": 255 },
-            "g": { "type": "integer", "minimum": 0, "maximum": 255 },
-            "b": { "type": "integer", "minimum": 0, "maximum": 255 }
+            "r": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 255
+            },
+            "g": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 255
+            },
+            "b": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 255
+            }
           },
-          "required": ["r", "g", "b"],
+          "required": [
+            "r",
+            "g",
+            "b"
+          ],
           "additionalProperties": false
         },
         "shiftColors": {
-          "type": ["array", "null"],
+          "type": [
+            "array",
+            "null"
+          ],
           "description": "Ordered hex stops for a colour-shift paint; null for normal paints. Mutually exclusive with a non-null hex.",
-          "items": { "type": "string", "pattern": "^#[0-9A-Fa-f]{6}$" }
+          "items": {
+            "type": "string",
+            "pattern": "^#[0-9A-Fa-f]{6}$"
+          }
         },
         "colourless": {
           "type": "boolean",
           "description": "True for products with no paint colour (clear varnishes, mediums, thinners, masks, etc.). When true, hex and rgb are null."
         },
         "potSizes": {
-          "type": ["array", "null"],
+          "type": [
+            "array",
+            "null"
+          ],
           "description": "Container sizes the colour is sold in; null when no size is recorded. Single-size brands are 1-element arrays.",
-          "items": { "$ref": "#/$defs/potSize" }
+          "items": {
+            "$ref": "#/$defs/potSize"
+          }
         },
-        "description": { "type": ["string", "null"] }
+        "description": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "measurements": {
+          "type": [
+            "array",
+            "null"
+          ],
+          "items": {
+            "$ref": "#/$defs/measurement"
+          },
+          "description": "Instrument readings from measurements/measurements.csv; null if the paint has not been measured."
+        },
+        "measuredHex": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "pattern": "^#[0-9A-Fa-f]{6}$",
+          "description": "sRGB colour of the averaged measurements; null if unmeasured. Prefer it over hex when present."
+        }
       },
       "required": [
         "id",
         "name",
         "code",
+        "ean",
         "set",
         "hex",
         "rgb",
         "shiftColors",
         "colourless",
         "potSizes",
-        "description"
+        "description",
+        "measurements",
+        "measuredHex"
       ],
       "additionalProperties": false
     },
@@ -125,15 +235,125 @@
           "description": "The size string exactly as written in the source table."
         },
         "value": {
-          "type": ["number", "null"],
+          "type": [
+            "number",
+            "null"
+          ],
           "description": "Numeric quantity parsed from raw; null if unparseable."
         },
         "unit": {
-          "type": ["string", "null"],
+          "type": [
+            "string",
+            "null"
+          ],
           "description": "Lowercased unit parsed from raw (e.g. \"ml\"); null if unparseable."
         }
       },
-      "required": ["raw", "value", "unit"],
+      "required": [
+        "raw",
+        "value",
+        "unit"
+      ],
+      "additionalProperties": false
+    },
+    "measurement": {
+      "type": "object",
+      "title": "Measurement",
+      "properties": {
+        "device": {
+          "type": "string"
+        },
+        "illuminant": {
+          "enum": [
+            "D50",
+            "D65"
+          ]
+        },
+        "observer": {
+          "type": "string"
+        },
+        "lab": {
+          "type": "object",
+          "properties": {
+            "l": {
+              "type": "number"
+            },
+            "a": {
+              "type": "number"
+            },
+            "b": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "l",
+            "a",
+            "b"
+          ],
+          "additionalProperties": false
+        },
+        "hex": {
+          "type": "string",
+          "pattern": "^#[0-9A-Fa-f]{6}$",
+          "description": "sRGB (D65) computed from lab."
+        },
+        "deviceHex": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "samples": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "substrate": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "coats": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "date": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "by": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "note": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "device",
+        "illuminant",
+        "observer",
+        "lab",
+        "hex",
+        "deviceHex",
+        "samples",
+        "substrate",
+        "coats",
+        "date",
+        "by",
+        "note"
+      ],
       "additionalProperties": false
     }
   }

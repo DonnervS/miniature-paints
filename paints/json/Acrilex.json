@@ -1,6 +1,6 @@
 {
   "$schema": "../../schema/brand.schema.json",
-  "schema": "miniature-paints/v4",
+  "schema": "miniature-paints/v5",
   "displayName": "Acrilex",
   "company": "Acrilex Tintas Especiais S.A.",
   "address": {
@@ -20,6 +20,9 @@
       "id": "acrilex-831",
       "name": "Almond",
       "code": "831",
+      "ean": [
+        "7891153021423"
+      ],
       "set": "Acrilex Paints",
       "hex": "#D97037",
       "rgb": {
@@ -46,12 +49,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-828",
       "name": "Antique Rose",
       "code": "828",
+      "ean": [
+        "7891153021522"
+      ],
       "set": "Acrilex Paints",
       "hex": "#E87C83",
       "rgb": {
@@ -78,12 +86,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-802",
       "name": "Apple Green",
       "code": "802",
+      "ean": [
+        "7891153021928",
+        "7891153016672",
+        "7891153034294"
+      ],
       "set": "Acrilex Paints",
       "hex": "#ADBD00",
       "rgb": {
@@ -110,12 +125,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-803",
       "name": "Aquamarine",
       "code": "803",
+      "ean": [
+        "7891153080673"
+      ],
       "set": "Acrilex Paints",
       "hex": "#98CBD4",
       "rgb": {
@@ -142,12 +162,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-809",
       "name": "Baby Lilac",
       "code": "809",
+      "ean": [
+        "7891153080376",
+        "7891153079653"
+      ],
       "set": "Acrilex Paints",
       "hex": "#EFECF5",
       "rgb": {
@@ -174,12 +200,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-910",
       "name": "Baby Pink",
       "code": "910",
+      "ean": [
+        "7891153080116",
+        "7891153079479"
+      ],
       "set": "Acrilex Paints",
       "hex": "#EDBDCF",
       "rgb": {
@@ -206,12 +238,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-813",
       "name": "Baby Rose",
       "code": "813",
+      "ean": [
+        "7891153021461",
+        "7891153016214",
+        "7891153034188"
+      ],
       "set": "Acrilex Paints",
       "hex": "#FBEDEE",
       "rgb": {
@@ -238,12 +277,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-812",
       "name": "Baby Salmon",
       "code": "812",
+      "ean": [
+        "7891153079998"
+      ],
       "set": "Acrilex Paints",
       "hex": "#FAEAE5",
       "rgb": {
@@ -270,12 +314,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-808",
       "name": "Baby Yellow",
       "code": "808",
+      "ean": [
+        "7891153021348",
+        "7891153016092",
+        "7891153034126"
+      ],
       "set": "Acrilex Paints",
       "hex": "#FBF6BA",
       "rgb": {
@@ -302,12 +353,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-921",
       "name": "Bali Blue",
       "code": "921",
+      "ean": [
+        "7891153080512"
+      ],
       "set": "Acrilex Paints",
       "hex": "#91AFD4",
       "rgb": {
@@ -334,12 +390,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-914",
       "name": "Berry",
       "code": "914",
+      "ean": [
+        "7891153080291"
+      ],
       "set": "Acrilex Paints",
       "hex": "#944647",
       "rgb": {
@@ -366,12 +427,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-520",
       "name": "Black",
       "code": "520",
+      "ean": [
+        "7891153035475",
+        "7891153035079",
+        "7891153035338"
+      ],
       "set": "Acrilex Paints",
       "hex": "#0A1202",
       "rgb": {
@@ -398,12 +466,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-559",
       "name": "Blue",
       "code": "559",
+      "ean": [
+        "7891153080536",
+        "7891153080994",
+        "7891153079271"
+      ],
       "set": "Acrilex Paints",
       "hex": "#3C74B3",
       "rgb": {
@@ -430,12 +505,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-531",
       "name": "Brown",
       "code": "531",
+      "ean": [
+        "7891153035512",
+        "7891153035116",
+        "7891153035369"
+      ],
       "set": "Acrilex Paints",
       "hex": "#AF6A4A",
       "rgb": {
@@ -462,12 +544,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-805",
       "name": "Burnt Guava",
       "code": "805",
+      "ean": [
+        "7891153021669"
+      ],
       "set": "Acrilex Paints",
       "hex": "#CA5251",
       "rgb": {
@@ -494,12 +581,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-514",
       "name": "Burnt Soil",
       "code": "514",
+      "ean": [
+        "7891153080277"
+      ],
       "set": "Acrilex Paints",
       "hex": "#9A4B46",
       "rgb": {
@@ -526,12 +618,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-818",
       "name": "Burnt Suede",
       "code": "818",
+      "ean": [
+        "7891153021980"
+      ],
       "set": "Acrilex Paints",
       "hex": "#E2BB94",
       "rgb": {
@@ -558,12 +655,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-536",
       "name": "Cadmium Yellow",
       "code": "536",
+      "ean": [
+        "7891153035529",
+        "7891153035123",
+        "7891153028675"
+      ],
       "set": "Acrilex Paints",
       "hex": "#F2A030",
       "rgb": {
@@ -590,12 +694,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-585",
       "name": "Cappuccino",
       "code": "585",
+      "ean": [
+        "7891153022116",
+        "7891153016856"
+      ],
       "set": "Acrilex Paints",
       "hex": "#B39374",
       "rgb": {
@@ -622,12 +732,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-576",
       "name": "Carrot",
       "code": "576",
+      "ean": [
+        "7891153080079",
+        "7891153079431"
+      ],
       "set": "Acrilex Paints",
       "hex": "#E76104",
       "rgb": {
@@ -654,12 +770,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-506",
       "name": "Ceramic",
       "code": "506",
+      "ean": [
+        "7891153022079",
+        "7891153016818"
+      ],
       "set": "Acrilex Paints",
       "hex": "#A54F36",
       "rgb": {
@@ -686,12 +808,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-826",
       "name": "Cherry",
       "code": "826",
+      "ean": [
+        "7891153021621",
+        "7891153016375",
+        "7891153034225"
+      ],
       "set": "Acrilex Paints",
       "hex": "#983234",
       "rgb": {
@@ -718,12 +847,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-540",
       "name": "Cobalt Violet",
       "code": "540",
+      "ean": [
+        "7891153080475",
+        "7891153080970"
+      ],
       "set": "Acrilex Paints",
       "hex": "#E1E1E1",
       "rgb": {
@@ -750,12 +885,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-819",
       "name": "Concrete",
       "code": "819",
+      "ean": [
+        "7891153021966",
+        "7891153016719"
+      ],
       "set": "Acrilex Paints",
       "hex": "#AF9F82",
       "rgb": {
@@ -782,12 +923,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-586",
       "name": "Coral",
       "code": "586",
+      "ean": [
+        "7891153080192"
+      ],
       "set": "Acrilex Paints",
       "hex": "#E1E1E1",
       "rgb": {
@@ -814,12 +960,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-894",
       "name": "Cotton Rose",
       "code": "894",
+      "ean": [
+        "7891153080093",
+        "7891153079455",
+        "7891153079233"
+      ],
       "set": "Acrilex Paints",
       "hex": "#F6CECF",
       "rgb": {
@@ -846,12 +999,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-825",
       "name": "Country Blue",
       "code": "825",
+      "ean": [
+        "7891153021720",
+        "7891153016474"
+      ],
       "set": "Acrilex Paints",
       "hex": "#9AABCD",
       "rgb": {
@@ -878,12 +1037,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-822",
       "name": "Country Green",
       "code": "822",
+      "ean": [
+        "7891153021843",
+        "7891153016597"
+      ],
       "set": "Acrilex Paints",
       "hex": "#009B85",
       "rgb": {
@@ -910,12 +1075,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-903",
       "name": "Cream",
       "code": "903",
+      "ean": [
+        "7891153079912",
+        "7891153079332",
+        "7891153080918"
+      ],
       "set": "Acrilex Paints",
       "hex": "#FCFAED",
       "rgb": {
@@ -942,12 +1114,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-581",
       "name": "Cyclamen Rose",
       "code": "581",
+      "ean": [
+        "7891153021546",
+        "7891153016290"
+      ],
       "set": "Acrilex Paints",
       "hex": "#C07380",
       "rgb": {
@@ -974,12 +1152,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-917",
       "name": "Dark Violet",
       "code": "917",
+      "ean": [
+        "7891153080451"
+      ],
       "set": "Acrilex Paints",
       "hex": "#631761",
       "rgb": {
@@ -1006,12 +1189,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-526",
       "name": "Deep Brown",
       "code": "526",
+      "ean": [
+        "7891153035499",
+        "7891153035093",
+        "7891153028651"
+      ],
       "set": "Acrilex Paints",
       "hex": "#80573F",
       "rgb": {
@@ -1038,12 +1228,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-542",
       "name": "Deep Rose",
       "code": "542",
+      "ean": [
+        "7891153021508",
+        "7891153016252"
+      ],
       "set": "Acrilex Paints",
       "hex": "#E9A4BC",
       "rgb": {
@@ -1070,12 +1266,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-824",
       "name": "Dry Blue",
       "code": "824",
+      "ean": [
+        "7891153080574"
+      ],
       "set": "Acrilex Paints",
       "hex": "#525F75",
       "rgb": {
@@ -1102,12 +1303,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-571",
       "name": "Emerald Green",
       "code": "571",
+      "ean": [
+        "7891153035642",
+        "7891153035246"
+      ],
       "set": "Acrilex Paints",
       "hex": "#003F2C",
       "rgb": {
@@ -1134,12 +1341,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-507",
       "name": "Fire Red",
       "code": "507",
+      "ean": [
+        "7891153035437",
+        "7891153035031",
+        "7891153035291"
+      ],
       "set": "Acrilex Paints",
       "hex": "#DD5027",
       "rgb": {
@@ -1166,12 +1380,15 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-538",
       "name": "Flesh Tint",
       "code": "538",
+      "ean": null,
       "set": "Acrilex Paints",
       "hex": "#F9E8DB",
       "rgb": {
@@ -1198,12 +1415,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-929",
       "name": "Flesh Tint Deep",
       "code": "929",
+      "ean": [
+        "7891153080017",
+        "7891153079394"
+      ],
       "set": "Acrilex Paints",
       "hex": "#F0BAA1",
       "rgb": {
@@ -1230,12 +1453,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-804",
       "name": "Fuchsia",
       "code": "804",
+      "ean": [
+        "7891153080215",
+        "7891153079554"
+      ],
       "set": "Acrilex Paints",
       "hex": "#C6146A",
       "rgb": {
@@ -1262,12 +1491,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-904",
       "name": "Gold Ochre",
       "code": "904",
+      "ean": [
+        "7891153080697",
+        "7891153081076"
+      ],
       "set": "Acrilex Paints",
       "hex": "#E8D6A3",
       "rgb": {
@@ -1294,12 +1529,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-505",
       "name": "Gold Yellow",
       "code": "505",
+      "ean": [
+        "7891153035420",
+        "7891153035024",
+        "7891153035284"
+      ],
       "set": "Acrilex Paints",
       "hex": "#F8BF00",
       "rgb": {
@@ -1326,12 +1568,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-582",
       "name": "Grass Green",
       "code": "582",
+      "ean": [
+        "7891153080659",
+        "7891153081052"
+      ],
       "set": "Acrilex Paints",
       "hex": "#02692E",
       "rgb": {
@@ -1358,12 +1606,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-933",
       "name": "Gray",
       "code": "933",
+      "ean": [
+        "7891153080833",
+        "7891153081151"
+      ],
       "set": "Acrilex Paints",
       "hex": "#DDE3E4",
       "rgb": {
@@ -1390,12 +1644,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-916",
       "name": "Grey Violet",
       "code": "916",
+      "ean": [
+        "7891153080413"
+      ],
       "set": "Acrilex Paints",
       "hex": "#A094B0",
       "rgb": {
@@ -1422,12 +1681,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-579",
       "name": "Hortensia Blue",
       "code": "579",
+      "ean": [
+        "7891153022154",
+        "7891153016436"
+      ],
       "set": "Acrilex Paints",
       "hex": "#C2E0EB",
       "rgb": {
@@ -1454,12 +1719,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-578",
       "name": "Intense Blue",
       "code": "578",
+      "ean": [
+        "7891153080550",
+        "7891153081014"
+      ],
       "set": "Acrilex Paints",
       "hex": "#1C4290",
       "rgb": {
@@ -1486,12 +1757,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-587",
       "name": "Lavender",
       "code": "587",
+      "ean": [
+        "7891153080390"
+      ],
       "set": "Acrilex Paints",
       "hex": "#CDD8EC",
       "rgb": {
@@ -1518,12 +1794,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-530",
       "name": "Lead",
       "code": "530",
+      "ean": [
+        "7891153080857",
+        "7891153081199"
+      ],
       "set": "Acrilex Paints",
       "hex": "#595A54",
       "rgb": {
@@ -1550,12 +1832,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-510",
       "name": "Leaf Green",
       "code": "510",
+      "ean": [
+        "7891153021942",
+        "7891153016696",
+        "7891153034317"
+      ],
       "set": "Acrilex Paints",
       "hex": "#60AE32",
       "rgb": {
@@ -1582,12 +1871,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-504",
       "name": "Lemon Yellow",
       "code": "504",
+      "ean": [
+        "7891153079950",
+        "7891153079370",
+        "7891153080956"
+      ],
       "set": "Acrilex Paints",
       "hex": "#F9ED46",
       "rgb": {
@@ -1614,12 +1910,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-528",
       "name": "Lilac",
       "code": "528",
+      "ean": [
+        "7891153021560",
+        "7891153016313"
+      ],
       "set": "Acrilex Paints",
       "hex": "#EBDCE7",
       "rgb": {
@@ -1646,12 +1948,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-541",
       "name": "Live Red",
       "code": "541",
+      "ean": [
+        "7891153021645",
+        "7891153016399"
+      ],
       "set": "Acrilex Paints",
       "hex": "#DD2817",
       "rgb": {
@@ -1678,12 +1986,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-879",
       "name": "Lunar Sand",
       "code": "879",
+      "ean": [
+        "7891153080796"
+      ],
       "set": "Acrilex Paints",
       "hex": "#C0C6B5",
       "rgb": {
@@ -1710,12 +2023,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-549",
       "name": "Magenta",
       "code": "549",
+      "ean": [
+        "7891153035567",
+        "7891153035161"
+      ],
       "set": "Acrilex Paints",
       "hex": "#C04E82",
       "rgb": {
@@ -1742,12 +2061,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-544",
       "name": "Marine Blue",
       "code": "544",
+      "ean": [
+        "7891153080598",
+        "7891153081038"
+      ],
       "set": "Acrilex Paints",
       "hex": "#003F69",
       "rgb": {
@@ -1774,12 +2099,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-895",
       "name": "Melon",
       "code": "895",
+      "ean": [
+        "7891153079974"
+      ],
       "set": "Acrilex Paints",
       "hex": "#F5B845",
       "rgb": {
@@ -1806,12 +2136,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-893",
       "name": "Mineral",
       "code": "893",
+      "ean": [
+        "7891153079899",
+        "7891153079318",
+        "7891153080895"
+      ],
       "set": "Acrilex Paints",
       "hex": "#F4F7DF",
       "rgb": {
@@ -1838,12 +2175,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-513",
       "name": "Moss Green",
       "code": "513",
+      "ean": [
+        "7891153035444",
+        "7891153035048",
+        "7891153035307"
+      ],
       "set": "Acrilex Paints",
       "hex": "#496722",
       "rgb": {
@@ -1870,12 +2214,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-564",
       "name": "Ochre Yellow",
       "code": "564",
+      "ean": [
+        "7891153035581",
+        "7891153035185",
+        "7891153035376"
+      ],
       "set": "Acrilex Paints",
       "hex": "#E09742",
       "rgb": {
@@ -1902,12 +2253,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-545",
       "name": "Olive Green",
       "code": "545",
+      "ean": [
+        "7891153035550",
+        "7891153035154",
+        "7891153034379"
+      ],
       "set": "Acrilex Paints",
       "hex": "#6C6E3C",
       "rgb": {
@@ -1934,12 +2292,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-517",
       "name": "Orange",
       "code": "517",
+      "ean": [
+        "7891153021362",
+        "7891153016115",
+        "7891153034140"
+      ],
       "set": "Acrilex Paints",
       "hex": "#E33600",
       "rgb": {
@@ -1966,12 +2331,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-915",
       "name": "Orchid",
       "code": "915",
+      "ean": [
+        "7891153080338",
+        "7891153079639"
+      ],
       "set": "Acrilex Paints",
       "hex": "#DEBED4",
       "rgb": {
@@ -1998,12 +2369,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-892",
       "name": "Pearl",
       "code": "892",
+      "ean": [
+        "7891153079936",
+        "7891153079356",
+        "7891153080932"
+      ],
       "set": "Acrilex Paints",
       "hex": "#FEFAE1",
       "rgb": {
@@ -2030,12 +2408,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-527",
       "name": "Pink",
       "code": "527",
+      "ean": [
+        "7891153080178",
+        "7891153079530"
+      ],
       "set": "Acrilex Paints",
       "hex": "#EB889F",
       "rgb": {
@@ -2062,12 +2446,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-570",
       "name": "Pistachio Green",
       "code": "570",
+      "ean": [
+        "7891153035635",
+        "7891153035239",
+        "7891153035390"
+      ],
       "set": "Acrilex Paints",
       "hex": "#A1A534",
       "rgb": {
@@ -2094,12 +2485,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-913",
       "name": "Plum",
       "code": "913",
+      "ean": [
+        "7891153080352"
+      ],
       "set": "Acrilex Paints",
       "hex": "#85485A",
       "rgb": {
@@ -2126,12 +2522,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-827",
       "name": "Pomegranate",
       "code": "827",
+      "ean": [
+        "7891153021607"
+      ],
       "set": "Acrilex Paints",
       "hex": "#CF1E32",
       "rgb": {
@@ -2158,12 +2559,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-823",
       "name": "Pool Blue",
       "code": "823",
+      "ean": [
+        "7891153021805"
+      ],
       "set": "Acrilex Paints",
       "hex": "#2593AA",
       "rgb": {
@@ -2190,12 +2596,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-550",
       "name": "Purple",
       "code": "550",
+      "ean": [
+        "7891153035574",
+        "7891153035178",
+        "7891153028613"
+      ],
       "set": "Acrilex Paints",
       "hex": "#973632",
       "rgb": {
@@ -2222,12 +2635,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-539",
       "name": "Raw Sienna",
       "code": "539",
+      "ean": [
+        "7891153080734",
+        "7891153081090"
+      ],
       "set": "Acrilex Paints",
       "hex": "#B5672C",
       "rgb": {
@@ -2254,12 +2673,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-555",
       "name": "Red",
       "code": "555",
+      "ean": [
+        "7891153080239",
+        "7891153079578"
+      ],
       "set": "Acrilex Paints",
       "hex": "#D01512",
       "rgb": {
@@ -2286,12 +2711,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-537",
       "name": "Rose",
       "code": "537",
+      "ean": [
+        "7891153080130",
+        "7891153079493",
+        "7891153079257"
+      ],
       "set": "Acrilex Paints",
       "hex": "#F5C8D2",
       "rgb": {
@@ -2318,12 +2750,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-898",
       "name": "Rosemary Green",
       "code": "898",
+      "ean": [
+        "7891153080635"
+      ],
       "set": "Acrilex Paints",
       "hex": "#DFE37B",
       "rgb": {
@@ -2350,12 +2787,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-918",
       "name": "Royal Purple",
       "code": "918",
+      "ean": [
+        "7891153080437"
+      ],
       "set": "Acrilex Paints",
       "hex": "#796BA5",
       "rgb": {
@@ -2382,12 +2824,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-896",
       "name": "Rustic",
       "code": "896",
+      "ean": [
+        "7891153080772",
+        "7891153081113",
+        "7891153079295"
+      ],
       "set": "Acrilex Paints",
       "hex": "#4B3513",
       "rgb": {
@@ -2414,12 +2863,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-835",
       "name": "Saara",
       "code": "835",
+      "ean": [
+        "7891153021300",
+        "7891153006222",
+        "7891153079219"
+      ],
       "set": "Acrilex Paints",
       "hex": "#F3EEDE",
       "rgb": {
@@ -2446,12 +2902,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-518",
       "name": "Salmon",
       "code": "518",
+      "ean": [
+        "7891153080031"
+      ],
       "set": "Acrilex Paints",
       "hex": "#F1A485",
       "rgb": {
@@ -2478,12 +2939,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-817",
       "name": "Sand",
       "code": "817",
+      "ean": [
+        "7891153022000",
+        "7891153016757",
+        "7891153034331"
+      ],
       "set": "Acrilex Paints",
       "hex": "#F5E6D7",
       "rgb": {
@@ -2510,12 +2978,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-508",
       "name": "Scarlet Red",
       "code": "508",
+      "ean": [
+        "7891153080253",
+        "7891153079592"
+      ],
       "set": "Acrilex Paints",
       "hex": "#A92125",
       "rgb": {
@@ -2542,12 +3016,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-551",
       "name": "Sepia",
       "code": "551",
+      "ean": [
+        "7891153080819",
+        "7891153081137"
+      ],
       "set": "Acrilex Paints",
       "hex": "#514933",
       "rgb": {
@@ -2574,12 +3054,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-503",
       "name": "Sky Blue",
       "code": "503",
+      "ean": [
+        "7891153035413",
+        "7891153035017",
+        "7891153035277"
+      ],
       "set": "Acrilex Paints",
       "hex": "#67B8E0",
       "rgb": {
@@ -2606,12 +3093,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-897",
       "name": "Soft Green",
       "code": "897",
+      "ean": [
+        "7891153080611"
+      ],
       "set": "Acrilex Paints",
       "hex": "#F9F9DF",
       "rgb": {
@@ -2638,12 +3130,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-820",
       "name": "Spring Green",
       "code": "820",
+      "ean": [
+        "7891153021904",
+        "7891153016658"
+      ],
       "set": "Acrilex Paints",
       "hex": "#EAF0CB",
       "rgb": {
@@ -2670,12 +3168,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-525",
       "name": "Suede",
       "code": "525",
+      "ean": [
+        "7891153035482",
+        "7891153035086"
+      ],
       "set": "Acrilex Paints",
       "hex": "#FBD786",
       "rgb": {
@@ -2702,12 +3206,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-569",
       "name": "Sugar Candy",
       "code": "569",
+      "ean": [
+        "7891153080710"
+      ],
       "set": "Acrilex Paints",
       "hex": "#B88100",
       "rgb": {
@@ -2734,12 +3243,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-801",
       "name": "Tangerine",
       "code": "801",
+      "ean": [
+        "7891153080055"
+      ],
       "set": "Acrilex Paints",
       "hex": "#E1E1E1",
       "rgb": {
@@ -2766,12 +3280,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-932",
       "name": "Tile",
       "code": "932",
+      "ean": [
+        "7891153080758"
+      ],
       "set": "Acrilex Paints",
       "hex": "#BD3D27",
       "rgb": {
@@ -2798,12 +3317,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-577",
       "name": "Turquoise",
       "code": "577",
+      "ean": [
+        "7891153021829",
+        "7891153016573"
+      ],
       "set": "Acrilex Paints",
       "hex": "#6BBEBD",
       "rgb": {
@@ -2830,12 +3355,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-501",
       "name": "Turquoise Blue",
       "code": "501",
+      "ean": [
+        "7891153035406",
+        "7891153035000",
+        "7891153035260"
+      ],
       "set": "Acrilex Paints",
       "hex": "#264E7F",
       "rgb": {
@@ -2862,12 +3394,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-909",
       "name": "Tutti-Frutti",
       "code": "909",
+      "ean": [
+        "7891153080154",
+        "7891153079516"
+      ],
       "set": "Acrilex Paints",
       "hex": "#F2BFD9",
       "rgb": {
@@ -2894,12 +3432,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-516",
       "name": "Violet",
       "code": "516",
+      "ean": [
+        "7891153021584",
+        "7891153016337",
+        "7891153079417"
+      ],
       "set": "Acrilex Paints",
       "hex": "#A380B4",
       "rgb": {
@@ -2926,12 +3471,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-919",
       "name": "Water Blue",
       "code": "919",
+      "ean": [
+        "7891153080499"
+      ],
       "set": "Acrilex Paints",
       "hex": "#E9F6FC",
       "rgb": {
@@ -2958,12 +3508,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-821",
       "name": "Water Green",
       "code": "821",
+      "ean": [
+        "7891153021881"
+      ],
       "set": "Acrilex Paints",
       "hex": "#C5E3DB",
       "rgb": {
@@ -2990,12 +3545,19 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-519",
       "name": "White",
       "code": "519",
+      "ean": [
+        "7891153035468",
+        "7891153035062",
+        "7891153035321"
+      ],
       "set": "Acrilex Paints",
       "hex": "#FFFFFF",
       "rgb": {
@@ -3022,12 +3584,18 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "acrilex-565",
       "name": "Wine",
       "code": "565",
+      "ean": [
+        "7891153080314",
+        "7891153079615"
+      ],
       "set": "Acrilex Paints",
       "hex": "#693A49",
       "rgb": {
@@ -3054,7 +3622,9 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     }
   ]
 }

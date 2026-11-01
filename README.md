@@ -1,8 +1,11 @@
 # Name, Set, RGB, and Hex values of Miniature Paints
 
-**33 brands · 11,609 paints**
+**33 brands · 12,604 paints · 7,448 with EAN · measured colours**
 
 This is a collection of hobby/miniature painting paints from some of the most popular brands around the world.
+
+> [!NOTE]
+> **This fork (DonnervS/miniature-paints)** builds on [mark-mckee/miniature-paints](https://github.com/mark-mckee/miniature-paints) and merges in the data from [bart-kooi/miniature-paints](https://github.com/bart-kooi/miniature-paints) (EAN barcodes, Ammo ranges, Warhammer Tone Pro, Warcolours Nostalgia ranges, more Golden and RAL colours). It also adds **instrument-measured colours** (CIELAB from a Nix Spectro 2 / Datacolor ColorReader) next to the approximated hex values; see [`measurements/`](measurements/) and [`docs/MERGE-NOTES.md`](docs/MERGE-NOTES.md).
 
 I forked the original repo from Arcturus5404/miniature-paints, who had made a significant amount of progress, but has not updated the repo in several years. I needed a clean and up to date dataset for my own paint/supplies inventory app.
 
@@ -12,6 +15,8 @@ Feel free to use or improve any of these paints in your own personal projects. T
 
 ## RGB & HEX
 Unless otherwise stated, the RGB/Hex values for all paints are an approximation, as most manufacturers hold the spectral info secret. For the most part, the values have been sampled from product images either from the brands website or product catalogue.
+
+Where a paint has been measured with a colorimeter, the reading is stored in [`measurements/measurements.csv`](measurements/measurements.csv) and appears in the JSON as `measurements` and `measuredHex`. Prefer `measuredHex` over `hex` when it is set.
 
 ## Discontinued Paints
 I have yet to decide how to handle discontinued paints. It's a tricky one.
@@ -68,7 +73,7 @@ Every output file is described by a formal [JSON Schema](https://json-schema.org
 ```jsonc
 {
   "$schema": "../schema/paints.schema.json",  // relative link to the schema
-  "schema": "miniature-paints/v3",            // version tag
+  "schema": "miniature-paints/v5",            // version tag
   "brandCount": 33,
   "paintCount": 11812,
   "brands": {
@@ -86,7 +91,7 @@ The per-brand files `paints/json/<stem>.json` each contain a single **brand obje
 ```jsonc
 {
   "$schema": "../../schema/brand.schema.json",   // standalone files only
-  "schema": "miniature-paints/v3",            // standalone files only
+  "schema": "miniature-paints/v5",            // standalone files only
   "displayName": "Acrilex",
   "company": "Acrilex Tintas Especiais S.A.",
   "address": { "street": "", "city": "", "postcode": "", "country": "" },
@@ -107,6 +112,7 @@ The per-brand files `paints/json/<stem>.json` each contain a single **brand obje
   "id": "acrilex-831",          // string, unique within a brand: "<brand-slug>-<code|name-slug>"
   "name": "Almond",             // string
   "code": "831",                // string | null  (null for brands with no code column)
+  "ean": ["7891153021423"],     // string[] | null — EAN/GTIN barcodes, one per pot size or packaging
   "set": "Acrilex Paints",      // string | null
   "hex": "#D97037",             // string | null  — single colour (null for colour-shift paints)
   "rgb": { "r": 217, "g": 112, "b": 55 },   // object | null  (r/g/b are integers)
@@ -116,7 +122,9 @@ The per-brand files `paints/json/<stem>.json` each contain a single **brand obje
     { "raw": "60ml",  "value": 60,  "unit": "ml" },
     { "raw": "250ml", "value": 250, "unit": "ml" }
   ],
-  "description": null           // string | null
+  "description": null,          // string | null
+  "measurements": null,         // object[] | null — instrument readings, see measurements/README.md
+  "measuredHex": null           // string | null — sRGB of the averaged measurements; prefer over hex
 }
 ```
 
@@ -127,7 +135,7 @@ The per-brand files `paints/json/<stem>.json` each contain a single **brand obje
 - `potSizes` is an array when one or more sizes are known, or `null` when no size is recorded. Each entry is `{ raw, value, unit }`; if a size string can't be parsed, `value`/`unit` are `null` but `raw` is preserved. Single-size brands are 1-element arrays.
 
 > [!NOTE]
-> The `schema` field is versioned. `v3` renamed the former singular `potSize` object to the `potSizes` array — consumers reading pot sizes should expect an array (or `null`).
+> The `schema` field is versioned. `v5` added `ean`, `measurements` and `measuredHex`. `v3` renamed the former singular `potSize` object to the `potSizes` array — consumers reading pot sizes should expect an array (or `null`).
 
 ## Paints by brand
 

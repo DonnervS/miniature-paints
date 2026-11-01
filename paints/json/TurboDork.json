@@ -1,6 +1,6 @@
 {
   "$schema": "../../schema/brand.schema.json",
-  "schema": "miniature-paints/v4",
+  "schema": "miniature-paints/v5",
   "displayName": "Turbo Dork",
   "company": "Turbo Dork",
   "address": {
@@ -20,6 +20,10 @@
       "id": "turbodork-tdk025076",
       "name": "Absinthe",
       "code": "TDK025076",
+      "ean": [
+        "0631145994789",
+        "0850052885076"
+      ],
       "set": "Metallic",
       "hex": "#40C385",
       "rgb": {
@@ -36,12 +40,18 @@
           "unit": "ml"
         }
       ],
-      "description": "vivid bluish green metallic"
+      "description": "vivid bluish green metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025090",
       "name": "All That Glitters",
       "code": "TDK025090",
+      "ean": [
+        "0631145994819",
+        "0850052885090"
+      ],
       "set": "Metallic",
       "hex": "#D6B34F",
       "rgb": {
@@ -58,12 +68,18 @@
           "unit": "ml"
         }
       ],
-      "description": "sparkly vivid yellow gold metallic"
+      "description": "sparkly vivid yellow gold metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025106",
       "name": "Apple Seed",
       "code": "TDK025106",
+      "ean": [
+        "0631145994536",
+        "0850052885106"
+      ],
       "set": "Metallic",
       "hex": "#44CC6C",
       "rgb": {
@@ -80,12 +96,18 @@
           "unit": "ml"
         }
       ],
-      "description": "vivid yellowish green metallic"
+      "description": "vivid yellowish green metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025113",
       "name": "Bees Knees",
       "code": "TDK025113",
+      "ean": [
+        "0631145995205",
+        "0850052885113"
+      ],
       "set": "Metallic",
       "hex": "#FFE145",
       "rgb": {
@@ -102,12 +124,18 @@
           "unit": "ml"
         }
       ],
-      "description": "vivid yellow metallic"
+      "description": "vivid yellow metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025120",
       "name": "Black ICE",
       "code": "TDK025120",
+      "ean": [
+        "0631145995250",
+        "0850052885120"
+      ],
       "set": "Metallic",
       "hex": "#5D6164",
       "rgb": {
@@ -124,12 +152,18 @@
           "unit": "ml"
         }
       ],
-      "description": "black metallic"
+      "description": "black metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025151",
       "name": "Blue Steel",
       "code": "TDK025151",
+      "ean": [
+        "0631145994451",
+        "0850052885151"
+      ],
       "set": "Metallic",
       "hex": "#6993AA",
       "rgb": {
@@ -146,12 +180,17 @@
           "unit": "ml"
         }
       ],
-      "description": "light blue metallic"
+      "description": "light blue metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025168",
       "name": "Box Wine",
       "code": "TDK025168",
+      "ean": [
+        "0850052885168"
+      ],
       "set": "Metallic",
       "hex": "#B55B57",
       "rgb": {
@@ -168,12 +207,18 @@
           "unit": "ml"
         }
       ],
-      "description": "deep reddish brown metallic"
+      "description": "deep reddish brown metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025182",
       "name": "Bullion",
       "code": "TDK025182",
+      "ean": [
+        "0631145995052",
+        "0850052885182"
+      ],
       "set": "Metallic",
       "hex": "#FFC362",
       "rgb": {
@@ -190,12 +235,18 @@
           "unit": "ml"
         }
       ],
-      "description": "strong yellow gold metallic"
+      "description": "strong yellow gold metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025144",
       "name": "Cartridge Family",
       "code": "TDK025144",
+      "ean": [
+        "0631145995045",
+        "0850052885144"
+      ],
       "set": "Metallic",
       "hex": "#F79A47",
       "rgb": {
@@ -212,12 +263,18 @@
           "unit": "ml"
         }
       ],
-      "description": "deep orange yellow brass metallic"
+      "description": "deep orange yellow brass metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025212",
       "name": "Cool Ranch",
       "code": "TDK025212",
+      "ean": [
+        "0631145994512",
+        "0850052885212"
+      ],
       "set": "Metallic",
       "hex": "#495EA8",
       "rgb": {
@@ -234,12 +291,18 @@
           "unit": "ml"
         }
       ],
-      "description": "deep blue metallic"
+      "description": "deep blue metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025236",
       "name": "Curacao",
       "code": "TDK025236",
+      "ean": [
+        "0631145994802",
+        "0850052885236"
+      ],
       "set": "Metallic",
       "hex": "#4CCCD5",
       "rgb": {
@@ -256,12 +319,18 @@
           "unit": "ml"
         }
       ],
-      "description": "brilliant bluish green metallic"
+      "description": "brilliant bluish green metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025250",
       "name": "Da Ba Dee",
       "code": "TDK025250",
+      "ean": [
+        "0631145994376",
+        "0850052885250"
+      ],
       "set": "Metallic",
       "hex": "#4B94CB",
       "rgb": {
@@ -278,12 +347,18 @@
           "unit": "ml"
         }
       ],
-      "description": "brilliant blue metallic"
+      "description": "brilliant blue metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025281",
       "name": "Death By",
       "code": "TDK025281",
+      "ean": [
+        "0631145994703",
+        "0850052885281"
+      ],
       "set": "Metallic",
       "hex": "#805D49",
       "rgb": {
@@ -300,12 +375,18 @@
           "unit": "ml"
         }
       ],
-      "description": "dark yellowish brown metallic"
+      "description": "dark yellowish brown metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025298",
       "name": "Dork",
       "code": "TDK025298",
+      "ean": [
+        "0631145994567",
+        "0850052885298"
+      ],
       "set": "Metallic",
       "hex": "#48D6FF",
       "rgb": {
@@ -322,12 +403,17 @@
           "unit": "ml"
         }
       ],
-      "description": "vivid light blue metallic"
+      "description": "vivid light blue metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025335",
       "name": "Fahrenheit",
       "code": "TDK025335",
+      "ean": [
+        "0850052885335"
+      ],
       "set": "Metallic",
       "hex": "#FD6C4F",
       "rgb": {
@@ -344,12 +430,18 @@
           "unit": "ml"
         }
       ],
-      "description": "vivid reddish orange metallic"
+      "description": "vivid reddish orange metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025366",
       "name": "Gold Rush",
       "code": "TDK025366",
+      "ean": [
+        "0631145995069",
+        "0850052885366"
+      ],
       "set": "Metallic",
       "hex": "#F4BC64",
       "rgb": {
@@ -366,12 +458,18 @@
           "unit": "ml"
         }
       ],
-      "description": "moderate light yellow gold metallic"
+      "description": "moderate light yellow gold metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025373",
       "name": "Gordian Knot",
       "code": "TDK025373",
+      "ean": [
+        "0631145995182",
+        "0850052885373"
+      ],
       "set": "Metallic",
       "hex": "#7BAA78",
       "rgb": {
@@ -388,12 +486,18 @@
           "unit": "ml"
         }
       ],
-      "description": "moderate yellowish green metallic"
+      "description": "moderate yellowish green metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025410",
       "name": "Hotline",
       "code": "TDK025410",
+      "ean": [
+        "0631145994611",
+        "0850052885410"
+      ],
       "set": "Metallic",
       "hex": "#FF6ABA",
       "rgb": {
@@ -410,12 +514,18 @@
           "unit": "ml"
         }
       ],
-      "description": "vivid pink metallic with reddish purple overtone"
+      "description": "vivid pink metallic with reddish purple overtone",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025465",
       "name": "Life On Mars",
       "code": "TDK025465",
+      "ean": [
+        "0631145994734",
+        "0850052885465"
+      ],
       "set": "Metallic",
       "hex": "#9E4C3F",
       "rgb": {
@@ -432,12 +542,18 @@
           "unit": "ml"
         }
       ],
-      "description": "strong reddish brown metallic"
+      "description": "strong reddish brown metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025489",
       "name": "Maguro",
       "code": "TDK025489",
+      "ean": [
+        "0631145995090",
+        "0850052885489"
+      ],
       "set": "Metallic",
       "hex": "#90DDFE",
       "rgb": {
@@ -454,12 +570,18 @@
           "unit": "ml"
         }
       ],
-      "description": "very light blue metallic"
+      "description": "very light blue metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025496",
       "name": "Malum Malus",
       "code": "TDK025496",
+      "ean": [
+        "0631145994796",
+        "0850052885496"
+      ],
       "set": "Metallic",
       "hex": "#54C85F",
       "rgb": {
@@ -476,12 +598,18 @@
           "unit": "ml"
         }
       ],
-      "description": "strong yellowish green metallic"
+      "description": "strong yellowish green metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025540",
       "name": "Multi Pass",
       "code": "TDK025540",
+      "ean": [
+        "0631145994727",
+        "0850052885540"
+      ],
       "set": "Metallic",
       "hex": "#FF8251",
       "rgb": {
@@ -498,12 +626,18 @@
           "unit": "ml"
         }
       ],
-      "description": "vivid orange metallic"
+      "description": "vivid orange metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025557",
       "name": "Orange You Glad",
       "code": "TDK025557",
+      "ean": [
+        "0631145994581",
+        "0850052885557"
+      ],
       "set": "Metallic",
       "hex": "#FFD246",
       "rgb": {
@@ -520,12 +654,18 @@
           "unit": "ml"
         }
       ],
-      "description": "brilliant orange metallic"
+      "description": "brilliant orange metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025571",
       "name": "Pearly Gates",
       "code": "TDK025571",
+      "ean": [
+        "0631145994697",
+        "0850052885571"
+      ],
       "set": "Metallic",
       "hex": "#FFFFFF",
       "rgb": {
@@ -542,12 +682,18 @@
           "unit": "ml"
         }
       ],
-      "description": "white metallic"
+      "description": "white metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025588",
       "name": "People Eater",
       "code": "TDK025588",
+      "ean": [
+        "0631145994475",
+        "0850052885588"
+      ],
       "set": "Metallic",
       "hex": "#935AAF",
       "rgb": {
@@ -564,12 +710,18 @@
           "unit": "ml"
         }
       ],
-      "description": "vivid purple metallic"
+      "description": "vivid purple metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025601",
       "name": "Pucker",
       "code": "TDK025601",
+      "ean": [
+        "0631145994710",
+        "0850052885601"
+      ],
       "set": "Metallic",
       "hex": "#FDE852",
       "rgb": {
@@ -586,12 +738,18 @@
           "unit": "ml"
         }
       ],
-      "description": "vivid greenish yellow metallic"
+      "description": "vivid greenish yellow metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025618",
       "name": "Purl Grey",
       "code": "TDK025618",
+      "ean": [
+        "0631145994765",
+        "0850052885618"
+      ],
       "set": "Metallic",
       "hex": "#9E97D9",
       "rgb": {
@@ -608,12 +766,17 @@
           "unit": "ml"
         }
       ],
-      "description": "light purplish blue metallic"
+      "description": "light purplish blue metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025649",
       "name": "Red Queen",
       "code": "TDK025649",
+      "ean": [
+        "0850052885649"
+      ],
       "set": "Metallic",
       "hex": "#B44C4D",
       "rgb": {
@@ -630,12 +793,18 @@
           "unit": "ml"
         }
       ],
-      "description": "blackish red metallic"
+      "description": "blackish red metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025656",
       "name": "Redrum",
       "code": "TDK025656",
+      "ean": [
+        "0631145994741",
+        "0850052885656"
+      ],
       "set": "Metallic",
       "hex": "#D94E50",
       "rgb": {
@@ -652,12 +821,18 @@
           "unit": "ml"
         }
       ],
-      "description": "deep red metallic"
+      "description": "deep red metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025670",
       "name": "Sakura",
       "code": "TDK025670",
+      "ean": [
+        "0631145995083",
+        "0850052885670"
+      ],
       "set": "Metallic",
       "hex": "#FFB0CB",
       "rgb": {
@@ -674,12 +849,18 @@
           "unit": "ml"
         }
       ],
-      "description": "strong pink metallic"
+      "description": "strong pink metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025717",
       "name": "Silver Fox",
       "code": "TDK025717",
+      "ean": [
+        "0631145995014",
+        "0850052885717"
+      ],
       "set": "Metallic",
       "hex": "#B5B9BC",
       "rgb": {
@@ -696,12 +877,18 @@
           "unit": "ml"
         }
       ],
-      "description": "medium grey silver metallic"
+      "description": "medium grey silver metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025724",
       "name": "Six Shooter",
       "code": "TDK025724",
+      "ean": [
+        "0631145995021",
+        "0850052885724"
+      ],
       "set": "Metallic",
       "hex": "#757E82",
       "rgb": {
@@ -718,12 +905,18 @@
           "unit": "ml"
         }
       ],
-      "description": "dark grey silver metallic"
+      "description": "dark grey silver metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025748",
       "name": "Sparkle Motion",
       "code": "TDK025748",
+      "ean": [
+        "0631145994826",
+        "0850052885748"
+      ],
       "set": "Metallic",
       "hex": "#CFC9C2",
       "rgb": {
@@ -740,12 +933,18 @@
           "unit": "ml"
         }
       ],
-      "description": "light grey silver sparkle effect metallic"
+      "description": "light grey silver sparkle effect metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025755",
       "name": "Spicy Meatball",
       "code": "TDK025755",
+      "ean": [
+        "0631145994529",
+        "0850052885755"
+      ],
       "set": "Metallic",
       "hex": "#D44F58",
       "rgb": {
@@ -762,12 +961,18 @@
           "unit": "ml"
         }
       ],
-      "description": "strong purplish red metallic"
+      "description": "strong purplish red metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025779",
       "name": "Summoning Sickness",
       "code": "TDK025779",
+      "ean": [
+        "0631145994659",
+        "0850052885779"
+      ],
       "set": "Metallic",
       "hex": "#B2B954",
       "rgb": {
@@ -784,12 +989,17 @@
           "unit": "ml"
         }
       ],
-      "description": "vivid yellow olive green metallic"
+      "description": "vivid yellow olive green metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025786",
       "name": "Syringa",
       "code": "TDK025786",
+      "ean": [
+        "0850052885786"
+      ],
       "set": "Metallic",
       "hex": "#CE8BAF",
       "rgb": {
@@ -806,12 +1016,18 @@
           "unit": "ml"
         }
       ],
-      "description": "light reddish purple metallic"
+      "description": "light reddish purple metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025793",
       "name": "Taro",
       "code": "TDK025793",
+      "ean": [
+        "0631145995076",
+        "0850052885793"
+      ],
       "set": "Metallic",
       "hex": "#DCB9E5",
       "rgb": {
@@ -828,12 +1044,15 @@
           "unit": "ml"
         }
       ],
-      "description": "very light violet metallic"
+      "description": "very light violet metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025809",
       "name": "Tin",
       "code": "TDK025809",
+      "ean": null,
       "set": "Metallic",
       "hex": "#BFCACF",
       "rgb": {
@@ -850,12 +1069,20 @@
           "unit": "ml"
         }
       ],
-      "description": "light grey chrome silver metallic"
+      "description": "light grey chrome silver metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025816",
       "name": "Turbo",
       "code": "TDK025816",
+      "ean": [
+        "0631145994666",
+        "0631145994901",
+        "0631145995199",
+        "0850052885816"
+      ],
       "set": "Metallic",
       "hex": "#FFADCC",
       "rgb": {
@@ -872,12 +1099,18 @@
           "unit": "ml"
         }
       ],
-      "description": "moderate purplish pink metallic"
+      "description": "moderate purplish pink metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk025830",
       "name": "Two Cents",
       "code": "TDK025830",
+      "ean": [
+        "0631145995038",
+        "0850052885830"
+      ],
       "set": "Metallic",
       "hex": "#E48558",
       "rgb": {
@@ -894,12 +1127,15 @@
           "unit": "ml"
         }
       ],
-      "description": "strong yellowish brown copper metallic"
+      "description": "strong yellowish brown copper metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015014",
       "name": "3D Glasses",
       "code": "TDK015014",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -915,12 +1151,15 @@
           "unit": "ml"
         }
       ],
-      "description": "strong bluish-green to deep purplish red shifting metallic"
+      "description": "strong bluish-green to deep purplish red shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015069",
       "name": "4D Glasses",
       "code": "TDK015069",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -937,12 +1176,15 @@
           "unit": "ml"
         }
       ],
-      "description": "brilliant bluish green through vivid greenish blue to vivid reddish purple shifting metallic"
+      "description": "brilliant bluish green through vivid greenish blue to vivid reddish purple shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015083",
       "name": "Afterburner",
       "code": "TDK015083",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -959,12 +1201,15 @@
           "unit": "ml"
         }
       ],
-      "description": "strong orange yellow through deep yellow to light yellowish green shifting metallic"
+      "description": "strong orange yellow through deep yellow to light yellowish green shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015137",
       "name": "Blue Raspberry",
       "code": "TDK015137",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -980,12 +1225,15 @@
           "unit": "ml"
         }
       ],
-      "description": "vivid blue to deep purplish pink shifting metallic"
+      "description": "vivid blue to deep purplish pink shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015175",
       "name": "Bubblegum Crisis",
       "code": "TDK015175",
+      "ean": null,
       "set": "Zenishift",
       "hex": null,
       "rgb": null,
@@ -1001,12 +1249,15 @@
           "unit": "ml"
         }
       ],
-      "description": "brilliant purplish pink to moderate yellow gold shifting metallic"
+      "description": "brilliant purplish pink to moderate yellow gold shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015199",
       "name": "Cloud Nine",
       "code": "TDK015199",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -1022,12 +1273,15 @@
           "unit": "ml"
         }
       ],
-      "description": "pale purplish pink to light greenish yellow shifting metallic"
+      "description": "pale purplish pink to light greenish yellow shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015205",
       "name": "Cold Open",
       "code": "TDK015205",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -1043,12 +1297,15 @@
           "unit": "ml"
         }
       ],
-      "description": "moderate bluish green to vivid blue shifting metallic"
+      "description": "moderate bluish green to vivid blue shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015229",
       "name": "Crystal Cavern",
       "code": "TDK015229",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -1064,12 +1321,15 @@
           "unit": "ml"
         }
       ],
-      "description": "very light blue to very light violet shifting metallic"
+      "description": "very light blue to very light violet shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015243",
       "name": "Cyberia",
       "code": "TDK015243",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -1085,12 +1345,15 @@
           "unit": "ml"
         }
       ],
-      "description": "vivid purplish blue to vivid violet shifting metallic"
+      "description": "vivid purplish blue to vivid violet shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015267",
       "name": "Dark Net",
       "code": "TDK015267",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -1106,12 +1369,15 @@
           "unit": "ml"
         }
       ],
-      "description": "greyish olive brown to light yellowish green shifting metallic"
+      "description": "greyish olive brown to light yellowish green shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015274",
       "name": "Dark Ritual",
       "code": "TDK015274",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -1127,12 +1393,15 @@
           "unit": "ml"
         }
       ],
-      "description": "dark purple to light greenish yellow shifting metallic"
+      "description": "dark purple to light greenish yellow shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015304",
       "name": "Dream On",
       "code": "TDK015304",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -1149,12 +1418,15 @@
           "unit": "ml"
         }
       ],
-      "description": "strong purplish blue through moderate purple to light yellowish pink shifting metallic"
+      "description": "strong purplish blue through moderate purple to light yellowish pink shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015311",
       "name": "Electrum",
       "code": "TDK015311",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -1171,12 +1443,15 @@
           "unit": "ml"
         }
       ],
-      "description": "moderate yellow green through moderate olive green to pale yellow green shifting metallic"
+      "description": "moderate yellow green through moderate olive green to pale yellow green shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015328",
       "name": "Fae Wylds",
       "code": "TDK015328",
+      "ean": null,
       "set": "Zenishift",
       "hex": null,
       "rgb": null,
@@ -1192,12 +1467,15 @@
           "unit": "ml"
         }
       ],
-      "description": "light purplish pink to moderate yellowish green shifting metallic"
+      "description": "light purplish pink to moderate yellowish green shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015342",
       "name": "Forrest Flux",
       "code": "TDK015342",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -1214,12 +1492,15 @@
           "unit": "ml"
         }
       ],
-      "description": "moderate yellowish green through moderate bluish green to pale purple shifting metallic"
+      "description": "moderate yellowish green through moderate bluish green to pale purple shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015359",
       "name": "Galaxia",
       "code": "TDK015359",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -1235,12 +1516,15 @@
           "unit": "ml"
         }
       ],
-      "description": "strong violet to very deep black purple shifting metallic"
+      "description": "strong violet to very deep black purple shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015380",
       "name": "Grave Robber",
       "code": "TDK015380",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -1256,12 +1540,15 @@
           "unit": "ml"
         }
       ],
-      "description": "moderate olive to deep yellowish green shifting metallic"
+      "description": "moderate olive to deep yellowish green shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015397",
       "name": "Ground Is Lava",
       "code": "TDK015397",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -1277,12 +1564,15 @@
           "unit": "ml"
         }
       ],
-      "description": "deep reddish orange to vivid orange yellow shifting metallic"
+      "description": "deep reddish orange to vivid orange yellow shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015403",
       "name": "Hemogoblin",
       "code": "TDK015403",
+      "ean": null,
       "set": "Zenishift",
       "hex": null,
       "rgb": null,
@@ -1298,12 +1588,15 @@
           "unit": "ml"
         }
       ],
-      "description": "brilliant orange to light olive shifting metallic"
+      "description": "brilliant orange to light olive shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015427",
       "name": "Ice to Never",
       "code": "TDK015427",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -1319,12 +1612,15 @@
           "unit": "ml"
         }
       ],
-      "description": "brilliant greenish blue to brilliant purple shifting metallic"
+      "description": "brilliant greenish blue to brilliant purple shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015434",
       "name": "LaserFace",
       "code": "TDK015434",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -1341,12 +1637,15 @@
           "unit": "ml"
         }
       ],
-      "description": "deep purplish red through strong greenish yellow to deep yellow green shifting metallic"
+      "description": "deep purplish red through strong greenish yellow to deep yellow green shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015441",
       "name": "Let Them Eat Cake",
       "code": "TDK015441",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -1363,12 +1662,15 @@
           "unit": "ml"
         }
       ],
-      "description": "vivid purplish blue through vivid purple to deep red shifting metallic"
+      "description": "vivid purplish blue through vivid purple to deep red shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015458",
       "name": "Leviathan",
       "code": "TDK015458",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -1384,12 +1686,15 @@
           "unit": "ml"
         }
       ],
-      "description": "brilliant bluish green to light greenish blue shifting metallic"
+      "description": "brilliant bluish green to light greenish blue shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015472",
       "name": "Lunar Eclipse",
       "code": "TDK015472",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -1405,12 +1710,15 @@
           "unit": "ml"
         }
       ],
-      "description": "very deep reddish purple to moderate reddish orange shifting metallic"
+      "description": "very deep reddish purple to moderate reddish orange shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015502",
       "name": "Miami Sunset",
       "code": "TDK015502",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -1427,12 +1735,15 @@
           "unit": "ml"
         }
       ],
-      "description": "strong purple through strong purplish red to strong orange shifting metallic"
+      "description": "strong purple through strong purplish red to strong orange shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015519",
       "name": "Midnight City",
       "code": "TDK015519",
+      "ean": null,
       "set": "Zenishift",
       "hex": null,
       "rgb": null,
@@ -1448,12 +1759,15 @@
           "unit": "ml"
         }
       ],
-      "description": "moderate purple to strong blue shifting metallic"
+      "description": "moderate purple to strong blue shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015526",
       "name": "Molten Mantle",
       "code": "TDK015526",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -1469,12 +1783,15 @@
           "unit": "ml"
         }
       ],
-      "description": "dark purplish red to moderate reddish orange shifting metallic"
+      "description": "dark purplish red to moderate reddish orange shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015533",
       "name": "Mother Lode",
       "code": "TDK015533",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -1494,12 +1811,15 @@
           "unit": "ml"
         }
       ],
-      "description": "pastel rainbow mother of pearl nacre effect shifting metallic"
+      "description": "pastel rainbow mother of pearl nacre effect shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015564",
       "name": "Peacock",
       "code": "TDK015564",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -1515,12 +1835,15 @@
           "unit": "ml"
         }
       ],
-      "description": "light greenish blue to vivid greenish blue shifting metallic"
+      "description": "light greenish blue to vivid greenish blue shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015595",
       "name": "Prism Power",
       "code": "TDK015595",
+      "ean": null,
       "set": "Zenishift",
       "hex": null,
       "rgb": null,
@@ -1536,12 +1859,15 @@
           "unit": "ml"
         }
       ],
-      "description": "strong pink to strong purplish blue shifting metallic"
+      "description": "strong pink to strong purplish blue shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015625",
       "name": "Radium",
       "code": "TDK015625",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -1558,12 +1884,15 @@
           "unit": "ml"
         }
       ],
-      "description": "brilliant yellow through light olive brown to moderate yellow green shifting metallic"
+      "description": "brilliant yellow through light olive brown to moderate yellow green shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015632",
       "name": "Rainbow Roll",
       "code": "TDK015632",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -1584,12 +1913,15 @@
           "unit": "ml"
         }
       ],
-      "description": "sparkle rainbow effect shifting metallic"
+      "description": "sparkle rainbow effect shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015663",
       "name": "Romeo/Juliet",
       "code": "TDK015663",
+      "ean": null,
       "set": "Zenishift",
       "hex": null,
       "rgb": null,
@@ -1605,12 +1937,15 @@
           "unit": "ml"
         }
       ],
-      "description": "deep purplish pink to vivid reddish purple shifting metallic"
+      "description": "deep purplish pink to vivid reddish purple shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015687",
       "name": "Scarab",
       "code": "TDK015687",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -1627,12 +1962,15 @@
           "unit": "ml"
         }
       ],
-      "description": "vivid yellowish green through deep yellow green to deep greenish blue shifting metallic"
+      "description": "vivid yellowish green through deep yellow green to deep greenish blue shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015694",
       "name": "Shell Shocked",
       "code": "TDK015694",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -1648,12 +1986,15 @@
           "unit": "ml"
         }
       ],
-      "description": "strong purple to light yellowish green shifting metallic"
+      "description": "strong purple to light yellowish green shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015700",
       "name": "Shifting Sands",
       "code": "TDK015700",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -1669,12 +2010,15 @@
           "unit": "ml"
         }
       ],
-      "description": "dark yellow to light greenish yellow shifting metallic"
+      "description": "dark yellow to light greenish yellow shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015731",
       "name": "Skyrat",
       "code": "TDK015731",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -1691,12 +2035,15 @@
           "unit": "ml"
         }
       ],
-      "description": "vivid bluish green through dark greenish blue to deep purple shifting metallic"
+      "description": "vivid bluish green through dark greenish blue to deep purple shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015762",
       "name": "Sugar Rush",
       "code": "TDK015762",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -1713,12 +2060,15 @@
           "unit": "ml"
         }
       ],
-      "description": "light violet through deep purplish pink to light orange yellow shifting metallic"
+      "description": "light violet through deep purplish pink to light orange yellow shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015823",
       "name": "Twin Sons",
       "code": "TDK015823",
+      "ean": null,
       "set": "Zenishift",
       "hex": null,
       "rgb": null,
@@ -1734,12 +2084,15 @@
           "unit": "ml"
         }
       ],
-      "description": "brilliant bluish green to brilliant green shifting metallic"
+      "description": "brilliant bluish green to brilliant green shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "turbodork-tdk015847",
       "name": "Wavelength",
       "code": "TDK015847",
+      "ean": null,
       "set": "Turboshift",
       "hex": null,
       "rgb": null,
@@ -1755,7 +2108,9 @@
           "unit": "ml"
         }
       ],
-      "description": "deep blue to deep purple shifting metallic"
+      "description": "deep blue to deep purple shifting metallic",
+      "measurements": null,
+      "measuredHex": null
     }
   ]
 }

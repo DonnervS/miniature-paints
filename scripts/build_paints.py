@@ -16,10 +16,11 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PAINTS_DIR = os.path.join(ROOT, "paints", "markdown")
 OUT_PATH = os.path.join(ROOT, "paints", "paints.json")
 JSON_DIR = os.path.join(ROOT, "paints", "json")
+MEASUREMENTS_PATH = os.path.join(ROOT, "measurements", "measurements.csv")
 
 # Dataset schema version, and the JSON Schema files each output document links to via
 # "$schema" (relative to the document's own location). See schema/ at the repo root.
-SCHEMA_VERSION = "miniature-paints/v4"
+SCHEMA_VERSION = "miniature-paints/v5"
 AGG_SCHEMA_REF = "../schema/paints.schema.json"        # for paints/paints.json
 BRAND_SCHEMA_REF = "../../schema/brand.schema.json"    # for paints/json/<stem>.json
 
@@ -121,6 +122,7 @@ def parse_paints(lines, brand_slug):
         name = fix(row.get('Name', '').strip())
         code = fix(row.get('Code', '').strip()) if 'Code' in header else ''
         code = code or None
+        ean = [e.strip() for e in re.split(r'[,;\s]+', fix(row.get('EAN', ''))) if e.strip()] or None
         setv = fix(row.get('Set', '').strip()) or None
         pots = parse_pot_sizes(fix(row.get('Pot Size', '').strip()) or None)
         desc = fix(row.get('Description', '').strip()) or None
@@ -163,6 +165,7 @@ def parse_paints(lines, brand_slug):
             "id": pid,
             "name": name,
             "code": code,
+            "ean": ean,
             "set": setv,
             "hex": hexv,
             "rgb": {"r": R, "g": G, "b": B} if None not in (R, G, B) else None,
@@ -170,8 +173,103 @@ def parse_paints(lines, brand_slug):
             "colourless": colourless,
             "potSizes": pots,
             "description": desc,
+            "measurements": None,
+            "measuredHex": None,
         })
     return paints
+
+
+# --- Measured colours -------------------------------------------------------
+# measurements/measurements.csv holds instrument readings (e.g. Nix Spectro,
+# Datacolor ColorReader) of dried paint swatches. They are keyed by paint id and
+# attached to the paint as "measurements"; "measuredHex" is the sRGB colour of
+# their average, converted from CIELAB with chromatic adaptation where needed.
+
+WHITE = {"D50": (0.96422, 1.0, 0.82521), "D65": (0.95047, 1.0, 1.08883)}
+BRADFORD = ((0.8951, 0.2664, -0.1614), (-0.7502, 1.7135, 0.0367), (0.0389, -0.0685, 1.0296))
+XYZ_TO_SRGB = ((3.2404542, -1.5371385, -0.4985314), (-0.9692660, 1.8760108, 0.0415560),
+               (0.0556434, -0.2040259, 1.0572252))
+
+
+def _mul(m, v):
+    return tuple(sum(m[i][j] * v[j] for j in range(3)) for i in range(3))
+
+
+def _inv3(m):
+    a, b, c = m[0]; d, e, f = m[1]; g, h, i = m[2]
+    det = a * (e * i - f * h) - b * (d * i - f * g) + c * (d * h - e * g)
+    return ((( e * i - f * h) / det, -(b * i - c * h) / det, (b * f - c * e) / det),
+            (-(d * i - f * g) / det, (a * i - c * g) / det, -(a * f - c * d) / det),
+            (( d * h - e * g) / det, -(a * h - b * g) / det, (a * e - b * d) / det))
+
+
+def lab_to_hex(L, a, b, illuminant="D50"):
+    """CIELAB (given white point) -> sRGB hex (D65), Bradford-adapted, clipped."""
+    wx, wy, wz = WHITE[illuminant]
+    fy = (L + 16) / 116
+    fx, fz = fy + a / 500, fy - b / 200
+    finv = lambda t: t ** 3 if t ** 3 > 216 / 24389 else (116 * t - 16) / (24389 / 27)
+    xyz = (wx * finv(fx), wy * (fy ** 3 if L > 8 else L / (24389 / 27)), wz * finv(fz))
+    if illuminant != "D65":
+        src, dst = _mul(BRADFORD, WHITE[illuminant]), _mul(BRADFORD, WHITE["D65"])
+        cone = _mul(BRADFORD, xyz)
+        xyz = _mul(_inv3(BRADFORD), tuple(cone[k] * dst[k] / src[k] for k in range(3)))
+    out = []
+    for c in _mul(XYZ_TO_SRGB, xyz):
+        c = 12.92 * c if c <= 0.0031308 else 1.055 * c ** (1 / 2.4) - 0.055
+        out.append(max(0, min(255, round(c * 255))))
+    return '#%02X%02X%02X' % tuple(out)
+
+
+def load_measurements():
+    """paint id -> list of measurement objects (empty dict if the CSV is absent)."""
+    import csv
+    out = {}
+    if not os.path.exists(MEASUREMENTS_PATH):
+        return out
+    with open(MEASUREMENTS_PATH, encoding='utf-8', newline='') as f:
+        for n, r in enumerate(csv.DictReader(f), start=2):
+            ill = (r.get('illuminant') or 'D50').strip()
+            if ill not in WHITE:
+                raise SystemExit(f"measurements.csv line {n}: unsupported illuminant {ill!r}")
+            L, a, b = (float(r[k]) for k in ('L', 'a', 'b'))
+            num = lambda k: int(r[k]) if (r.get(k) or '').strip().isdigit() else None
+            m = OrderedDict()
+            m["device"] = r['device'].strip()
+            m["illuminant"] = ill
+            m["observer"] = (r.get('observer') or '2').strip()
+            m["lab"] = {"l": L, "a": a, "b": b}
+            m["hex"] = lab_to_hex(L, a, b, ill)
+            m["deviceHex"] = (r.get('device_hex') or '').strip().upper() or None
+            m["samples"] = num('samples')
+            m["substrate"] = (r.get('substrate') or '').strip() or None
+            m["coats"] = num('coats')
+            m["date"] = (r.get('date') or '').strip() or None
+            m["by"] = (r.get('by') or '').strip() or None
+            m["note"] = (r.get('note') or '').strip() or None
+            out.setdefault(r['paint_id'].strip(), []).append((n, r, m))
+    return out
+
+
+def attach_measurements(brands, measurements):
+    by_id = {p["id"]: (stem, p) for stem, b in brands.items() for p in b["paints"]}
+    for pid, items in measurements.items():
+        if pid not in by_id:
+            raise SystemExit(f"measurements.csv line {items[0][0]}: unknown paint id {pid!r}")
+        stem, p = by_id[pid]
+        for n, r, _ in items:
+            if (r.get('name') or '').strip() and r['name'].strip() != p["name"]:
+                raise SystemExit(f"measurements.csv line {n}: {pid} is {p['name']!r}, "
+                                 f"not {r['name'].strip()!r}")
+        ms = [m for _, _, m in items]
+        p["measurements"] = ms
+        # Average the Lab readings when they share an illuminant; otherwise fall
+        # back to the first reading rather than mixing white points.
+        if len({m["illuminant"] for m in ms}) == 1:
+            avg = [sum(m["lab"][k] for m in ms) / len(ms) for k in "lab"]
+            p["measuredHex"] = lab_to_hex(*avg, ms[0]["illuminant"])
+        else:
+            p["measuredHex"] = ms[0]["hex"]
 
 
 def build():
@@ -207,6 +305,8 @@ def build():
 
         brands[stem] = brand
         total += len(paints)
+
+    attach_measurements(brands, load_measurements())
 
     doc = OrderedDict()
     doc["$schema"] = AGG_SCHEMA_REF

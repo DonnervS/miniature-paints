@@ -1,6 +1,6 @@
 {
   "$schema": "../../schema/brand.schema.json",
-  "schema": "miniature-paints/v4",
+  "schema": "miniature-paints/v5",
   "displayName": "Folk Art",
   "company": "Plaid Enterprises, Inc.",
   "address": {
@@ -20,6 +20,9 @@
       "id": "folkart-2965",
       "name": "14K Gold",
       "code": "2965",
+      "ean": [
+        "0028995029653"
+      ],
       "set": "Multi-Surface Metallic Acrylics",
       "hex": "#CBAD71",
       "rgb": {
@@ -30,12 +33,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6460",
       "name": "Adrift",
       "code": "6460",
+      "ean": [
+        "0028995064609"
+      ],
       "set": "Acrylic Colors",
       "hex": "#7AA9A3",
       "rgb": {
@@ -46,12 +54,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2427",
       "name": "Alfalfa",
       "code": "2427",
+      "ean": [
+        "0028995024276"
+      ],
       "set": "Acrylic Colors",
       "hex": "#807935",
       "rgb": {
@@ -62,12 +75,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6392",
       "name": "Alizarin Crimson",
       "code": "6392",
+      "ean": null,
       "set": "Pure™ Artist Pigment",
       "hex": "#683055",
       "rgb": {
@@ -78,12 +94,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-758",
       "name": "Alizarin Crimson",
       "code": "758",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#3F2528",
       "rgb": {
@@ -94,12 +113,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-654",
       "name": "Amethyst",
       "code": "654",
+      "ean": [
+        "0028995006548"
+      ],
       "set": "Metallics",
       "hex": "#413A59",
       "rgb": {
@@ -110,12 +134,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-anitque-gold",
       "name": "Anitque Gold",
       "code": "Anitque Gold",
+      "ean": [
+        "0028995063022"
+      ],
       "set": "Multi-Surface Metallic Acrylics",
       "hex": "#8D6F4D",
       "rgb": {
@@ -126,12 +155,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-666",
       "name": "Antique Copper",
       "code": "666",
+      "ean": [
+        "0028995006661"
+      ],
       "set": "Metallics",
       "hex": "#41291D",
       "rgb": {
@@ -142,12 +176,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-658",
       "name": "Antique Gold",
       "code": "658",
+      "ean": [
+        "0028995006586",
+        "0028995008726"
+      ],
       "set": "Metallics",
       "hex": "#7F641D",
       "rgb": {
@@ -158,12 +198,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2241",
       "name": "Apple Orchard",
       "code": "2241",
+      "ean": [
+        "0028995022418"
+      ],
       "set": "Acrylic Colors",
       "hex": "#88AF3C",
       "rgb": {
@@ -174,12 +219,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2708",
       "name": "Apple Orchard",
       "code": "2708",
+      "ean": null,
       "set": "Shiny™",
       "hex": "#6AB848",
       "rgb": {
@@ -190,12 +238,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2901",
       "name": "Apple Red",
       "code": "2901",
+      "ean": [
+        "0028995029011"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#FFEFF8",
       "rgb": {
@@ -206,12 +259,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2548",
       "name": "Apple Red",
       "code": "2548",
+      "ean": [
+        "0028995025488"
+      ],
       "set": "Acrylic Colors",
       "hex": "#67060F",
       "rgb": {
@@ -222,12 +280,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-481",
       "name": "Aqua",
       "code": "481",
+      "ean": [
+        "0028995004810"
+      ],
       "set": "Acrylic Colors",
       "hex": "#42858D",
       "rgb": {
@@ -238,12 +301,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2921",
       "name": "Aqua",
       "code": "2921",
+      "ean": [
+        "0028995029219"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#039FB5",
       "rgb": {
@@ -254,12 +322,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2973",
       "name": "Aqua Moire",
       "code": "2973",
+      "ean": [
+        "0028995029738"
+      ],
       "set": "Multi-Surface Pearl Acrylics",
       "hex": "#5798B6",
       "rgb": {
@@ -270,12 +343,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-655",
       "name": "Aquamarine",
       "code": "655",
+      "ean": [
+        "0028995006555"
+      ],
       "set": "Metallics",
       "hex": "#D5E8E4",
       "rgb": {
@@ -286,12 +364,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6316",
       "name": "Aquamarine",
       "code": "6316",
+      "ean": [
+        "0028995063169"
+      ],
       "set": "Multi-Surface Pearl Acrylics",
       "hex": "#549C98",
       "rgb": {
@@ -302,12 +385,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2569",
       "name": "Ash",
       "code": "2569",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#4A504E",
       "rgb": {
@@ -318,12 +404,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-7111",
       "name": "Asphaltum",
       "code": "7111",
+      "ean": null,
       "set": "Pure™ Artist Pigment",
       "hex": "#87613C",
       "rgb": {
@@ -334,12 +423,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-476",
       "name": "Asphaltum",
       "code": "476",
+      "ean": [
+        "0028995004766"
+      ],
       "set": "Acrylic Colors",
       "hex": "#535154",
       "rgb": {
@@ -350,12 +444,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-920",
       "name": "Autumn Leaves",
       "code": "920",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#AE4F2F",
       "rgb": {
@@ -366,12 +463,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2943",
       "name": "Autumn Leaves",
       "code": "2943",
+      "ean": [
+        "0028995029431"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#D94927",
       "rgb": {
@@ -382,12 +484,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-4622",
       "name": "Aviary Blue",
       "code": "4622",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#B1B4AD",
       "rgb": {
@@ -398,12 +503,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-643",
       "name": "Azure Blue",
       "code": "643",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#00638D",
       "rgb": {
@@ -414,12 +522,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-442",
       "name": "Baby Blue",
       "code": "442",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#9CA6AF",
       "rgb": {
@@ -430,12 +541,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2940",
       "name": "Baby Pink",
       "code": "2940",
+      "ean": [
+        "0028995029400"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#F3D8DD",
       "rgb": {
@@ -446,12 +562,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-633",
       "name": "Baby Pink",
       "code": "633",
+      "ean": [
+        "0028995006333"
+      ],
       "set": "Acrylic Colors",
       "hex": "#CE8C96",
       "rgb": {
@@ -462,12 +583,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-438",
       "name": "Ballet Pink",
       "code": "438",
+      "ean": [
+        "0028995004384"
+      ],
       "set": "Acrylic Colors",
       "hex": "#B3A6A0",
       "rgb": {
@@ -478,12 +604,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2560",
       "name": "Bark Brown",
       "code": "2560",
+      "ean": [
+        "0028995025600"
+      ],
       "set": "Acrylic Colors",
       "hex": "#3A281E",
       "rgb": {
@@ -494,12 +625,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2907",
       "name": "Bark Brown",
       "code": "2907",
+      "ean": [
+        "0028995029073"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#6F4D43",
       "rgb": {
@@ -510,12 +646,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-936",
       "name": "Barn Wood",
       "code": "936",
+      "ean": [
+        "0028995009365"
+      ],
       "set": "Acrylic Colors",
       "hex": "#857F69",
       "rgb": {
@@ -526,12 +667,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-611",
       "name": "Barnyard Red",
       "code": "611",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#65403A",
       "rgb": {
@@ -542,12 +686,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-645",
       "name": "Basil Green",
       "code": "645",
+      "ean": [
+        "0028995006456"
+      ],
       "set": "Acrylic Colors",
       "hex": "#92976F",
       "rgb": {
@@ -558,12 +707,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-922",
       "name": "Bayberry",
       "code": "922",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#92A587",
       "rgb": {
@@ -574,12 +726,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-434",
       "name": "Berry Wine",
       "code": "434",
+      "ean": [
+        "0028995004346"
+      ],
       "set": "Acrylic Colors",
       "hex": "#321213",
       "rgb": {
@@ -590,12 +747,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2941",
       "name": "Berry Wine",
       "code": "2941",
+      "ean": [
+        "0028995029417"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#5A3030",
       "rgb": {
@@ -606,12 +768,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-18128",
       "name": "Black",
       "code": "18128",
+      "ean": null,
       "set": "Watercolor Acrylic Paint™",
       "hex": "#282725",
       "rgb": {
@@ -622,12 +787,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-224",
       "name": "Black Cherry",
       "code": "224",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#635562",
       "rgb": {
@@ -638,12 +806,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2597",
       "name": "Blue Belle",
       "code": "2597",
+      "ean": [
+        "0028995025976"
+      ],
       "set": "Acrylic Colors",
       "hex": "#8DA8C4",
       "rgb": {
@@ -654,12 +827,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2639",
       "name": "Blue Echo",
       "code": "2639",
+      "ean": [
+        "0028995026393"
+      ],
       "set": "Acrylic Colors",
       "hex": "#768998",
       "rgb": {
@@ -670,12 +848,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6449",
       "name": "Blue Lullaby",
       "code": "6449",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#A0C3D7",
       "rgb": {
@@ -686,12 +867,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2387",
       "name": "Blue Peacock",
       "code": "2387",
+      "ean": [
+        "0028995023873"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#034C83",
       "rgb": {
@@ -702,12 +888,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-670",
       "name": "Blue Pearl",
       "code": "670",
+      "ean": [
+        "0028995006708"
+      ],
       "set": "Metallics",
       "hex": "#467591",
       "rgb": {
@@ -718,12 +909,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-719",
       "name": "Blue Ribbon",
       "code": "719",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#254899",
       "rgb": {
@@ -734,12 +928,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-656",
       "name": "Blue Sapphire",
       "code": "656",
+      "ean": [
+        "0028995006562"
+      ],
       "set": "Metallics",
       "hex": "#013252",
       "rgb": {
@@ -750,12 +949,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-651",
       "name": "Blue Topaz",
       "code": "651",
+      "ean": [
+        "0028995006517"
+      ],
       "set": "Metallics",
       "hex": "#2A677C",
       "rgb": {
@@ -766,12 +970,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-4624",
       "name": "Boulder",
       "code": "4624",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#393532",
       "rgb": {
@@ -782,12 +989,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-223",
       "name": "Bright Baby Pink",
       "code": "223",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#AA6E78",
       "rgb": {
@@ -798,12 +1008,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2966",
       "name": "Bright Gold",
       "code": "2966",
+      "ean": [
+        "0028995029660"
+      ],
       "set": "Multi-Surface Metallic Acrylics",
       "hex": "#A08B54",
       "rgb": {
@@ -814,12 +1029,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-227",
       "name": "Bright Green",
       "code": "227",
+      "ean": [
+        "0028995002274"
+      ],
       "set": "Acrylic Colors",
       "hex": "#016D3B",
       "rgb": {
@@ -830,12 +1050,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2950",
       "name": "Bright Green",
       "code": "2950",
+      "ean": [
+        "0028995029509"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#255929",
       "rgb": {
@@ -846,12 +1071,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2896",
       "name": "Bright Pink",
       "code": "2896",
+      "ean": [
+        "0028995028960"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#F371AD",
       "rgb": {
@@ -862,12 +1092,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2546",
       "name": "Bright Pink",
       "code": "2546",
+      "ean": [
+        "0028995025464"
+      ],
       "set": "Acrylic Colors",
       "hex": "#AF416E",
       "rgb": {
@@ -878,12 +1113,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-493",
       "name": "Bright Red",
       "code": "493",
+      "ean": [
+        "0028995004933"
+      ],
       "set": "Metallics",
       "hex": "#813E47",
       "rgb": {
@@ -894,12 +1134,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-641",
       "name": "Brilliant Blue",
       "code": "641",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#1A356C",
       "rgb": {
@@ -910,12 +1153,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6303",
       "name": "Bronze",
       "code": "6303",
+      "ean": [
+        "0028995063039"
+      ],
       "set": "Multi-Surface Metallic Acrylics",
       "hex": "#856A4C",
       "rgb": {
@@ -926,12 +1174,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-99236",
       "name": "Bumblebee",
       "code": "99236",
+      "ean": [
+        "0028995992360"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#EECD02",
       "rgb": {
@@ -942,12 +1195,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-957",
       "name": "Burgundy",
       "code": "957",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#A8AAA7",
       "rgb": {
@@ -958,12 +1214,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-18111",
       "name": "Burgundy",
       "code": "18111",
+      "ean": null,
       "set": "Watercolor Acrylic Paint™",
       "hex": "#DF4767",
       "rgb": {
@@ -974,12 +1233,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-7107",
       "name": "Burnt Sienna",
       "code": "7107",
+      "ean": null,
       "set": "Pure™ Artist Pigment",
       "hex": "#663B2A",
       "rgb": {
@@ -990,12 +1252,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-943",
       "name": "Burnt Sienna",
       "code": "943",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#7A4B32",
       "rgb": {
@@ -1006,12 +1271,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-7244",
       "name": "Burnt Umber",
       "code": "7244",
+      "ean": null,
       "set": "Pure™ Artist Pigment",
       "hex": "#473C3A",
       "rgb": {
@@ -1022,12 +1290,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2909",
       "name": "Burnt Umber",
       "code": "2909",
+      "ean": [
+        "0028995029097"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#231D1D",
       "rgb": {
@@ -1038,12 +1311,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-462",
       "name": "Burnt Umber",
       "code": "462",
+      "ean": [
+        "0028995004629"
+      ],
       "set": "Acrylic Colors",
       "hex": "#0E0905",
       "rgb": {
@@ -1054,12 +1332,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-939",
       "name": "Butter Pecan",
       "code": "939",
+      "ean": [
+        "0028995009396"
+      ],
       "set": "Acrylic Colors",
       "hex": "#66573A",
       "rgb": {
@@ -1070,12 +1353,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-614",
       "name": "Buttercream",
       "code": "614",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#E8D8B4",
       "rgb": {
@@ -1086,12 +1372,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-905",
       "name": "Buttercup",
       "code": "905",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#DAAF61",
       "rgb": {
@@ -1102,12 +1391,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-4620",
       "name": "Buttermint",
       "code": "4620",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#BAB78E",
       "rgb": {
@@ -1118,12 +1410,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-932",
       "name": "Calico Red",
       "code": "932",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#C43D44",
       "rgb": {
@@ -1134,12 +1429,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-524",
       "name": "Calypso Sky",
       "code": "524",
+      "ean": [
+        "0028995005244"
+      ],
       "set": "Acrylic Colors",
       "hex": "#000312",
       "rgb": {
@@ -1150,12 +1450,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2710",
       "name": "Calypso Sky",
       "code": "2710",
+      "ean": null,
       "set": "Shiny™",
       "hex": "#42B8C2",
       "rgb": {
@@ -1166,12 +1469,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-953",
       "name": "Camel",
       "code": "953",
+      "ean": [
+        "0028995009532"
+      ],
       "set": "Acrylic Colors",
       "hex": "#BD9174",
       "rgb": {
@@ -1182,12 +1490,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2945",
       "name": "Camel",
       "code": "2945",
+      "ean": [
+        "0028995029455"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#CFB67E",
       "rgb": {
@@ -1198,12 +1511,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-4657",
       "name": "Cameo Blush",
       "code": "4657",
+      "ean": [
+        "0028995046575"
+      ],
       "set": "Acrylic Colors",
       "hex": "#E7B09C",
       "rgb": {
@@ -1214,12 +1532,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2900",
       "name": "Cardinal Red",
       "code": "2900",
+      "ean": [
+        "0028995029004"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#D43247",
       "rgb": {
@@ -1230,12 +1553,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-414",
       "name": "Cardinal Red",
       "code": "414",
+      "ean": [
+        "0028995004148"
+      ],
       "set": "Acrylic Colors",
       "hex": "#460710",
       "rgb": {
@@ -1246,12 +1574,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-4670",
       "name": "Cascade",
       "code": "4670",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#36585D",
       "rgb": {
@@ -1262,12 +1593,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2428",
       "name": "Castaway",
       "code": "2428",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#026F8E",
       "rgb": {
@@ -1278,12 +1612,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-513",
       "name": "Cayman Blue",
       "code": "513",
+      "ean": [
+        "0028995005138"
+      ],
       "set": "Acrylic Colors",
       "hex": "#5B95AD",
       "rgb": {
@@ -1294,12 +1633,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2953",
       "name": "Cayman Blue",
       "code": "2953",
+      "ean": [
+        "0028995029530"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#006090",
       "rgb": {
@@ -1310,12 +1654,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-675",
       "name": "Champagne",
       "code": "675",
+      "ean": [
+        "0028995006753"
+      ],
       "set": "Metallics",
       "hex": "#8A8158",
       "rgb": {
@@ -1326,12 +1675,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6307",
       "name": "Champagne",
       "code": "6307",
+      "ean": [
+        "0028995063077"
+      ],
       "set": "Multi-Surface Metallic Acrylics",
       "hex": "#C3C3B7",
       "rgb": {
@@ -1342,12 +1696,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-charcoal-black",
       "name": "Charcoal Black",
       "code": "Charcoal Black",
+      "ean": [
+        "0028995046933"
+      ],
       "set": "Multi-Surface Metallic Acrylics",
       "hex": "#0D0D0D",
       "rgb": {
@@ -1358,12 +1717,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2570",
       "name": "Chocolate Brown",
       "code": "2570",
+      "ean": null,
       "set": "Multi-Surface Metallic Acrylics",
       "hex": "#523620",
       "rgb": {
@@ -1374,12 +1736,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2570-2",
       "name": "Chocolate Brown",
       "code": "2570",
+      "ean": [
+        "0028995025709"
+      ],
       "set": "Metallics",
       "hex": "#7B4C2E",
       "rgb": {
@@ -1390,12 +1757,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-491",
       "name": "Christmas Green",
       "code": "491",
+      "ean": [
+        "0028995004919"
+      ],
       "set": "Metallics",
       "hex": "#253E29",
       "rgb": {
@@ -1406,12 +1778,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-958",
       "name": "Christmas Red",
       "code": "958",
+      "ean": [
+        "0028995009587"
+      ],
       "set": "Acrylic Colors",
       "hex": "#8F302E",
       "rgb": {
@@ -1422,12 +1799,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6319",
       "name": "Chunky Gold",
       "code": "6319",
+      "ean": null,
       "set": "Multi-Surface Glitter Acrylics",
       "hex": "#5A4E34",
       "rgb": {
@@ -1438,12 +1818,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-chunky-silver",
       "name": "Chunky Silver",
       "code": "Chunky Silver",
+      "ean": [
+        "0028995063183"
+      ],
       "set": "Multi-Surface Glitter Acrylics",
       "hex": "#555358",
       "rgb": {
@@ -1454,12 +1839,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2558",
       "name": "Cinnamon",
       "code": "2558",
+      "ean": [
+        "0028995025587"
+      ],
       "set": "Acrylic Colors",
       "hex": "#411C13",
       "rgb": {
@@ -1470,12 +1860,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2552",
       "name": "Citrus Green",
       "code": "2552",
+      "ean": [
+        "0028995025525"
+      ],
       "set": "Acrylic Colors",
       "hex": "#070908",
       "rgb": {
@@ -1486,12 +1881,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2915",
       "name": "Citrus Green",
       "code": "2915",
+      "ean": [
+        "0028995029158"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#889B2B",
       "rgb": {
@@ -1502,12 +1902,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6472",
       "name": "Classic French Gray",
       "code": "6472",
+      "ean": [
+        "0028995064722"
+      ],
       "set": "Acrylic Colors",
       "hex": "#575755",
       "rgb": {
@@ -1518,12 +1923,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-classic-french-gray",
       "name": "Classic French Gray",
       "code": "Classic French Gray",
+      "ean": [
+        "0028995072772"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#66696E",
       "rgb": {
@@ -1534,12 +1944,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2554",
       "name": "Classic Green",
       "code": "2554",
+      "ean": [
+        "0028995025549"
+      ],
       "set": "Acrylic Colors",
       "hex": "#A8B2AA",
       "rgb": {
@@ -1550,12 +1965,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2917",
       "name": "Classic Green",
       "code": "2917",
+      "ean": [
+        "0028995029172"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#45936C",
       "rgb": {
@@ -1566,12 +1986,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2568",
       "name": "Cloudy Day",
       "code": "2568",
+      "ean": [
+        "0028995025686"
+      ],
       "set": "Acrylic Colors",
       "hex": "#698BA6",
       "rgb": {
@@ -1582,12 +2007,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-923",
       "name": "Clover",
       "code": "923",
+      "ean": [
+        "0028995009235"
+      ],
       "set": "Acrylic Colors",
       "hex": "#8A9994",
       "rgb": {
@@ -1598,12 +2028,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-713",
       "name": "Coastal Blue",
       "code": "713",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#DEE4E0",
       "rgb": {
@@ -1614,12 +2047,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2926",
       "name": "Cobalt Blue",
       "code": "2926",
+      "ean": [
+        "0028995029264"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#253858",
       "rgb": {
@@ -1630,12 +2068,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-720",
       "name": "Cobalt Blue",
       "code": "720",
+      "ean": [
+        "0028995007200"
+      ],
       "set": "Acrylic Colors",
       "hex": "#3B5393",
       "rgb": {
@@ -1646,12 +2089,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6498",
       "name": "Cocoa",
       "code": "6498",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#1D1C1A",
       "rgb": {
@@ -1662,12 +2108,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-940",
       "name": "Coffee Bean",
       "code": "940",
+      "ean": [
+        "0028995009402"
+      ],
       "set": "Acrylic Colors",
       "hex": "#2D2018",
       "rgb": {
@@ -1678,12 +2129,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2906",
       "name": "Coffee Latte",
       "code": "2906",
+      "ean": [
+        "0028995029066"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#C58F69",
       "rgb": {
@@ -1694,12 +2150,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2559",
       "name": "Coffee Latte",
       "code": "2559",
+      "ean": [
+        "0028995025594"
+      ],
       "set": "Acrylic Colors",
       "hex": "#6A492A",
       "rgb": {
@@ -1710,12 +2171,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6447",
       "name": "Conch Shell",
       "code": "6447",
+      "ean": [
+        "0028995064470"
+      ],
       "set": "Acrylic Colors",
       "hex": "#DDB8B2",
       "rgb": {
@@ -1726,12 +2192,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2944",
       "name": "Cool Bisque",
       "code": "2944",
+      "ean": [
+        "0028995029448"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#D9C8B6",
       "rgb": {
@@ -1742,12 +2213,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-229",
       "name": "Cool Bisque",
       "code": "229",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#D7C6B6",
       "rgb": {
@@ -1758,12 +2232,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-664",
       "name": "Copper",
       "code": "664",
+      "ean": [
+        "0028995006647"
+      ],
       "set": "Metallics",
       "hex": "#442719",
       "rgb": {
@@ -1774,12 +2253,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6305",
       "name": "Copper",
       "code": "6305",
+      "ean": [
+        "0028995063053"
+      ],
       "set": "Multi-Surface Metallic Acrylics",
       "hex": "#7C4D3B",
       "rgb": {
@@ -1790,12 +2274,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-7274",
       "name": "Cottage White",
       "code": "7274",
+      "ean": [
+        "0028995072741"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#BFC3C2",
       "rgb": {
@@ -1806,12 +2295,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6446",
       "name": "Cottage White",
       "code": "6446",
+      "ean": [
+        "0028995064463"
+      ],
       "set": "Acrylic Colors",
       "hex": "#D2D0D1",
       "rgb": {
@@ -1822,12 +2316,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-602",
       "name": "Country Twill",
       "code": "602",
+      "ean": [
+        "0028995006029"
+      ],
       "set": "Acrylic Colors",
       "hex": "#7B664B",
       "rgb": {
@@ -1838,12 +2337,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-4663",
       "name": "Crocodile",
       "code": "4663",
+      "ean": [
+        "0028995046636"
+      ],
       "set": "Acrylic Colors",
       "hex": "#53633E",
       "rgb": {
@@ -1854,12 +2358,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2565",
       "name": "Crushed Coral",
       "code": "2565",
+      "ean": [
+        "0028995025655"
+      ],
       "set": "Acrylic Colors",
       "hex": "#D08E80",
       "rgb": {
@@ -1870,12 +2379,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2579",
       "name": "Cut Grass",
       "code": "2579",
+      "ean": [
+        "0028995025792"
+      ],
       "set": "Acrylic Colors",
       "hex": "#B4B6B3",
       "rgb": {
@@ -1886,12 +2400,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2550",
       "name": "Daffodil Yellow",
       "code": "2550",
+      "ean": [
+        "0028995025501"
+      ],
       "set": "Acrylic Colors",
       "hex": "#DBC357",
       "rgb": {
@@ -1902,12 +2421,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-daffodil-yellow",
       "name": "Daffodil Yellow",
       "code": "Daffodil Yellow",
+      "ean": [
+        "0028995029127"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#FCE680",
       "rgb": {
@@ -1918,12 +2442,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-416",
       "name": "Dark Brown",
       "code": "416",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#2D1E1B",
       "rgb": {
@@ -1934,12 +2461,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-426",
       "name": "Dark Gray",
       "code": "426",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#4E4946",
       "rgb": {
@@ -1950,12 +2480,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-7275",
       "name": "Daybreak",
       "code": "7275",
+      "ean": [
+        "0028995072758"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#D6B858",
       "rgb": {
@@ -1966,12 +2501,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6448",
       "name": "Daybreak",
       "code": "6448",
+      "ean": [
+        "0028995064487"
+      ],
       "set": "Acrylic Colors",
       "hex": "#C8B070",
       "rgb": {
@@ -1982,12 +2522,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-deep-ocean-blue",
       "name": "Deep Ocean Blue",
       "code": "Deep Ocean Blue",
+      "ean": [
+        "0028995029226"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#5A82A2",
       "rgb": {
@@ -1998,12 +2543,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2555",
       "name": "Deep Ocean Blue",
       "code": "2555",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#9F9EA4",
       "rgb": {
@@ -2014,12 +2562,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-99255",
       "name": "Dijon",
       "code": "99255",
+      "ean": [
+        "0028995992551"
+      ],
       "set": "Acrylic Colors",
       "hex": "#D37F1C",
       "rgb": {
@@ -2030,12 +2583,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6393",
       "name": "Dioxazine Purple",
       "code": "6393",
+      "ean": null,
       "set": "Pure™ Artist Pigment",
       "hex": "#473F88",
       "rgb": {
@@ -2046,12 +2602,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6361",
       "name": "Dioxazine Purple",
       "code": "6361",
+      "ean": [
+        "0028995063619"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#12121C",
       "rgb": {
@@ -2062,12 +2623,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6363",
       "name": "Dioxazine Violet",
       "code": "6363",
+      "ean": [
+        "0028995063633"
+      ],
       "set": "Acrylic Colors",
       "hex": "#131B5A",
       "rgb": {
@@ -2078,12 +2644,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-4665",
       "name": "Dolphin",
       "code": "4665",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#83A4B3",
       "rgb": {
@@ -2094,12 +2663,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2382",
       "name": "Dove",
       "code": "2382",
+      "ean": null,
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#DADADA",
       "rgb": {
@@ -2110,12 +2682,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2954",
       "name": "Dove Gray",
       "code": "2954",
+      "ean": [
+        "0028995029547"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#A3AFAD",
       "rgb": {
@@ -2126,12 +2703,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-708",
       "name": "Dove Gray",
       "code": "708",
+      "ean": [
+        "0028995007088"
+      ],
       "set": "Acrylic Colors",
       "hex": "#BDC4BD",
       "rgb": {
@@ -2142,12 +2724,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-4664",
       "name": "Dutch Aqua",
       "code": "4664",
+      "ean": [
+        "0028995046643"
+      ],
       "set": "Acrylic Colors",
       "hex": "#818E87",
       "rgb": {
@@ -2158,12 +2745,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2930",
       "name": "Eggplant",
       "code": "2930",
+      "ean": [
+        "0028995029301"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#221A29",
       "rgb": {
@@ -2174,12 +2766,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2253",
       "name": "Eggplant",
       "code": "2253",
+      "ean": [
+        "0028995022531"
+      ],
       "set": "Acrylic Colors",
       "hex": "#372643",
       "rgb": {
@@ -2190,12 +2787,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-653",
       "name": "Emerald Green",
       "code": "653",
+      "ean": [
+        "0028995006531"
+      ],
       "set": "Metallics",
       "hex": "#184639",
       "rgb": {
@@ -2206,12 +2808,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-436",
       "name": "Engine Red",
       "code": "436",
+      "ean": [
+        "0028995004360"
+      ],
       "set": "Acrylic Colors",
       "hex": "#8D3740",
       "rgb": {
@@ -2222,12 +2829,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2948",
       "name": "Engine Red",
       "code": "2948",
+      "ean": [
+        "0028995029486"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#811320",
       "rgb": {
@@ -2238,12 +2850,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2702",
       "name": "Engine Red",
       "code": "2702",
+      "ean": null,
       "set": "Shiny™",
       "hex": "#71242C",
       "rgb": {
@@ -2254,12 +2869,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-959",
       "name": "English Mustard",
       "code": "959",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#A76439",
       "rgb": {
@@ -2270,12 +2888,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-4667",
       "name": "Faded Jade",
       "code": "4667",
+      "ean": [
+        "0028995046674"
+      ],
       "set": "Acrylic Colors",
       "hex": "#C7CEBC",
       "rgb": {
@@ -2286,12 +2909,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2961",
       "name": "Fiery Red",
       "code": "2961",
+      "ean": null,
       "set": "Multi-Surface Glitter Acrylics",
       "hex": "#582220",
       "rgb": {
@@ -2302,12 +2928,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2740",
       "name": "Fire Coral",
       "code": "2740",
+      "ean": [
+        "0028995027406"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#E9585D",
       "rgb": {
@@ -2318,12 +2949,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6452",
       "name": "Fire Coral",
       "code": "6452",
+      "ean": [
+        "0028995064524"
+      ],
       "set": "Acrylic Colors",
       "hex": "#9D4A46",
       "rgb": {
@@ -2334,12 +2970,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6309",
       "name": "Fire Opal",
       "code": "6309",
+      "ean": [
+        "0028995063091"
+      ],
       "set": "Multi-Surface Metallic Acrylics",
       "hex": "#A35C3E",
       "rgb": {
@@ -2350,12 +2991,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-527",
       "name": "Forest Moss",
       "code": "527",
+      "ean": [
+        "0028995005275"
+      ],
       "set": "Acrylic Colors",
       "hex": "#4D461C",
       "rgb": {
@@ -2366,12 +3012,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-639",
       "name": "French Blue",
       "code": "639",
+      "ean": [
+        "0028995006395"
+      ],
       "set": "Acrylic Colors",
       "hex": "#75A8C5",
       "rgb": {
@@ -2382,12 +3033,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2436",
       "name": "French Lilac",
       "code": "2436",
+      "ean": [
+        "0028995024368"
+      ],
       "set": "Acrylic Colors",
       "hex": "#DBB0BA",
       "rgb": {
@@ -2398,12 +3054,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-431",
       "name": "French Vanilla",
       "code": "431",
+      "ean": [
+        "0028995004315"
+      ],
       "set": "Acrylic Colors",
       "hex": "#EEE5A2",
       "rgb": {
@@ -2414,12 +3075,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-4662",
       "name": "Fresh Fern",
       "code": "4662",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#42743F",
       "rgb": {
@@ -2430,12 +3094,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2942",
       "name": "Fresh Foliage",
       "code": "2942",
+      "ean": [
+        "0028995029424"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#799B3D",
       "rgb": {
@@ -2446,12 +3115,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-954",
       "name": "Fresh Foliage",
       "code": "954",
+      "ean": [
+        "0028995009549"
+      ],
       "set": "Acrylic Colors",
       "hex": "#677552",
       "rgb": {
@@ -2462,12 +3136,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2916",
       "name": "Freshcut Grass",
       "code": "2916",
+      "ean": null,
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#4E6539",
       "rgb": {
@@ -2478,12 +3155,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-99258",
       "name": "Galaxy Blue",
       "code": "99258",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#0B0E1D",
       "rgb": {
@@ -2494,12 +3174,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6308",
       "name": "Garnet",
       "code": "6308",
+      "ean": [
+        "0028995063084"
+      ],
       "set": "Multi-Surface Metallic Acrylics",
       "hex": "#683440",
       "rgb": {
@@ -2510,12 +3195,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-665",
       "name": "Garnet Red",
       "code": "665",
+      "ean": [
+        "0028995006654"
+      ],
       "set": "Metallics",
       "hex": "#68353E",
       "rgb": {
@@ -2526,12 +3216,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2435",
       "name": "Gentle Violet",
       "code": "2435",
+      "ean": [
+        "0028995024351"
+      ],
       "set": "Acrylic Colors",
       "hex": "#BB94A9",
       "rgb": {
@@ -2542,12 +3237,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2495",
       "name": "Gilded Oak",
       "code": "2495",
+      "ean": [
+        "0028995024955"
+      ],
       "set": "Acrylic Colors",
       "hex": "#2B2A28",
       "rgb": {
@@ -2558,12 +3258,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2958",
       "name": "Glam Gold",
       "code": "2958",
+      "ean": [
+        "0028995029585"
+      ],
       "set": "Multi-Surface Glitter Acrylics",
       "hex": "#685A35",
       "rgb": {
@@ -2574,12 +3279,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-741",
       "name": "Glazed Carrots",
       "code": "741",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#DF571D",
       "rgb": {
@@ -2590,12 +3298,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2426",
       "name": "Golden Glow",
       "code": "2426",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#CBA76B",
       "rgb": {
@@ -2606,12 +3317,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-4659",
       "name": "Golden Ochre",
       "code": "4659",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#C29000",
       "rgb": {
@@ -2622,12 +3336,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2655",
       "name": "Goldenrod",
       "code": "2655",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#F8CB70",
       "rgb": {
@@ -2638,12 +3355,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2504",
       "name": "Graffiti Pink",
       "code": "2504",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#AA5972",
       "rgb": {
@@ -2654,12 +3374,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-644",
       "name": "Grass Green",
       "code": "644",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#547644",
       "rgb": {
@@ -2670,12 +3393,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2656",
       "name": "Gray Owl",
       "code": "2656",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#AFA9A9",
       "rgb": {
@@ -2686,12 +3412,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-408",
       "name": "Green",
       "code": "408",
+      "ean": [
+        "0028995004087"
+      ],
       "set": "Acrylic Colors",
       "hex": "#A0BD9E",
       "rgb": {
@@ -2702,12 +3433,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-448",
       "name": "Green Forest",
       "code": "448",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#040402",
       "rgb": {
@@ -2718,12 +3452,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-726",
       "name": "Green Meadow",
       "code": "726",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#334037",
       "rgb": {
@@ -2734,12 +3471,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2621",
       "name": "Green Sea",
       "code": "2621",
+      "ean": [
+        "0028995026218"
+      ],
       "set": "Acrylic Colors",
       "hex": "#AAB8A7",
       "rgb": {
@@ -2750,12 +3492,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2500",
       "name": "Greenscape",
       "code": "2500",
+      "ean": [
+        "0028995025006"
+      ],
       "set": "Acrylic Colors",
       "hex": "#516762",
       "rgb": {
@@ -2766,12 +3513,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-4671",
       "name": "Grotto",
       "code": "4671",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#294147",
       "rgb": {
@@ -2782,12 +3532,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-667",
       "name": "Gunmetal Gray",
       "code": "667",
+      "ean": [
+        "0028995006678"
+      ],
       "set": "Metallics",
       "hex": "#666563",
       "rgb": {
@@ -2798,12 +3553,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-99238",
       "name": "Happy Green",
       "code": "99238",
+      "ean": [
+        "0028995992384"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#B3C938",
       "rgb": {
@@ -2814,12 +3574,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-459",
       "name": "Hauser Green Light",
       "code": "459",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#7B8E4C",
       "rgb": {
@@ -2830,12 +3593,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-228",
       "name": "Holly Leaf",
       "code": "228",
+      "ean": [
+        "0028995002281"
+      ],
       "set": "Acrylic Colors",
       "hex": "#176146",
       "rgb": {
@@ -2846,12 +3614,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2384",
       "name": "Honey Glaze",
       "code": "2384",
+      "ean": null,
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#E1BE24",
       "rgb": {
@@ -2862,12 +3633,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-942",
       "name": "Honeycomb",
       "code": "942",
+      "ean": [
+        "0028995009426"
+      ],
       "set": "Acrylic Colors",
       "hex": "#908573",
       "rgb": {
@@ -2878,12 +3654,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-634",
       "name": "Hot Pink",
       "code": "634",
+      "ean": [
+        "0028995006340"
+      ],
       "set": "Acrylic Colors",
       "hex": "#B9738B",
       "rgb": {
@@ -2894,12 +3675,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-4660",
       "name": "Hot Saffron",
       "code": "4660",
+      "ean": [
+        "0028995046605"
+      ],
       "set": "Acrylic Colors",
       "hex": "#EB3E02",
       "rgb": {
@@ -2910,12 +3696,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-406",
       "name": "Hunter Green",
       "code": "406",
+      "ean": [
+        "0028995004063"
+      ],
       "set": "Acrylic Colors",
       "hex": "#32423F",
       "rgb": {
@@ -2926,12 +3717,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2588",
       "name": "Ice Blue",
       "code": "2588",
+      "ean": [
+        "0028995025884"
+      ],
       "set": "Metallics",
       "hex": "#8A9CA0",
       "rgb": {
@@ -2942,12 +3738,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6462",
       "name": "Iced Coffee",
       "code": "6462",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#B58565",
       "rgb": {
@@ -2958,12 +3757,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-4669",
       "name": "Imperial Red",
       "code": "4669",
+      "ean": [
+        "0028995046698"
+      ],
       "set": "Acrylic Colors",
       "hex": "#6C383C",
       "rgb": {
@@ -2974,12 +3778,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-676",
       "name": "Inca Gold",
       "code": "676",
+      "ean": [
+        "0028995006760"
+      ],
       "set": "Metallics",
       "hex": "#B3972C",
       "rgb": {
@@ -2990,12 +3799,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-99239",
       "name": "Indigo Night",
       "code": "99239",
+      "ean": [
+        "0028995992391"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#132635",
       "rgb": {
@@ -3006,12 +3820,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2925",
       "name": "Ink Spot",
       "code": "2925",
+      "ean": [
+        "0028995029257"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#1E3056",
       "rgb": {
@@ -3022,12 +3841,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2623",
       "name": "Ink Spot",
       "code": "2623",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#061B3A",
       "rgb": {
@@ -3038,12 +3860,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-467",
       "name": "Italian Sage",
       "code": "467",
+      "ean": [
+        "0028995004674"
+      ],
       "set": "Acrylic Colors",
       "hex": "#8E8F7F",
       "rgb": {
@@ -3054,12 +3881,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-427",
       "name": "Ivory White",
       "code": "427",
+      "ean": [
+        "0028995004278"
+      ],
       "set": "Acrylic Colors",
       "hex": "#9C9585",
       "rgb": {
@@ -3070,12 +3902,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-99229",
       "name": "Jade Shimmer",
       "code": "99229",
+      "ean": null,
       "set": "Metallics",
       "hex": "#5F965C",
       "rgb": {
@@ -3086,12 +3921,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-320",
       "name": "Jamaican Sea",
       "code": "320",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#85ACAD",
       "rgb": {
@@ -3102,12 +3940,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2386",
       "name": "Juneberry",
       "code": "2386",
+      "ean": [
+        "0028995023866"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#58284E",
       "rgb": {
@@ -3118,12 +3961,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2383",
       "name": "Keepsake Rose",
       "code": "2383",
+      "ean": null,
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#BF374F",
       "rgb": {
@@ -3134,12 +3980,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-407",
       "name": "Kelly Green",
       "code": "407",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#627F69",
       "rgb": {
@@ -3150,12 +3999,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-410",
       "name": "Lavender",
       "code": "410",
+      "ean": [
+        "0028995004100",
+        "0028995025853"
+      ],
       "set": "Acrylic Colors",
       "hex": "#342659",
       "rgb": {
@@ -3166,12 +4021,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2928",
       "name": "Lavender",
       "code": "2928",
+      "ean": [
+        "0028995029288"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#4F4A8C",
       "rgb": {
@@ -3182,12 +4042,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6317",
       "name": "Lavender Lace",
       "code": "6317",
+      "ean": [
+        "0028995063176"
+      ],
       "set": "Multi-Surface Pearl Acrylics",
       "hex": "#82709A",
       "rgb": {
@@ -3198,12 +4063,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2913",
       "name": "Lemon Custard",
       "code": "2913",
+      "ean": [
+        "0028995029134"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#BBB346",
       "rgb": {
@@ -3214,12 +4084,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2706",
       "name": "Lemon Custard",
       "code": "2706",
+      "ean": null,
       "set": "Shiny™",
       "hex": "#352B1F",
       "rgb": {
@@ -3230,12 +4103,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-735",
       "name": "Lemon Custard",
       "code": "735",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#B7952A",
       "rgb": {
@@ -3246,12 +4122,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2972",
       "name": "Lemon Silk",
       "code": "2972",
+      "ean": null,
       "set": "Multi-Surface Pearl Acrylics",
       "hex": "#F8EA81",
       "rgb": {
@@ -3262,12 +4141,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-521",
       "name": "Lemon Yellow",
       "code": "521",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#E3D046",
       "rgb": {
@@ -3278,12 +4160,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-904",
       "name": "Lemonade",
       "code": "904",
+      "ean": [
+        "0028995009044"
+      ],
       "set": "Acrylic Colors",
       "hex": "#C5B277",
       "rgb": {
@@ -3294,12 +4181,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2715",
       "name": "Licorice",
       "code": "2715",
+      "ean": null,
       "set": "Shiny™",
       "hex": "#242321",
       "rgb": {
@@ -3310,12 +4200,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2934",
       "name": "Licorice",
       "code": "2934",
+      "ean": [
+        "0028995029349"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#CDCFCE",
       "rgb": {
@@ -3326,12 +4221,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-938",
       "name": "Licorice",
       "code": "938",
+      "ean": [
+        "0028995009389",
+        "0028995009891"
+      ],
       "set": "Acrylic Colors",
       "hex": "#2E2E2C",
       "rgb": {
@@ -3342,12 +4243,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-402",
       "name": "Light Blue",
       "code": "402",
+      "ean": [
+        "0028995004025"
+      ],
       "set": "Acrylic Colors",
       "hex": "#8295A6",
       "rgb": {
@@ -3358,12 +4264,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2923",
       "name": "Light Blue",
       "code": "2923",
+      "ean": [
+        "0028995029233"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#5C768B",
       "rgb": {
@@ -3374,12 +4285,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-424",
       "name": "Light Gray",
       "code": "424",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#92907A",
       "rgb": {
@@ -3390,12 +4304,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2955",
       "name": "Light Lavender",
       "code": "2955",
+      "ean": [
+        "0028995029554"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#C1B2CF",
       "rgb": {
@@ -3406,12 +4325,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-516",
       "name": "Light Lavender",
       "code": "516",
+      "ean": [
+        "0028995005169"
+      ],
       "set": "Acrylic Colors",
       "hex": "#705973",
       "rgb": {
@@ -3422,12 +4346,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-517",
       "name": "Light Peony",
       "code": "517",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#D49AC0",
       "rgb": {
@@ -3438,12 +4365,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-640",
       "name": "Light Periwinkle",
       "code": "640",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#769CCB",
       "rgb": {
@@ -3454,12 +4384,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-18116",
       "name": "Light Yellow",
       "code": "18116",
+      "ean": null,
       "set": "Watercolor Acrylic Paint™",
       "hex": "#E6C97B",
       "rgb": {
@@ -3470,12 +4403,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-4666",
       "name": "Lilac Ice",
       "code": "4666",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#B0A1B6",
       "rgb": {
@@ -3486,12 +4422,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2553",
       "name": "Lime Green",
       "code": "2553",
+      "ean": [
+        "0028995025532"
+      ],
       "set": "Acrylic Colors",
       "hex": "#7FAF35",
       "rgb": {
@@ -3502,12 +4443,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2914",
       "name": "Lime Green",
       "code": "2914",
+      "ean": [
+        "0028995029141"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#46D56C",
       "rgb": {
@@ -3518,12 +4464,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2982",
       "name": "Linen",
       "code": "2982",
+      "ean": [
+        "0028995029820"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#C6A78A",
       "rgb": {
@@ -3534,12 +4485,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-420",
       "name": "Linen",
       "code": "420",
+      "ean": [
+        "0028995004209"
+      ],
       "set": "Acrylic Colors",
       "hex": "#C2BBAB",
       "rgb": {
@@ -3550,12 +4506,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-437",
       "name": "Lipstick Red",
       "code": "437",
+      "ean": [
+        "0028995004377"
+      ],
       "set": "Acrylic Colors",
       "hex": "#AC2F2E",
       "rgb": {
@@ -3566,12 +4527,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-7270",
       "name": "Lipstick Red",
       "code": "7270",
+      "ean": [
+        "0028995072703"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#982029",
       "rgb": {
@@ -3582,12 +4548,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2587",
       "name": "Look At Me Blue",
       "code": "2587",
+      "ean": [
+        "0028995025877"
+      ],
       "set": "Acrylic Colors",
       "hex": "#000002",
       "rgb": {
@@ -3598,12 +4569,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-look-at-me-blue",
       "name": "Look at Me Blue",
       "code": "Look at Me Blue",
+      "ean": [
+        "0028995029240"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#0081D3",
       "rgb": {
@@ -3614,12 +4590,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2425",
       "name": "Madeira",
       "code": "2425",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#693238",
       "rgb": {
@@ -3630,12 +4609,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-412",
       "name": "Magenta",
       "code": "412",
+      "ean": [
+        "0028995004124"
+      ],
       "set": "Acrylic Colors",
       "hex": "#913854",
       "rgb": {
@@ -3646,12 +4630,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2898",
       "name": "Magenta",
       "code": "2898",
+      "ean": [
+        "0028995028984"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#E02955",
       "rgb": {
@@ -3662,12 +4651,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6310",
       "name": "Malachite",
       "code": "6310",
+      "ean": [
+        "0028995063107"
+      ],
       "set": "Multi-Surface Metallic Acrylics",
       "hex": "#365045",
       "rgb": {
@@ -3678,12 +4672,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2971",
       "name": "Mandarin Satin",
       "code": "2971",
+      "ean": null,
       "set": "Multi-Surface Pearl Acrylics",
       "hex": "#FA9E55",
       "rgb": {
@@ -3694,12 +4691,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-945",
       "name": "Maple Syrup",
       "code": "945",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#462828",
       "rgb": {
@@ -3710,12 +4710,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2385",
       "name": "Marigold",
       "code": "2385",
+      "ean": null,
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#E9AE52",
       "rgb": {
@@ -3726,12 +4729,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6458",
       "name": "Marina Mist",
       "code": "6458",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#AAC8D2",
       "rgb": {
@@ -3742,12 +4748,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-415",
       "name": "Maroon",
       "code": "415",
+      "ean": [
+        "0028995004155"
+      ],
       "set": "Acrylic Colors",
       "hex": "#321215",
       "rgb": {
@@ -3758,12 +4769,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-4661",
       "name": "Mauve Dust",
       "code": "4661",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#9E888B",
       "rgb": {
@@ -3774,12 +4788,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2556",
       "name": "Medium Blue",
       "code": "2556",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#387FB1",
       "rgb": {
@@ -3790,12 +4807,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2927",
       "name": "Medium Blue",
       "code": "2927",
+      "ean": [
+        "0028995029271"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#539FD3",
       "rgb": {
@@ -3806,12 +4828,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2933",
       "name": "Medium Gray",
       "code": "2933",
+      "ean": [
+        "0028995029332"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#BEC2C5",
       "rgb": {
@@ -3822,12 +4849,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-425",
       "name": "Medium Gray",
       "code": "425",
+      "ean": [
+        "0028995004254"
+      ],
       "set": "Acrylic Colors",
       "hex": "#464541",
       "rgb": {
@@ -3838,12 +4870,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-455",
       "name": "Medium Yellow",
       "code": "455",
+      "ean": [
+        "0028995004551"
+      ],
       "set": "Acrylic Colors",
       "hex": "#D8B32E",
       "rgb": {
@@ -3854,12 +4891,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-7102",
       "name": "Medium Yellow",
       "code": "7102",
+      "ean": null,
       "set": "Pure™ Artist Pigment",
       "hex": "#DD9E2A",
       "rgb": {
@@ -3870,12 +4910,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2984",
       "name": "Midnight",
       "code": "2984",
+      "ean": null,
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#15141C",
       "rgb": {
@@ -3886,12 +4929,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-964",
       "name": "Midnight",
       "code": "964",
+      "ean": [
+        "0028995009648"
+      ],
       "set": "Acrylic Colors",
       "hex": "#1E202C",
       "rgb": {
@@ -3902,12 +4950,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2496",
       "name": "Midnight Garden",
       "code": "2496",
+      "ean": [
+        "0028995024962"
+      ],
       "set": "Acrylic Colors",
       "hex": "#1E3541",
       "rgb": {
@@ -3918,12 +4971,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-4621",
       "name": "Minted Aqua",
       "code": "4621",
+      "ean": [
+        "0028995046216"
+      ],
       "set": "Acrylic Colors",
       "hex": "#94A89C",
       "rgb": {
@@ -3934,12 +4992,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2551",
       "name": "Moon Yellow",
       "code": "2551",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#CDAA2C",
       "rgb": {
@@ -3950,12 +5011,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2911",
       "name": "Moon Yellow",
       "code": "2911",
+      "ean": [
+        "0028995029110"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#C6921C",
       "rgb": {
@@ -3966,12 +5032,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6456",
       "name": "Mossy Meadow",
       "code": "6456",
+      "ean": [
+        "0028995064562"
+      ],
       "set": "Acrylic Colors",
       "hex": "#607F55",
       "rgb": {
@@ -3982,12 +5053,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-472",
       "name": "Mushroom",
       "code": "472",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#A28867",
       "rgb": {
@@ -3998,12 +5072,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-435",
       "name": "Napthol Crimson",
       "code": "435",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#95363E",
       "rgb": {
@@ -4014,12 +5091,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6391",
       "name": "Napthol Crimson",
       "code": "6391",
+      "ean": null,
       "set": "Pure™ Artist Pigment",
       "hex": "#922D35",
       "rgb": {
@@ -4030,12 +5110,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-99257",
       "name": "Navajo Turquoise",
       "code": "99257",
+      "ean": [
+        "0028995992575"
+      ],
       "set": "Acrylic Colors",
       "hex": "#00495B",
       "rgb": {
@@ -4046,12 +5131,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-403",
       "name": "Navy Blue",
       "code": "403",
+      "ean": [
+        "0028995004032"
+      ],
       "set": "Acrylic Colors",
       "hex": "#062537",
       "rgb": {
@@ -4062,12 +5152,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2578",
       "name": "New Leaf Green",
       "code": "2578",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#CBD447",
       "rgb": {
@@ -4078,12 +5171,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6314",
       "name": "Nickel",
       "code": "6314",
+      "ean": [
+        "0028995063145"
+      ],
       "set": "Multi-Surface Metallic Acrylics",
       "hex": "#6D6562",
       "rgb": {
@@ -4094,12 +5192,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-944",
       "name": "Nutmeg",
       "code": "944",
+      "ean": [
+        "0028995009440"
+      ],
       "set": "Acrylic Colors",
       "hex": "#503017",
       "rgb": {
@@ -4110,12 +5213,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2225",
       "name": "Ocean Cruise",
       "code": "2225",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#206CA5",
       "rgb": {
@@ -4126,12 +5232,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2748",
       "name": "Ocean View",
       "code": "2748",
+      "ean": [
+        "0028995027482"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#7EA5B4",
       "rgb": {
@@ -4142,12 +5253,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6459",
       "name": "Ocean View",
       "code": "6459",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#84C4C4",
       "rgb": {
@@ -4158,12 +5272,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-k927",
       "name": "Old Ivy",
       "code": "K927",
+      "ean": [
+        "0028995009273"
+      ],
       "set": "Acrylic Colors",
       "hex": "#414D37",
       "rgb": {
@@ -4174,12 +5293,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-449",
       "name": "Olive Green",
       "code": "449",
+      "ean": [
+        "0028995004490"
+      ],
       "set": "Acrylic Colors",
       "hex": "#333E1E",
       "rgb": {
@@ -4190,12 +5314,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-18113",
       "name": "Opera",
       "code": "18113",
+      "ean": null,
       "set": "Watercolor Acrylic Paint™",
       "hex": "#FF85D7",
       "rgb": {
@@ -4206,12 +5333,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2975",
       "name": "Orange",
       "code": "2975",
+      "ean": [
+        "0028995029752"
+      ],
       "set": "Multi-Surface Neon Glow Acrylics",
       "hex": "#F64700",
       "rgb": {
@@ -4222,12 +5354,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-4623",
       "name": "Orchid Blush",
       "code": "4623",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#838280",
       "rgb": {
@@ -4238,12 +5373,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6463",
       "name": "Pale Gray",
       "code": "6463",
+      "ean": [
+        "0028995064630"
+      ],
       "set": "Acrylic Colors",
       "hex": "#9AA09E",
       "rgb": {
@@ -4254,12 +5394,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2946",
       "name": "Pale Yellow",
       "code": "2946",
+      "ean": [
+        "0028995029462"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#FBDE8E",
       "rgb": {
@@ -4270,12 +5415,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-paradise-pink",
       "name": "Paradise Pink",
       "code": "Paradise Pink",
+      "ean": null,
       "set": "Multi-Surface Glitter Acrylics",
       "hex": "#CA729A",
       "rgb": {
@@ -4286,12 +5434,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2895",
       "name": "Parchment",
       "code": "2895",
+      "ean": [
+        "0028995028953"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#7D7875",
       "rgb": {
@@ -4302,12 +5455,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-450",
       "name": "Parchment",
       "code": "450",
+      "ean": [
+        "0028995004506"
+      ],
       "set": "Acrylic Colors",
       "hex": "#A1916D",
       "rgb": {
@@ -4318,12 +5476,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2233",
       "name": "Parisian Pink",
       "code": "2233",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#B984A2",
       "rgb": {
@@ -4334,12 +5495,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-18130",
       "name": "Pastel Orange",
       "code": "18130",
+      "ean": null,
       "set": "Watercolor Acrylic Paint™",
       "hex": "#FFDCD6",
       "rgb": {
@@ -4350,12 +5514,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2951",
       "name": "Patina",
       "code": "2951",
+      "ean": [
+        "0028995029516"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#4DAD9F",
       "rgb": {
@@ -4366,12 +5535,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-444",
       "name": "Patina",
       "code": "444",
+      "ean": [
+        "0028995004445"
+      ],
       "set": "Acrylic Colors",
       "hex": "#58B0A2",
       "rgb": {
@@ -4382,12 +5556,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-7109",
       "name": "Payne Gray",
       "code": "7109",
+      "ean": null,
       "set": "Pure™ Artist Pigment",
       "hex": "#313439",
       "rgb": {
@@ -4398,12 +5575,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-659",
       "name": "Pearl White",
       "code": "659",
+      "ean": [
+        "0028995006593"
+      ],
       "set": "Metallics",
       "hex": "#9A9D94",
       "rgb": {
@@ -4414,12 +5596,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6473",
       "name": "Peppercorn",
       "code": "6473",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#2C3033",
       "rgb": {
@@ -4430,12 +5615,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2557",
       "name": "Perfect Purple",
       "code": "2557",
+      "ean": [
+        "0028995025570"
+      ],
       "set": "Acrylic Colors",
       "hex": "#453281",
       "rgb": {
@@ -4446,12 +5636,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2929",
       "name": "Perfect Purple",
       "code": "2929",
+      "ean": [
+        "0028995029295"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#262368",
       "rgb": {
@@ -4462,12 +5657,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-671",
       "name": "Peridot",
       "code": "671",
+      "ean": [
+        "0028995006715"
+      ],
       "set": "Metallics",
       "hex": "#333A18",
       "rgb": {
@@ -4478,12 +5678,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6315",
       "name": "Peridot",
       "code": "6315",
+      "ean": [
+        "0028995063152"
+      ],
       "set": "Multi-Surface Pearl Acrylics",
       "hex": "#737448",
       "rgb": {
@@ -4494,12 +5699,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-404",
       "name": "Periwinkle",
       "code": "404",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#4A5980",
       "rgb": {
@@ -4510,12 +5718,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6362",
       "name": "Persian Blue",
       "code": "6362",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#022A5E",
       "rgb": {
@@ -4526,12 +5737,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-99232",
       "name": "Pewter",
       "code": "99232",
+      "ean": [
+        "0028995992322"
+      ],
       "set": "Metallics",
       "hex": "#62615D",
       "rgb": {
@@ -4542,12 +5758,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-7105",
       "name": "Phthalo Green",
       "code": "7105",
+      "ean": null,
       "set": "Pure™ Artist Pigment",
       "hex": "#4C9581",
       "rgb": {
@@ -4558,12 +5777,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-18112",
       "name": "Pink",
       "code": "18112",
+      "ean": null,
       "set": "Watercolor Acrylic Paint™",
       "hex": "#F289B5",
       "rgb": {
@@ -4574,12 +5796,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2974",
       "name": "Pink",
       "code": "2974",
+      "ean": [
+        "0028995029745"
+      ],
       "set": "Multi-Surface Neon Glow Acrylics",
       "hex": "#FC83C1",
       "rgb": {
@@ -4590,12 +5817,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-413",
       "name": "Pink",
       "code": "413",
+      "ean": [
+        "0028995004131"
+      ],
       "set": "Acrylic Colors",
       "hex": "#D097A8",
       "rgb": {
@@ -4606,12 +5838,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2545",
       "name": "Pink Balloon",
       "code": "2545",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#B78594",
       "rgb": {
@@ -4622,12 +5857,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2897",
       "name": "Pink Melon",
       "code": "2897",
+      "ean": null,
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#B5475D",
       "rgb": {
@@ -4638,12 +5876,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2547",
       "name": "Pink Melon",
       "code": "2547",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#070101",
       "rgb": {
@@ -4654,12 +5895,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2970",
       "name": "Pink Rouge",
       "code": "2970",
+      "ean": null,
       "set": "Multi-Surface Pearl Acrylics",
       "hex": "#E48EAB",
       "rgb": {
@@ -4670,12 +5914,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-4658",
       "name": "Pistachio",
       "code": "4658",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#CFCD60",
       "rgb": {
@@ -4686,12 +5933,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6450",
       "name": "Plantation Rose",
       "code": "6450",
+      "ean": [
+        "0028995064500"
+      ],
       "set": "Acrylic Colors",
       "hex": "#A27884",
       "rgb": {
@@ -4702,12 +5954,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6301",
       "name": "Platinum",
       "code": "6301",
+      "ean": [
+        "0028995063015"
+      ],
       "set": "Multi-Surface Metallic Acrylics",
       "hex": "#888888",
       "rgb": {
@@ -4718,12 +5975,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-668",
       "name": "Plum",
       "code": "668",
+      "ean": [
+        "0028995006685"
+      ],
       "set": "Metallics",
       "hex": "#714E6F",
       "rgb": {
@@ -4734,12 +5996,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2390",
       "name": "Podge Pink",
       "code": "2390",
+      "ean": [
+        "0028995023903"
+      ],
       "set": "Acrylic Colors",
       "hex": "#A73185",
       "rgb": {
@@ -4750,12 +6017,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2392",
       "name": "Podge Yellow",
       "code": "2392",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#4D4844",
       "rgb": {
@@ -4766,12 +6036,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-421",
       "name": "Portrait Light",
       "code": "421",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#E1D1C2",
       "rgb": {
@@ -4782,12 +6055,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2638",
       "name": "Prairie Sage",
       "code": "2638",
+      "ean": [
+        "0028995026386"
+      ],
       "set": "Acrylic Colors",
       "hex": "#AA9788",
       "rgb": {
@@ -4798,12 +6076,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6453",
       "name": "Prairie Sunset",
       "code": "6453",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#D58466",
       "rgb": {
@@ -4814,12 +6095,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-7103",
       "name": "Prussian Blue",
       "code": "7103",
+      "ean": null,
       "set": "Pure™ Artist Pigment",
       "hex": "#2E5B9F",
       "rgb": {
@@ -4830,12 +6114,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6360",
       "name": "Prussian Blue",
       "code": "6360",
+      "ean": [
+        "0028995063602"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#16171C",
       "rgb": {
@@ -4846,12 +6135,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2902e",
       "name": "Pueblo",
       "code": "2902E",
+      "ean": [
+        "0028995029028"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#672E1D",
       "rgb": {
@@ -4862,12 +6156,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2249",
       "name": "Pueblo",
       "code": "2249",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#974A27",
       "rgb": {
@@ -4878,12 +6175,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-225",
       "name": "Pumpkin",
       "code": "225",
+      "ean": [
+        "0028995002250"
+      ],
       "set": "Acrylic Colors",
       "hex": "#9D5D3A",
       "rgb": {
@@ -4894,12 +6196,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-479",
       "name": "Pure Black",
       "code": "479",
+      "ean": [
+        "0028995004797"
+      ],
       "set": "Acrylic Colors",
       "hex": "#0B0A08",
       "rgb": {
@@ -4910,12 +6217,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2957",
       "name": "Pure Black",
       "code": "2957",
+      "ean": [
+        "0028995029578",
+        "0028995046568",
+        "0028995063831"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#0E0E0E",
       "rgb": {
@@ -4926,12 +6240,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-7112",
       "name": "Pure Black",
       "code": "7112",
+      "ean": null,
       "set": "Pure™ Artist Pigment",
       "hex": "#232325",
       "rgb": {
@@ -4942,12 +6259,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-660",
       "name": "Pure Gold",
       "code": "660",
+      "ean": [
+        "0028995006609",
+        "0028995008719"
+      ],
       "set": "Metallics",
       "hex": "#554F2B",
       "rgb": {
@@ -4958,12 +6281,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-689",
       "name": "Pure Magenta",
       "code": "689",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#362327",
       "rgb": {
@@ -4974,12 +6300,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-628",
       "name": "Pure Orange",
       "code": "628",
+      "ean": [
+        "0028995006289"
+      ],
       "set": "Acrylic Colors",
       "hex": "#AC421B",
       "rgb": {
@@ -4990,12 +6321,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2703",
       "name": "Pure Orange",
       "code": "2703",
+      "ean": null,
       "set": "Shiny™",
       "hex": "#AB4A1D",
       "rgb": {
@@ -5006,12 +6340,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6388",
       "name": "Pure Orange",
       "code": "6388",
+      "ean": null,
       "set": "Pure™ Artist Pigment",
       "hex": "#BC5437",
       "rgb": {
@@ -5022,12 +6359,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2903",
       "name": "Pure Orange",
       "code": "2903",
+      "ean": [
+        "0028995029035"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#FE7E51",
       "rgb": {
@@ -5038,12 +6380,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-18124",
       "name": "Purple",
       "code": "18124",
+      "ean": null,
       "set": "Watercolor Acrylic Paint™",
       "hex": "#1F135B",
       "rgb": {
@@ -5054,12 +6399,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-411",
       "name": "Purple",
       "code": "411",
+      "ean": [
+        "0028995004117"
+      ],
       "set": "Acrylic Colors",
       "hex": "#423755",
       "rgb": {
@@ -5070,12 +6420,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2977",
       "name": "Purple",
       "code": "2977",
+      "ean": [
+        "0028995029776"
+      ],
       "set": "Multi-Surface Neon Glow Acrylics",
       "hex": "#733272",
       "rgb": {
@@ -5086,12 +6441,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-439",
       "name": "Purple Lilac",
       "code": "439",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#998BAE",
       "rgb": {
@@ -5102,12 +6460,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-452",
       "name": "Raw Sienna",
       "code": "452",
+      "ean": [
+        "0028995004520"
+      ],
       "set": "Acrylic Colors",
       "hex": "#634128",
       "rgb": {
@@ -5118,12 +6481,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-7108",
       "name": "Raw Umber",
       "code": "7108",
+      "ean": null,
       "set": "Pure™ Artist Pigment",
       "hex": "#5E5140",
       "rgb": {
@@ -5134,12 +6500,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-485",
       "name": "Raw Umber",
       "code": "485",
+      "ean": [
+        "0028995004858"
+      ],
       "set": "Acrylic Colors",
       "hex": "#2D2425",
       "rgb": {
@@ -5150,12 +6521,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2908",
       "name": "Real Brown",
       "code": "2908",
+      "ean": [
+        "0028995029080"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#4E4242",
       "rgb": {
@@ -5166,12 +6542,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-231",
       "name": "Real Brown",
       "code": "231",
+      "ean": [
+        "0028995002311"
+      ],
       "set": "Acrylic Colors",
       "hex": "#4A4240",
       "rgb": {
@@ -5182,12 +6563,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6390",
       "name": "Red Light",
       "code": "6390",
+      "ean": null,
       "set": "Pure™ Artist Pigment",
       "hex": "#B42C36",
       "rgb": {
@@ -5198,12 +6582,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-636",
       "name": "Red Violet",
       "code": "636",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#2E1532",
       "rgb": {
@@ -5214,12 +6601,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-657",
       "name": "Regal Red",
       "code": "657",
+      "ean": null,
       "set": "Metallics",
       "hex": "#27282A",
       "rgb": {
@@ -5230,12 +6620,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-652",
       "name": "Rose",
       "code": "652",
+      "ean": [
+        "0028995006524"
+      ],
       "set": "Metallics",
       "hex": "#010002",
       "rgb": {
@@ -5246,12 +6641,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6102",
       "name": "Rose Gold",
       "code": "6102",
+      "ean": [
+        "0028995061028",
+        "0028995061011"
+      ],
       "set": "Metallics",
       "hex": "#B29080",
       "rgb": {
@@ -5262,12 +6663,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6304",
       "name": "Rose Gold",
       "code": "6304",
+      "ean": [
+        "0028995063046"
+      ],
       "set": "Multi-Surface Metallic Acrylics",
       "hex": "#8A6A51",
       "rgb": {
@@ -5278,12 +6684,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-632",
       "name": "Rose Pink",
       "code": "632",
+      "ean": [
+        "0028995006326"
+      ],
       "set": "Acrylic Colors",
       "hex": "#AA7A88",
       "rgb": {
@@ -5294,12 +6705,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2480",
       "name": "Royal Gold",
       "code": "2480",
+      "ean": [
+        "0028995024801"
+      ],
       "set": "Metallics",
       "hex": "#663E1B",
       "rgb": {
@@ -5310,12 +6726,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2962",
       "name": "Royal Purple",
       "code": "2962",
+      "ean": null,
       "set": "Multi-Surface Glitter Acrylics",
       "hex": "#5F4086",
       "rgb": {
@@ -5326,12 +6745,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2502",
       "name": "Rusted Pipe",
       "code": "2502",
+      "ean": [
+        "0028995025020"
+      ],
       "set": "Acrylic Colors",
       "hex": "#9B765C",
       "rgb": {
@@ -5342,12 +6766,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-577",
       "name": "Sahara Gold",
       "code": "577",
+      "ean": [
+        "0028995005770"
+      ],
       "set": "Metallics",
       "hex": "#D8C6A2",
       "rgb": {
@@ -5358,12 +6787,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2985",
       "name": "Sap Green",
       "code": "2985",
+      "ean": null,
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#253834",
       "rgb": {
@@ -5374,12 +6806,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-18118",
       "name": "Sap Green",
       "code": "18118",
+      "ean": null,
       "set": "Watercolor Acrylic Paint™",
       "hex": "#476443",
       "rgb": {
@@ -5390,12 +6825,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-7106",
       "name": "Sap Green",
       "code": "7106",
+      "ean": null,
       "set": "Pure™ Artist Pigment",
       "hex": "#5B6854",
       "rgb": {
@@ -5406,12 +6844,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-458",
       "name": "Sap Green",
       "code": "458",
+      "ean": [
+        "0028995004582"
+      ],
       "set": "Acrylic Colors",
       "hex": "#000002",
       "rgb": {
@@ -5422,12 +6865,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6312",
       "name": "Sapphire",
       "code": "6312",
+      "ean": null,
       "set": "Multi-Surface Metallic Acrylics",
       "hex": "#295286",
       "rgb": {
@@ -5438,12 +6884,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2490",
       "name": "Sawgrass",
       "code": "2490",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#A7A6A1",
       "rgb": {
@@ -5454,12 +6903,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-736",
       "name": "School Bus Yellow",
       "code": "736",
+      "ean": [
+        "0028995007361"
+      ],
       "set": "Acrylic Colors",
       "hex": "#CE9126",
       "rgb": {
@@ -5470,12 +6924,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2486",
       "name": "Sea Mist",
       "code": "2486",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#778D8A",
       "rgb": {
@@ -5486,12 +6943,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2485",
       "name": "Seashell Pink",
       "code": "2485",
+      "ean": [
+        "0028995024856"
+      ],
       "set": "Acrylic Colors",
       "hex": "#E4BFB7",
       "rgb": {
@@ -5502,12 +6964,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-661",
       "name": "Sequin Black",
       "code": "661",
+      "ean": [
+        "0028995006616"
+      ],
       "set": "Metallics",
       "hex": "#0C0B09",
       "rgb": {
@@ -5518,12 +6985,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-sequin-silver",
       "name": "Sequin Silver",
       "code": "Sequin Silver",
+      "ean": [
+        "0028995029592"
+      ],
       "set": "Multi-Surface Glitter Acrylics",
       "hex": "#6A737A",
       "rgb": {
@@ -5534,12 +7006,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-18126",
       "name": "Sienna",
       "code": "18126",
+      "ean": null,
       "set": "Watercolor Acrylic Paint™",
       "hex": "#B68871",
       "rgb": {
@@ -5550,12 +7025,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-506",
       "name": "Silver Anniversary",
       "code": "506",
+      "ean": [
+        "0028995005060"
+      ],
       "set": "Metallics",
       "hex": "#D3D2D0",
       "rgb": {
@@ -5566,12 +7046,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6465",
       "name": "Silver Marlin",
       "code": "6465",
+      "ean": [
+        "0028995064654"
+      ],
       "set": "Acrylic Colors",
       "hex": "#76929E",
       "rgb": {
@@ -5582,12 +7067,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-662",
       "name": "Silver Sterling",
       "code": "662",
+      "ean": [
+        "0028995006623",
+        "0028995008733"
+      ],
       "set": "Metallics",
       "hex": "#898883",
       "rgb": {
@@ -5598,12 +7089,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-465",
       "name": "Sky Blue",
       "code": "465",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#73847E",
       "rgb": {
@@ -5614,12 +7108,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2596",
       "name": "Sky Mist",
       "code": "2596",
+      "ean": [
+        "0028995025969"
+      ],
       "set": "Acrylic Colors",
       "hex": "#BCBDBF",
       "rgb": {
@@ -5630,12 +7129,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2952",
       "name": "Sky Mist",
       "code": "2952",
+      "ean": [
+        "0028995029523"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#E2ECED",
       "rgb": {
@@ -5646,12 +7150,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2979",
       "name": "Skyline",
       "code": "2979",
+      "ean": [
+        "0028995029790"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#3E5567",
       "rgb": {
@@ -5662,12 +7171,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2499",
       "name": "Skyline",
       "code": "2499",
+      "ean": [
+        "0028995024993"
+      ],
       "set": "Acrylic Colors",
       "hex": "#282A29",
       "rgb": {
@@ -5678,12 +7192,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-99256",
       "name": "Smoky Jade",
       "code": "99256",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#AAD0C5",
       "rgb": {
@@ -5694,12 +7211,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2949",
       "name": "Soft Apple",
       "code": "2949",
+      "ean": [
+        "0028995029493"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#C4CFA4",
       "rgb": {
@@ -5710,12 +7232,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-526",
       "name": "Soft Apple",
       "code": "526",
+      "ean": [
+        "0028995005268"
+      ],
       "set": "Acrylic Colors",
       "hex": "#A9B08B",
       "rgb": {
@@ -5726,12 +7253,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-663",
       "name": "Solid Bronze",
       "code": "663",
+      "ean": [
+        "0028995006630"
+      ],
       "set": "Metallics",
       "hex": "#714721",
       "rgb": {
@@ -5742,12 +7274,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2566",
       "name": "Spun Sugar",
       "code": "2566",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#E5D7CA",
       "rgb": {
@@ -5758,12 +7293,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6467",
       "name": "Starlight Gold",
       "code": "6467",
+      "ean": [
+        "0028995064678"
+      ],
       "set": "Acrylic Colors",
       "hex": "#946723",
       "rgb": {
@@ -5774,12 +7314,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2561",
       "name": "Steel Gray",
       "code": "2561",
+      "ean": [
+        "0028995025617"
+      ],
       "set": "Acrylic Colors",
       "hex": "#6E6B64",
       "rgb": {
@@ -5790,12 +7335,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2932",
       "name": "Steel Gray",
       "code": "2932",
+      "ean": [
+        "0028995029325"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#6B6A6F",
       "rgb": {
@@ -5806,12 +7356,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-441",
       "name": "Sterling Blue",
       "code": "441",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#0F669C",
       "rgb": {
@@ -5822,12 +7375,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-sterling-silver",
       "name": "Sterling Silver",
       "code": "Sterling Silver.",
+      "ean": [
+        "0028995029646"
+      ],
       "set": "Multi-Surface Metallic Acrylics",
       "hex": "#D2D1CF",
       "rgb": {
@@ -5838,12 +7396,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2637",
       "name": "Succulent",
       "code": "2637",
+      "ean": [
+        "0028995026379"
+      ],
       "set": "Acrylic Colors",
       "hex": "#C6D1CD",
       "rgb": {
@@ -5854,12 +7417,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2226",
       "name": "Sugar Plum",
       "code": "2226",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#942488",
       "rgb": {
@@ -5870,12 +7436,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2549",
       "name": "Summer Peach",
       "code": "2549",
+      "ean": [
+        "0028995025495"
+      ],
       "set": "Acrylic Colors",
       "hex": "#E59C69",
       "rgb": {
@@ -5886,12 +7457,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-432",
       "name": "Sunflower",
       "code": "432",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#AE9D67",
       "rgb": {
@@ -5902,12 +7476,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2947",
       "name": "Sunflower",
       "code": "2947",
+      "ean": null,
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#F5D79B",
       "rgb": {
@@ -5918,12 +7495,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-509",
       "name": "Sunny Yellow",
       "code": "509",
+      "ean": [
+        "0028995005091"
+      ],
       "set": "Acrylic Colors",
       "hex": "#CDBA41",
       "rgb": {
@@ -5934,12 +7516,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-902",
       "name": "Taffy",
       "code": "902",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#E3D4B7",
       "rgb": {
@@ -5950,12 +7535,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-627",
       "name": "Tangerine",
       "code": "627",
+      "ean": [
+        "0028995006272"
+      ],
       "set": "Acrylic Colors",
       "hex": "#C7813B",
       "rgb": {
@@ -5966,12 +7556,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6313",
       "name": "Tanzanite",
       "code": "6313",
+      "ean": null,
       "set": "Multi-Surface Metallic Acrylics",
       "hex": "#4C4674",
       "rgb": {
@@ -5982,12 +7575,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-903",
       "name": "Tapioca",
       "code": "903",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#BAA995",
       "rgb": {
@@ -5998,12 +7594,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6300",
       "name": "Taupe",
       "code": "6300",
+      "ean": null,
       "set": "Multi-Surface Metallic Acrylics",
       "hex": "#AB9B8B",
       "rgb": {
@@ -6014,12 +7613,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-580",
       "name": "Taupe",
       "code": "580",
+      "ean": [
+        "0028995005800"
+      ],
       "set": "Metallics",
       "hex": "#786C5E",
       "rgb": {
@@ -6030,12 +7634,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2920",
       "name": "Teal",
       "code": "2920",
+      "ean": [
+        "0028995029202"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#0F7278",
       "rgb": {
@@ -6046,12 +7655,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-405",
       "name": "Teal",
       "code": "405",
+      "ean": [
+        "0028995004056"
+      ],
       "set": "Acrylic Colors",
       "hex": "#538898",
       "rgb": {
@@ -6062,12 +7676,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6311",
       "name": "Teal Topaz",
       "code": "6311",
+      "ean": [
+        "0028995063114"
+      ],
       "set": "Multi-Surface Metallic Acrylics",
       "hex": "#3C575E",
       "rgb": {
@@ -6078,12 +7697,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-417",
       "name": "Teddy Bear Brown",
       "code": "417",
+      "ean": [
+        "0028995004179"
+      ],
       "set": "Acrylic Colors",
       "hex": "#64402A",
       "rgb": {
@@ -6094,12 +7718,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2989",
       "name": "Teddy Bear Brown",
       "code": "2989",
+      "ean": [
+        "0028995029899"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#492C1E",
       "rgb": {
@@ -6110,12 +7739,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-419",
       "name": "Teddy Bear Tan",
       "code": "419",
+      "ean": [
+        "0028995004193"
+      ],
       "set": "Acrylic Colors",
       "hex": "#663E1B",
       "rgb": {
@@ -6126,12 +7760,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-433",
       "name": "Terra Cotta",
       "code": "433",
+      "ean": [
+        "0028995004339"
+      ],
       "set": "Acrylic Colors",
       "hex": "#84472B",
       "rgb": {
@@ -6142,12 +7781,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2918",
       "name": "Thicket",
       "code": "2918",
+      "ean": [
+        "0028995029189"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#39534A",
       "rgb": {
@@ -6158,12 +7802,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-924",
       "name": "Thicket",
       "code": "924",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#0E100D",
       "rgb": {
@@ -6174,12 +7821,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-609",
       "name": "Thunder Blue",
       "code": "609",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#909CAA",
       "rgb": {
@@ -6190,12 +7840,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2658",
       "name": "Thunder Gray",
       "code": "2658",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#ABA293",
       "rgb": {
@@ -6206,12 +7859,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-319",
       "name": "Tickled Pink",
       "code": "319",
+      "ean": [
+        "0028995763045"
+      ],
       "set": "Acrylic Colors",
       "hex": "#BE7590",
       "rgb": {
@@ -6222,12 +7880,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6386",
       "name": "Titanium White",
       "code": "6386",
+      "ean": null,
       "set": "Pure™ Artist Pigment",
       "hex": "#E1E2E4",
       "rgb": {
@@ -6238,12 +7899,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-480",
       "name": "Titanium White",
       "code": "480",
+      "ean": [
+        "0028995004803"
+      ],
       "set": "Acrylic Colors",
       "hex": "#C5C3B7",
       "rgb": {
@@ -6254,12 +7920,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2938",
       "name": "Titanium White",
       "code": "2938",
+      "ean": [
+        "0028995029387",
+        "0028995046452",
+        "0028995063749"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#D8D7D3",
       "rgb": {
@@ -6270,12 +7943,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-99254",
       "name": "Toasted Terra Cotta",
       "code": "99254",
+      "ean": [
+        "0028995992544"
+      ],
       "set": "Acrylic Colors",
       "hex": "#5D1809",
       "rgb": {
@@ -6286,12 +7964,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-401",
       "name": "True Blue",
       "code": "401",
+      "ean": [
+        "0028995004018"
+      ],
       "set": "Acrylic Colors",
       "hex": "#143568",
       "rgb": {
@@ -6302,12 +7985,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-7271",
       "name": "True Blue",
       "code": "7271",
+      "ean": [
+        "0028995072710"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#104275",
       "rgb": {
@@ -6318,12 +8006,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-456",
       "name": "True Burgundy",
       "code": "456",
+      "ean": [
+        "0028995004568"
+      ],
       "set": "Acrylic Colors",
       "hex": "#30120B",
       "rgb": {
@@ -6334,12 +8027,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-679",
       "name": "Turner Yellow",
       "code": "679",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#E6A352",
       "rgb": {
@@ -6350,12 +8046,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-18122",
       "name": "Turquoise",
       "code": "18122",
+      "ean": null,
       "set": "Watercolor Acrylic Paint™",
       "hex": "#B2C5C1",
       "rgb": {
@@ -6366,12 +8065,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2992",
       "name": "Turquoise",
       "code": "2992",
+      "ean": [
+        "0028995029929",
+        "0028995066665"
+      ],
       "set": "Multi-Surface Glitter Acrylics",
       "hex": "#055475",
       "rgb": {
@@ -6382,12 +8087,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-961",
       "name": "Turquoise",
       "code": "961",
+      "ean": [
+        "0028995009617"
+      ],
       "set": "Acrylic Colors",
       "hex": "#4AA59E",
       "rgb": {
@@ -6398,12 +8108,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-99230",
       "name": "Turquoise Shimmer",
       "code": "99230",
+      "ean": [
+        "0028995992308"
+      ],
       "set": "Metallics",
       "hex": "#02627A",
       "rgb": {
@@ -6414,12 +8129,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-18120",
       "name": "Ultramarine",
       "code": "18120",
+      "ean": null,
       "set": "Watercolor Acrylic Paint™",
       "hex": "#344CB7",
       "rgb": {
@@ -6430,12 +8148,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2711",
       "name": "Ultramarine Blue",
       "code": "2711",
+      "ean": null,
       "set": "Shiny™",
       "hex": "#18437A",
       "rgb": {
@@ -6446,12 +8167,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-7104",
       "name": "Ultramarine Blue",
       "code": "7104",
+      "ean": null,
       "set": "Pure™ Artist Pigment",
       "hex": "#1E4DA9",
       "rgb": {
@@ -6462,12 +8186,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-484",
       "name": "Ultramarine Blue",
       "code": "484",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#3B4978",
       "rgb": {
@@ -6478,12 +8205,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2430",
       "name": "Uniform Blue",
       "code": "2430",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#18192E",
       "rgb": {
@@ -6494,12 +8224,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6470",
       "name": "Victorian Violet",
       "code": "6470",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#705A7E",
       "rgb": {
@@ -6510,12 +8243,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2636",
       "name": "Villa Green",
       "code": "2636",
+      "ean": [
+        "0028995026362"
+      ],
       "set": "Acrylic Colors",
       "hex": "#B4C7B4",
       "rgb": {
@@ -6526,12 +8264,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6451",
       "name": "Vintage Tea Rose",
       "code": "6451",
+      "ean": [
+        "0028995064517"
+      ],
       "set": "Acrylic Colors",
       "hex": "#CD919B",
       "rgb": {
@@ -6542,12 +8285,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-515",
       "name": "Vintage White",
       "code": "515",
+      "ean": [
+        "0028995005152"
+      ],
       "set": "Acrylic Colors",
       "hex": "#BEB39D",
       "rgb": {
@@ -6558,12 +8306,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2939",
       "name": "Vintage White",
       "code": "2939",
+      "ean": [
+        "0028995029394"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#EFE9DD",
       "rgb": {
@@ -6574,12 +8327,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-440",
       "name": "Violet Pansy",
       "code": "440",
+      "ean": [
+        "0028995004407"
+      ],
       "set": "Acrylic Colors",
       "hex": "#231C3D",
       "rgb": {
@@ -6590,12 +8348,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2956",
       "name": "Violet Pansy",
       "code": "2956",
+      "ean": null,
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#3C3557",
       "rgb": {
@@ -6606,12 +8367,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-99231",
       "name": "Violet Shimmer",
       "code": "99231",
+      "ean": [
+        "0028995992315"
+      ],
       "set": "Metallics",
       "hex": "#1E234D",
       "rgb": {
@@ -6622,12 +8388,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-7110",
       "name": "Viridian",
       "code": "7110",
+      "ean": null,
       "set": "Pure™ Artist Pigment",
       "hex": "#45B3A6",
       "rgb": {
@@ -6638,12 +8407,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2576",
       "name": "Vivid Orange",
       "code": "2576",
+      "ean": [
+        "0028995025761"
+      ],
       "set": "Acrylic Colors",
       "hex": "#C98B31",
       "rgb": {
@@ -6654,12 +8428,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2904",
       "name": "Vivid Orange",
       "code": "2904",
+      "ean": [
+        "0028995029042"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#BF6F38",
       "rgb": {
@@ -6670,12 +8449,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-949",
       "name": "Warm Bisque",
       "code": "949",
+      "ean": [
+        "0028995009495"
+      ],
       "set": "Acrylic Colors",
       "hex": "#D7BDAE",
       "rgb": {
@@ -6686,12 +8470,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-649",
       "name": "Warm White",
       "code": "649",
+      "ean": [
+        "0028995006494"
+      ],
       "set": "Acrylic Colors",
       "hex": "#DCD5CB",
       "rgb": {
@@ -6702,12 +8491,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2969",
       "name": "White",
       "code": "2969",
+      "ean": [
+        "0028995029691"
+      ],
       "set": "Multi-Surface Pearl Acrylics",
       "hex": "#E1DFD3",
       "rgb": {
@@ -6718,12 +8512,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-18132",
       "name": "White",
       "code": "18132",
+      "ean": null,
       "set": "Watercolor Acrylic Paint™",
       "hex": "#DBD7D4",
       "rgb": {
@@ -6734,12 +8531,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-901",
       "name": "Wicker White",
       "code": "901",
+      "ean": [
+        "0028995009013",
+        "0028995009877"
+      ],
       "set": "Acrylic Colors",
       "hex": "#C7C2BE",
       "rgb": {
@@ -6750,12 +8553,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2700",
       "name": "Wicker White",
       "code": "2700",
+      "ean": null,
       "set": "Shiny™",
       "hex": "#C6C3BE",
       "rgb": {
@@ -6766,12 +8572,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2894",
       "name": "Wicker White",
       "code": "2894",
+      "ean": [
+        "0028995028946"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#F8F8F8",
       "rgb": {
@@ -6782,12 +8593,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6455",
       "name": "Wild Wasabi",
       "code": "6455",
+      "ean": [
+        "0028995064555"
+      ],
       "set": "Acrylic Colors",
       "hex": "#A8B07F",
       "rgb": {
@@ -6798,12 +8614,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2429",
       "name": "Windsor Blue",
       "code": "2429",
+      "ean": [
+        "0028995024290"
+      ],
       "set": "Acrylic Colors",
       "hex": "#004F7A",
       "rgb": {
@@ -6814,12 +8635,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-429",
       "name": "Winter White",
       "code": "429",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#959A96",
       "rgb": {
@@ -6830,12 +8654,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2736",
       "name": "Wisteria",
       "code": "2736",
+      "ean": [
+        "0028995521379"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#737A97",
       "rgb": {
@@ -6846,12 +8675,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-925",
       "name": "Wrought Iron",
       "code": "925",
+      "ean": [
+        "0028995009259"
+      ],
       "set": "Acrylic Colors",
       "hex": "#525B62",
       "rgb": {
@@ -6862,12 +8696,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2976",
       "name": "Yellow",
       "code": "2976",
+      "ean": [
+        "0028995029769"
+      ],
       "set": "Multi-Surface Neon Glow Acrylics",
       "hex": "#EBE689",
       "rgb": {
@@ -6878,12 +8717,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-503",
       "name": "Yellow Citron",
       "code": "503",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#B2B238",
       "rgb": {
@@ -6894,12 +8736,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-226",
       "name": "Yellow Lemon",
       "code": "226",
+      "ean": [
+        "0028995002267"
+      ],
       "set": "Acrylic Colors",
       "hex": "#D8C96C",
       "rgb": {
@@ -6910,12 +8757,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-918",
       "name": "Yellow Light",
       "code": "918",
+      "ean": null,
       "set": "Acrylic Colors",
       "hex": "#F3E008",
       "rgb": {
@@ -6926,12 +8776,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6387",
       "name": "Yellow Light",
       "code": "6387",
+      "ean": null,
       "set": "Pure™ Artist Pigment",
       "hex": "#E2CB27",
       "rgb": {
@@ -6942,12 +8795,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-917",
       "name": "Yellow Ochre",
       "code": "917",
+      "ean": [
+        "0028995009174"
+      ],
       "set": "Acrylic Colors",
       "hex": "#B09151",
       "rgb": {
@@ -6958,12 +8816,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-6389",
       "name": "Yellow Ochre",
       "code": "6389",
+      "ean": null,
       "set": "Pure™ Artist Pigment",
       "hex": "#8B6A35",
       "rgb": {
@@ -6974,12 +8835,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "folkart-2910",
       "name": "Yellow Ochre",
       "code": "2910",
+      "ean": [
+        "0028995029103"
+      ],
       "set": "Multi-Surface Satin Acrylics",
       "hex": "#C6812A",
       "rgb": {
@@ -6990,7 +8856,9 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     }
   ]
 }

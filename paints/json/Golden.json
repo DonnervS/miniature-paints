@@ -1,6 +1,6 @@
 {
   "$schema": "../../schema/brand.schema.json",
-  "schema": "miniature-paints/v4",
+  "schema": "miniature-paints/v5",
   "displayName": "Golden",
   "company": "Golden Artist Colors, Inc.",
   "address": {
@@ -14,12 +14,18 @@
   "website": "https://goldenpaints.com",
   "phone": "800-959-6543",
   "updatedCatalogueRequested": "",
-  "paintCount": 346,
+  "paintCount": 381,
   "paints": [
     {
       "id": "golden-7450",
       "name": "Alizarin Crimson Hue",
       "code": "7450",
+      "ean": [
+        "0738797745025",
+        "0738797745032",
+        "0738797745049",
+        "0738797745056"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#99403F",
       "rgb": {
@@ -30,12 +36,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1450",
       "name": "Alizarin Crimson Hue",
       "code": "1450",
+      "ean": [
+        "0738797145023",
+        "0738797145030",
+        "0738797145061"
+      ],
       "set": "Heavy Body",
       "hex": "#9C3E40",
       "rgb": {
@@ -46,12 +59,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2435",
       "name": "Alizarin Crimson Hue",
       "code": "2435",
+      "ean": [
+        "0738797243514",
+        "0738797243545",
+        "0738797243552",
+        "0738797243569",
+        "0738797243576",
+        "0738797243583"
+      ],
       "set": "Fluid",
       "hex": "#662631",
       "rgb": {
@@ -62,12 +85,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8521",
       "name": "Alizarin Crimson Hue",
       "code": "8521",
+      "ean": [
+        "0738797852112",
+        "0738797852143",
+        "0738797852167"
+      ],
       "set": "High Flow",
       "hex": "#662631",
       "rgb": {
@@ -78,12 +108,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8522",
       "name": "Anthraquinone Blue",
       "code": "8522",
+      "ean": [
+        "0738797852211",
+        "0738797852242",
+        "0738797852266"
+      ],
       "set": "High Flow",
       "hex": "#231D3C",
       "rgb": {
@@ -94,12 +131,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1005",
       "name": "Anthraquinone Blue",
       "code": "1005",
+      "ean": [
+        "0738797100527",
+        "0738797100534"
+      ],
       "set": "Heavy Body",
       "hex": "#182551",
       "rgb": {
@@ -110,12 +153,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7005",
       "name": "Anthraquinone Blue",
       "code": "7005",
+      "ean": [
+        "0738797700529",
+        "0738797700536",
+        "0738797700550"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#171F4D",
       "rgb": {
@@ -126,12 +176,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2005",
       "name": "Anthraquinone Blue",
       "code": "2005",
+      "ean": [
+        "0738797200517",
+        "0738797200548",
+        "0738797200555",
+        "0738797200562",
+        "0738797200579",
+        "0738797200586"
+      ],
       "set": "Fluid",
       "hex": "#231D3C",
       "rgb": {
@@ -142,12 +202,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1464",
       "name": "Azurite Hue",
       "code": "1464",
+      "ean": [
+        "0738797146426"
+      ],
       "set": "Heavy Body",
       "hex": "#4078A7",
       "rgb": {
@@ -158,12 +223,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1009",
       "name": "Benzimidazolone Yellow Light",
       "code": "1009",
+      "ean": [
+        "0738797014459",
+        "0738797014466"
+      ],
       "set": "Heavy Body",
       "hex": "#FFFFFF",
       "rgb": {
@@ -174,12 +245,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8554",
       "name": "Benzimidazolone Yellow Light",
       "code": "8554",
+      "ean": [
+        "0738797016088",
+        "0738797016095",
+        "0738797016101"
+      ],
       "set": "High Flow",
       "hex": "#F7E925",
       "rgb": {
@@ -190,12 +268,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2009",
       "name": "Benzimidazolone Yellow Light",
       "code": "2009",
+      "ean": [
+        "0738797015692",
+        "0738797015708",
+        "0738797015715",
+        "0738797015722",
+        "0738797015739",
+        "0738797200982"
+      ],
       "set": "Fluid",
       "hex": "#F7E925",
       "rgb": {
@@ -206,12 +294,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7009",
       "name": "Benzimidazolone Yellow Light",
       "code": "7009",
+      "ean": [
+        "0738797015951",
+        "0738797015968",
+        "0738797015975",
+        "0738797700932"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#FFFFFF",
       "rgb": {
@@ -222,12 +318,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8553",
       "name": "Benzimidazolone Yellow Medium",
       "code": "8553",
+      "ean": [
+        "0738797016026",
+        "0738797016033",
+        "0738797016040"
+      ],
       "set": "High Flow",
       "hex": "#FFD91D",
       "rgb": {
@@ -238,12 +341,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2008",
       "name": "Benzimidazolone Yellow Medium",
       "code": "2008",
+      "ean": [
+        "0738797015593",
+        "0738797015609",
+        "0738797015616",
+        "0738797015623",
+        "0738797015630",
+        "0738797200883"
+      ],
       "set": "Fluid",
       "hex": "#FFD91D",
       "rgb": {
@@ -254,12 +367,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1008",
       "name": "Benzimidazolone Yellow Medium",
       "code": "1008",
+      "ean": [
+        "0738797014312",
+        "0738797014329"
+      ],
       "set": "Heavy Body",
       "hex": "#FFFFFF",
       "rgb": {
@@ -270,12 +389,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7008",
       "name": "Benzimidazolone Yellow Medium",
       "code": "7008",
+      "ean": [
+        "0738797015890",
+        "0738797015906",
+        "0738797015913"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#EFDB4B",
       "rgb": {
@@ -286,12 +412,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1007",
       "name": "Bismuth Vanadate Yellow",
       "code": "1007",
+      "ean": [
+        "0738797100725",
+        "0738797100732"
+      ],
       "set": "Heavy Body",
       "hex": "#FFF256",
       "rgb": {
@@ -302,12 +434,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6510",
       "name": "Bismuth Vanadate Yellow",
       "code": "6510",
+      "ean": [
+        "0738797651029",
+        "0738797651043",
+        "0738797651067"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#FFEA03",
       "rgb": {
@@ -318,12 +457,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7007",
       "name": "Bismuth Vanadate Yellow",
       "code": "7007",
+      "ean": [
+        "0738797700727",
+        "0738797700734",
+        "0738797700758"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#FFF256",
       "rgb": {
@@ -334,12 +480,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6745",
       "name": "Black",
       "code": "6745",
+      "ean": [
+        "0738797674523",
+        "0738797674547",
+        "0738797674561"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#1F2420",
       "rgb": {
@@ -350,12 +503,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6605",
       "name": "Blue Violet",
       "code": "6605",
+      "ean": [
+        "0738797660526",
+        "0738797660540",
+        "0738797660564"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#2E3569",
       "rgb": {
@@ -366,12 +526,21 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7010",
       "name": "Bone Black",
       "code": "7010",
+      "ean": [
+        "0738797701021",
+        "0738797701038",
+        "0738797701045",
+        "0738797701052",
+        "0738797701076"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#2A2925",
       "rgb": {
@@ -382,12 +551,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1010",
       "name": "Bone Black",
       "code": "1010",
+      "ean": [
+        "0738797101029",
+        "0738797101036",
+        "0738797101050"
+      ],
       "set": "Heavy Body",
       "hex": "#3C3B37",
       "rgb": {
@@ -398,12 +574,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2010",
       "name": "Bone Black",
       "code": "2010",
+      "ean": [
+        "0738797201019",
+        "0738797201040",
+        "0738797201057",
+        "0738797201064",
+        "0738797201071",
+        "0738797201088"
+      ],
       "set": "Fluid",
       "hex": "#2C2C2B",
       "rgb": {
@@ -414,12 +600,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1020",
       "name": "Burnt Sienna",
       "code": "1020",
+      "ean": [
+        "0738797102026",
+        "0738797102033",
+        "0738797102064"
+      ],
       "set": "Heavy Body",
       "hex": "#552F26",
       "rgb": {
@@ -430,12 +623,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7020",
       "name": "Burnt Sienna",
       "code": "7020",
+      "ean": [
+        "0738797702028",
+        "0738797702035",
+        "0738797702042",
+        "0738797702059",
+        "0738797702073",
+        "0738797702080"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#563027",
       "rgb": {
@@ -446,12 +649,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6730",
       "name": "Burnt Sienna",
       "code": "6730",
+      "ean": [
+        "0738797673021",
+        "0738797673045",
+        "0738797673069"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#833215",
       "rgb": {
@@ -462,12 +672,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8523",
       "name": "Burnt Sienna",
       "code": "8523",
+      "ean": [
+        "0738797852310",
+        "0738797852341",
+        "0738797852365"
+      ],
       "set": "High Flow",
       "hex": "#7A4029",
       "rgb": {
@@ -478,12 +695,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2020",
       "name": "Burnt Sienna",
       "code": "2020",
+      "ean": [
+        "0738797202016",
+        "0738797202047",
+        "0738797202054",
+        "0738797202061",
+        "0738797202078",
+        "0738797202085"
+      ],
       "set": "Fluid",
       "hex": "#7A4029",
       "rgb": {
@@ -494,12 +721,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1030",
       "name": "Burnt Umber",
       "code": "1030",
+      "ean": [
+        "0738797103023",
+        "0738797103030",
+        "0738797103061"
+      ],
       "set": "Heavy Body",
       "hex": "#382A27",
       "rgb": {
@@ -510,12 +744,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7030",
       "name": "Burnt Umber",
       "code": "7030",
+      "ean": [
+        "0738797703025",
+        "0738797703032",
+        "0738797703049",
+        "0738797703056"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#342B26",
       "rgb": {
@@ -526,12 +768,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6735",
       "name": "Burnt Umber",
       "code": "6735",
+      "ean": [
+        "0738797673526",
+        "0738797673540",
+        "0738797673564"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#402B1A",
       "rgb": {
@@ -542,12 +791,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1035",
       "name": "Burnt Umber Light",
       "code": "1035",
+      "ean": [
+        "0738797103528",
+        "0738797103535"
+      ],
       "set": "Heavy Body",
       "hex": "#382924",
       "rgb": {
@@ -558,12 +813,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2035",
       "name": "Burnt Umber Light",
       "code": "2035",
+      "ean": [
+        "0738797203518",
+        "0738797203549",
+        "0738797203556",
+        "0738797203563",
+        "0738797203570",
+        "0738797203587"
+      ],
       "set": "Fluid",
       "hex": "#624B44",
       "rgb": {
@@ -574,12 +839,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7070",
       "name": "Cadmium Orange",
       "code": "7070",
+      "ean": [
+        "0738797707023",
+        "0738797707030",
+        "0738797707047",
+        "0738797707054"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#FD4500",
       "rgb": {
@@ -590,12 +863,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6530",
       "name": "Cadmium Orange",
       "code": "6530",
+      "ean": [
+        "0738797653023",
+        "0738797653047",
+        "0738797653061"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#FE670E",
       "rgb": {
@@ -606,12 +886,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1070",
       "name": "Cadmium Orange",
       "code": "1070",
+      "ean": [
+        "0738797107021",
+        "0738797107038"
+      ],
       "set": "Heavy Body",
       "hex": "#FD4500",
       "rgb": {
@@ -622,12 +908,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6505",
       "name": "Cadmium Primrose",
       "code": "6505",
+      "ean": [
+        "0738797650527",
+        "0738797650541",
+        "0738797650565"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#FEF116",
       "rgb": {
@@ -638,12 +931,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6565",
       "name": "Cadmium Red Dark",
       "code": "6565",
+      "ean": [
+        "0738797656529",
+        "0738797656543",
+        "0738797656567"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#8A1F17",
       "rgb": {
@@ -654,12 +954,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1080",
       "name": "Cadmium Red Dark",
       "code": "1080",
+      "ean": [
+        "0738797108028",
+        "0738797108035"
+      ],
       "set": "Heavy Body",
       "hex": "#89181C",
       "rgb": {
@@ -670,12 +976,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7080",
       "name": "Cadmium Red Dark",
       "code": "7080",
+      "ean": [
+        "0738797708020",
+        "0738797708037",
+        "0738797708051"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#8A191D",
       "rgb": {
@@ -686,12 +999,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6545",
       "name": "Cadmium Red Light",
       "code": "6545",
+      "ean": [
+        "0738797654525",
+        "0738797654549",
+        "0738797654563"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#EF2D11",
       "rgb": {
@@ -702,12 +1022,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7090",
       "name": "Cadmium Red Light",
       "code": "7090",
+      "ean": [
+        "0738797709027",
+        "0738797709034",
+        "0738797709041",
+        "0738797709058"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#DA4C41",
       "rgb": {
@@ -718,12 +1046,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1090",
       "name": "Cadmium Red Light",
       "code": "1090",
+      "ean": [
+        "0738797109025",
+        "0738797109032",
+        "0738797109063"
+      ],
       "set": "Heavy Body",
       "hex": "#D94B41",
       "rgb": {
@@ -734,12 +1069,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7100",
       "name": "Cadmium Red Medium",
       "code": "7100",
+      "ean": [
+        "0738797710023",
+        "0738797710030",
+        "0738797710047",
+        "0738797710054"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#B91B1C",
       "rgb": {
@@ -750,12 +1093,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1100",
       "name": "Cadmium Red Medium",
       "code": "1100",
+      "ean": [
+        "0738797110021",
+        "0738797110038"
+      ],
       "set": "Heavy Body",
       "hex": "#C01C1D",
       "rgb": {
@@ -766,12 +1115,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1552",
       "name": "Cadmium Red Medium Hue",
       "code": "1552",
+      "ean": [
+        "0738797155220",
+        "0738797155237",
+        "0738797155268"
+      ],
       "set": "Heavy Body",
       "hex": "#D50505",
       "rgb": {
@@ -782,12 +1138,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2425",
       "name": "Cadmium Red Medium Hue",
       "code": "2425",
+      "ean": [
+        "0738797242517",
+        "0738797242548",
+        "0738797242555",
+        "0738797242562",
+        "0738797242579",
+        "0738797242586"
+      ],
       "set": "Fluid",
       "hex": "#C04340",
       "rgb": {
@@ -798,12 +1164,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1110",
       "name": "Cadmium Yellow Dark",
       "code": "1110",
+      "ean": [
+        "0738797111028",
+        "0738797111035"
+      ],
       "set": "Heavy Body",
       "hex": "#FFC211",
       "rgb": {
@@ -814,12 +1186,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7110",
       "name": "Cadmium Yellow Dark",
       "code": "7110",
+      "ean": [
+        "0738797711020",
+        "0738797711037",
+        "0738797711051"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#FEC10E",
       "rgb": {
@@ -830,12 +1209,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1120",
       "name": "Cadmium Yellow Light",
       "code": "1120",
+      "ean": [
+        "0738797112025",
+        "0738797112032"
+      ],
       "set": "Heavy Body",
       "hex": "#FFED41",
       "rgb": {
@@ -846,12 +1231,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1130",
       "name": "Cadmium Yellow Medium",
       "code": "1130",
+      "ean": [
+        "0738797113022",
+        "0738797113039"
+      ],
       "set": "Heavy Body",
       "hex": "#FFF12C",
       "rgb": {
@@ -862,12 +1253,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6520",
       "name": "Cadmium Yellow Medium",
       "code": "6520",
+      "ean": [
+        "0738797652026",
+        "0738797652040",
+        "0738797652064"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#FFD200",
       "rgb": {
@@ -878,12 +1276,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7130",
       "name": "Cadmium Yellow Medium",
       "code": "7130",
+      "ean": [
+        "0738797713024",
+        "0738797713031",
+        "0738797713048",
+        "0738797713055"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#FFF12C",
       "rgb": {
@@ -894,12 +1300,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1554",
       "name": "Cadmium Yellow Medium Hue",
       "code": "1554",
+      "ean": [
+        "0738797155428",
+        "0738797155435"
+      ],
       "set": "Heavy Body",
       "hex": "#FFEC3A",
       "rgb": {
@@ -910,12 +1322,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2428",
       "name": "Cadmium Yellow Medium Hue",
       "code": "2428",
+      "ean": [
+        "0738797242814",
+        "0738797242845",
+        "0738797242852",
+        "0738797242869",
+        "0738797242876",
+        "0738797242883"
+      ],
       "set": "Fluid",
       "hex": "#FDC413",
       "rgb": {
@@ -926,12 +1348,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1135",
       "name": "Cadmium Yellow Primrose",
       "code": "1135",
+      "ean": [
+        "0738797113527"
+      ],
       "set": "Heavy Body",
       "hex": "#F8EE87",
       "rgb": {
@@ -942,12 +1369,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7135",
       "name": "Cadmium Yellow Primrose",
       "code": "7135",
+      "ean": [
+        "0738797713529",
+        "0738797713536",
+        "0738797713543",
+        "0738797713550"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#F9F088",
       "rgb": {
@@ -958,12 +1393,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2040",
       "name": "Carbon Black",
       "code": "2040",
+      "ean": [
+        "0738797204010",
+        "0738797204041",
+        "0738797204058",
+        "0738797204065",
+        "0738797204072",
+        "0738797204089"
+      ],
       "set": "Fluid",
       "hex": "#171512",
       "rgb": {
@@ -974,12 +1419,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1040",
       "name": "Carbon Black",
       "code": "1040",
+      "ean": [
+        "0738797104020",
+        "0738797104037",
+        "0738797104068"
+      ],
       "set": "Heavy Body",
       "hex": "#222220",
       "rgb": {
@@ -990,12 +1442,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7040",
       "name": "Carbon Black",
       "code": "7040",
+      "ean": [
+        "0738797704022",
+        "0738797704039",
+        "0738797704046",
+        "0738797704053",
+        "0738797704077",
+        "0738797704084"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#373736",
       "rgb": {
@@ -1006,12 +1468,21 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8524",
       "name": "Carbon Black",
       "code": "8524",
+      "ean": [
+        "0738797104051",
+        "0738797852419",
+        "0738797852440",
+        "0738797852464",
+        "0738797852488"
+      ],
       "set": "High Flow",
       "hex": "#171512",
       "rgb": {
@@ -1022,12 +1493,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2051",
       "name": "Cerulean Blue Deep",
       "code": "2051",
+      "ean": [
+        "0738797205116",
+        "0738797205147",
+        "0738797205154",
+        "0738797205161",
+        "0738797205178",
+        "0738797205185"
+      ],
       "set": "Fluid",
       "hex": "#00548D",
       "rgb": {
@@ -1038,12 +1519,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1051",
       "name": "Cerulean Blue Deep",
       "code": "1051",
+      "ean": [
+        "0738797105126",
+        "0738797105133"
+      ],
       "set": "Heavy Body",
       "hex": "#1D3863",
       "rgb": {
@@ -1054,12 +1541,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8526",
       "name": "Cerulean Blue Hue",
       "code": "8526",
+      "ean": [
+        "0738797852617",
+        "0738797852648",
+        "0738797852662"
+      ],
       "set": "High Flow",
       "hex": "#0058AE",
       "rgb": {
@@ -1070,12 +1564,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6630",
       "name": "Cerulean Blue Hue",
       "code": "6630",
+      "ean": [
+        "0738797663022",
+        "0738797663046",
+        "0738797663060"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#0363AF",
       "rgb": {
@@ -1086,12 +1587,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7050",
       "name": "Cerulean Blue, Chromium",
       "code": "7050",
+      "ean": [
+        "0738797705029",
+        "0738797705036",
+        "0738797705043",
+        "0738797705050"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#3B7AE1",
       "rgb": {
@@ -1102,12 +1611,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2050",
       "name": "Cerulean Blue, Chromium",
       "code": "2050",
+      "ean": [
+        "0738797205017",
+        "0738797205048",
+        "0738797205055",
+        "0738797205062",
+        "0738797205079",
+        "0738797205086"
+      ],
       "set": "Fluid",
       "hex": "#0058AE",
       "rgb": {
@@ -1118,12 +1637,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1050",
       "name": "Cerulean Blue, Chromium",
       "code": "1050",
+      "ean": [
+        "0738797105027",
+        "0738797105034"
+      ],
       "set": "Heavy Body",
       "hex": "#4B88E3",
       "rgb": {
@@ -1134,12 +1659,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1060",
       "name": "Chromium Oxide Green",
       "code": "1060",
+      "ean": [
+        "0738797106024",
+        "0738797106031"
+      ],
       "set": "Heavy Body",
       "hex": "#41613A",
       "rgb": {
@@ -1150,12 +1681,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7060",
       "name": "Chromium Oxide Green",
       "code": "7060",
+      "ean": [
+        "0738797706026",
+        "0738797706033",
+        "0738797706040",
+        "0738797706057"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#41643C",
       "rgb": {
@@ -1166,12 +1705,25 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2060",
       "name": "Chromium Oxide Green",
       "code": "2060",
+      "ean": [
+        "0738797206014",
+        "0738797206045",
+        "0738797206052",
+        "0738797206069",
+        "0738797206076",
+        "0738797206083",
+        "0738797850118",
+        "0738797850149",
+        "0738797850163"
+      ],
       "set": "Fluid",
       "hex": "#3C6B3B",
       "rgb": {
@@ -1182,12 +1734,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7061",
       "name": "Chromium Oxide Green Dark",
       "code": "7061",
+      "ean": [
+        "0738797706125",
+        "0738797706132",
+        "0738797706156"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#365033",
       "rgb": {
@@ -1198,12 +1757,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1061",
       "name": "Chromium Oxide Green Dark",
       "code": "1061",
+      "ean": [
+        "0738797106123"
+      ],
       "set": "Heavy Body",
       "hex": "#2B432B",
       "rgb": {
@@ -1214,12 +1778,28 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2140",
       "name": "Cobalt Blue",
       "code": "2140",
+      "ean": [
+        "0738797214019",
+        "0738797214040",
+        "0738797214057",
+        "0738797214064",
+        "0738797214071",
+        "0738797214088",
+        "0738797850217",
+        "0738797850248",
+        "0738797850262",
+        "0738797672529",
+        "0738797672543",
+        "0738797672567"
+      ],
       "set": "Fluid",
       "hex": "#0052B4",
       "rgb": {
@@ -1230,12 +1810,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1140",
       "name": "Cobalt Blue",
       "code": "1140",
+      "ean": [
+        "0738797114029",
+        "0738797114036",
+        "0738797114067"
+      ],
       "set": "Heavy Body",
       "hex": "#1F52D1",
       "rgb": {
@@ -1246,12 +1833,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7140",
       "name": "Cobalt Blue",
       "code": "7140",
+      "ean": [
+        "0738797714021",
+        "0738797714038",
+        "0738797714045",
+        "0738797714052"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#1546C6",
       "rgb": {
@@ -1262,12 +1857,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1556",
       "name": "Cobalt Blue Hue",
       "code": "1556",
+      "ean": [
+        "0738797155626",
+        "0738797155633"
+      ],
       "set": "Heavy Body",
       "hex": "#2049B2",
       "rgb": {
@@ -1278,12 +1879,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1142",
       "name": "Cobalt Green",
       "code": "1142",
+      "ean": [
+        "0738797114227"
+      ],
       "set": "Heavy Body",
       "hex": "#487065",
       "rgb": {
@@ -1294,12 +1900,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7142",
       "name": "Cobalt Green",
       "code": "7142",
+      "ean": [
+        "0738797714229",
+        "0738797714236",
+        "0738797714250"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#43695E",
       "rgb": {
@@ -1310,12 +1923,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2145",
       "name": "Cobalt Teal",
       "code": "2145",
+      "ean": [
+        "0738797214514",
+        "0738797214545",
+        "0738797214552",
+        "0738797214569",
+        "0738797214576",
+        "0738797214583"
+      ],
       "set": "Fluid",
       "hex": "#00329A",
       "rgb": {
@@ -1326,12 +1949,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7145",
       "name": "Cobalt Teal",
       "code": "7145",
+      "ean": [
+        "0738797714526",
+        "0738797714533",
+        "0738797714557"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#569AB6",
       "rgb": {
@@ -1342,12 +1972,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1145",
       "name": "Cobalt Teal",
       "code": "1145",
+      "ean": [
+        "0738797114524"
+      ],
       "set": "Heavy Body",
       "hex": "#3A9DBA",
       "rgb": {
@@ -1358,12 +1993,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6645",
       "name": "Cobalt Teal",
       "code": "6645",
+      "ean": [
+        "0738797664524",
+        "0738797664548",
+        "0738797664562"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#00A6A6",
       "rgb": {
@@ -1374,12 +2016,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1144",
       "name": "Cobalt Turquoise",
       "code": "1144",
+      "ean": [
+        "0738797114425"
+      ],
       "set": "Heavy Body",
       "hex": "#244F60",
       "rgb": {
@@ -1390,12 +2037,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7144",
       "name": "Cobalt Turquoise",
       "code": "7144",
+      "ean": [
+        "0738797714427",
+        "0738797714434",
+        "0738797714458"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#245262",
       "rgb": {
@@ -1406,12 +2060,25 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2144",
       "name": "Cobalt Turquoise",
       "code": "2144",
+      "ean": [
+        "0738797214415",
+        "0738797214446",
+        "0738797214453",
+        "0738797214460",
+        "0738797214477",
+        "0738797214484",
+        "0738797850316",
+        "0738797850347",
+        "0738797850361"
+      ],
       "set": "Fluid",
       "hex": "#006677",
       "rgb": {
@@ -1422,12 +2089,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1465",
       "name": "Cobalt Violet Hue",
       "code": "1465",
+      "ean": [
+        "0738797146525"
+      ],
       "set": "Heavy Body",
       "hex": "#512036",
       "rgb": {
@@ -1438,12 +2110,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6665",
       "name": "Dark Green",
       "code": "6665",
+      "ean": [
+        "0738797666528",
+        "0738797666542",
+        "0738797666566"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#415D44",
       "rgb": {
@@ -1454,12 +2133,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7147",
       "name": "Diarylide Yellow",
       "code": "7147",
+      "ean": [
+        "0738797714724",
+        "0738797714731",
+        "0738797714755"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#FEBF18",
       "rgb": {
@@ -1470,12 +2156,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8527",
       "name": "Diarylide Yellow",
       "code": "8527",
+      "ean": [
+        "0738797852716",
+        "0738797852747",
+        "0738797852761"
+      ],
       "set": "High Flow",
       "hex": "#FFA401",
       "rgb": {
@@ -1486,12 +2179,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2147",
       "name": "Diarylide Yellow",
       "code": "2147",
+      "ean": [
+        "0738797214712",
+        "0738797214743",
+        "0738797214750",
+        "0738797214767",
+        "0738797214774",
+        "0738797214781"
+      ],
       "set": "Fluid",
       "hex": "#FFA401",
       "rgb": {
@@ -1502,12 +2205,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1147",
       "name": "Diarylide Yellow",
       "code": "1147",
+      "ean": [
+        "0738797114722",
+        "0738797114739",
+        "0738797114760"
+      ],
       "set": "Heavy Body",
       "hex": "#FDBC16",
       "rgb": {
@@ -1518,12 +2228,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1150",
       "name": "Dioxazine Purple",
       "code": "1150",
+      "ean": [
+        "0738797115026",
+        "0738797115033"
+      ],
       "set": "Heavy Body",
       "hex": "#1F1E3D",
       "rgb": {
@@ -1534,12 +2250,25 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2150",
       "name": "Dioxazine Purple",
       "code": "2150",
+      "ean": [
+        "0738797215016",
+        "0738797215047",
+        "0738797215054",
+        "0738797215061",
+        "0738797215078",
+        "0738797215085",
+        "0738797850415",
+        "0738797850446",
+        "0738797850460"
+      ],
       "set": "Fluid",
       "hex": "#272142",
       "rgb": {
@@ -1550,12 +2279,21 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7150",
       "name": "Dioxazine Purple",
       "code": "7150",
+      "ean": [
+        "0738797715028",
+        "0738797715035",
+        "0738797715042",
+        "0738797715059",
+        "0738797715080"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#191B30",
       "rgb": {
@@ -1566,12 +2304,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6600",
       "name": "Dioxazine Violet Deep",
       "code": "6600",
+      "ean": [
+        "0738797660021",
+        "0738797660045",
+        "0738797660069"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#212032",
       "rgb": {
@@ -1582,12 +2327,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-4605",
       "name": "Fluorescent Blue",
       "code": "4605",
+      "ean": [
+        "0738797460522"
+      ],
       "set": "Fluorescent & Phosphorescent Colors",
       "hex": "#018CFE",
       "rgb": {
@@ -1598,12 +2348,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8566",
       "name": "Fluorescent Blue",
       "code": "8566",
+      "ean": [
+        "0738797856615",
+        "0738797856646",
+        "0738797856660"
+      ],
       "set": "High Flow",
       "hex": "#018CFE",
       "rgb": {
@@ -1614,12 +2371,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8567",
       "name": "Fluorescent Chartreuse",
       "code": "8567",
+      "ean": [
+        "0738797856714",
+        "0738797856745",
+        "0738797856769"
+      ],
       "set": "High Flow",
       "hex": "#DCE202",
       "rgb": {
@@ -1630,12 +2394,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-4615",
       "name": "Fluorescent Chartreuse",
       "code": "4615",
+      "ean": [
+        "0738797461529"
+      ],
       "set": "Fluorescent & Phosphorescent Colors",
       "hex": "#DCE202",
       "rgb": {
@@ -1646,12 +2415,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8568",
       "name": "Fluorescent Green",
       "code": "8568",
+      "ean": [
+        "0738797856813",
+        "0738797856844",
+        "0738797856868"
+      ],
       "set": "High Flow",
       "hex": "#50D93A",
       "rgb": {
@@ -1662,12 +2438,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-4620",
       "name": "Fluorescent Green",
       "code": "4620",
+      "ean": [
+        "0738797462021"
+      ],
       "set": "Fluorescent & Phosphorescent Colors",
       "hex": "#50D93A",
       "rgb": {
@@ -1678,12 +2459,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6795",
       "name": "Fluorescent Green",
       "code": "6795",
+      "ean": [
+        "0738797679528",
+        "0738797679542",
+        "0738797679566"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#01FC5D",
       "rgb": {
@@ -1694,12 +2482,25 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-4625",
       "name": "Fluorescent Magenta",
       "code": "4625",
+      "ean": [
+        "0738797462526",
+        "0738797249417",
+        "0738797249448",
+        "0738797249455",
+        "0738797249462",
+        "0738797249479",
+        "0738797850514",
+        "0738797850545",
+        "0738797850569"
+      ],
       "set": "Fluorescent & Phosphorescent Colors",
       "hex": "#FF00A0",
       "rgb": {
@@ -1710,12 +2511,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6775",
       "name": "Fluorescent Orange",
       "code": "6775",
+      "ean": [
+        "0738797677524",
+        "0738797677548",
+        "0738797677562"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#FF950E",
       "rgb": {
@@ -1726,12 +2534,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-4630",
       "name": "Fluorescent Orange",
       "code": "4630",
+      "ean": [
+        "0738797463028"
+      ],
       "set": "Fluorescent & Phosphorescent Colors",
       "hex": "#FF7600",
       "rgb": {
@@ -1742,12 +2555,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8569",
       "name": "Fluorescent Orange",
       "code": "8569",
+      "ean": [
+        "0738797856912",
+        "0738797856943",
+        "0738797856967"
+      ],
       "set": "High Flow",
       "hex": "#FF7600",
       "rgb": {
@@ -1758,12 +2578,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-4640",
       "name": "Fluorescent Orange-Yellow",
       "code": "4640",
+      "ean": [
+        "0738797464025",
+        "0738797850613",
+        "0738797850644",
+        "0738797850668"
+      ],
       "set": "Fluorescent & Phosphorescent Colors",
       "hex": "#FFAE29",
       "rgb": {
@@ -1774,12 +2602,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-4645",
       "name": "Fluorescent Pink",
       "code": "4645",
+      "ean": [
+        "0738797464520"
+      ],
       "set": "Fluorescent & Phosphorescent Colors",
       "hex": "#FF14A3",
       "rgb": {
@@ -1790,12 +2623,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6785",
       "name": "Fluorescent Pink",
       "code": "6785",
+      "ean": [
+        "0738797678521",
+        "0738797678545",
+        "0738797678569"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#FE408A",
       "rgb": {
@@ -1806,12 +2646,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8570",
       "name": "Fluorescent Pink",
       "code": "8570",
+      "ean": [
+        "0738797857018",
+        "0738797857049",
+        "0738797857063"
+      ],
       "set": "High Flow",
       "hex": "#FF14A3",
       "rgb": {
@@ -1822,12 +2669,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6780",
       "name": "Fluorescent Red",
       "code": "6780",
+      "ean": [
+        "0738797678026",
+        "0738797678040",
+        "0738797678064"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#FD5D47",
       "rgb": {
@@ -1838,12 +2692,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-4650",
       "name": "Fluorescent Red",
       "code": "4650",
+      "ean": [
+        "0738797465022",
+        "0738797249110",
+        "0738797249141",
+        "0738797249158",
+        "0738797249165",
+        "0738797249172"
+      ],
       "set": "Fluorescent & Phosphorescent Colors",
       "hex": "#FD4245",
       "rgb": {
@@ -1854,12 +2718,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6790",
       "name": "Fluorescent Violet",
       "code": "6790",
+      "ean": [
+        "0738797679023",
+        "0738797679047",
+        "0738797679061"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#D213BB",
       "rgb": {
@@ -1870,12 +2741,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6770",
       "name": "Fluorescent Yellow",
       "code": "6770",
+      "ean": [
+        "0738797677029",
+        "0738797677043",
+        "0738797677067"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#F5FF3C",
       "rgb": {
@@ -1886,12 +2764,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1160",
       "name": "Graphite Gray",
       "code": "1160",
+      "ean": [
+        "0738797116023"
+      ],
       "set": "Heavy Body",
       "hex": "#464543",
       "rgb": {
@@ -1902,12 +2785,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1170",
       "name": "Green Gold",
       "code": "1170",
+      "ean": [
+        "0738797117020",
+        "0738797117037",
+        "0738797117068"
+      ],
       "set": "Heavy Body",
       "hex": "#576122",
       "rgb": {
@@ -1918,12 +2808,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2170",
       "name": "Green Gold",
       "code": "2170",
+      "ean": [
+        "0738797217010",
+        "0738797217041",
+        "0738797217058",
+        "0738797217065",
+        "0738797217072",
+        "0738797217089"
+      ],
       "set": "Fluid",
       "hex": "#667400",
       "rgb": {
@@ -1934,12 +2834,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8528",
       "name": "Green Gold",
       "code": "8528",
+      "ean": [
+        "0738797852815",
+        "0738797852846",
+        "0738797852860"
+      ],
       "set": "High Flow",
       "hex": "#667400",
       "rgb": {
@@ -1950,12 +2857,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7170",
       "name": "Green Gold",
       "code": "7170",
+      "ean": [
+        "0738797717022",
+        "0738797717039",
+        "0738797717046",
+        "0738797717053"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#808028",
       "rgb": {
@@ -1966,12 +2881,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2191",
       "name": "Hansa Yellow Opaque",
       "code": "2191",
+      "ean": [
+        "0738797219113",
+        "0738797219144",
+        "0738797219151",
+        "0738797219168",
+        "0738797219175",
+        "0738797219182"
+      ],
       "set": "Fluid",
       "hex": "#FFD500",
       "rgb": {
@@ -1982,12 +2907,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1191",
       "name": "Hansa Yellow Opaque",
       "code": "1191",
+      "ean": [
+        "0738797119123",
+        "0738797119130"
+      ],
       "set": "Heavy Body",
       "hex": "#FFF436",
       "rgb": {
@@ -1998,12 +2929,21 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7191",
       "name": "Hansa Yellow Opaque",
       "code": "7191",
+      "ean": [
+        "0738797719125",
+        "0738797719132",
+        "0738797719149",
+        "0738797719156",
+        "0738797719187"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#FFF436",
       "rgb": {
@@ -2014,12 +2954,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1454",
       "name": "Hookers Green Hue",
       "code": "1454",
+      "ean": [
+        "0738797145429",
+        "0738797145436"
+      ],
       "set": "Heavy Body",
       "hex": "#222627",
       "rgb": {
@@ -2030,12 +2976,25 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2436",
       "name": "India Yellow Hue",
       "code": "2436",
+      "ean": [
+        "0738797243613",
+        "0738797243644",
+        "0738797243651",
+        "0738797243668",
+        "0738797243675",
+        "0738797243682",
+        "0738797850811",
+        "0738797850842",
+        "0738797850866"
+      ],
       "set": "Fluid",
       "hex": "#DC7600",
       "rgb": {
@@ -2046,12 +3005,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1455",
       "name": "India Yellow Hue",
       "code": "1455",
+      "ean": [
+        "0738797145528",
+        "0738797145535"
+      ],
       "set": "Heavy Body",
       "hex": "#FFA01E",
       "rgb": {
@@ -2062,12 +3027,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7455",
       "name": "India Yellow Hue",
       "code": "7455",
+      "ean": [
+        "0738797745520",
+        "0738797745537",
+        "0738797745544",
+        "0738797745551"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#F59A16",
       "rgb": {
@@ -2078,12 +3051,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8571",
       "name": "Iridescent Copper (Fine)",
       "code": "8571",
+      "ean": [
+        "0738797857117",
+        "0738797857148",
+        "0738797857162"
+      ],
       "set": "High Flow",
       "hex": "#FFDD33",
       "rgb": {
@@ -2094,12 +3074,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8572",
       "name": "Iridescent Gold (Fine)",
       "code": "8572",
+      "ean": [
+        "0738797857216",
+        "0738797857247",
+        "0738797857261"
+      ],
       "set": "High Flow",
       "hex": "#FFDD33",
       "rgb": {
@@ -2110,12 +3097,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8574",
       "name": "Iridescent Pearl (Fine)",
       "code": "8574",
+      "ean": [
+        "0738797857414",
+        "0738797857445",
+        "0738797857469"
+      ],
       "set": "High Flow",
       "hex": "#FFDD33",
       "rgb": {
@@ -2126,12 +3120,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8573",
       "name": "Iridescent Silver (Fine)",
       "code": "8573",
+      "ean": [
+        "0738797857315",
+        "0738797857346",
+        "0738797857360"
+      ],
       "set": "High Flow",
       "hex": "#FFDD33",
       "rgb": {
@@ -2142,12 +3143,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1195",
       "name": "Jenkins Green",
       "code": "1195",
+      "ean": [
+        "0738797119529",
+        "0738797119536"
+      ],
       "set": "Heavy Body",
       "hex": "#1E2424",
       "rgb": {
@@ -2158,12 +3165,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2195",
       "name": "Jenkins Green",
       "code": "2195",
+      "ean": [
+        "0738797219519",
+        "0738797219540",
+        "0738797219557",
+        "0738797219564",
+        "0738797219571",
+        "0738797219588"
+      ],
       "set": "Fluid",
       "hex": "#0D2100",
       "rgb": {
@@ -2174,12 +3191,21 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7195",
       "name": "Jenkins Green",
       "code": "7195",
+      "ean": [
+        "0738797719521",
+        "0738797719538",
+        "0738797719545",
+        "0738797719552",
+        "0738797719583"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#191E21",
       "rgb": {
@@ -2190,12 +3216,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1574",
       "name": "Light Bismuth Yellow",
       "code": "1574",
+      "ean": [
+        "0738797014978",
+        "0738797014985"
+      ],
       "set": "Heavy Body",
       "hex": "#FFFFFF",
       "rgb": {
@@ -2206,12 +3238,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1558",
       "name": "Light Green (blue Shade)",
       "code": "1558",
+      "ean": [
+        "0738797155824"
+      ],
       "set": "Heavy Body",
       "hex": "#55C66C",
       "rgb": {
@@ -2222,12 +3259,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1560",
       "name": "Light Green (yellow Shade)",
       "code": "1560",
+      "ean": [
+        "0738797156029"
+      ],
       "set": "Heavy Body",
       "hex": "#82D873",
       "rgb": {
@@ -2238,12 +3280,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1562",
       "name": "Light Magenta",
       "code": "1562",
+      "ean": [
+        "0738797156227",
+        "0738797156265"
+      ],
       "set": "Heavy Body",
       "hex": "#FD879F",
       "rgb": {
@@ -2254,12 +3302,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1575",
       "name": "Light Orange",
       "code": "1575",
+      "ean": [
+        "0738797015104"
+      ],
       "set": "Heavy Body",
       "hex": "#FFFFFF",
       "rgb": {
@@ -2270,12 +3323,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1577",
       "name": "Light Phthalo Blue",
       "code": "1577",
+      "ean": [
+        "0738797015340",
+        "0738797015357"
+      ],
       "set": "Heavy Body",
       "hex": "#FFFFFF",
       "rgb": {
@@ -2286,12 +3345,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1578",
       "name": "Light Phthalo Green",
       "code": "1578",
+      "ean": [
+        "0738797015463"
+      ],
       "set": "Heavy Body",
       "hex": "#FFFFFF",
       "rgb": {
@@ -2302,12 +3366,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1564",
       "name": "Light Turquoise (phthalo)",
       "code": "1564",
+      "ean": [
+        "0738797156425"
+      ],
       "set": "Heavy Body",
       "hex": "#287683",
       "rgb": {
@@ -2318,12 +3387,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1566",
       "name": "Light Ultramarine Blue",
       "code": "1566",
+      "ean": [
+        "0738797156623"
+      ],
       "set": "Heavy Body",
       "hex": "#6797EB",
       "rgb": {
@@ -2334,12 +3408,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7566",
       "name": "Light Ultramarine Blue",
       "code": "7566",
+      "ean": [
+        "0738797756625",
+        "0738797756632",
+        "0738797756656"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#6595E9",
       "rgb": {
@@ -2350,12 +3431,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1568",
       "name": "Light Violet",
       "code": "1568",
+      "ean": [
+        "0738797156821",
+        "0738797156838"
+      ],
       "set": "Heavy Body",
       "hex": "#625BA9",
       "rgb": {
@@ -2366,12 +3453,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2437",
       "name": "Manganese Blue Hue",
       "code": "2437",
+      "ean": [
+        "0738797243712",
+        "0738797243743",
+        "0738797243750",
+        "0738797243767",
+        "0738797243774",
+        "0738797243781"
+      ],
       "set": "Fluid",
       "hex": "#0160A2",
       "rgb": {
@@ -2382,12 +3479,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7457",
       "name": "Manganese Blue Hue",
       "code": "7457",
+      "ean": [
+        "0738797745728",
+        "0738797745735",
+        "0738797745742",
+        "0738797745759"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#6299CF",
       "rgb": {
@@ -2398,12 +3503,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1457",
       "name": "Manganese Blue Hue",
       "code": "1457",
+      "ean": [
+        "0738797145726",
+        "0738797145733"
+      ],
       "set": "Heavy Body",
       "hex": "#5489C4",
       "rgb": {
@@ -2414,12 +3525,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1200",
       "name": "Mars Black",
       "code": "1200",
+      "ean": [
+        "0738797120020",
+        "0738797120037",
+        "0738797120068",
+        "0738797120082"
+      ],
       "set": "Heavy Body",
       "hex": "#272725",
       "rgb": {
@@ -2430,12 +3549,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7202",
       "name": "Mars Yellow",
       "code": "7202",
+      "ean": [
+        "0738797720220",
+        "0738797720237",
+        "0738797720251"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#963F2C",
       "rgb": {
@@ -2446,12 +3572,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1202",
       "name": "Mars Yellow",
       "code": "1202",
+      "ean": [
+        "0738797120228",
+        "0738797120235"
+      ],
       "set": "Heavy Body",
       "hex": "#913C27",
       "rgb": {
@@ -2462,12 +3594,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6705",
       "name": "Mars Yellow Deep",
       "code": "6705",
+      "ean": [
+        "0738797670525",
+        "0738797670549",
+        "0738797670563"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#AF7B32",
       "rgb": {
@@ -2478,12 +3617,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1570",
       "name": "Medium Magenta",
       "code": "1570",
+      "ean": [
+        "0738797157026"
+      ],
       "set": "Heavy Body",
       "hex": "#CE3D7E",
       "rgb": {
@@ -2494,12 +3638,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1572",
       "name": "Medium Violet",
       "code": "1572",
+      "ean": [
+        "0738797157224"
+      ],
       "set": "Heavy Body",
       "hex": "#3C2C50",
       "rgb": {
@@ -2510,12 +3659,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1442",
       "name": "N2 Neutral Gray",
       "code": "1442",
+      "ean": [
+        "0738797144224"
+      ],
       "set": "Heavy Body",
       "hex": "#433C36",
       "rgb": {
@@ -2526,12 +3680,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1443",
       "name": "N3 Neutral Gray",
       "code": "1443",
+      "ean": [
+        "0738797144323"
+      ],
       "set": "Heavy Body",
       "hex": "#3A3935",
       "rgb": {
@@ -2542,12 +3701,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1444",
       "name": "N4 Neutral Gray",
       "code": "1444",
+      "ean": [
+        "0738797144422"
+      ],
       "set": "Heavy Body",
       "hex": "#4A4A48",
       "rgb": {
@@ -2558,12 +3722,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7445",
       "name": "N5 Neutral Gray",
       "code": "7445",
+      "ean": [
+        "0738797744523",
+        "0738797744530",
+        "0738797744554"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#6D6968",
       "rgb": {
@@ -2574,12 +3745,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8533",
       "name": "N5 Neutral Gray",
       "code": "8533",
+      "ean": [
+        "0738797853317",
+        "0738797853348",
+        "0738797853362",
+        "0738797676022",
+        "0738797676046",
+        "0738797676060"
+      ],
       "set": "High Flow",
       "hex": "#848589",
       "rgb": {
@@ -2590,12 +3771,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1445",
       "name": "N5 Neutral Gray",
       "code": "1445",
+      "ean": [
+        "0738797144521",
+        "0738797144538"
+      ],
       "set": "Heavy Body",
       "hex": "#6F6B6A",
       "rgb": {
@@ -2606,12 +3793,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1446",
       "name": "N6 Neutral Gray",
       "code": "1446",
+      "ean": [
+        "0738797144620"
+      ],
       "set": "Heavy Body",
       "hex": "#979392",
       "rgb": {
@@ -2622,12 +3814,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1447",
       "name": "N7 Neutral Gray",
       "code": "1447",
+      "ean": [
+        "0738797144729"
+      ],
       "set": "Heavy Body",
       "hex": "#BBB7B6",
       "rgb": {
@@ -2638,12 +3835,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1448",
       "name": "N8 Neutral Gray",
       "code": "1448",
+      "ean": [
+        "0738797144828"
+      ],
       "set": "Heavy Body",
       "hex": "#E3DFDE",
       "rgb": {
@@ -2654,12 +3856,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6570",
       "name": "Naphthol Pink",
       "code": "6570",
+      "ean": [
+        "0738797657021",
+        "0738797657045",
+        "0738797657069"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#ED4350",
       "rgb": {
@@ -2670,12 +3879,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8532",
       "name": "Naphthol Red Light",
       "code": "8532",
+      "ean": [
+        "0738797853218",
+        "0738797853249",
+        "0738797853263"
+      ],
       "set": "High Flow",
       "hex": "#C83E34",
       "rgb": {
@@ -2686,12 +3902,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2210",
       "name": "Naphthol Red Light",
       "code": "2210",
+      "ean": [
+        "0738797221017",
+        "0738797221048",
+        "0738797221055",
+        "0738797221062",
+        "0738797221079",
+        "0738797221086"
+      ],
       "set": "Fluid",
       "hex": "#C83E34",
       "rgb": {
@@ -2702,12 +3928,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7210",
       "name": "Naphthol Red Light",
       "code": "7210",
+      "ean": [
+        "0738797721029",
+        "0738797721036",
+        "0738797721050"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#E60203",
       "rgb": {
@@ -2718,12 +3951,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6550",
       "name": "Naphthol Red Light",
       "code": "6550",
+      "ean": [
+        "0738797655027",
+        "0738797655041",
+        "0738797655065"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#EF290F",
       "rgb": {
@@ -2734,12 +3974,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1210",
       "name": "Naphthol Red Light",
       "code": "1210",
+      "ean": [
+        "0738797121027",
+        "0738797121034",
+        "0738797121065"
+      ],
       "set": "Heavy Body",
       "hex": "#E80A09",
       "rgb": {
@@ -2750,12 +3997,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7220",
       "name": "Naphthol Red Medium",
       "code": "7220",
+      "ean": [
+        "0738797722026",
+        "0738797722033",
+        "0738797722040",
+        "0738797722057"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#950810",
       "rgb": {
@@ -2766,12 +4021,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1220",
       "name": "Naphthol Red Medium",
       "code": "1220",
+      "ean": [
+        "0738797122024",
+        "0738797122031"
+      ],
       "set": "Heavy Body",
       "hex": "#A10614",
       "rgb": {
@@ -2782,12 +4043,25 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2220",
       "name": "Naphthol Red Medium",
       "code": "2220",
+      "ean": [
+        "0738797222014",
+        "0738797222045",
+        "0738797222052",
+        "0738797222069",
+        "0738797222076",
+        "0738797222083",
+        "0738797853119",
+        "0738797853140",
+        "0738797853164"
+      ],
       "set": "Fluid",
       "hex": "#A32832",
       "rgb": {
@@ -2798,12 +4072,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6695",
       "name": "Naples Yellow Deep",
       "code": "6695",
+      "ean": [
+        "0738797669529",
+        "0738797669543",
+        "0738797669567"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#EAA435",
       "rgb": {
@@ -2814,12 +4095,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7459",
       "name": "Naples Yellow Hue",
       "code": "7459",
+      "ean": [
+        "0738797745926",
+        "0738797745933",
+        "0738797745940",
+        "0738797745957"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#F0CD71",
       "rgb": {
@@ -2830,12 +4119,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1459",
       "name": "Naples Yellow Hue",
       "code": "1459",
+      "ean": [
+        "0738797145924",
+        "0738797145931"
+      ],
       "set": "Heavy Body",
       "hex": "#F3D074",
       "rgb": {
@@ -2846,12 +4141,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2438",
       "name": "Naples Yellow Hue",
       "code": "2438",
+      "ean": [
+        "0738797243811",
+        "0738797243842",
+        "0738797243859",
+        "0738797243866",
+        "0738797243873",
+        "0738797243880"
+      ],
       "set": "Fluid",
       "hex": "#DFC07B",
       "rgb": {
@@ -2862,12 +4167,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1225",
       "name": "Nickel Azo Yellow",
       "code": "1225",
+      "ean": [
+        "0738797122529"
+      ],
       "set": "Heavy Body",
       "hex": "#C36B12",
       "rgb": {
@@ -2878,12 +4188,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8534",
       "name": "Nickel Azo Yellow",
       "code": "8534",
+      "ean": [
+        "0738797853416",
+        "0738797853447",
+        "0738797853461"
+      ],
       "set": "High Flow",
       "hex": "#AF791B",
       "rgb": {
@@ -2894,12 +4211,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2225",
       "name": "Nickel Azo Yellow",
       "code": "2225",
+      "ean": [
+        "0738797222519",
+        "0738797222540",
+        "0738797222557",
+        "0738797222564",
+        "0738797222571",
+        "0738797222588"
+      ],
       "set": "Fluid",
       "hex": "#AF791B",
       "rgb": {
@@ -2910,12 +4237,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7225",
       "name": "Nickel Azo Yellow",
       "code": "7225",
+      "ean": [
+        "0738797722521",
+        "0738797722538",
+        "0738797722545",
+        "0738797722552"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#E4982A",
       "rgb": {
@@ -2926,12 +4261,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6500",
       "name": "Pale Yellow",
       "code": "6500",
+      "ean": [
+        "0738797650022",
+        "0738797650046",
+        "0738797650060"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#FCEF6F",
       "rgb": {
@@ -2942,12 +4284,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1240",
       "name": "Payne's Gray",
       "code": "1240",
+      "ean": [
+        "0738797124028",
+        "0738797124035",
+        "0738797124066"
+      ],
       "set": "Heavy Body",
       "hex": "#282C37",
       "rgb": {
@@ -2958,12 +4307,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7240",
       "name": "Payne's Gray",
       "code": "7240",
+      "ean": [
+        "0738797724020",
+        "0738797724037",
+        "0738797724044",
+        "0738797724051"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#262B31",
       "rgb": {
@@ -2974,12 +4331,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6750",
       "name": "Payne's Gray",
       "code": "6750",
+      "ean": [
+        "0738797675025",
+        "0738797675049",
+        "0738797675063"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#151B1B",
       "rgb": {
@@ -2990,12 +4354,25 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2240",
       "name": "Payne's Gray",
       "code": "2240",
+      "ean": [
+        "0738797224018",
+        "0738797224049",
+        "0738797224056",
+        "0738797224063",
+        "0738797224070",
+        "0738797224087",
+        "0738797857513",
+        "0738797857544",
+        "0738797857568"
+      ],
       "set": "Fluid",
       "hex": "#2C3149",
       "rgb": {
@@ -3006,12 +4383,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6660",
       "name": "Permanent Green",
       "code": "6660",
+      "ean": [
+        "0738797666023",
+        "0738797666047",
+        "0738797666061"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#027441",
       "rgb": {
@@ -3022,12 +4406,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1250",
       "name": "Permanent Green Light",
       "code": "1250",
+      "ean": [
+        "0738797125025",
+        "0738797125032"
+      ],
       "set": "Heavy Body",
       "hex": "#175445",
       "rgb": {
@@ -3038,12 +4428,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2250",
       "name": "Permanent Green Light",
       "code": "2250",
+      "ean": [
+        "0738797225015",
+        "0738797225046",
+        "0738797225053",
+        "0738797225060",
+        "0738797225077",
+        "0738797225084"
+      ],
       "set": "Fluid",
       "hex": "#007740",
       "rgb": {
@@ -3054,12 +4454,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8535",
       "name": "Permanent Green Light",
       "code": "8535",
+      "ean": [
+        "0738797853515",
+        "0738797853546",
+        "0738797853560"
+      ],
       "set": "High Flow",
       "hex": "#007740",
       "rgb": {
@@ -3070,12 +4477,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7250",
       "name": "Permanent Green Light",
       "code": "7250",
+      "ean": [
+        "0738797725027",
+        "0738797725034",
+        "0738797725058"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#1A5446",
       "rgb": {
@@ -3086,12 +4500,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7252",
       "name": "Permanent Maroon",
       "code": "7252",
+      "ean": [
+        "0738797725225",
+        "0738797725232",
+        "0738797725256"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#3E1B19",
       "rgb": {
@@ -3102,12 +4523,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1252",
       "name": "Permanent Maroon",
       "code": "1252",
+      "ean": [
+        "0738797125223"
+      ],
       "set": "Heavy Body",
       "hex": "#5D1C22",
       "rgb": {
@@ -3118,12 +4544,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7253",
       "name": "Permanent Violet Dark",
       "code": "7253",
+      "ean": [
+        "0738797725324",
+        "0738797725331",
+        "0738797725355"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#3A1A2F",
       "rgb": {
@@ -3134,12 +4567,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8536",
       "name": "Permanent Violet Dark",
       "code": "8536",
+      "ean": [
+        "0738797853614",
+        "0738797853645",
+        "0738797853669"
+      ],
       "set": "High Flow",
       "hex": "#442146",
       "rgb": {
@@ -3150,12 +4590,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1253",
       "name": "Permanent Violet Dark",
       "code": "1253",
+      "ean": [
+        "0738797125322"
+      ],
       "set": "Heavy Body",
       "hex": "#3A1A32",
       "rgb": {
@@ -3166,12 +4611,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2253",
       "name": "Permanent Violet Dark",
       "code": "2253",
+      "ean": [
+        "0738797225312",
+        "0738797225343",
+        "0738797225350",
+        "0738797225367",
+        "0738797225374",
+        "0738797225381"
+      ],
       "set": "Fluid",
       "hex": "#442146",
       "rgb": {
@@ -3182,12 +4637,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6515",
       "name": "Permanent Yellow",
       "code": "6515",
+      "ean": [
+        "0738797651524",
+        "0738797651548",
+        "0738797651562"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#FFE900",
       "rgb": {
@@ -3198,12 +4660,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6525",
       "name": "Permanent Yellow Deep",
       "code": "6525",
+      "ean": [
+        "0738797652521",
+        "0738797652545",
+        "0738797652569"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#FFAF02",
       "rgb": {
@@ -3214,12 +4683,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-4900",
       "name": "Phosphorescent Green",
       "code": "4900",
+      "ean": [
+        "0738797490024"
+      ],
       "set": "Fluorescent & Phosphorescent Colors",
       "hex": "#CCFF99",
       "rgb": {
@@ -3230,12 +4704,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8537",
       "name": "Phthalo Blue (Green Shade)",
       "code": "8537",
+      "ean": [
+        "0738797125551",
+        "0738797853713",
+        "0738797853744",
+        "0738797853768"
+      ],
       "set": "High Flow",
       "hex": "#000050",
       "rgb": {
@@ -3246,12 +4728,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2255",
       "name": "Phthalo Blue (Green Shade)",
       "code": "2255",
+      "ean": [
+        "0738797225510",
+        "0738797225541",
+        "0738797225558",
+        "0738797225565",
+        "0738797225572",
+        "0738797225589"
+      ],
       "set": "Fluid",
       "hex": "#000050",
       "rgb": {
@@ -3262,12 +4754,25 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2260",
       "name": "Phthalo Blue (Red Shade)",
       "code": "2260",
+      "ean": [
+        "0738797226012",
+        "0738797226043",
+        "0738797226050",
+        "0738797226067",
+        "0738797226074",
+        "0738797226081",
+        "0738797857612",
+        "0738797857643",
+        "0738797857667"
+      ],
       "set": "Fluid",
       "hex": "#002F7C",
       "rgb": {
@@ -3278,12 +4783,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1255",
       "name": "Phthalo Blue (green Shade)",
       "code": "1255",
+      "ean": [
+        "0738797125520",
+        "0738797125537",
+        "0738797125568"
+      ],
       "set": "Heavy Body",
       "hex": "#0B3371",
       "rgb": {
@@ -3294,12 +4806,21 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7255",
       "name": "Phthalo Blue (green Shade)",
       "code": "7255",
+      "ean": [
+        "0738797725522",
+        "0738797725539",
+        "0738797725546",
+        "0738797725553",
+        "0738797725584"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#10357B",
       "rgb": {
@@ -3310,12 +4831,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6620",
       "name": "Phthalo Blue (green Shade)",
       "code": "6620",
+      "ean": [
+        "0738797662025",
+        "0738797662049",
+        "0738797662063"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#2F3A70",
       "rgb": {
@@ -3326,12 +4854,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1260",
       "name": "Phthalo Blue (red Shade)",
       "code": "1260",
+      "ean": [
+        "0738797126022",
+        "0738797126039"
+      ],
       "set": "Heavy Body",
       "hex": "#0E41AA",
       "rgb": {
@@ -3342,12 +4876,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7260",
       "name": "Phthalo Blue (red Shade)",
       "code": "7260",
+      "ean": [
+        "0738797726024",
+        "0738797726031",
+        "0738797726055"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#1B43A2",
       "rgb": {
@@ -3358,12 +4899,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2270",
       "name": "Phthalo Green (Blue Shade)",
       "code": "2270",
+      "ean": [
+        "0738797227019",
+        "0738797227040",
+        "0738797227057",
+        "0738797227064",
+        "0738797227071",
+        "0738797227088"
+      ],
       "set": "Fluid",
       "hex": "#002932",
       "rgb": {
@@ -3374,12 +4925,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8538",
       "name": "Phthalo Green (Blue Shade)",
       "code": "8538",
+      "ean": [
+        "0738797853812",
+        "0738797853843",
+        "0738797853867"
+      ],
       "set": "High Flow",
       "hex": "#002932",
       "rgb": {
@@ -3390,12 +4948,25 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2275",
       "name": "Phthalo Green (Yellow Shade)",
       "code": "2275",
+      "ean": [
+        "0738797227514",
+        "0738797227545",
+        "0738797227552",
+        "0738797227569",
+        "0738797227576",
+        "0738797227583",
+        "0738797857711",
+        "0738797857742",
+        "0738797857766"
+      ],
       "set": "Fluid",
       "hex": "#00382F",
       "rgb": {
@@ -3406,12 +4977,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6650",
       "name": "Phthalo Green (blue Shade)",
       "code": "6650",
+      "ean": [
+        "0738797665026",
+        "0738797665040",
+        "0738797665064"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#074D42",
       "rgb": {
@@ -3422,12 +5000,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1270",
       "name": "Phthalo Green (blue Shade)",
       "code": "1270",
+      "ean": [
+        "0738797127029",
+        "0738797127036"
+      ],
       "set": "Heavy Body",
       "hex": "#185A59",
       "rgb": {
@@ -3438,12 +5022,21 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7270",
       "name": "Phthalo Green (blue Shade)",
       "code": "7270",
+      "ean": [
+        "0738797727021",
+        "0738797727038",
+        "0738797727045",
+        "0738797727052",
+        "0738797727083"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#0B373A",
       "rgb": {
@@ -3454,12 +5047,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7275",
       "name": "Phthalo Green (yellow Shade)",
       "code": "7275",
+      "ean": [
+        "0738797727526",
+        "0738797727533",
+        "0738797727557"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#146847",
       "rgb": {
@@ -3470,12 +5070,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1275",
       "name": "Phthalo Green (yellow Shade)",
       "code": "1275",
+      "ean": [
+        "0738797127524",
+        "0738797127531"
+      ],
       "set": "Heavy Body",
       "hex": "#1B8B59",
       "rgb": {
@@ -3486,12 +5092,25 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2420",
       "name": "Primary Cyan",
       "code": "2420",
+      "ean": [
+        "0738797242012",
+        "0738797242043",
+        "0738797242050",
+        "0738797242067",
+        "0738797242074",
+        "0738797242081",
+        "0738797857810",
+        "0738797857841",
+        "0738797857865"
+      ],
       "set": "Fluid",
       "hex": "#004EAC",
       "rgb": {
@@ -3502,12 +5121,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1500",
       "name": "Primary Cyan",
       "code": "1500",
+      "ean": [
+        "0738797150027",
+        "0738797150034",
+        "0738797150065"
+      ],
       "set": "Heavy Body",
       "hex": "#193E8E",
       "rgb": {
@@ -3518,12 +5144,25 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2421",
       "name": "Primary Magenta",
       "code": "2421",
+      "ean": [
+        "0738797242111",
+        "0738797242142",
+        "0738797242159",
+        "0738797242166",
+        "0738797242173",
+        "0738797242180",
+        "0738797857919",
+        "0738797857940",
+        "0738797857964"
+      ],
       "set": "Fluid",
       "hex": "#BA1A22",
       "rgb": {
@@ -3534,12 +5173,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1510",
       "name": "Primary Magenta",
       "code": "1510",
+      "ean": [
+        "0738797151024",
+        "0738797151031",
+        "0738797151062"
+      ],
       "set": "Heavy Body",
       "hex": "#D61625",
       "rgb": {
@@ -3550,12 +5196,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1530",
       "name": "Primary Yellow",
       "code": "1530",
+      "ean": [
+        "0738797153028",
+        "0738797153035"
+      ],
       "set": "Heavy Body",
       "hex": "#FEF43A",
       "rgb": {
@@ -3566,12 +5218,25 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2422",
       "name": "Primary Yellow",
       "code": "2422",
+      "ean": [
+        "0738797242210",
+        "0738797242241",
+        "0738797242258",
+        "0738797242265",
+        "0738797242272",
+        "0738797242289",
+        "0738797858015",
+        "0738797858046",
+        "0738797858060"
+      ],
       "set": "Fluid",
       "hex": "#FFD115",
       "rgb": {
@@ -3582,12 +5247,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1460",
       "name": "Prussian Blue Hue",
       "code": "1460",
+      "ean": [
+        "0738797146020",
+        "0738797146037"
+      ],
       "set": "Heavy Body",
       "hex": "#1A2541",
       "rgb": {
@@ -3598,12 +5269,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7460",
       "name": "Prussian Blue Hue",
       "code": "7460",
+      "ean": [
+        "0738797746022",
+        "0738797746039",
+        "0738797746053"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#222F51",
       "rgb": {
@@ -3614,12 +5292,25 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2439",
       "name": "Prussian Blue Hue",
       "code": "2439",
+      "ean": [
+        "0738797243910",
+        "0738797243941",
+        "0738797243958",
+        "0738797243965",
+        "0738797243972",
+        "0738797243989",
+        "0738797858114",
+        "0738797858145",
+        "0738797858169"
+      ],
       "set": "Fluid",
       "hex": "#251947",
       "rgb": {
@@ -3630,12 +5321,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1276",
       "name": "Pyrrole Orange",
       "code": "1276",
+      "ean": [
+        "0738797127623"
+      ],
       "set": "Heavy Body",
       "hex": "#FF2904",
       "rgb": {
@@ -3646,12 +5342,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2276",
       "name": "Pyrrole Orange",
       "code": "2276",
+      "ean": [
+        "0738797227613",
+        "0738797227644",
+        "0738797227651",
+        "0738797227668",
+        "0738797227675",
+        "0738797227682"
+      ],
       "set": "Fluid",
       "hex": "#F3491E",
       "rgb": {
@@ -3662,12 +5368,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7276",
       "name": "Pyrrole Orange",
       "code": "7276",
+      "ean": [
+        "0738797727625",
+        "0738797727632",
+        "0738797727656"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#FD2901",
       "rgb": {
@@ -3678,12 +5391,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8539",
       "name": "Pyrrole Orange",
       "code": "8539",
+      "ean": [
+        "0738797853911",
+        "0738797853942",
+        "0738797853966"
+      ],
       "set": "High Flow",
       "hex": "#F3491E",
       "rgb": {
@@ -3694,12 +5414,21 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7277",
       "name": "Pyrrole Red",
       "code": "7277",
+      "ean": [
+        "0738797727724",
+        "0738797727731",
+        "0738797727748",
+        "0738797727755",
+        "0738797727786"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#BD0004",
       "rgb": {
@@ -3710,12 +5439,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6555",
       "name": "Pyrrole Red",
       "code": "6555",
+      "ean": [
+        "0738797655522",
+        "0738797655546",
+        "0738797655560"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#D3301D",
       "rgb": {
@@ -3726,12 +5462,25 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2277",
       "name": "Pyrrole Red",
       "code": "2277",
+      "ean": [
+        "0738797227712",
+        "0738797227743",
+        "0738797227750",
+        "0738797227767",
+        "0738797227774",
+        "0738797227781",
+        "0738797858213",
+        "0738797858244",
+        "0738797858268"
+      ],
       "set": "Fluid",
       "hex": "#C23739",
       "rgb": {
@@ -3742,12 +5491,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1277",
       "name": "Pyrrole Red",
       "code": "1277",
+      "ean": [
+        "0738797127722",
+        "0738797127760"
+      ],
       "set": "Heavy Body",
       "hex": "#C50003",
       "rgb": {
@@ -3758,12 +5513,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1278",
       "name": "Pyrrole Red Dark",
       "code": "1278",
+      "ean": [
+        "0738797127821"
+      ],
       "set": "Heavy Body",
       "hex": "#8D1018",
       "rgb": {
@@ -3774,12 +5534,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7278",
       "name": "Pyrrole Red Dark",
       "code": "7278",
+      "ean": [
+        "0738797727823",
+        "0738797727830",
+        "0738797727854"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#860710",
       "rgb": {
@@ -3790,12 +5557,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1279",
       "name": "Pyrrole Red Light",
       "code": "1279",
+      "ean": [
+        "0738797127920"
+      ],
       "set": "Heavy Body",
       "hex": "#E91509",
       "rgb": {
@@ -3806,12 +5578,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2279",
       "name": "Pyrrole Red Light",
       "code": "2279",
+      "ean": [
+        "0738797227910",
+        "0738797227941",
+        "0738797227958",
+        "0738797227965",
+        "0738797227972",
+        "0738797227989"
+      ],
       "set": "Fluid",
       "hex": "#D13E37",
       "rgb": {
@@ -3822,12 +5604,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7301",
       "name": "Quinacridone  Nickel Azo Gold",
       "code": "7301",
+      "ean": [
+        "0738797730120",
+        "0738797730137",
+        "0738797730144",
+        "0738797730151"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#DA4E19",
       "rgb": {
@@ -3838,12 +5628,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8542",
       "name": "Quinacridone  Nickel Azo Gold",
       "code": "8542",
+      "ean": [
+        "0738797854215",
+        "0738797854246",
+        "0738797854260"
+      ],
       "set": "High Flow",
       "hex": "#893F26",
       "rgb": {
@@ -3854,12 +5651,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1301",
       "name": "Quinacridone  Nickel Azo Gold",
       "code": "1301",
+      "ean": null,
       "set": "Heavy Body",
       "hex": "#E96125",
       "rgb": {
@@ -3870,12 +5670,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2301",
       "name": "Quinacridone  Nickel Azo Gold",
       "code": "2301",
+      "ean": [
+        "0738797230118",
+        "0738797230149",
+        "0738797230156",
+        "0738797230163",
+        "0738797230170",
+        "0738797230187"
+      ],
       "set": "Fluid",
       "hex": "#893F26",
       "rgb": {
@@ -3886,12 +5696,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8540",
       "name": "Quinacridone Magenta",
       "code": "8540",
+      "ean": [
+        "0738797854017",
+        "0738797854048",
+        "0738797854062"
+      ],
       "set": "High Flow",
       "hex": "#870412",
       "rgb": {
@@ -3902,12 +5719,21 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7305",
       "name": "Quinacridone Magenta",
       "code": "7305",
+      "ean": [
+        "0738797730526",
+        "0738797730533",
+        "0738797730540",
+        "0738797730557",
+        "0738797730588"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#611321",
       "rgb": {
@@ -3918,12 +5744,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2305",
       "name": "Quinacridone Magenta",
       "code": "2305",
+      "ean": [
+        "0738797230514",
+        "0738797230545",
+        "0738797230552",
+        "0738797230569",
+        "0738797230576",
+        "0738797230583"
+      ],
       "set": "Fluid",
       "hex": "#870412",
       "rgb": {
@@ -3934,12 +5770,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1305",
       "name": "Quinacridone Magenta",
       "code": "1305",
+      "ean": [
+        "0738797130524",
+        "0738797130531"
+      ],
       "set": "Heavy Body",
       "hex": "#991431",
       "rgb": {
@@ -3950,12 +5792,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7310",
       "name": "Quinacridone Red",
       "code": "7310",
+      "ean": [
+        "0738797731028",
+        "0738797731035",
+        "0738797731059"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#BF0218",
       "rgb": {
@@ -3966,12 +5815,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2310",
       "name": "Quinacridone Red",
       "code": "2310",
+      "ean": [
+        "0738797231016",
+        "0738797231047",
+        "0738797231054",
+        "0738797231061",
+        "0738797231078",
+        "0738797231085"
+      ],
       "set": "Fluid",
       "hex": "#B91D14",
       "rgb": {
@@ -3982,12 +5841,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1310",
       "name": "Quinacridone Red",
       "code": "1310",
+      "ean": [
+        "0738797131026",
+        "0738797131033"
+      ],
       "set": "Heavy Body",
       "hex": "#B80113",
       "rgb": {
@@ -3998,12 +5863,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8541",
       "name": "Quinacridone Red",
       "code": "8541",
+      "ean": [
+        "0738797854116",
+        "0738797854147",
+        "0738797854161"
+      ],
       "set": "High Flow",
       "hex": "#B91D14",
       "rgb": {
@@ -4014,12 +5886,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2330",
       "name": "Quinacridone Violet",
       "code": "2330",
+      "ean": [
+        "0738797233010",
+        "0738797233041",
+        "0738797233058",
+        "0738797233065",
+        "0738797233072",
+        "0738797233089"
+      ],
       "set": "Fluid",
       "hex": "#87001D",
       "rgb": {
@@ -4030,12 +5912,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1330",
       "name": "Quinacridone Violet",
       "code": "1330",
+      "ean": [
+        "0738797133020"
+      ],
       "set": "Heavy Body",
       "hex": "#5C1823",
       "rgb": {
@@ -4046,12 +5933,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7340",
       "name": "Raw Sienna",
       "code": "7340",
+      "ean": [
+        "0738797734029",
+        "0738797734036",
+        "0738797734043",
+        "0738797734050"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#915A31",
       "rgb": {
@@ -4062,12 +5957,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1340",
       "name": "Raw Sienna",
       "code": "1340",
+      "ean": [
+        "0738797134027",
+        "0738797134034"
+      ],
       "set": "Heavy Body",
       "hex": "#9E5A33",
       "rgb": {
@@ -4078,12 +5979,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2340",
       "name": "Raw Sienna",
       "code": "2340",
+      "ean": [
+        "0738797234017",
+        "0738797234048",
+        "0738797234055",
+        "0738797234062",
+        "0738797234079",
+        "0738797234086"
+      ],
       "set": "Fluid",
       "hex": "#A77846",
       "rgb": {
@@ -4094,12 +6005,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8543",
       "name": "Raw Sienna",
       "code": "8543",
+      "ean": [
+        "0738797134058",
+        "0738797854314",
+        "0738797854345",
+        "0738797854369"
+      ],
       "set": "High Flow",
       "hex": "#A77846",
       "rgb": {
@@ -4110,12 +6029,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7350",
       "name": "Raw Umber",
       "code": "7350",
+      "ean": [
+        "0738797735026",
+        "0738797735033",
+        "0738797735040",
+        "0738797735057"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#322D29",
       "rgb": {
@@ -4126,12 +6053,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8544",
       "name": "Raw Umber",
       "code": "8544",
+      "ean": [
+        "0738797854413",
+        "0738797854444",
+        "0738797854468"
+      ],
       "set": "High Flow",
       "hex": "#4A433E",
       "rgb": {
@@ -4142,12 +6076,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2350",
       "name": "Raw Umber",
       "code": "2350",
+      "ean": [
+        "0738797235014",
+        "0738797235045",
+        "0738797235052",
+        "0738797235069",
+        "0738797235076",
+        "0738797235083"
+      ],
       "set": "Fluid",
       "hex": "#4A433E",
       "rgb": {
@@ -4158,12 +6102,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1350",
       "name": "Raw Umber",
       "code": "1350",
+      "ean": [
+        "0738797135024",
+        "0738797135031"
+      ],
       "set": "Heavy Body",
       "hex": "#302D28",
       "rgb": {
@@ -4174,12 +6124,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6740",
       "name": "Raw Umber",
       "code": "6740",
+      "ean": [
+        "0738797674028",
+        "0738797674042",
+        "0738797674066"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#2D2A19",
       "rgb": {
@@ -4190,12 +6147,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2360",
       "name": "Red Oxide",
       "code": "2360",
+      "ean": [
+        "0738797236011",
+        "0738797236042",
+        "0738797236059",
+        "0738797236066",
+        "0738797236073",
+        "0738797236080"
+      ],
       "set": "Fluid",
       "hex": "#90463A",
       "rgb": {
@@ -4206,12 +6173,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7360",
       "name": "Red Oxide",
       "code": "7360",
+      "ean": [
+        "0738797736023",
+        "0738797736030",
+        "0738797736047",
+        "0738797736054"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#6D2D24",
       "rgb": {
@@ -4222,12 +6197,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6720",
       "name": "Red Oxide",
       "code": "6720",
+      "ean": [
+        "0738797672024",
+        "0738797672048",
+        "0738797672062"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#742916",
       "rgb": {
@@ -4238,12 +6220,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1360",
       "name": "Red Oxide",
       "code": "1360",
+      "ean": [
+        "0738797136021",
+        "0738797136038"
+      ],
       "set": "Heavy Body",
       "hex": "#6A2A21",
       "rgb": {
@@ -4254,12 +6242,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6595",
       "name": "Red Violet",
       "code": "6595",
+      "ean": [
+        "0738797659520",
+        "0738797659544",
+        "0738797659568"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#6F3568",
       "rgb": {
@@ -4270,12 +6265,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2440",
       "name": "Sap Green Hue",
       "code": "2440",
+      "ean": [
+        "0738797244016",
+        "0738797244047",
+        "0738797244054",
+        "0738797244061",
+        "0738797244078",
+        "0738797244085"
+      ],
       "set": "Fluid",
       "hex": "#242D14",
       "rgb": {
@@ -4286,12 +6291,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7461",
       "name": "Sap Green Hue",
       "code": "7461",
+      "ean": [
+        "0738797746121",
+        "0738797746138",
+        "0738797746145",
+        "0738797746152"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#5C5B42",
       "rgb": {
@@ -4302,12 +6315,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1461",
       "name": "Sap Green Hue",
       "code": "1461",
+      "ean": [
+        "0738797146129",
+        "0738797146136"
+      ],
       "set": "Heavy Body",
       "hex": "#565640",
       "rgb": {
@@ -4318,12 +6337,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8545",
       "name": "Sap Green Hue",
       "code": "8545",
+      "ean": [
+        "0738797854512",
+        "0738797854543",
+        "0738797854567"
+      ],
       "set": "High Flow",
       "hex": "#242D14",
       "rgb": {
@@ -4334,12 +6360,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8546",
       "name": "Sepia",
       "code": "8546",
+      "ean": [
+        "0738797854611",
+        "0738797854642",
+        "0738797854666"
+      ],
       "set": "High Flow",
       "hex": "#3C2814",
       "rgb": {
@@ -4350,12 +6383,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1467",
       "name": "Smalt Hue",
       "code": "1467",
+      "ean": [
+        "0738797146723"
+      ],
       "set": "Heavy Body",
       "hex": "#4A5A95",
       "rgb": {
@@ -4366,12 +6404,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1369",
       "name": "Teal",
       "code": "1369",
+      "ean": [
+        "0738797136922",
+        "0738797136939"
+      ],
       "set": "Heavy Body",
       "hex": "#F6F6F4",
       "rgb": {
@@ -4382,12 +6426,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8547",
       "name": "Teal",
       "code": "8547",
+      "ean": [
+        "0738797854710",
+        "0738797854741",
+        "0738797854765"
+      ],
       "set": "High Flow",
       "hex": "#00BCC1",
       "rgb": {
@@ -4398,12 +6449,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7369",
       "name": "Teal",
       "code": "7369",
+      "ean": [
+        "0738797736924",
+        "0738797736931",
+        "0738797736955"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#3A9DBA",
       "rgb": {
@@ -4414,12 +6472,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2369",
       "name": "Teal",
       "code": "2369",
+      "ean": [
+        "0738797236912",
+        "0738797236943",
+        "0738797236950",
+        "0738797236967",
+        "0738797236974",
+        "0738797236981"
+      ],
       "set": "Fluid",
       "hex": "#00BCC1",
       "rgb": {
@@ -4430,12 +6498,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7468",
       "name": "Terre Verte Hue",
       "code": "7468",
+      "ean": [
+        "0738797746824",
+        "0738797746831",
+        "0738797746855"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#76825C",
       "rgb": {
@@ -4446,12 +6521,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1468",
       "name": "Terre Verte Hue",
       "code": "1468",
+      "ean": [
+        "0738797146822",
+        "0738797146839"
+      ],
       "set": "Heavy Body",
       "hex": "#95A17B",
       "rgb": {
@@ -4462,12 +6543,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8548",
       "name": "Titan Buff",
       "code": "8548",
+      "ean": [
+        "0738797854819",
+        "0738797854840",
+        "0738797854864"
+      ],
       "set": "High Flow",
       "hex": "#E0D4BA",
       "rgb": {
@@ -4478,12 +6566,21 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7370",
       "name": "Titan Buff",
       "code": "7370",
+      "ean": [
+        "0738797737020",
+        "0738797737037",
+        "0738797737044",
+        "0738797737051",
+        "0738797737075"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#F3E4C7",
       "rgb": {
@@ -4494,12 +6591,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2370",
       "name": "Titan Buff",
       "code": "2370",
+      "ean": [
+        "0738797237018",
+        "0738797237049",
+        "0738797237056",
+        "0738797237063",
+        "0738797237070",
+        "0738797237087"
+      ],
       "set": "Fluid",
       "hex": "#E0D4BA",
       "rgb": {
@@ -4510,12 +6617,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1370",
       "name": "Titan Buff",
       "code": "1370",
+      "ean": [
+        "0738797137028",
+        "0738797137035",
+        "0738797137066"
+      ],
       "set": "Heavy Body",
       "hex": "#F6E7C8",
       "rgb": {
@@ -4526,12 +6640,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7371",
       "name": "Titan Green Pale",
       "code": "7371",
+      "ean": [
+        "0738797737129",
+        "0738797737136",
+        "0738797737143",
+        "0738797737150",
+        "0738797737174",
+        "0738797737181"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#FFFFFF",
       "rgb": {
@@ -4542,12 +6666,28 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2371",
       "name": "Titan Green Pale",
       "code": "2371",
+      "ean": [
+        "0738797015791",
+        "0738797015807",
+        "0738797015814",
+        "0738797015821",
+        "0738797015838",
+        "0738797237186",
+        "0738797858312",
+        "0738797858343",
+        "0738797858367",
+        "0738797668522",
+        "0738797668546",
+        "0738797668560"
+      ],
       "set": "Fluid",
       "hex": "#BAC09B",
       "rgb": {
@@ -4558,12 +6698,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1371",
       "name": "Titan Green Pale",
       "code": "1371",
+      "ean": [
+        "0738797014732",
+        "0738797014749"
+      ],
       "set": "Heavy Body",
       "hex": "#FFFFFF",
       "rgb": {
@@ -4574,12 +6720,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1576",
       "name": "Titan Mars Pale",
       "code": "1576",
+      "ean": [
+        "0738797015227"
+      ],
       "set": "Heavy Body",
       "hex": "#FFFFFF",
       "rgb": {
@@ -4590,12 +6741,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1573",
       "name": "Titan Violet Pale",
       "code": "1573",
+      "ean": [
+        "0738797014855"
+      ],
       "set": "Heavy Body",
       "hex": "#FFFFFF",
       "rgb": {
@@ -4606,12 +6762,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1375",
       "name": "Titanate Yellow",
       "code": "1375",
+      "ean": [
+        "0738797137523"
+      ],
       "set": "Heavy Body",
       "hex": "#FFF596",
       "rgb": {
@@ -4622,12 +6783,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6755",
       "name": "Titanium White",
       "code": "6755",
+      "ean": [
+        "0738797675520",
+        "0738797675544",
+        "0738797675568"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#F2F6F9",
       "rgb": {
@@ -4638,12 +6806,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8549",
       "name": "Titanium White",
       "code": "8549",
+      "ean": [
+        "0738797854918",
+        "0738797854949",
+        "0738797854963",
+        "0738797854987"
+      ],
       "set": "High Flow",
       "hex": "#FEFEFE",
       "rgb": {
@@ -4654,12 +6830,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7380",
       "name": "Titanium White",
       "code": "7380",
+      "ean": [
+        "0738797738027",
+        "0738797738034",
+        "0738797738041",
+        "0738797738058",
+        "0738797738072",
+        "0738797738089"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#FFFFFF",
       "rgb": {
@@ -4670,12 +6856,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1380",
       "name": "Titanium White",
       "code": "1380",
+      "ean": [
+        "0738797138025",
+        "0738797138032",
+        "0738797138056",
+        "0738797138063",
+        "0738797138070",
+        "0738797138087"
+      ],
       "set": "Heavy Body",
       "hex": "#FEFEFE",
       "rgb": {
@@ -4686,12 +6882,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2380",
       "name": "Titanium White",
       "code": "2380",
+      "ean": [
+        "0738797238015",
+        "0738797238046",
+        "0738797238053",
+        "0738797238060",
+        "0738797238077",
+        "0738797238084"
+      ],
       "set": "Fluid",
       "hex": "#FEFEFE",
       "rgb": {
@@ -4702,12 +6908,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8555",
       "name": "Transparent Benzimidazolone Yellow Medium",
       "code": "8555",
+      "ean": [
+        "0738797016149",
+        "0738797016156",
+        "0738797016163"
+      ],
       "set": "High Flow",
       "hex": "#FFDD33",
       "rgb": {
@@ -4718,12 +6931,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7383",
       "name": "Transparent Brown Iron Oxide",
       "code": "7383",
+      "ean": [
+        "0738797738324",
+        "0738797738331",
+        "0738797738355"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#762C11",
       "rgb": {
@@ -4734,12 +6954,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1383",
       "name": "Transparent Brown Iron Oxide",
       "code": "1383",
+      "ean": [
+        "0738797138322",
+        "0738797138339"
+      ],
       "set": "Heavy Body",
       "hex": "#702C19",
       "rgb": {
@@ -4750,12 +6976,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8562",
       "name": "Transparent Brown Iron Oxide",
       "code": "8562",
+      "ean": [
+        "0738797856219",
+        "0738797856240",
+        "0738797856264"
+      ],
       "set": "High Flow",
       "hex": "#4D3111",
       "rgb": {
@@ -4766,12 +6999,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8556",
       "name": "Transparent Dioxazine Purple",
       "code": "8556",
+      "ean": [
+        "0738797855618",
+        "0738797855649",
+        "0738797855663"
+      ],
       "set": "High Flow",
       "hex": "#270786",
       "rgb": {
@@ -4782,12 +7022,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8558",
       "name": "Transparent Naphthol Red Light",
       "code": "8558",
+      "ean": [
+        "0738797855816",
+        "0738797855847",
+        "0738797855861"
+      ],
       "set": "High Flow",
       "hex": "#ED584E",
       "rgb": {
@@ -4798,12 +7045,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8559",
       "name": "Transparent Phthalo Blue GS",
       "code": "8559",
+      "ean": [
+        "0738797855915",
+        "0738797855946",
+        "0738797855960"
+      ],
       "set": "High Flow",
       "hex": "#024EAC",
       "rgb": {
@@ -4814,12 +7068,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8560",
       "name": "Transparent Phthalo Green BS",
       "code": "8560",
+      "ean": [
+        "0738797856011",
+        "0738797856042",
+        "0738797856066"
+      ],
       "set": "High Flow",
       "hex": "#05C383",
       "rgb": {
@@ -4830,12 +7091,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8561",
       "name": "Transparent Quinacridone Red",
       "code": "8561",
+      "ean": [
+        "0738797856110",
+        "0738797856141",
+        "0738797856165"
+      ],
       "set": "High Flow",
       "hex": "#D90C45",
       "rgb": {
@@ -4846,12 +7114,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7385",
       "name": "Transparent Red Iron Oxide",
       "code": "7385",
+      "ean": [
+        "0738797738522",
+        "0738797738539",
+        "0738797738546",
+        "0738797738553"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#9A1800",
       "rgb": {
@@ -4862,12 +7138,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8563",
       "name": "Transparent Red Iron Oxide",
       "code": "8563",
+      "ean": [
+        "0738797856318",
+        "0738797856349",
+        "0738797856363"
+      ],
       "set": "High Flow",
       "hex": "#84301E",
       "rgb": {
@@ -4878,12 +7161,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2385",
       "name": "Transparent Red Iron Oxide",
       "code": "2385",
+      "ean": [
+        "0738797238510",
+        "0738797238541",
+        "0738797238558",
+        "0738797238565",
+        "0738797238572",
+        "0738797238589"
+      ],
       "set": "Fluid",
       "hex": "#84301E",
       "rgb": {
@@ -4894,12 +7187,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1385",
       "name": "Transparent Red Iron Oxide",
       "code": "1385",
+      "ean": [
+        "0738797138520",
+        "0738797138537"
+      ],
       "set": "Heavy Body",
       "hex": "#B53011",
       "rgb": {
@@ -4910,12 +7209,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8564",
       "name": "Transparent Shading Gray",
       "code": "8564",
+      "ean": [
+        "0738797856417",
+        "0738797856448",
+        "0738797856462"
+      ],
       "set": "High Flow",
       "hex": "#C1C0AB",
       "rgb": {
@@ -4926,12 +7232,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7386",
       "name": "Transparent Yellow Iron Oxide",
       "code": "7386",
+      "ean": [
+        "0738797738621",
+        "0738797738638",
+        "0738797738652"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#F6AE36",
       "rgb": {
@@ -4942,12 +7255,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8565",
       "name": "Transparent Yellow Iron Oxide",
       "code": "8565",
+      "ean": [
+        "0738797856516",
+        "0738797856547",
+        "0738797856561"
+      ],
       "set": "High Flow",
       "hex": "#A95B15",
       "rgb": {
@@ -4958,12 +7278,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2386",
       "name": "Transparent Yellow Iron Oxide",
       "code": "2386",
+      "ean": [
+        "0738797238619",
+        "0738797238640",
+        "0738797238657",
+        "0738797238664",
+        "0738797238671",
+        "0738797238688"
+      ],
       "set": "Fluid",
       "hex": "#A95B15",
       "rgb": {
@@ -4974,12 +7304,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1386",
       "name": "Transparent Yellow Iron Oxide",
       "code": "1386",
+      "ean": [
+        "0738797138629"
+      ],
       "set": "Heavy Body",
       "hex": "#EFAA31",
       "rgb": {
@@ -4990,12 +7325,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6640",
       "name": "Turquoise",
       "code": "6640",
+      "ean": [
+        "0738797664029",
+        "0738797664043",
+        "0738797664067"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#00626F",
       "rgb": {
@@ -5006,12 +7348,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8550",
       "name": "Turquoise (Phthalo)",
       "code": "8550",
+      "ean": [
+        "0738797855014",
+        "0738797855045",
+        "0738797855069"
+      ],
       "set": "High Flow",
       "hex": "#002239",
       "rgb": {
@@ -5022,12 +7371,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2390",
       "name": "Turquoise (Phthalo)",
       "code": "2390",
+      "ean": [
+        "0738797239012",
+        "0738797239043",
+        "0738797239050",
+        "0738797239067",
+        "0738797239074",
+        "0738797239081"
+      ],
       "set": "Fluid",
       "hex": "#002239",
       "rgb": {
@@ -5038,12 +7397,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1390",
       "name": "Turquoise (phthalo)",
       "code": "1390",
+      "ean": [
+        "0738797139022",
+        "0738797139039"
+      ],
       "set": "Heavy Body",
       "hex": "#0F152B",
       "rgb": {
@@ -5054,12 +7419,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2400",
       "name": "Ultramarine Blue",
       "code": "2400",
+      "ean": [
+        "0738797240018",
+        "0738797240049",
+        "0738797240056",
+        "0738797240063",
+        "0738797240070",
+        "0738797240087"
+      ],
       "set": "Fluid",
       "hex": "#1C1B7C",
       "rgb": {
@@ -5070,12 +7445,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8551",
       "name": "Ultramarine Blue",
       "code": "8551",
+      "ean": [
+        "0738797855113",
+        "0738797855144",
+        "0738797855168"
+      ],
       "set": "High Flow",
       "hex": "#1C1B7C",
       "rgb": {
@@ -5086,12 +7468,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7400",
       "name": "Ultramarine Blue",
       "code": "7400",
+      "ean": [
+        "0738797740020",
+        "0738797740037",
+        "0738797740044",
+        "0738797740051",
+        "0738797740075",
+        "0738797740082"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#44549C",
       "rgb": {
@@ -5102,12 +7494,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1400",
       "name": "Ultramarine Blue",
       "code": "1400",
+      "ean": [
+        "0738797140028",
+        "0738797140035",
+        "0738797140066"
+      ],
       "set": "Heavy Body",
       "hex": "#40519B",
       "rgb": {
@@ -5118,12 +7517,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6610",
       "name": "Ultramarine Blue",
       "code": "6610",
+      "ean": [
+        "0738797661028",
+        "0738797661042",
+        "0738797661066"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#0028CE",
       "rgb": {
@@ -5134,12 +7540,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2401",
       "name": "Ultramarine Violet",
       "code": "2401",
+      "ean": [
+        "0738797240117",
+        "0738797240148",
+        "0738797240155",
+        "0738797240162",
+        "0738797240179",
+        "0738797240186"
+      ],
       "set": "Fluid",
       "hex": "#4B4069",
       "rgb": {
@@ -5150,12 +7566,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1401",
       "name": "Ultramarine Violet",
       "code": "1401",
+      "ean": [
+        "0738797140127",
+        "0738797140134"
+      ],
       "set": "Heavy Body",
       "hex": "#3E397B",
       "rgb": {
@@ -5166,12 +7588,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7401",
       "name": "Ultramarine Violet",
       "code": "7401",
+      "ean": [
+        "0738797740129",
+        "0738797740136",
+        "0738797740150"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#2C2A5C",
       "rgb": {
@@ -5182,12 +7611,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2442",
       "name": "VanDyke Brown Hue",
       "code": "2442",
+      "ean": [
+        "0738797244214",
+        "0738797244245",
+        "0738797244252",
+        "0738797244269",
+        "0738797244276",
+        "0738797244283"
+      ],
       "set": "Fluid",
       "hex": "#3B3330",
       "rgb": {
@@ -5198,12 +7637,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1462",
       "name": "Vandyke Brown Hue",
       "code": "1462",
+      "ean": [
+        "0738797146228",
+        "0738797146235"
+      ],
       "set": "Heavy Body",
       "hex": "#332920",
       "rgb": {
@@ -5214,12 +7659,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7462",
       "name": "Vandyke Brown Hue",
       "code": "7462",
+      "ean": [
+        "0738797746220",
+        "0738797746237",
+        "0738797746244",
+        "0738797746251"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#4C352D",
       "rgb": {
@@ -5230,12 +7683,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2403",
       "name": "Vat Orange",
       "code": "2403",
+      "ean": [
+        "0738797240315",
+        "0738797240346",
+        "0738797240353",
+        "0738797240360",
+        "0738797240377",
+        "0738797240384"
+      ],
       "set": "Fluid",
       "hex": "#D64409",
       "rgb": {
@@ -5246,12 +7709,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1403",
       "name": "Vat Orange",
       "code": "1403",
+      "ean": [
+        "0738797140325"
+      ],
       "set": "Heavy Body",
       "hex": "#FB3100",
       "rgb": {
@@ -5262,12 +7730,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1405",
       "name": "Violet Oxide",
       "code": "1405",
+      "ean": [
+        "0738797140523"
+      ],
       "set": "Heavy Body",
       "hex": "#4D2523",
       "rgb": {
@@ -5278,12 +7751,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2405",
       "name": "Violet Oxide",
       "code": "2405",
+      "ean": [
+        "0738797240513",
+        "0738797240544",
+        "0738797240551",
+        "0738797240568",
+        "0738797240575",
+        "0738797240582"
+      ],
       "set": "Fluid",
       "hex": "#6B3F3E",
       "rgb": {
@@ -5294,12 +7777,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7405",
       "name": "Violet Oxide",
       "code": "7405",
+      "ean": [
+        "0738797740525",
+        "0738797740532",
+        "0738797740556"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#502826",
       "rgb": {
@@ -5310,12 +7800,25 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2443",
       "name": "Viridian Green Hue",
       "code": "2443",
+      "ean": [
+        "0738797244313",
+        "0738797244344",
+        "0738797244351",
+        "0738797244368",
+        "0738797244375",
+        "0738797244382",
+        "0738797858619",
+        "0738797858640",
+        "0738797858664"
+      ],
       "set": "Fluid",
       "hex": "#004D48",
       "rgb": {
@@ -5326,12 +7829,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1469",
       "name": "Viridian Green Hue",
       "code": "1469",
+      "ean": [
+        "0738797146921",
+        "0738797146938"
+      ],
       "set": "Heavy Body",
       "hex": "#2B4752",
       "rgb": {
@@ -5342,12 +7851,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7469",
       "name": "Viridian Green Hue",
       "code": "7469",
+      "ean": [
+        "0738797746923",
+        "0738797746930",
+        "0738797746947",
+        "0738797746954"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#307676",
       "rgb": {
@@ -5358,12 +7875,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6675",
       "name": "Yellow Green",
       "code": "6675",
+      "ean": [
+        "0738797667525",
+        "0738797667549",
+        "0738797667563"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#ACE735",
       "rgb": {
@@ -5374,12 +7898,26 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2407",
       "name": "Yellow Ochre",
       "code": "2407",
+      "ean": [
+        "0738797240711",
+        "0738797240742",
+        "0738797240759",
+        "0738797240766",
+        "0738797240773",
+        "0738797240780",
+        "0738797140752",
+        "0738797858817",
+        "0738797858848",
+        "0738797858862"
+      ],
       "set": "Fluid",
       "hex": "#B78B38",
       "rgb": {
@@ -5390,12 +7928,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1407",
       "name": "Yellow Ochre",
       "code": "1407",
+      "ean": [
+        "0738797140721",
+        "0738797140738",
+        "0738797140769"
+      ],
       "set": "Heavy Body",
       "hex": "#C9834A",
       "rgb": {
@@ -5406,12 +7951,21 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7407",
       "name": "Yellow Ochre",
       "code": "7407",
+      "ean": [
+        "0738797740723",
+        "0738797740730",
+        "0738797740747",
+        "0738797740754",
+        "0738797740785"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#D38952",
       "rgb": {
@@ -5422,12 +7976,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1410",
       "name": "Yellow Oxide",
       "code": "1410",
+      "ean": [
+        "0738797141025"
+      ],
       "set": "Heavy Body",
       "hex": "#CF8C35",
       "rgb": {
@@ -5438,12 +7997,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-6700",
       "name": "Yellow Oxide",
       "code": "6700",
+      "ean": [
+        "0738797670020",
+        "0738797670044",
+        "0738797670068"
+      ],
       "set": "SoFlat Matte Acrylic Colors",
       "hex": "#CD951C",
       "rgb": {
@@ -5454,12 +8020,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-8552",
       "name": "Yellow Oxide",
       "code": "8552",
+      "ean": [
+        "0738797855212",
+        "0738797855243",
+        "0738797855267"
+      ],
       "set": "High Flow",
       "hex": "#C5A045",
       "rgb": {
@@ -5470,12 +8043,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2410",
       "name": "Yellow Oxide",
       "code": "2410",
+      "ean": [
+        "0738797241015",
+        "0738797241046",
+        "0738797241053",
+        "0738797241060",
+        "0738797241077",
+        "0738797241084"
+      ],
       "set": "Fluid",
       "hex": "#C5A045",
       "rgb": {
@@ -5486,12 +8069,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7410",
       "name": "Yellow Oxide",
       "code": "7410",
+      "ean": [
+        "0738797741027",
+        "0738797741034",
+        "0738797741058"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#DA9339",
       "rgb": {
@@ -5502,12 +8092,19 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-1415",
       "name": "Zinc White",
       "code": "1415",
+      "ean": [
+        "0738797141520",
+        "0738797141537",
+        "0738797141568"
+      ],
       "set": "Heavy Body",
       "hex": "#CAD3E2",
       "rgb": {
@@ -5518,12 +8115,22 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-2415",
       "name": "Zinc White",
       "code": "2415",
+      "ean": [
+        "0738797241510",
+        "0738797241541",
+        "0738797241558",
+        "0738797241565",
+        "0738797241572",
+        "0738797241589"
+      ],
       "set": "Fluid",
       "hex": "#FEFEFE",
       "rgb": {
@@ -5534,12 +8141,20 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "golden-7415",
       "name": "Zinc White",
       "code": "7415",
+      "ean": [
+        "0738797741522",
+        "0738797741539",
+        "0738797741553",
+        "0738797741577"
+      ],
       "set": "OPEN Acrylics",
       "hex": "#9FACBD",
       "rgb": {
@@ -5550,7 +8165,829 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-2362",
+      "name": "Light Magenta",
+      "code": "2362",
+      "ean": [
+        "0738797236219",
+        "0738797236240",
+        "0738797236257",
+        "0738797236264",
+        "0738797236271"
+      ],
+      "set": "Fluid",
+      "hex": "#F58D94",
+      "rgb": {
+        "r": 245,
+        "g": 141,
+        "b": 148
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-2377",
+      "name": "Light Phthalo Blue",
+      "code": "2377",
+      "ean": [
+        "0738797237711",
+        "0738797237742",
+        "0738797237759",
+        "0738797237766",
+        "0738797237773"
+      ],
+      "set": "Fluid",
+      "hex": "#87D1F1",
+      "rgb": {
+        "r": 135,
+        "g": 209,
+        "b": 241
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-2366",
+      "name": "Light Ultramarine Blue",
+      "code": "2366",
+      "ean": [
+        "0738797236615",
+        "0738797236646",
+        "0738797236653",
+        "0738797236660",
+        "0738797236677"
+      ],
+      "set": "Fluid",
+      "hex": "#788EE8",
+      "rgb": {
+        "r": 120,
+        "g": 142,
+        "b": 232
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-2376",
+      "name": "Titan Mars Pale",
+      "code": "2376",
+      "ean": [
+        "0738797237612",
+        "0738797237643",
+        "0738797237650",
+        "0738797237667",
+        "0738797237674"
+      ],
+      "set": "Fluid",
+      "hex": "#EAC1AE",
+      "rgb": {
+        "r": 234,
+        "g": 193,
+        "b": 174
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-2280",
+      "name": "Quinacridone Burnt Orange (Discontinued)",
+      "code": "2280",
+      "ean": [
+        "0738797228016",
+        "0738797228047",
+        "0738797228054",
+        "0738797228061",
+        "0738797228078",
+        "0738797228085"
+      ],
+      "set": "Fluid",
+      "hex": "#411617",
+      "rgb": {
+        "r": 65,
+        "g": 22,
+        "b": 23
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-2290",
+      "name": "Quinacridone Crimson (Discontinued)",
+      "code": "2290",
+      "ean": [
+        "0738797229013",
+        "0738797229044",
+        "0738797229051",
+        "0738797229068",
+        "0738797229075",
+        "0738797229082"
+      ],
+      "set": "Fluid",
+      "hex": "#6E1E31",
+      "rgb": {
+        "r": 110,
+        "g": 30,
+        "b": 49
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-7280",
+      "name": "Quinacridone Burnt Orange (Discontinued)",
+      "code": "7280",
+      "ean": [
+        "0738797728028",
+        "0738797728035",
+        "0738797728059"
+      ],
+      "set": "OPEN Acrylics",
+      "hex": "#411617",
+      "rgb": {
+        "r": 65,
+        "g": 22,
+        "b": 23
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-7290",
+      "name": "Quinacridone Crimson (Discontinued)",
+      "code": "7290",
+      "ean": [
+        "0738797729025",
+        "0738797729032",
+        "0738797729056"
+      ],
+      "set": "OPEN Acrylics",
+      "hex": "#6E1E31",
+      "rgb": {
+        "r": 110,
+        "g": 30,
+        "b": 49
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-7577",
+      "name": "Light Phthalo Blue",
+      "code": "7577",
+      "ean": [
+        "0738797757721",
+        "0738797757738",
+        "0738797757752"
+      ],
+      "set": "OPEN Acrylics",
+      "hex": "#87D1F1",
+      "rgb": {
+        "r": 135,
+        "g": 209,
+        "b": 241
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-7576",
+      "name": "Titan Mars Pale",
+      "code": "7576",
+      "ean": [
+        "0738797757622",
+        "0738797757639",
+        "0738797757653"
+      ],
+      "set": "OPEN Acrylics",
+      "hex": "#EAC1AE",
+      "rgb": {
+        "r": 234,
+        "g": 193,
+        "b": 174
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-8500",
+      "name": "Burnt Umber",
+      "code": "8500",
+      "ean": [
+        "0738797103054",
+        "0738797850019",
+        "0738797850040",
+        "0738797850064"
+      ],
+      "set": "High Flow",
+      "hex": "#473930",
+      "rgb": {
+        "r": 71,
+        "g": 57,
+        "b": 48
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-8516",
+      "name": "Light Phthalo Green",
+      "code": "8516",
+      "ean": [
+        "0738797851610",
+        "0738797851641",
+        "0738797851665"
+      ],
+      "set": "High Flow",
+      "hex": "#A8EAD7",
+      "rgb": {
+        "r": 168,
+        "g": 234,
+        "b": 215
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-8517",
+      "name": "Light Ultramarine Blue",
+      "code": "8517",
+      "ean": [
+        "0738797851719",
+        "0738797851740",
+        "0738797851764"
+      ],
+      "set": "High Flow",
+      "hex": "#788EE8",
+      "rgb": {
+        "r": 120,
+        "g": 142,
+        "b": 232
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-8518",
+      "name": "Mars Black",
+      "code": "8518",
+      "ean": [
+        "0738797851818",
+        "0738797851849",
+        "0738797851863"
+      ],
+      "set": "High Flow",
+      "hex": "#2D2D2D",
+      "rgb": {
+        "r": 45,
+        "g": 45,
+        "b": 45
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-8519",
+      "name": "Medium Magenta",
+      "code": "8519",
+      "ean": [
+        "0738797851917",
+        "0738797851948",
+        "0738797851962"
+      ],
+      "set": "High Flow",
+      "hex": "#D0589F",
+      "rgb": {
+        "r": 208,
+        "g": 88,
+        "b": 159
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-8520",
+      "name": "N8 Neutral Gray",
+      "code": "8520",
+      "ean": [
+        "0738797852013",
+        "0738797852044",
+        "0738797992849"
+      ],
+      "set": "High Flow",
+      "hex": "#D6D7D9",
+      "rgb": {
+        "r": 214,
+        "g": 215,
+        "b": 217
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-8584",
+      "name": "Titan Mars Pale",
+      "code": "8584",
+      "ean": [
+        "0738797858411",
+        "0738797858442",
+        "0738797858466"
+      ],
+      "set": "High Flow",
+      "hex": "#EAC1AE",
+      "rgb": {
+        "r": 234,
+        "g": 193,
+        "b": 174
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-8585",
+      "name": "Titan Violet Pale",
+      "code": "8585",
+      "ean": [
+        "0738797858510",
+        "0738797858541",
+        "0738797858565"
+      ],
+      "set": "High Flow",
+      "hex": "#E1D5DB",
+      "rgb": {
+        "r": 225,
+        "g": 213,
+        "b": 219
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-8587",
+      "name": "Light Green (Yellow Shade)",
+      "code": "8587",
+      "ean": [
+        "0738797858718",
+        "0738797858749",
+        "0738797858763"
+      ],
+      "set": "High Flow",
+      "hex": "#3C6B3B",
+      "rgb": {
+        "r": 60,
+        "g": 107,
+        "b": 59
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-8514",
+      "name": "Light Magenta",
+      "code": "8514",
+      "ean": [
+        "0738797851412",
+        "0738797851443",
+        "0738797851467"
+      ],
+      "set": "High Flow",
+      "hex": "#F58D94",
+      "rgb": {
+        "r": 245,
+        "g": 141,
+        "b": 148
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-8515",
+      "name": "Light Phthalo Blue",
+      "code": "8515",
+      "ean": [
+        "0738797851511",
+        "0738797851542",
+        "0738797851566"
+      ],
+      "set": "High Flow",
+      "hex": "#87D1F1",
+      "rgb": {
+        "r": 135,
+        "g": 209,
+        "b": 241
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-6540",
+      "name": "Light Orange",
+      "code": "6540",
+      "ean": [
+        "0738797654020",
+        "0738797654044",
+        "0738797654068"
+      ],
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#FFC6A4",
+      "rgb": {
+        "r": 255,
+        "g": 198,
+        "b": 164
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-6575",
+      "name": "Light Magenta",
+      "code": "6575",
+      "ean": [
+        "0738797657526",
+        "0738797657540",
+        "0738797657564"
+      ],
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#F58D94",
+      "rgb": {
+        "r": 245,
+        "g": 141,
+        "b": 148
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-6590",
+      "name": "Light Violet",
+      "code": "6590",
+      "ean": [
+        "0738797659025",
+        "0738797659049",
+        "0738797659063"
+      ],
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#937FC9",
+      "rgb": {
+        "r": 147,
+        "g": 127,
+        "b": 201
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-6615",
+      "name": "Light Ultramarine Blue",
+      "code": "6615",
+      "ean": [
+        "0738797661523",
+        "0738797661547",
+        "0738797661561"
+      ],
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#788EE8",
+      "rgb": {
+        "r": 120,
+        "g": 142,
+        "b": 232
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-6625",
+      "name": "Light Phthalo Blue",
+      "code": "6625",
+      "ean": [
+        "0738797662520",
+        "0738797662544",
+        "0738797662568"
+      ],
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#87D1F1",
+      "rgb": {
+        "r": 135,
+        "g": 209,
+        "b": 241
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-6655",
+      "name": "Light Phthalo Green",
+      "code": "6655",
+      "ean": [
+        "0738797665521",
+        "0738797665545",
+        "0738797665569"
+      ],
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#A8EAD7",
+      "rgb": {
+        "r": 168,
+        "g": 234,
+        "b": 215
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-6710",
+      "name": "Titan Mars Pale",
+      "code": "6710",
+      "ean": [
+        "0738797671027",
+        "0738797671041",
+        "0738797671065"
+      ],
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#EAC1AE",
+      "rgb": {
+        "r": 234,
+        "g": 193,
+        "b": 174
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-6715",
+      "name": "Titan Violet Pale",
+      "code": "6715",
+      "ean": [
+        "0738797671522",
+        "0738797671546",
+        "0738797671560"
+      ],
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#E1D5DB",
+      "rgb": {
+        "r": 225,
+        "g": 213,
+        "b": 219
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-6535",
+      "name": "Medium Orange",
+      "code": "6535",
+      "ean": [
+        "0738797653528",
+        "0738797653542",
+        "0738797653566"
+      ],
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#FD924E",
+      "rgb": {
+        "r": 253,
+        "g": 146,
+        "b": 78
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-6580",
+      "name": "Crimson",
+      "code": "6580",
+      "ean": [
+        "0738797658028",
+        "0738797658042",
+        "0738797658066"
+      ],
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#590012",
+      "rgb": {
+        "r": 89,
+        "g": 0,
+        "b": 18
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-6635",
+      "name": "Medium Phthalo Blue",
+      "code": "6635",
+      "ean": [
+        "0738797663527",
+        "0738797663541",
+        "0738797663565"
+      ],
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#26A6EF",
+      "rgb": {
+        "r": 38,
+        "g": 166,
+        "b": 239
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-6670",
+      "name": "Light Green Yellow",
+      "code": "6670",
+      "ean": [
+        "0738797667020",
+        "0738797667044",
+        "0738797667068"
+      ],
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#44D627",
+      "rgb": {
+        "r": 68,
+        "g": 214,
+        "b": 39
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-6680",
+      "name": "Olive",
+      "code": "6680",
+      "ean": [
+        "0738797668027",
+        "0738797668041",
+        "0738797668065"
+      ],
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#984F0B",
+      "rgb": {
+        "r": 152,
+        "g": 79,
+        "b": 11
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
+    },
+    {
+      "id": "golden-6765",
+      "name": "N8 Neutral Gray",
+      "code": "6765",
+      "ean": [
+        "0738797676527",
+        "0738797676541",
+        "0738797676565"
+      ],
+      "set": "SoFlat Matte Acrylic Colors",
+      "hex": "#D6D7D9",
+      "rgb": {
+        "r": 214,
+        "g": 215,
+        "b": 217
+      },
+      "shiftColors": null,
+      "colourless": false,
+      "potSizes": null,
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     }
   ]
 }

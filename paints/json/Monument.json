@@ -1,6 +1,6 @@
 {
   "$schema": "../../schema/brand.schema.json",
-  "schema": "miniature-paints/v4",
+  "schema": "miniature-paints/v5",
   "displayName": "Monument",
   "company": "Monument Hobbies",
   "address": {
@@ -20,6 +20,9 @@
       "id": "monument-s41",
       "name": "AdeptiCon Spray-Team Bright Shadow Flesh",
       "code": "S41",
+      "ean": [
+        "0655368242786"
+      ],
       "set": "Monument Pro Acrylic Primer",
       "hex": "#F79B7D",
       "rgb": {
@@ -30,12 +33,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s40",
       "name": "AdeptiCon Spray-Team Drab Brown",
       "code": "S40",
+      "ean": [
+        "0655368235863"
+      ],
       "set": "Monument Pro Acrylic Primer",
       "hex": "#4E3E28",
       "rgb": {
@@ -46,12 +54,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s42",
       "name": "AdeptiCon Spray-Team Magnesium",
       "code": "S42",
+      "ean": [
+        "0655368243646"
+      ],
       "set": "Monument Pro Acrylic Primer",
       "hex": "#463D2F",
       "rgb": {
@@ -62,12 +75,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s38",
       "name": "AdeptiCon Spray-Team Orange Oxide",
       "code": "S38",
+      "ean": [
+        "0655368232244"
+      ],
       "set": "Monument Pro Acrylic Primer",
       "hex": "#804C31",
       "rgb": {
@@ -78,12 +96,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s37",
       "name": "AdeptiCon Spray-Team Red Oxide",
       "code": "S37",
+      "ean": [
+        "0655368226434"
+      ],
       "set": "Monument Pro Acrylic Primer",
       "hex": "#863531",
       "rgb": {
@@ -94,12 +117,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s39",
       "name": "AdeptiCon Spray-Team Satin Black",
       "code": "S39",
+      "ean": [
+        "0655368235474"
+      ],
       "set": "Monument Pro Acrylic Primer",
       "hex": "#131212",
       "rgb": {
@@ -110,12 +138,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s17",
       "name": "Ben Komets Advanced Flesh Tone",
       "code": "S17",
+      "ean": [
+        "0655368166358"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#8F5D4C",
       "rgb": {
@@ -126,12 +159,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s15",
       "name": "Ben Komets Dark Burgundy",
       "code": "S15",
+      "ean": [
+        "0655368164422"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#2E1B1B",
       "rgb": {
@@ -142,12 +180,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s13",
       "name": "Ben Komets Dark Sea Ben",
       "code": "S13",
+      "ean": [
+        "0655368157936"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#09202E",
       "rgb": {
@@ -158,12 +201,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s16",
       "name": "Ben Komets Green Oxide",
       "code": "S16",
+      "ean": [
+        "0655368166112"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#296155",
       "rgb": {
@@ -174,12 +222,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s18",
       "name": "Ben Komets Heavy Warm White",
       "code": "S18",
+      "ean": [
+        "0655368171031"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#F1D0A1",
       "rgb": {
@@ -190,12 +243,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s14",
       "name": "Ben Komets Petroleum Brown",
       "code": "S14",
+      "ean": [
+        "0655368163548"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#3B2313",
       "rgb": {
@@ -206,12 +264,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-040",
       "name": "Black Brown",
       "code": "040",
+      "ean": [
+        "0628504411407"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#2C2D28",
       "rgb": {
@@ -222,12 +285,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-057",
       "name": "Black Green",
       "code": "057",
+      "ean": [
+        "0628504411575"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#3F5F50",
       "rgb": {
@@ -238,12 +306,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-200",
       "name": "Black Wash",
       "code": "200",
+      "ean": [
+        "0655368002106"
+      ],
       "set": "Monument Pro Acrylic Wash",
       "hex": "#080505",
       "rgb": {
@@ -254,12 +327,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-005",
       "name": "Blue",
       "code": "005",
+      "ean": [
+        "0628504411056"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#0855A3",
       "rgb": {
@@ -270,12 +348,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-056",
       "name": "Blue Black",
       "code": "056",
+      "ean": [
+        "0628504411568"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#517283",
       "rgb": {
@@ -286,12 +369,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-003",
       "name": "Bold Pyrrole Red",
       "code": "003",
+      "ean": [
+        "0628504411032"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#A90F0F",
       "rgb": {
@@ -302,12 +390,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-001",
       "name": "Bold Titanium White",
       "code": "001",
+      "ean": [
+        "0628504411018"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#E7E9E4",
       "rgb": {
@@ -318,12 +411,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-031",
       "name": "Bright Gold",
       "code": "031",
+      "ean": [
+        "0628504411315"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#BC9866",
       "rgb": {
@@ -334,12 +432,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-022",
       "name": "Bright Ivory",
       "code": "022",
+      "ean": [
+        "0628504411223"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#E7E8C8",
       "rgb": {
@@ -350,12 +453,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-067",
       "name": "Bright Jade",
       "code": "067",
+      "ean": [
+        "0628504411674"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#408C8E",
       "rgb": {
@@ -366,12 +474,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-045",
       "name": "Bright Neutral Grey",
       "code": "045",
+      "ean": [
+        "0628504411452"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#ABAEA7",
       "rgb": {
@@ -382,12 +495,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-058",
       "name": "Bright Pale Green",
       "code": "058",
+      "ean": [
+        "0628504411582"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#D8F4E8",
       "rgb": {
@@ -398,12 +516,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-015",
       "name": "Bright Warm Grey",
       "code": "015",
+      "ean": [
+        "0628504411155"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#BBC0AC",
       "rgb": {
@@ -414,12 +537,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-039",
       "name": "Bright Yellow Green",
       "code": "039",
+      "ean": [
+        "0628504411391"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#88B423",
       "rgb": {
@@ -430,12 +558,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-032",
       "name": "Bronze",
       "code": "032",
+      "ean": [
+        "0628504411322"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#78685B",
       "rgb": {
@@ -446,12 +579,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-201",
       "name": "Brown Wash",
       "code": "201",
+      "ean": [
+        "0655368003066"
+      ],
       "set": "Monument Pro Acrylic Wash",
       "hex": "#2C170E",
       "rgb": {
@@ -462,12 +600,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-069",
       "name": "Burgundy",
       "code": "069",
+      "ean": [
+        "0628504411698"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#733739",
       "rgb": {
@@ -478,12 +621,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-037",
       "name": "Burnt Orange",
       "code": "037",
+      "ean": [
+        "0628504411377"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#802715",
       "rgb": {
@@ -494,12 +642,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-008",
       "name": "Burnt Red",
       "code": "008",
+      "ean": [
+        "0628504411087"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#631410",
       "rgb": {
@@ -510,12 +663,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-059",
       "name": "Burnt Sienna",
       "code": "059",
+      "ean": [
+        "0628504411599"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#AD4E32",
       "rgb": {
@@ -526,12 +684,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-020",
       "name": "Camo Green",
       "code": "020",
+      "ean": [
+        "0628504411209"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#365337",
       "rgb": {
@@ -542,12 +705,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-002",
       "name": "Coal Black",
       "code": "002",
+      "ean": [
+        "0628504411025"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#18191B",
       "rgb": {
@@ -558,12 +726,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-027",
       "name": "Copper",
       "code": "027",
+      "ean": [
+        "0628504411278"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#AE7849",
       "rgb": {
@@ -574,12 +747,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-034",
       "name": "Dark Blue",
       "code": "034",
+      "ean": [
+        "0628504411346"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#142038",
       "rgb": {
@@ -590,12 +768,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-036",
       "name": "Dark Camo Green",
       "code": "036",
+      "ean": [
+        "0628504411360"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#313C2C",
       "rgb": {
@@ -606,12 +789,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-068",
       "name": "Dark Flesh",
       "code": "068",
+      "ean": [
+        "0628504411681"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#674137",
       "rgb": {
@@ -622,12 +810,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-062",
       "name": "Dark Golden Brown",
       "code": "062",
+      "ean": [
+        "0628504411629"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#A58F56",
       "rgb": {
@@ -638,12 +831,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-014",
       "name": "Dark Grey Blue",
       "code": "014",
+      "ean": [
+        "0628504411148"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#184366",
       "rgb": {
@@ -654,12 +852,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-044",
       "name": "Dark Neutral Grey",
       "code": "044",
+      "ean": [
+        "0628504411445"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#2A3235",
       "rgb": {
@@ -670,12 +873,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-035",
       "name": "Dark Purple",
       "code": "035",
+      "ean": [
+        "0628504411353"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#1D2347",
       "rgb": {
@@ -686,12 +894,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-030",
       "name": "Dark Silver",
       "code": "030",
+      "ean": [
+        "0628504411308"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#25292C",
       "rgb": {
@@ -702,12 +915,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-019",
       "name": "Dark Umber",
       "code": "019",
+      "ean": [
+        "0628504411193"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#423431",
       "rgb": {
@@ -718,12 +936,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-016",
       "name": "Dark Warm Grey",
       "code": "016",
+      "ean": [
+        "0628504411162"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#464C4C",
       "rgb": {
@@ -734,12 +957,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-066",
       "name": "Faded Green",
       "code": "066",
+      "ean": [
+        "0628504411667"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#9AA37F",
       "rgb": {
@@ -750,12 +978,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-063",
       "name": "Faded Plum",
       "code": "063",
+      "ean": [
+        "0628504411636"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#C8B5D5",
       "rgb": {
@@ -766,12 +999,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-013",
       "name": "Faded Ultramarine",
       "code": "013",
+      "ean": [
+        "0628504411131"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#638AC1",
       "rgb": {
@@ -782,12 +1020,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s30",
       "name": "Flameon Bright Pale Yellow",
       "code": "S30",
+      "ean": [
+        "0655368214806"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#FFF7CC",
       "rgb": {
@@ -798,12 +1041,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s29",
       "name": "Flameon Bright Yellow Ochre",
       "code": "S29",
+      "ean": [
+        "0655368212956"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#DDA55B",
       "rgb": {
@@ -814,12 +1062,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s28",
       "name": "Flameon Caramel Brown",
       "code": "S28",
+      "ean": [
+        "0655368212413"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#805F3E",
       "rgb": {
@@ -830,12 +1083,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s25",
       "name": "Flameon Dark Green Brown",
       "code": "S25",
+      "ean": [
+        "0655368207853"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#614529",
       "rgb": {
@@ -846,12 +1104,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s26",
       "name": "Flameon Dark Orange Brown",
       "code": "S26",
+      "ean": [
+        "0655368208416"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#8D5C25",
       "rgb": {
@@ -862,12 +1125,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s27",
       "name": "Flameon Orange Brown",
       "code": "S27",
+      "ean": [
+        "0655368212376"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#805F3E",
       "rgb": {
@@ -878,12 +1146,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-202",
       "name": "Flesh Wash",
       "code": "202",
+      "ean": [
+        "0655368003639"
+      ],
       "set": "Monument Pro Acrylic Wash",
       "hex": "#734238",
       "rgb": {
@@ -894,12 +1167,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-f04",
       "name": "Fluorescent Green",
       "code": "F04",
+      "ean": [
+        "0655368191121"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#3FB549",
       "rgb": {
@@ -910,12 +1188,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-f02",
       "name": "Fluorescent Orange",
       "code": "F02",
+      "ean": [
+        "0655368189739"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#F04D26",
       "rgb": {
@@ -926,12 +1209,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-f06",
       "name": "Fluorescent Pink",
       "code": "F06",
+      "ean": [
+        "0655368196300"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#EE387C",
       "rgb": {
@@ -942,12 +1230,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-f05",
       "name": "Fluorescent Purple",
       "code": "F05",
+      "ean": [
+        "0655368192623"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#A32388",
       "rgb": {
@@ -958,12 +1251,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-f01",
       "name": "Fluorescent Red",
       "code": "F01",
+      "ean": [
+        "0655368189487"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#EF3A37",
       "rgb": {
@@ -974,12 +1272,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-f03",
       "name": "Fluorescent Yellow",
       "code": "F03",
+      "ean": [
+        "0655368190766"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#F2DD26",
       "rgb": {
@@ -990,12 +1293,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-017",
       "name": "Golden Brown",
       "code": "017",
+      "ean": [
+        "0628504411179"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#BE9953",
       "rgb": {
@@ -1006,12 +1314,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-006",
       "name": "Golden Yellow",
       "code": "006",
+      "ean": [
+        "0628504411063"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#E9D035",
       "rgb": {
@@ -1022,12 +1335,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-004",
       "name": "Green",
       "code": "004",
+      "ean": [
+        "0628504411049"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#16864E",
       "rgb": {
@@ -1038,12 +1356,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-055",
       "name": "Grey Blue",
       "code": "055",
+      "ean": [
+        "0628504411551"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#BCE3F2",
       "rgb": {
@@ -1054,12 +1377,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-023",
       "name": "Ivory",
       "code": "023",
+      "ean": [
+        "0628504411230"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#D5D0B3",
       "rgb": {
@@ -1070,12 +1398,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-021",
       "name": "Jade",
       "code": "021",
+      "ean": [
+        "0628504411216"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#03535A",
       "rgb": {
@@ -1086,12 +1419,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-061",
       "name": "Khaki",
       "code": "061",
+      "ean": [
+        "0628504411612"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#AC9E6B",
       "rgb": {
@@ -1102,12 +1440,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-026",
       "name": "Light Bronze",
       "code": "026",
+      "ean": [
+        "0628504411261"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#9C8D64",
       "rgb": {
@@ -1118,12 +1461,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-018",
       "name": "Light Umber",
       "code": "018",
+      "ean": [
+        "0628504411186"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#5E4433",
       "rgb": {
@@ -1134,12 +1482,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-011",
       "name": "Magenta",
       "code": "011",
+      "ean": [
+        "0628504411117"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#A14D6F",
       "rgb": {
@@ -1150,12 +1503,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-009",
       "name": "Mahogany",
       "code": "009",
+      "ean": [
+        "0628504411094"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#261410",
       "rgb": {
@@ -1166,12 +1524,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s23",
       "name": "Matt Cexwish Bone",
       "code": "S23",
+      "ean": [
+        "0655368172250"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#8D857E",
       "rgb": {
@@ -1182,12 +1545,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s22",
       "name": "Matt Cexwish Brown Grey",
       "code": "S22",
+      "ean": [
+        "0655368172199"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#4B4945",
       "rgb": {
@@ -1198,12 +1566,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s24",
       "name": "Matt Cexwish Dark Bronze",
       "code": "S24",
+      "ean": [
+        "0655368173257"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#3F311F",
       "rgb": {
@@ -1214,12 +1587,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s19",
       "name": "Matt Cexwish Dark Crimson",
       "code": "S19",
+      "ean": [
+        "0655368169588"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#3E1714",
       "rgb": {
@@ -1230,12 +1608,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s20",
       "name": "Matt Cexwish Dark Emerald",
       "code": "S20",
+      "ean": [
+        "0655368170119"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#194245",
       "rgb": {
@@ -1246,12 +1629,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s21",
       "name": "Matt Cexwish Heavy Titanium White",
       "code": "S21",
+      "ean": [
+        "0655368168673"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#E6E6E6",
       "rgb": {
@@ -1262,12 +1650,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-033",
       "name": "Metallic Medium",
       "code": "033",
+      "ean": [
+        "0628504411339"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#D3D4CC",
       "rgb": {
@@ -1278,12 +1671,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-075",
       "name": "Neutral Grey",
       "code": "075",
+      "ean": [
+        "0628504411759"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#5E5E5E",
       "rgb": {
@@ -1294,12 +1692,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s07",
       "name": "Ninjon Dark Ivory",
       "code": "S07",
+      "ean": [
+        "0655368112133"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#B7B4A6",
       "rgb": {
@@ -1310,12 +1713,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s10",
       "name": "Ninjon Dark Magenta",
       "code": "S10",
+      "ean": [
+        "0655368115493"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#80303F",
       "rgb": {
@@ -1326,12 +1734,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s11",
       "name": "Ninjon Dark Plum",
       "code": "S11",
+      "ean": [
+        "0655368119286"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#4E3B3D",
       "rgb": {
@@ -1342,12 +1755,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s08",
       "name": "Ninjon Dark Warm Flesh",
       "code": "S08",
+      "ean": [
+        "0655368113321"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#C59157",
       "rgb": {
@@ -1358,12 +1776,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s12",
       "name": "Ninjon Red Grey",
       "code": "S12",
+      "ean": [
+        "0655368121227"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#837876",
       "rgb": {
@@ -1374,12 +1797,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s09",
       "name": "Ninjon Warm Brown",
       "code": "S09",
+      "ean": [
+        "0655368113895"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#6B4B38",
       "rgb": {
@@ -1390,12 +1818,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-041",
       "name": "Olive Flesh",
       "code": "041",
+      "ean": [
+        "0628504411414"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#CCC6AE",
       "rgb": {
@@ -1406,12 +1839,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-007",
       "name": "Orange",
       "code": "007",
+      "ean": [
+        "0628504411070"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#E56B20",
       "rgb": {
@@ -1422,12 +1860,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-002p",
       "name": "PRIME Black",
       "code": "002P",
+      "ean": [
+        "0655368004032"
+      ],
       "set": "Monument Pro Acrylic Primer",
       "hex": "#18191B",
       "rgb": {
@@ -1438,12 +1881,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-011p",
       "name": "PRIME Black Brown",
       "code": "011P",
+      "ean": [
+        "0655368007316"
+      ],
       "set": "Monument Pro Acrylic Primer",
       "hex": "#404240",
       "rgb": {
@@ -1454,12 +1902,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-007p",
       "name": "PRIME Dark Camo Green",
       "code": "007P",
+      "ean": [
+        "0655368007149"
+      ],
       "set": "Monument Pro Acrylic Primer",
       "hex": "#3A3F39",
       "rgb": {
@@ -1470,12 +1923,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-005p",
       "name": "PRIME Dark Neutral Grey",
       "code": "005P",
+      "ean": [
+        "0655368005817"
+      ],
       "set": "Monument Pro Acrylic Primer",
       "hex": "#303839",
       "rgb": {
@@ -1486,12 +1944,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-003p",
       "name": "PRIME White",
       "code": "003P",
+      "ean": [
+        "0655368004063"
+      ],
       "set": "Monument Pro Acrylic Primer",
       "hex": "#E7E9E4",
       "rgb": {
@@ -1502,12 +1965,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-043",
       "name": "Pale Pink",
       "code": "043",
+      "ean": [
+        "0628504411438"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#E0CABF",
       "rgb": {
@@ -1518,12 +1986,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-060",
       "name": "Pale Yellow",
       "code": "060",
+      "ean": [
+        "0628504411605"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#E8E7D2",
       "rgb": {
@@ -1534,12 +2007,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-071",
       "name": "Pink",
       "code": "071",
+      "ean": [
+        "0628504411711"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#EBA59F",
       "rgb": {
@@ -1550,12 +2028,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-070",
       "name": "Plum",
       "code": "070",
+      "ean": [
+        "0628504411704"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#8E5384",
       "rgb": {
@@ -1566,12 +2049,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-010",
       "name": "Purple",
       "code": "010",
+      "ean": [
+        "0628504411100"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#63306B",
       "rgb": {
@@ -1582,12 +2070,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-028",
       "name": "Rich Gold",
       "code": "028",
+      "ean": [
+        "0628504411285"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#B47A30",
       "rgb": {
@@ -1598,12 +2091,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s36",
       "name": "Rogue Hobbies Bismuth Yellow",
       "code": "S36",
+      "ean": [
+        "0655368223952"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#F9D967",
       "rgb": {
@@ -1614,12 +2112,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s33",
       "name": "Rogue Hobbies Bright Green",
       "code": "S33",
+      "ean": [
+        "0655368221736"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#12A361",
       "rgb": {
@@ -1630,12 +2133,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s32",
       "name": "Rogue Hobbies Dark Hot Pink",
       "code": "S32",
+      "ean": [
+        "0655368220494"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#C32C5B",
       "rgb": {
@@ -1646,12 +2154,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s34",
       "name": "Rogue Hobbies Dark Turquoise",
       "code": "S34",
+      "ean": [
+        "0655368221866"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#167D94",
       "rgb": {
@@ -1662,12 +2175,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s31",
       "name": "Rogue Hobbies Orange Red",
       "code": "S31",
+      "ean": [
+        "0655368216183"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#E53941",
       "rgb": {
@@ -1678,12 +2196,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s35",
       "name": "Rogue Hobbies Ultramarine",
       "code": "S35",
+      "ean": [
+        "0655368221958"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#3D5EAB",
       "rgb": {
@@ -1694,12 +2217,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-042",
       "name": "Shadow Flesh",
       "code": "042",
+      "ean": [
+        "0628504411421"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#8D5345",
       "rgb": {
@@ -1710,12 +2238,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-025",
       "name": "Silver",
       "code": "025",
+      "ean": [
+        "0628504411254"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#9A9E9D",
       "rgb": {
@@ -1726,12 +2259,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-012",
       "name": "Sky Blue",
       "code": "012",
+      "ean": [
+        "0628504411124"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#248CCB",
       "rgb": {
@@ -1742,12 +2280,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-024",
       "name": "Tan Flesh",
       "code": "024",
+      "ean": [
+        "0628504411247"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#C39F85",
       "rgb": {
@@ -1758,12 +2301,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-053",
       "name": "Transparent Black",
       "code": "053",
+      "ean": [
+        "0628504411537"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#1D1E22",
       "rgb": {
@@ -1774,12 +2322,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-046",
       "name": "Transparent Blue",
       "code": "046",
+      "ean": [
+        "0628504411469"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#09125D",
       "rgb": {
@@ -1790,12 +2343,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-052",
       "name": "Transparent Brown",
       "code": "052",
+      "ean": [
+        "0628504411520"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#372525",
       "rgb": {
@@ -1806,12 +2364,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-048",
       "name": "Transparent Green",
       "code": "048",
+      "ean": [
+        "0628504411483"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#082930",
       "rgb": {
@@ -1822,12 +2385,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-050",
       "name": "Transparent Orange",
       "code": "050",
+      "ean": [
+        "0628504411506"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#A22207",
       "rgb": {
@@ -1838,12 +2406,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-051",
       "name": "Transparent Purple",
       "code": "051",
+      "ean": [
+        "0628504411513"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#16172B",
       "rgb": {
@@ -1854,12 +2427,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-047",
       "name": "Transparent Red",
       "code": "047",
+      "ean": [
+        "0628504411476"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#90111C",
       "rgb": {
@@ -1870,12 +2448,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-064",
       "name": "Transparent White",
       "code": "064",
+      "ean": [
+        "0628504411643"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#F5F5F5",
       "rgb": {
@@ -1886,12 +2469,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-049",
       "name": "Transparent Yellow",
       "code": "049",
+      "ean": [
+        "0628504411490"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#E6B802",
       "rgb": {
@@ -1902,12 +2490,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-054",
       "name": "Turquoise",
       "code": "054",
+      "ean": [
+        "0628504411544"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#75F1F1",
       "rgb": {
@@ -1918,12 +2511,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s05",
       "name": "Vince Venturella Beige Red",
       "code": "S05",
+      "ean": [
+        "0655368111228"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#A68E86",
       "rgb": {
@@ -1934,12 +2532,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s01",
       "name": "Vince Venturella Dark Jade",
       "code": "S01",
+      "ean": [
+        "0655368101212"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#2C4855",
       "rgb": {
@@ -1950,12 +2553,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s06",
       "name": "Vince Venturella Dark Yellow Green",
       "code": "S06",
+      "ean": [
+        "0655368111730"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#6A7546",
       "rgb": {
@@ -1966,12 +2574,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s02",
       "name": "Vince Venturella Payne's Grey",
       "code": "S02",
+      "ean": [
+        "0655368105555"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#2D3844",
       "rgb": {
@@ -1982,12 +2595,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s03",
       "name": "Vince Venturella Royal Purple",
       "code": "S03",
+      "ean": [
+        "0655368107375"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#3B3053",
       "rgb": {
@@ -1998,12 +2616,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-s04",
       "name": "Vince Venturella White Blue",
       "code": "S04",
+      "ean": [
+        "0655368110849"
+      ],
       "set": "Monument Pro Signature Series",
       "hex": "#AFBDBA",
       "rgb": {
@@ -2014,12 +2637,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-073",
       "name": "Warm Flesh",
       "code": "073",
+      "ean": [
+        "0628504411735"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#F6C67C",
       "rgb": {
@@ -2030,12 +2658,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-074",
       "name": "Warm Grey",
       "code": "074",
+      "ean": [
+        "0628504411742"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#54544A",
       "rgb": {
@@ -2046,12 +2679,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-072",
       "name": "Warm Yellow",
       "code": "072",
+      "ean": [
+        "0628504411728"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#F6C847",
       "rgb": {
@@ -2062,12 +2700,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-029",
       "name": "White Gold",
       "code": "029",
+      "ean": [
+        "0628504411292"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#9E9B8A",
       "rgb": {
@@ -2078,12 +2721,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-065",
       "name": "Yellow Green",
       "code": "065",
+      "ean": [
+        "0628504411650"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#879245",
       "rgb": {
@@ -2094,12 +2742,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "monument-038",
       "name": "Yellow Ochre",
       "code": "038",
+      "ean": [
+        "0628504411384"
+      ],
       "set": "Monument Pro Acrylic Paints",
       "hex": "#AE7F31",
       "rgb": {
@@ -2110,7 +2763,9 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     }
   ]
 }

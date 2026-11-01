@@ -1,6 +1,6 @@
 {
   "$schema": "../../schema/brand.schema.json",
-  "schema": "miniature-paints/v4",
+  "schema": "miniature-paints/v5",
   "displayName": "Reaper",
   "company": "Hobby-Q, Inc. (DBA Reaper Miniatures)",
   "address": {
@@ -20,6 +20,9 @@
       "id": "reaper-89556",
       "name": "Adamantine",
       "code": "89556",
+      "ean": [
+        "0762486895562"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#90867D",
       "rgb": {
@@ -30,12 +33,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9124",
       "name": "Adamantium Black",
       "code": "9124",
+      "ean": [
+        "0762486091247"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#0F0F0F",
       "rgb": {
@@ -46,12 +54,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9297",
       "name": "Adonese Green",
       "code": "9297",
+      "ean": [
+        "0762486092978"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#1F4C11",
       "rgb": {
@@ -62,12 +75,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9059",
       "name": "Aged Bone",
       "code": "9059",
+      "ean": [
+        "0762486090592"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#E1D7BC",
       "rgb": {
@@ -78,12 +96,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9196",
       "name": "Aged Pewter",
       "code": "9196",
+      "ean": [
+        "0762486091964"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#575036",
       "rgb": {
@@ -94,12 +117,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9290",
       "name": "Aircraft Grey",
       "code": "9290",
+      "ean": [
+        "0762486092909"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#B3B3B3",
       "rgb": {
@@ -110,12 +138,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89523",
       "name": "Akata Blue",
       "code": "89523",
+      "ean": [
+        "0762486895234"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#A5C5D2",
       "rgb": {
@@ -126,12 +159,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89516",
       "name": "Alchemical Green",
       "code": "89516",
+      "ean": [
+        "0762486895166"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#91C964",
       "rgb": {
@@ -142,12 +180,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9293",
       "name": "Alien Flesh",
       "code": "9293",
+      "ean": [
+        "0762486092930"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#A0866D",
       "rgb": {
@@ -158,12 +201,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9294",
       "name": "Alien Goo",
       "code": "9294",
+      "ean": [
+        "0762486092947"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#B6FF00",
       "rgb": {
@@ -174,12 +222,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9032",
       "name": "Amber Gold",
       "code": "9032",
+      "ean": [
+        "0762486090325"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#CEA35E",
       "rgb": {
@@ -190,12 +243,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9024",
       "name": "Amethyst Purple",
       "code": "9024",
+      "ean": [
+        "0762486090240"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#9E7DAA",
       "rgb": {
@@ -206,12 +264,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9049",
       "name": "Ancient Bronze",
       "code": "9049",
+      "ean": [
+        "0762486090493"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#AE805C",
       "rgb": {
@@ -222,12 +285,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9412",
       "name": "Ancient Oak",
       "code": "9412",
+      "ean": [
+        "0762486094125"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#002106",
       "rgb": {
@@ -238,12 +306,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9315",
       "name": "Ancient Wood",
       "code": "9315",
+      "ean": [
+        "0762486093159"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#BFB4BC",
       "rgb": {
@@ -254,12 +327,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89527",
       "name": "Andoran Blue",
       "code": "89527",
+      "ean": [
+        "0762486895272"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#0171BB",
       "rgb": {
@@ -270,12 +348,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9215",
       "name": "Anti-Shine Additive",
       "code": "9215",
+      "ean": [
+        "0762486092152"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#FFFFFF",
       "rgb": {
@@ -286,12 +369,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9050",
       "name": "Antique Gold",
       "code": "9050",
+      "ean": [
+        "0762486090509"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#D0B161",
       "rgb": {
@@ -302,12 +390,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89534",
       "name": "Arclord Purple",
       "code": "89534",
+      "ean": [
+        "0762486895340"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#AC4398",
       "rgb": {
@@ -318,12 +411,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9057",
       "name": "Ashen Blue",
       "code": "9057",
+      "ean": [
+        "0762486090578"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#557E90",
       "rgb": {
@@ -334,12 +432,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89507",
       "name": "Asmodeus Red",
       "code": "89507",
+      "ean": [
+        "0762486895074"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#9D1C30",
       "rgb": {
@@ -350,12 +453,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9241",
       "name": "Auburn Shadow",
       "code": "9241",
+      "ean": [
+        "0762486092411"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#81301F",
       "rgb": {
@@ -366,12 +474,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89533",
       "name": "Azlanti Violet",
       "code": "89533",
+      "ean": [
+        "0762486895333"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#472E8C",
       "rgb": {
@@ -382,12 +495,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9442",
       "name": "Barbarian Flesh",
       "code": "9442",
+      "ean": [
+        "0762486094422"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#A96A41",
       "rgb": {
@@ -398,12 +516,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9245",
       "name": "Basic Dirt",
       "code": "9245",
+      "ean": [
+        "0762486092459"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#58442B",
       "rgb": {
@@ -414,12 +537,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9292",
       "name": "Bathalian Chitin",
       "code": "9292",
+      "ean": [
+        "0762486092923"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#E7BD59",
       "rgb": {
@@ -430,12 +558,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89546",
       "name": "Besmara Black",
       "code": "89546",
+      "ean": [
+        "0762486895463"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#262729",
       "rgb": {
@@ -446,12 +579,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9236",
       "name": "Black Green",
       "code": "9236",
+      "ean": [
+        "0762486092367"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#011F07",
       "rgb": {
@@ -462,12 +600,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9208",
       "name": "Black Ink",
       "code": "9208",
+      "ean": [
+        "0762486092084"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#001121",
       "rgb": {
@@ -478,12 +621,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9255",
       "name": "Black Wash",
       "code": "9255",
+      "ean": [
+        "0762486092558"
+      ],
       "set": "Master Series Paints Core Colors Wash",
       "hex": "#383C3F",
       "rgb": {
@@ -494,12 +642,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9137",
       "name": "Blackened Brown",
       "code": "9137",
+      "ean": [
+        "0762486091377"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#5D0501",
       "rgb": {
@@ -510,12 +663,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9205",
       "name": "Blackened Steel",
       "code": "9205",
+      "ean": [
+        "0762486092053"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#2B2525",
       "rgb": {
@@ -526,12 +684,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9452",
       "name": "Blade Steel",
       "code": "9452",
+      "ean": [
+        "0762486094521"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#908886",
       "rgb": {
@@ -542,12 +705,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9436",
       "name": "Bleached Linen",
       "code": "9436",
+      "ean": [
+        "0762486094361"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#F1E8D9",
       "rgb": {
@@ -558,12 +726,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9257",
       "name": "Blonde Hair",
       "code": "9257",
+      "ean": [
+        "0762486092572"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#D78D2E",
       "rgb": {
@@ -574,12 +747,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9258",
       "name": "Blonde Highlight",
       "code": "9258",
+      "ean": [
+        "0762486092589"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#F2C260",
       "rgb": {
@@ -590,12 +768,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9256",
       "name": "Blonde Shadow",
       "code": "9256",
+      "ean": [
+        "0762486092565"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#A74100",
       "rgb": {
@@ -606,12 +789,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9003",
       "name": "Blood Red",
       "code": "9003",
+      "ean": [
+        "0762486090035"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#AD1732",
       "rgb": {
@@ -622,12 +810,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9150",
       "name": "Bloodless Skin",
       "code": "9150",
+      "ean": [
+        "0762486091506"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#D2CF9A",
       "rgb": {
@@ -638,12 +831,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9133",
       "name": "Bloodstain Red",
       "code": "9133",
+      "ean": [
+        "0762486091339"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#680001",
       "rgb": {
@@ -654,12 +852,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9480",
       "name": "Blue Flame",
       "code": "9480",
+      "ean": [
+        "0762486094804"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#D4EEFB",
       "rgb": {
@@ -670,12 +873,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9066",
       "name": "Blue Liner",
       "code": "9066",
+      "ean": [
+        "0762486090660"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#011422",
       "rgb": {
@@ -686,12 +894,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9262",
       "name": "Blush Pink",
       "code": "9262",
+      "ean": [
+        "0762486092626"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#FD42AD",
       "rgb": {
@@ -702,12 +915,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89515",
       "name": "Boggard Green",
       "code": "89515",
+      "ean": [
+        "0762486895159"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#A7BBB0",
       "rgb": {
@@ -718,12 +936,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9058",
       "name": "Bone Shadow",
       "code": "9058",
+      "ean": [
+        "0762486090585"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#D6C6AF",
       "rgb": {
@@ -734,12 +957,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9281",
       "name": "Braaaains Pink",
       "code": "9281",
+      "ean": [
+        "0762486092817"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#C881A3",
       "rgb": {
@@ -750,12 +978,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9055",
       "name": "Breonne Blue",
       "code": "9055",
+      "ean": [
+        "0762486090554"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#01273C",
       "rgb": {
@@ -766,12 +999,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89553",
       "name": "Brevoy Copper",
       "code": "89553",
+      "ean": [
+        "0762486895531"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#A7815D",
       "rgb": {
@@ -782,12 +1020,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89555",
       "name": "Bright Bronze",
       "code": "89555",
+      "ean": [
+        "0762486895555"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#D09170",
       "rgb": {
@@ -798,12 +1041,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9233",
       "name": "Bright Skin",
       "code": "9233",
+      "ean": [
+        "0762486092336"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#ECAB59",
       "rgb": {
@@ -814,12 +1062,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9234",
       "name": "Bright Skin Highlight",
       "code": "9234",
+      "ean": [
+        "0762486092343"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#F1D45F",
       "rgb": {
@@ -830,12 +1083,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9232",
       "name": "Bright Skin Shadow",
       "code": "9232",
+      "ean": [
+        "0762486092329"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#DE8871",
       "rgb": {
@@ -846,12 +1104,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9471",
       "name": "Bright Turquoise",
       "code": "9471",
+      "ean": [
+        "0762486094712"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#005B5C",
       "rgb": {
@@ -862,12 +1125,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9116",
       "name": "Brilliant Blue",
       "code": "9116",
+      "ean": [
+        "0762486091162"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#02578E",
       "rgb": {
@@ -878,12 +1146,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9227",
       "name": "Brilliant Green",
       "code": "9227",
+      "ean": [
+        "0762486092275"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#01642D",
       "rgb": {
@@ -894,12 +1167,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9468",
       "name": "Brilliant Red",
       "code": "9468",
+      "ean": [
+        "0762486094682"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#EC202B",
       "rgb": {
@@ -910,12 +1188,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9260",
       "name": "Bronzed Skin",
       "code": "9260",
+      "ean": [
+        "0762486092602"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#D05E17",
       "rgb": {
@@ -926,12 +1209,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9261",
       "name": "Bronzed Skin Highlight",
       "code": "9261",
+      "ean": [
+        "0762486092619"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#E5A23A",
       "rgb": {
@@ -942,12 +1230,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9259",
       "name": "Bronzed Skin Shadow",
       "code": "9259",
+      "ean": [
+        "0762486092596"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#A63201",
       "rgb": {
@@ -958,12 +1251,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9209",
       "name": "Brown Ink",
       "code": "9209",
+      "ean": [
+        "0762486092091"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#612C00",
       "rgb": {
@@ -974,12 +1272,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9064",
       "name": "Brown Liner",
       "code": "9064",
+      "ean": [
+        "0762486090646"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#241711",
       "rgb": {
@@ -990,12 +1293,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9246",
       "name": "Brown Sand",
       "code": "9246",
+      "ean": [
+        "0762486092466"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#8A693C",
       "rgb": {
@@ -1006,12 +1314,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9254",
       "name": "Brown Wash",
       "code": "9254",
+      "ean": [
+        "0762486092541"
+      ],
       "set": "Master Series Paints Core Colors Wash",
       "hex": "#74483B",
       "rgb": {
@@ -1022,12 +1335,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9214",
       "name": "Brush-On Black Primer",
       "code": "9214",
+      "ean": [
+        "0762486092145"
+      ],
       "set": "Master Series Paints Core Colors Primer",
       "hex": "#000000",
       "rgb": {
@@ -1038,12 +1356,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9299",
       "name": "Brush-On Grey Primer",
       "code": "9299",
+      "ean": [
+        "0762486092992"
+      ],
       "set": "Master Series Paints Core Colors Primer",
       "hex": "#BCCCCC",
       "rgb": {
@@ -1054,12 +1377,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9107",
       "name": "Brush-on Sealer",
       "code": "9107",
+      "ean": [
+        "0762486091070"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#FFFFFF",
       "rgb": {
@@ -1070,12 +1398,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9108",
       "name": "Brush-on White Primer",
       "code": "9108",
+      "ean": [
+        "0762486091087"
+      ],
       "set": "Master Series Paints Core Colors Primer",
       "hex": "#FFFFFF",
       "rgb": {
@@ -1086,12 +1419,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9075",
       "name": "Buckskin Pale",
       "code": "9075",
+      "ean": [
+        "0762486090752"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#DCB85A",
       "rgb": {
@@ -1102,12 +1440,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9490",
       "name": "Bugbear Fur",
       "code": "9490",
+      "ean": [
+        "0762486094903"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#D8A053",
       "rgb": {
@@ -1118,12 +1461,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9025",
       "name": "Burgundy Wine",
       "code": "9025",
+      "ean": [
+        "0762486090257"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#462035",
       "rgb": {
@@ -1134,12 +1482,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9111",
       "name": "Burnt Orange",
       "code": "9111",
+      "ean": [
+        "0762486091117"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#E18749",
       "rgb": {
@@ -1150,12 +1503,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89506",
       "name": "Cailean Wine",
       "code": "89506",
+      "ean": [
+        "0762486895067"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#A13159",
       "rgb": {
@@ -1166,12 +1524,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89512",
       "name": "Cairn Stone",
       "code": "89512",
+      "ean": [
+        "0762486895128"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#D1C392",
       "rgb": {
@@ -1182,12 +1545,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89513",
       "name": "Calistria Yellow",
       "code": "89513",
+      "ean": [
+        "0762486895135"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#F8D44A",
       "rgb": {
@@ -1198,12 +1566,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9177",
       "name": "Camouflage Green",
       "code": "9177",
+      "ean": [
+        "0762486091773"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#8C8D27",
       "rgb": {
@@ -1214,12 +1587,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9409",
       "name": "Canary Yellow",
       "code": "9409",
+      "ean": [
+        "0762486094095"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#F8E002",
       "rgb": {
@@ -1230,12 +1608,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9408",
       "name": "Candlelight Yellow",
       "code": "9408",
+      "ean": [
+        "0762486094088"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#FFCB05",
       "rgb": {
@@ -1246,12 +1629,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9318",
       "name": "Carbon Grey",
       "code": "9318",
+      "ean": [
+        "0762486093180"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#414141",
       "rgb": {
@@ -1262,12 +1650,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9135",
       "name": "Carnage Red",
       "code": "9135",
+      "ean": [
+        "0762486091353"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#B10F1E",
       "rgb": {
@@ -1278,12 +1671,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9242",
       "name": "Carrottop Red",
       "code": "9242",
+      "ean": [
+        "0762486092428"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#C14917",
       "rgb": {
@@ -1294,12 +1692,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9414",
       "name": "Cats-Eye Green",
       "code": "9414",
+      "ean": [
+        "0762486094149"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#5A9541",
       "rgb": {
@@ -1310,12 +1713,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9474",
       "name": "Caucasian Flesh",
       "code": "9474",
+      "ean": [
+        "0762486094743"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#E6B17B",
       "rgb": {
@@ -1326,12 +1734,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89509",
       "name": "Cavalier Orange",
       "code": "89509",
+      "ean": [
+        "0762486895098"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#F2682A",
       "rgb": {
@@ -1342,12 +1755,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9426",
       "name": "Charred Brown",
       "code": "9426",
+      "ean": [
+        "0762486094262"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#261609",
       "rgb": {
@@ -1358,12 +1776,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9071",
       "name": "Chestnut Brown",
       "code": "9071",
+      "ean": [
+        "0762486090714"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#7F433B",
       "rgb": {
@@ -1374,12 +1797,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9073",
       "name": "Chestnut Gold",
       "code": "9073",
+      "ean": [
+        "0762486090738"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#986A39",
       "rgb": {
@@ -1390,12 +1818,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9658",
       "name": "Christmas Wreath",
       "code": "9658",
+      "ean": null,
       "set": "Master Series Paints Core Colors",
       "hex": "#29743B",
       "rgb": {
@@ -1406,12 +1837,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9404",
       "name": "Cinnamon Red",
       "code": "9404",
+      "ean": [
+        "0762486094040"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#9F270E",
       "rgb": {
@@ -1422,12 +1858,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9097",
       "name": "Clear Blue",
       "code": "9097",
+      "ean": [
+        "0762486090974"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#334496",
       "rgb": {
@@ -1438,12 +1879,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9096",
       "name": "Clear Green",
       "code": "9096",
+      "ean": [
+        "0762486090967"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#049F3A",
       "rgb": {
@@ -1454,12 +1900,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9098",
       "name": "Clear Magenta",
       "code": "9098",
+      "ean": [
+        "0762486090981"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#E2017B",
       "rgb": {
@@ -1470,12 +1921,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9099",
       "name": "Clear Purple",
       "code": "9099",
+      "ean": [
+        "0762486090998"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#5F0D7B",
       "rgb": {
@@ -1486,12 +1942,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9094",
       "name": "Clear Red",
       "code": "9094",
+      "ean": [
+        "0762486090943"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#E00024",
       "rgb": {
@@ -1502,12 +1963,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9095",
       "name": "Clear Yellow",
       "code": "9095",
+      "ean": [
+        "0762486090950"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#F9F404",
       "rgb": {
@@ -1518,12 +1984,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89554",
       "name": "Clockwork Brass",
       "code": "89554",
+      "ean": [
+        "0762486895548"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#B8A471",
       "rgb": {
@@ -1534,12 +2005,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9134",
       "name": "Clotted Red",
       "code": "9134",
+      "ean": [
+        "0762486091346"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#890101",
       "rgb": {
@@ -1550,12 +2026,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9089",
       "name": "Cloudy Grey",
       "code": "9089",
+      "ean": [
+        "0762486090899"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#707070",
       "rgb": {
@@ -1566,12 +2047,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9693",
       "name": "Coal Black",
       "code": "9693",
+      "ean": null,
       "set": "Master Series Paints Core Colors",
       "hex": "#202835",
       "rgb": {
@@ -1582,12 +2066,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89549",
       "name": "Cold Iron",
       "code": "89549",
+      "ean": [
+        "0762486895494"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#827877",
       "rgb": {
@@ -1598,12 +2087,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9304",
       "name": "Copper Verdigris",
       "code": "9304",
+      "ean": [
+        "0762486093043"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#6BC4AE",
       "rgb": {
@@ -1614,12 +2108,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9102",
       "name": "Coppery Orange",
       "code": "9102",
+      "ean": [
+        "0762486091025"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#D3A083",
       "rgb": {
@@ -1630,12 +2129,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9144",
       "name": "Creamy Ivory",
       "code": "9144",
+      "ean": [
+        "0762486091445"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#E9D8A4",
       "rgb": {
@@ -1646,12 +2150,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9467",
       "name": "Crimson Red",
       "code": "9467",
+      "ean": [
+        "0762486094675"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#711313",
       "rgb": {
@@ -1662,12 +2171,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89550",
       "name": "Crusader Silver",
       "code": "89550",
+      "ean": [
+        "0762486895500"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#9F9F9F",
       "rgb": {
@@ -1678,12 +2192,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9464",
       "name": "Cursed Gold",
       "code": "9464",
+      "ean": [
+        "0762486094644"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#B16B23",
       "rgb": {
@@ -1694,12 +2213,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9117",
       "name": "Cyan Blue",
       "code": "9117",
+      "ean": [
+        "0762486091179"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#0288D1",
       "rgb": {
@@ -1710,12 +2234,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9165",
       "name": "Dark Elf Highlight",
       "code": "9165",
+      "ean": [
+        "0762486091650"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#867F87",
       "rgb": {
@@ -1726,12 +2255,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9163",
       "name": "Dark Elf Shadow",
       "code": "9163",
+      "ean": [
+        "0762486091636"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#463440",
       "rgb": {
@@ -1742,12 +2276,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9164",
       "name": "Dark Elf Skin",
       "code": "9164",
+      "ean": [
+        "0762486091643"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#63565F",
       "rgb": {
@@ -1758,12 +2297,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9042",
       "name": "Dark Highlights",
       "code": "9042",
+      "ean": [
+        "0762486090424"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#422B19",
       "rgb": {
@@ -1774,12 +2318,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9040",
       "name": "Dark Shadow",
       "code": "9040",
+      "ean": [
+        "0762486090400"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#220D0C",
       "rgb": {
@@ -1790,12 +2339,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9041",
       "name": "Dark Skin",
       "code": "9041",
+      "ean": [
+        "0762486090417"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#41241E",
       "rgb": {
@@ -1806,12 +2360,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9076",
       "name": "Deep Ocean",
       "code": "9076",
+      "ean": [
+        "0762486090769"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#1C3947",
       "rgb": {
@@ -1822,12 +2381,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9002",
       "name": "Deep Red",
       "code": "9002",
+      "ean": [
+        "0762486090028"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#9F373E",
       "rgb": {
@@ -1838,12 +2402,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9265",
       "name": "Deep Twilight",
       "code": "9265",
+      "ean": [
+        "0762486092657"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#080C27",
       "rgb": {
@@ -1854,12 +2423,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9285",
       "name": "Denim Blue",
       "code": "9285",
+      "ean": [
+        "0762486092855"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#001C5B",
       "rgb": {
@@ -1870,12 +2444,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9432",
       "name": "Desert Sand",
       "code": "9432",
+      "ean": [
+        "0762486094323"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#C5B49A",
       "rgb": {
@@ -1886,12 +2465,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9431",
       "name": "Desert Stone",
       "code": "9431",
+      "ean": [
+        "0762486094316"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#9B7E52",
       "rgb": {
@@ -1902,12 +2486,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89530",
       "name": "Desna Blue",
       "code": "89530",
+      "ean": [
+        "0762486895302"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#4D60AC",
       "rgb": {
@@ -1918,12 +2507,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9271",
       "name": "Dirty Bone",
       "code": "9271",
+      "ean": [
+        "0762486092718"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#9DA14D",
       "rgb": {
@@ -1934,12 +2528,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9437",
       "name": "Dragon Black",
       "code": "9437",
+      "ean": [
+        "0762486094378"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#060000",
       "rgb": {
@@ -1950,12 +2549,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9472",
       "name": "Dragon Blue",
       "code": "9472",
+      "ean": [
+        "0762486094729"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#086CB7",
       "rgb": {
@@ -1966,12 +2570,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9449",
       "name": "Dragon Bronze",
       "code": "9449",
+      "ean": [
+        "0762486094491"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#9F8D5B",
       "rgb": {
@@ -1982,12 +2591,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9448",
       "name": "Dragon Copper",
       "code": "9448",
+      "ean": [
+        "0762486094484"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#B97F67",
       "rgb": {
@@ -1998,12 +2612,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9450",
       "name": "Dragon Gold",
       "code": "9450",
+      "ean": [
+        "0762486094507"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#C59448",
       "rgb": {
@@ -2014,12 +2633,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9410",
       "name": "Dragon Green",
       "code": "9410",
+      "ean": [
+        "0762486094101"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#023B1B",
       "rgb": {
@@ -2030,12 +2654,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9401",
       "name": "Dragon Red",
       "code": "9401",
+      "ean": [
+        "0762486094019"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#510915",
       "rgb": {
@@ -2046,12 +2675,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9439",
       "name": "Dragon White",
       "code": "9439",
+      "ean": [
+        "0762486094392"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#FFFFFF",
       "rgb": {
@@ -2062,12 +2696,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9162",
       "name": "Driftwood Brown",
       "code": "9162",
+      "ean": [
+        "0762486091629"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#A47E4D",
       "rgb": {
@@ -2078,12 +2717,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9495",
       "name": "Drow Silver",
       "code": "9495",
+      "ean": [
+        "0762486094958"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#9884A0",
       "rgb": {
@@ -2094,12 +2738,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9216",
       "name": "Drying Retarder",
       "code": "9216",
+      "ean": [
+        "0762486092169"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#FFFFFF",
       "rgb": {
@@ -2110,12 +2759,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9466",
       "name": "Dungeon Grey",
       "code": "9466",
+      "ean": [
+        "0762486094668"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#534640",
       "rgb": {
@@ -2126,12 +2780,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9415",
       "name": "Dungeon Slime",
       "code": "9415",
+      "ean": [
+        "0762486094156"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#BAD874",
       "rgb": {
@@ -2142,12 +2801,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9251",
       "name": "Dusky Skin",
       "code": "9251",
+      "ean": [
+        "0762486092510"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#76615E",
       "rgb": {
@@ -2158,12 +2822,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9252",
       "name": "Dusky Skin Highlight",
       "code": "9252",
+      "ean": [
+        "0762486092527"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#A89496",
       "rgb": {
@@ -2174,12 +2843,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9250",
       "name": "Dusky Skin Shadow",
       "code": "9250",
+      "ean": [
+        "0762486092503"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#463639",
       "rgb": {
@@ -2190,12 +2864,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9451",
       "name": "Dwarven Gold",
       "code": "9451",
+      "ean": [
+        "0762486094514"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#A96617",
       "rgb": {
@@ -2206,12 +2885,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9029",
       "name": "Earth Brown",
       "code": "9029",
+      "ean": [
+        "0762486090295"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#785336",
       "rgb": {
@@ -2222,12 +2906,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9440",
       "name": "Ebony Flesh",
       "code": "9440",
+      "ean": [
+        "0762486094408"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#130C04",
       "rgb": {
@@ -2238,12 +2927,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9463",
       "name": "Eldritch Purple",
       "code": "9463",
+      "ean": [
+        "0762486094637"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#92278F",
       "rgb": {
@@ -2254,12 +2948,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9488",
       "name": "Elven Green",
       "code": "9488",
+      "ean": [
+        "0762486094880"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#264033",
       "rgb": {
@@ -2270,12 +2969,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9103",
       "name": "Emerald Green",
       "code": "9103",
+      "ean": [
+        "0762486091032"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#85B9C4",
       "rgb": {
@@ -2286,12 +2990,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9219",
       "name": "Explosion Orange",
       "code": "9219",
+      "ean": [
+        "0762486092190"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#DE7C1B",
       "rgb": {
@@ -2302,12 +3011,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89528",
       "name": "Ezren Blue",
       "code": "89528",
+      "ean": [
+        "0762486895289"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#0171BB",
       "rgb": {
@@ -2318,12 +3032,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9129",
       "name": "Faded Khaki",
       "code": "9129",
+      "ean": [
+        "0762486091292"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#BB9123",
       "rgb": {
@@ -2334,12 +3053,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9048",
       "name": "Fair Highlights",
       "code": "9048",
+      "ean": [
+        "0762486090486"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#F4E6CC",
       "rgb": {
@@ -2350,12 +3074,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9046",
       "name": "Fair Shadow",
       "code": "9046",
+      "ean": [
+        "0762486090462"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#E7BE92",
       "rgb": {
@@ -2366,12 +3095,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9047",
       "name": "Fair Skin",
       "code": "9047",
+      "ean": [
+        "0762486090479"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#F1D2B3",
       "rgb": {
@@ -2382,12 +3116,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9453",
       "name": "Filigree Silver",
       "code": "9453",
+      "ean": [
+        "0762486094538"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#B2ADAA",
       "rgb": {
@@ -2398,12 +3137,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9006",
       "name": "Fire Orange",
       "code": "9006",
+      "ean": [
+        "0762486090066"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#EA712C",
       "rgb": {
@@ -2414,12 +3158,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9004",
       "name": "Fire Red",
       "code": "9004",
+      "ean": [
+        "0762486090042"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#C0083C",
       "rgb": {
@@ -2430,12 +3179,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9469",
       "name": "Fireball Orange",
       "code": "9469",
+      "ean": [
+        "0762486094699"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#EF6F24",
       "rgb": {
@@ -2446,12 +3200,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9253",
       "name": "Flesh Wash",
       "code": "9253",
+      "ean": [
+        "0762486092534"
+      ],
       "set": "Master Series Paints Core Colors Wash",
       "hex": "#A44B45",
       "rgb": {
@@ -2462,12 +3221,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9106",
       "name": "Flow Improver",
       "code": "9106",
+      "ean": [
+        "0762486091063"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#FFFFFF",
       "rgb": {
@@ -2478,12 +3242,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9316",
       "name": "Foggy Grey",
       "code": "9316",
+      "ean": [
+        "0762486093166"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#D2D3D5",
       "rgb": {
@@ -2494,12 +3263,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9013",
       "name": "Forest Green",
       "code": "9013",
+      "ean": [
+        "0762486090134"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#004528",
       "rgb": {
@@ -2510,12 +3284,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9279",
       "name": "Fresh Blood",
       "code": "9279",
+      "ean": [
+        "0762486092794"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#BE0000",
       "rgb": {
@@ -2526,12 +3305,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9421",
       "name": "Frost Blue",
       "code": "9421",
+      "ean": [
+        "0762486094217"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#8CC2DA",
       "rgb": {
@@ -2542,12 +3326,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9692",
       "name": "Frosty Blue",
       "code": "9692",
+      "ean": null,
       "set": "Master Series Paints Core Colors",
       "hex": "#6ED0F7",
       "rgb": {
@@ -2558,12 +3345,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9493",
       "name": "Gargoyle Grey",
       "code": "9493",
+      "ean": [
+        "0762486094934"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#9EB0BA",
       "rgb": {
@@ -2574,12 +3366,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9473",
       "name": "Gem Purple",
       "code": "9473",
+      "ean": [
+        "0762486094736"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#47286E",
       "rgb": {
@@ -2590,12 +3387,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9063",
       "name": "Ghost White",
       "code": "9063",
+      "ean": [
+        "0762486090639"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#EAF5FB",
       "rgb": {
@@ -2606,12 +3408,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9148",
       "name": "Ghoul Skin",
       "code": "9148",
+      "ean": [
+        "0762486091483"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#909473",
       "rgb": {
@@ -2622,12 +3429,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89532",
       "name": "Ghoul Violet",
       "code": "89532",
+      "ean": [
+        "0762486895326"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#6660AA",
       "rgb": {
@@ -2638,12 +3450,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9659",
       "name": "Ginger Cookie",
       "code": "9659",
+      "ean": [
+        "0762486096594"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#C69B6E",
       "rgb": {
@@ -2654,12 +3471,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9323",
       "name": "Glacial Mist",
       "code": "9323",
+      "ean": [
+        "0762486093234"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#618095",
       "rgb": {
@@ -2670,12 +3492,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9420",
       "name": "Glacier Blue",
       "code": "9420",
+      "ean": [
+        "0762486094200"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#549BB9",
       "rgb": {
@@ -2686,12 +3513,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9298",
       "name": "Gloss Sealer",
       "code": "9298",
+      "ean": [
+        "0762486092985"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#FFFFFF",
       "rgb": {
@@ -2702,12 +3534,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9460",
       "name": "Gnoll Pelt",
       "code": "9460",
+      "ean": [
+        "0762486094606"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#978C3C",
       "rgb": {
@@ -2718,12 +3555,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9494",
       "name": "Gnome Flesh",
       "code": "9494",
+      "ean": [
+        "0762486094941"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#D79483",
       "rgb": {
@@ -2734,12 +3576,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89519",
       "name": "Goblin Green",
       "code": "89519",
+      "ean": [
+        "0762486895197"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#799C48",
       "rgb": {
@@ -2750,12 +3597,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9457",
       "name": "Goblin Skin",
       "code": "9457",
+      "ean": [
+        "0762486094576"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#B0582A",
       "rgb": {
@@ -2766,12 +3618,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9033",
       "name": "Golden Blonde",
       "code": "9033",
+      "ean": [
+        "0762486090332"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#F2E294",
       "rgb": {
@@ -2782,12 +3639,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9671",
       "name": "Golden Glow",
       "code": "9671",
+      "ean": null,
       "set": "Master Series Paints Core Colors",
       "hex": "#FFD664",
       "rgb": {
@@ -2798,12 +3658,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9093",
       "name": "Golden Highlight",
       "code": "9093",
+      "ean": [
+        "0762486090936"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#F2CE9A",
       "rgb": {
@@ -2814,12 +3679,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9091",
       "name": "Golden Shadow",
       "code": "9091",
+      "ean": [
+        "0762486090912"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#BD9564",
       "rgb": {
@@ -2830,12 +3700,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9092",
       "name": "Golden Skin",
       "code": "9092",
+      "ean": [
+        "0762486090929"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#D2AD81",
       "rgb": {
@@ -2846,12 +3721,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9470",
       "name": "Golden Yellow",
       "code": "9470",
+      "ean": [
+        "0762486094705"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#F7B717",
       "rgb": {
@@ -2862,12 +3742,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9278",
       "name": "Gory Red",
       "code": "9278",
+      "ean": [
+        "0762486092787"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#790206",
       "rgb": {
@@ -2878,12 +3763,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89545",
       "name": "Gozreh Gray",
       "code": "89545",
+      "ean": [
+        "0762486895456"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#78787A",
       "rgb": {
@@ -2894,12 +3784,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9014",
       "name": "Grass Green",
       "code": "9014",
+      "ean": [
+        "0762486090141"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#067A55",
       "rgb": {
@@ -2910,12 +3805,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9272",
       "name": "Graveyard Bone",
       "code": "9272",
+      "ean": [
+        "0762486092725"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#C5C483",
       "rgb": {
@@ -2926,12 +3826,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9308",
       "name": "Green Liner",
       "code": "9308",
+      "ean": [
+        "0762486093081"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#152A17",
       "rgb": {
@@ -2942,12 +3847,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9128",
       "name": "Green Ochre",
       "code": "9128",
+      "ean": [
+        "0762486091285"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#9B7419",
       "rgb": {
@@ -2958,12 +3868,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9065",
       "name": "Grey Liner",
       "code": "9065",
+      "ean": [
+        "0762486090653"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#363636",
       "rgb": {
@@ -2974,12 +3889,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89522",
       "name": "Grindylow Blue",
       "code": "89522",
+      "ean": [
+        "0762486895227"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#00B4A9",
       "rgb": {
@@ -2990,12 +3910,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89543",
       "name": "Gug Umber",
       "code": "89543",
+      "ean": [
+        "0762486895432"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#61524F",
       "rgb": {
@@ -3006,12 +3931,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9126",
       "name": "Gunmetal Blue",
       "code": "9126",
+      "ean": [
+        "0762486091261"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#13374F",
       "rgb": {
@@ -3022,12 +3952,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9200",
       "name": "Harvest Brown",
       "code": "9200",
+      "ean": [
+        "0762486092008"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#8E3E01",
       "rgb": {
@@ -3038,12 +3973,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9690",
       "name": "Hearth Fire",
       "code": "9690",
+      "ean": null,
       "set": "Master Series Paints Core Colors",
       "hex": "#F7941D",
       "rgb": {
@@ -3054,12 +3992,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9314",
       "name": "Heartwood Brown",
       "code": "9314",
+      "ean": [
+        "0762486093142"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#C58835",
       "rgb": {
@@ -3070,12 +4013,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9231",
       "name": "Heather Blue",
       "code": "9231",
+      "ean": [
+        "0762486092312"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#537B95",
       "rgb": {
@@ -3086,12 +4034,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9402",
       "name": "Heraldic Red",
       "code": "9402",
+      "ean": [
+        "0762486094026"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#97161A",
       "rgb": {
@@ -3102,12 +4055,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9083",
       "name": "Highland Moss",
       "code": "9083",
+      "ean": [
+        "0762486090837"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#3D504A",
       "rgb": {
@@ -3118,12 +4076,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9243",
       "name": "Highlight Orange",
       "code": "9243",
+      "ean": [
+        "0762486092435"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#E27812",
       "rgb": {
@@ -3134,12 +4097,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89529",
       "name": "Hobgoblin Blue",
       "code": "89529",
+      "ean": [
+        "0762486895296"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#6BA2B7",
       "rgb": {
@@ -3150,12 +4118,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89520",
       "name": "Hodag Green",
       "code": "89520",
+      "ean": [
+        "0762486895203"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#6E702F",
       "rgb": {
@@ -3166,12 +4139,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9687",
       "name": "Holly Berry",
       "code": "9687",
+      "ean": null,
       "set": "Master Series Paints Core Colors",
       "hex": "#EE4423",
       "rgb": {
@@ -3182,12 +4158,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9053",
       "name": "Honed Steel",
       "code": "9053",
+      "ean": [
+        "0762486090530"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#B0B0B0",
       "rgb": {
@@ -3198,12 +4179,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9291",
       "name": "IMEF Olive",
       "code": "9291",
+      "ean": [
+        "0762486092916"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#3C5C09",
       "rgb": {
@@ -3214,12 +4200,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89524",
       "name": "Ice Devil Blue",
       "code": "89524",
+      "ean": [
+        "0762486895241"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#8CD3D9",
       "rgb": {
@@ -3230,12 +4221,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9425",
       "name": "Icy Violet",
       "code": "9425",
+      "ean": [
+        "0762486094255"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#7F77A8",
       "rgb": {
@@ -3246,12 +4242,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9023",
       "name": "Imperial Purple",
       "code": "9023",
+      "ean": [
+        "0762486090233"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#634871",
       "rgb": {
@@ -3262,12 +4263,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9138",
       "name": "Intense Brown",
       "code": "9138",
+      "ean": [
+        "0762486091384"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#8D3102",
       "rgb": {
@@ -3278,12 +4284,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89525",
       "name": "Irrisen Blue",
       "code": "89525",
+      "ean": [
+        "0762486895258"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#CCE8F3",
       "rgb": {
@@ -3294,12 +4305,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9015",
       "name": "Jade Green",
       "code": "9015",
+      "ean": [
+        "0762486090158"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#05AD62",
       "rgb": {
@@ -3310,12 +4326,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9322",
       "name": "Jungle Mist",
       "code": "9322",
+      "ean": [
+        "0762486093227"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#97AF8F",
       "rgb": {
@@ -3326,12 +4347,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9082",
       "name": "Jungle Moss",
       "code": "9082",
+      "ean": [
+        "0762486090820"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#27372D",
       "rgb": {
@@ -3342,12 +4368,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89551",
       "name": "Keleshite Gold",
       "code": "89551",
+      "ean": [
+        "0762486895517"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#BD9E44",
       "rgb": {
@@ -3358,12 +4389,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89539",
       "name": "Kellid Tan",
       "code": "89539",
+      "ean": [
+        "0762486895395"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#D0A787",
       "rgb": {
@@ -3374,12 +4410,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9123",
       "name": "Khaki Highlight",
       "code": "9123",
+      "ean": [
+        "0762486091230"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#DBD5BD",
       "rgb": {
@@ -3390,12 +4431,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9121",
       "name": "Khaki Shadow",
       "code": "9121",
+      "ean": [
+        "0762486091216"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#B4A07B",
       "rgb": {
@@ -3406,12 +4452,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9458",
       "name": "Kobold Scale",
       "code": "9458",
+      "ean": [
+        "0762486094583"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#812B1A",
       "rgb": {
@@ -3422,12 +4473,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89531",
       "name": "Kraken Purple",
       "code": "89531",
+      "ean": [
+        "0762486895319"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#B8B4D9",
       "rgb": {
@@ -3438,12 +4494,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89541",
       "name": "Kyonin Beige",
       "code": "89541",
+      "ean": [
+        "0762486895418"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#F3DAB2",
       "rgb": {
@@ -3454,12 +4515,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9288",
       "name": "LED Blue",
       "code": "9288",
+      "ean": [
+        "0762486092886"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#76D9A0",
       "rgb": {
@@ -3470,12 +4536,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9407",
       "name": "Lantern Yellow",
       "code": "9407",
+      "ean": [
+        "0762486094071"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#F8A517",
       "rgb": {
@@ -3486,12 +4557,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9218",
       "name": "Lava Orange",
       "code": "9218",
+      "ean": [
+        "0762486092183"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#DE5622",
       "rgb": {
@@ -3502,12 +4578,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9011",
       "name": "Leaf Green",
       "code": "9011",
+      "ean": [
+        "0762486090110"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#168944",
       "rgb": {
@@ -3518,12 +4599,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9030",
       "name": "Leather Brown",
       "code": "9030",
+      "ean": [
+        "0762486090301"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#A5754D",
       "rgb": {
@@ -3534,12 +4620,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9062",
       "name": "Leather White",
       "code": "9062",
+      "ean": [
+        "0762486090622"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#E9E1D4",
       "rgb": {
@@ -3550,12 +4641,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9009",
       "name": "Lemon Yellow",
       "code": "9009",
+      "ean": [
+        "0762486090097"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#F8ED1F",
       "rgb": {
@@ -3566,12 +4662,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9264",
       "name": "Light Blue",
       "code": "9264",
+      "ean": [
+        "0762486092640"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#72DAE5",
       "rgb": {
@@ -3582,12 +4683,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9061",
       "name": "Linen White",
       "code": "9061",
+      "ean": [
+        "0762486090615"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#FEFCEF",
       "rgb": {
@@ -3598,12 +4704,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89517",
       "name": "Lini Green",
       "code": "89517",
+      "ean": [
+        "0762486895173"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#40AF49",
       "rgb": {
@@ -3614,12 +4725,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9284",
       "name": "Lone Star Leather",
       "code": "9284",
+      "ean": [
+        "0762486092848"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#575E00",
       "rgb": {
@@ -3630,12 +4746,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9282",
       "name": "Maggot White",
       "code": "9282",
+      "ean": [
+        "0762486092824"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#DDFFDE",
       "rgb": {
@@ -3646,12 +4767,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9217",
       "name": "Magma Red",
       "code": "9217",
+      "ean": [
+        "0762486092176"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#DB3A28",
       "rgb": {
@@ -3662,12 +4788,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9070",
       "name": "Mahogany Brown",
       "code": "9070",
+      "ean": [
+        "0762486090707"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#241210",
       "rgb": {
@@ -3678,12 +4809,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9475",
       "name": "Maiden Flesh",
       "code": "9475",
+      "ean": [
+        "0762486094750"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#F1DFC7",
       "rgb": {
@@ -3694,12 +4830,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9296",
       "name": "Malvernian Purple",
       "code": "9296",
+      "ean": [
+        "0762486092961"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#37266A",
       "rgb": {
@@ -3710,12 +4851,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89544",
       "name": "Mana Waste Gray",
       "code": "89544",
+      "ean": [
+        "0762486895449"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#C2B3B6",
       "rgb": {
@@ -3726,12 +4872,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89526",
       "name": "Marid Blue",
       "code": "89526",
+      "ean": [
+        "0762486895265"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#01A8DF",
       "rgb": {
@@ -3742,12 +4893,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9007",
       "name": "Marigold Yellow",
       "code": "9007",
+      "ean": [
+        "0762486090073"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#EE922B",
       "rgb": {
@@ -3758,12 +4914,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9077",
       "name": "Marine Teal",
       "code": "9077",
+      "ean": [
+        "0762486090776"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#025E6D",
       "rgb": {
@@ -3774,12 +4935,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9485",
       "name": "Meadow Green",
       "code": "9485",
+      "ean": [
+        "0762486094859"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#6B933B",
       "rgb": {
@@ -3790,12 +4956,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89521",
       "name": "Medusa Green",
       "code": "89521",
+      "ean": [
+        "0762486895210"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#A19857",
       "rgb": {
@@ -3806,12 +4977,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89505",
       "name": "Merisiel Red",
       "code": "89505",
+      "ean": [
+        "0762486895050"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#C32033",
       "rgb": {
@@ -3822,12 +4998,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9019",
       "name": "Midnight Blue",
       "code": "9019",
+      "ean": [
+        "0762486090196"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#0B141D",
       "rgb": {
@@ -3838,12 +5019,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89502",
       "name": "Milani Rose",
       "code": "89502",
+      "ean": [
+        "0762486895029"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#F8B9D4",
       "rgb": {
@@ -3854,12 +5040,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9269",
       "name": "Military Blue",
       "code": "9269",
+      "ean": [
+        "0762486092695"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#13514C",
       "rgb": {
@@ -3870,12 +5061,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9176",
       "name": "Military Green",
       "code": "9176",
+      "ean": [
+        "0762486091766"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#445020",
       "rgb": {
@@ -3886,12 +5082,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9491",
       "name": "Minotaur Hide",
       "code": "9491",
+      "ean": [
+        "0762486094910"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#77453C",
       "rgb": {
@@ -3902,12 +5103,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9263",
       "name": "Mint Green",
       "code": "9263",
+      "ean": [
+        "0762486092633"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#81FE80",
       "rgb": {
@@ -3918,12 +5124,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9090",
       "name": "Misty Grey",
       "code": "9090",
+      "ean": [
+        "0762486090905"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#CCCCCC",
       "rgb": {
@@ -3934,12 +5145,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9149",
       "name": "Moldy Skin",
       "code": "9149",
+      "ean": [
+        "0762486091490"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#B7B87F",
       "rgb": {
@@ -3950,12 +5166,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9239",
       "name": "Monarch Purple",
       "code": "9239",
+      "ean": [
+        "0762486092398"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#4D0036",
       "rgb": {
@@ -3966,12 +5187,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9403",
       "name": "Monster Maw",
       "code": "9403",
+      "ean": [
+        "0762486094033"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#E98286",
       "rgb": {
@@ -3982,12 +5208,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9317",
       "name": "Moonstone Blue",
       "code": "9317",
+      "ean": [
+        "0762486093173"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#B8D5DB",
       "rgb": {
@@ -3998,12 +5229,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9683",
       "name": "Morning-After Blues",
       "code": "9683",
+      "ean": null,
       "set": "Master Series Paints Bones",
       "hex": "#00739F",
       "rgb": {
@@ -4014,12 +5248,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9248",
       "name": "Moth Green",
       "code": "9248",
+      "ean": [
+        "0762486092480"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#6BBF29",
       "rgb": {
@@ -4030,12 +5269,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9433",
       "name": "Mountain Stone",
       "code": "9433",
+      "ean": [
+        "0762486094330"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#4B4338",
       "rgb": {
@@ -4046,12 +5290,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9028",
       "name": "Muddy Brown",
       "code": "9028",
+      "ean": [
+        "0762486090288"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#432E1B",
       "rgb": {
@@ -4062,12 +5311,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9034",
       "name": "Muddy Olive",
       "code": "9034",
+      "ean": [
+        "0762486090349"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#407036",
       "rgb": {
@@ -4078,12 +5332,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9244",
       "name": "Muddy Soil",
       "code": "9244",
+      "ean": [
+        "0762486092442"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#1B1603",
       "rgb": {
@@ -4094,12 +5353,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89538",
       "name": "Mwangi Brown",
       "code": "89538",
+      "ean": [
+        "0762486895388"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#663B2B",
       "rgb": {
@@ -4110,12 +5374,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9302",
       "name": "NMM Gold Base",
       "code": "9302",
+      "ean": [
+        "0762486093029"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#D59728",
       "rgb": {
@@ -4126,12 +5395,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9303",
       "name": "NMM Gold Highlight",
       "code": "9303",
+      "ean": [
+        "0762486093036"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#FDDC43",
       "rgb": {
@@ -4142,12 +5416,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9301",
       "name": "NMM Gold Shadow",
       "code": "9301",
+      "ean": [
+        "0762486093012"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#8C6627",
       "rgb": {
@@ -4158,12 +5437,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9413",
       "name": "Naga Green",
       "code": "9413",
+      "ean": [
+        "0762486094132"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#438837",
       "rgb": {
@@ -4174,12 +5458,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9287",
       "name": "Neon Yellow",
       "code": "9287",
+      "ean": [
+        "0762486092879"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#CBFF17",
       "rgb": {
@@ -4190,12 +5479,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9306",
       "name": "New Copper",
       "code": "9306",
+      "ean": [
+        "0762486093067"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#F7966B",
       "rgb": {
@@ -4206,12 +5500,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9051",
       "name": "New Gold",
       "code": "9051",
+      "ean": [
+        "0762486090516"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#E8C543",
       "rgb": {
@@ -4222,12 +5521,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9280",
       "name": "Nightmare Black",
       "code": "9280",
+      "ean": [
+        "0762486092800"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#080F1F",
       "rgb": {
@@ -4238,12 +5542,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9022",
       "name": "Nightshade Purple",
       "code": "9022",
+      "ean": [
+        "0762486090226"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#26192D",
       "rgb": {
@@ -4254,12 +5563,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9422",
       "name": "Nightsky Indigo",
       "code": "9422",
+      "ean": [
+        "0762486094224"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#3D3860",
       "rgb": {
@@ -4270,12 +5584,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9289",
       "name": "Noir Black",
       "code": "9289",
+      "ean": [
+        "0762486092893"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#151515",
       "rgb": {
@@ -4286,12 +5605,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89510",
       "name": "Numeria Rust",
       "code": "89510",
+      "ean": [
+        "0762486895104"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#C15026",
       "rgb": {
@@ -4302,12 +5626,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9427",
       "name": "Nut Brown",
       "code": "9427",
+      "ean": [
+        "0762486094279"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#492D1F",
       "rgb": {
@@ -4318,12 +5647,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9418",
       "name": "Oceanic Blue",
       "code": "9418",
+      "ean": [
+        "0762486094187"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#005490",
       "rgb": {
@@ -4334,12 +5668,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9459",
       "name": "Ogre Skin",
       "code": "9459",
+      "ean": [
+        "0762486094590"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#F2AF2A",
       "rgb": {
@@ -4350,12 +5689,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9110",
       "name": "Oiled Leather",
       "code": "9110",
+      "ean": [
+        "0762486091100"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#965336",
       "rgb": {
@@ -4366,12 +5710,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9197",
       "name": "Old Bronze",
       "code": "9197",
+      "ean": [
+        "0762486091971"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#332910",
       "rgb": {
@@ -4382,12 +5731,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9283",
       "name": "Old West Rose",
       "code": "9283",
+      "ean": [
+        "0762486092831"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#9C1F3D",
       "rgb": {
@@ -4398,12 +5752,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9158",
       "name": "Olive Drab",
       "code": "9158",
+      "ean": [
+        "0762486091582"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#5C5602",
       "rgb": {
@@ -4414,12 +5773,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9035",
       "name": "Olive Green",
       "code": "9035",
+      "ean": [
+        "0762486090356"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#729656",
       "rgb": {
@@ -4430,12 +5794,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9157",
       "name": "Olive Shadow",
       "code": "9157",
+      "ean": [
+        "0762486091575"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#4A3901",
       "rgb": {
@@ -4446,12 +5815,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9221",
       "name": "Olive Skin",
       "code": "9221",
+      "ean": [
+        "0762486092213"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#A97F1D",
       "rgb": {
@@ -4462,12 +5836,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9222",
       "name": "Olive Skin Highlight",
       "code": "9222",
+      "ean": [
+        "0762486092220"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#BEA551",
       "rgb": {
@@ -4478,12 +5857,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9220",
       "name": "Olive Skin Shadow",
       "code": "9220",
+      "ean": [
+        "0762486092206"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#745213",
       "rgb": {
@@ -4494,12 +5878,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9201",
       "name": "Orange Brown",
       "code": "9201",
+      "ean": [
+        "0762486092015"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#C85B16",
       "rgb": {
@@ -4510,12 +5899,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9456",
       "name": "Orc Skin",
       "code": "9456",
+      "ean": [
+        "0762486094569"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#898770",
       "rgb": {
@@ -4526,12 +5920,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89511",
       "name": "Osirian Sand",
       "code": "89511",
+      "ean": [
+        "0762486895111"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#F4E4B1",
       "rgb": {
@@ -4542,12 +5941,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9446",
       "name": "Pale Flesh",
       "code": "9446",
+      "ean": [
+        "0762486094460"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#FED2B9",
       "rgb": {
@@ -4558,12 +5962,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9012",
       "name": "Pale Green",
       "code": "9012",
+      "ean": [
+        "0762486090127"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#35B44B",
       "rgb": {
@@ -4574,12 +5983,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9084",
       "name": "Pale Lichen",
       "code": "9084",
+      "ean": [
+        "0762486090844"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#7D978C",
       "rgb": {
@@ -4590,12 +6004,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9036",
       "name": "Pale Olive",
       "code": "9036",
+      "ean": [
+        "0762486090363"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#A5B58E",
       "rgb": {
@@ -4606,12 +6025,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9484",
       "name": "Pale Saffron",
       "code": "9484",
+      "ean": [
+        "0762486094842"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#FEDD2C",
       "rgb": {
@@ -4622,12 +6046,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9027",
       "name": "Pale Violet Red",
       "code": "9027",
+      "ean": [
+        "0762486090271"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#92335B",
       "rgb": {
@@ -4638,12 +6067,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9074",
       "name": "Palomino Gold",
       "code": "9074",
+      "ean": [
+        "0762486090745"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#BB962E",
       "rgb": {
@@ -4654,12 +6088,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9226",
       "name": "Peacock Green",
       "code": "9226",
+      "ean": [
+        "0762486092268"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#1E2E2B",
       "rgb": {
@@ -4670,12 +6109,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9100",
       "name": "Pearl White",
       "code": "9100",
+      "ean": [
+        "0762486091001"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#FFFFFF",
       "rgb": {
@@ -4686,12 +6130,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9688",
       "name": "Peppermint White",
       "code": "9688",
+      "ean": [
+        "0762486096884"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#FFFFFF",
       "rgb": {
@@ -4702,12 +6151,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9319",
       "name": "Phantom Glow",
       "code": "9319",
+      "ean": [
+        "0762486093197"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#01AD87",
       "rgb": {
@@ -4718,12 +6172,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89535",
       "name": "Pharasma Purple",
       "code": "89535",
+      "ean": [
+        "0762486895357"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#90419A",
       "rgb": {
@@ -4734,12 +6193,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9005",
       "name": "Phoenix Red",
       "code": "9005",
+      "ean": [
+        "0762486090059"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#D23830",
       "rgb": {
@@ -4750,12 +6214,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9010",
       "name": "Pine Green",
       "code": "9010",
+      "ean": [
+        "0762486090103"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#005929",
       "rgb": {
@@ -4766,12 +6235,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9060",
       "name": "Polished Bone",
       "code": "9060",
+      "ean": [
+        "0762486090608"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#ECE1CD",
       "rgb": {
@@ -4782,12 +6256,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9430",
       "name": "Polished Leather",
       "code": "9430",
+      "ean": [
+        "0762486094309"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#9B6326",
       "rgb": {
@@ -4798,12 +6277,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9054",
       "name": "Polished Silver",
       "code": "9054",
+      "ean": [
+        "0762486090547"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#E4E4E4",
       "rgb": {
@@ -4814,12 +6298,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9681",
       "name": "Prom Night Pink",
       "code": "9681",
+      "ean": [
+        "0762486096815"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#C3164E",
       "rgb": {
@@ -4830,12 +6319,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9286",
       "name": "Punk Rock Pink",
       "code": "9286",
+      "ean": [
+        "0762486092862"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#C80E73",
       "rgb": {
@@ -4846,12 +6340,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9037",
       "name": "Pure Black",
       "code": "9037",
+      "ean": [
+        "0762486090370"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#000000",
       "rgb": {
@@ -4862,12 +6361,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9039",
       "name": "Pure White",
       "code": "9039",
+      "ean": [
+        "0762486090394"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#FFFFFF",
       "rgb": {
@@ -4878,12 +6382,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9295",
       "name": "Rach Red",
       "code": "9295",
+      "ean": [
+        "0762486092954"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#BD0004",
       "rgb": {
@@ -4894,12 +6403,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9038",
       "name": "Rainy Grey",
       "code": "9038",
+      "ean": [
+        "0762486090387"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#959595",
       "rgb": {
@@ -4910,12 +6424,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9001",
       "name": "Red Brick",
       "code": "9001",
+      "ean": [
+        "0762486090011"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#501325",
       "rgb": {
@@ -4926,12 +6445,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9210",
       "name": "Red Ink",
       "code": "9210",
+      "ean": [
+        "0762486092107"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#780001",
       "rgb": {
@@ -4942,12 +6466,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9307",
       "name": "Red Liner",
       "code": "9307",
+      "ean": [
+        "0762486093074"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#421210",
       "rgb": {
@@ -4958,12 +6487,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9321",
       "name": "Red Neon Glow",
       "code": "9321",
+      "ean": [
+        "0762486093210"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#F2674A",
       "rgb": {
@@ -4974,12 +6508,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9235",
       "name": "Red Shadow",
       "code": "9235",
+      "ean": [
+        "0762486092350"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#56001D",
       "rgb": {
@@ -4990,12 +6529,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9224",
       "name": "Redstone",
       "code": "9224",
+      "ean": [
+        "0762486092244"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#7E392A",
       "rgb": {
@@ -5006,12 +6550,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9225",
       "name": "Redstone Highlight",
       "code": "9225",
+      "ean": [
+        "0762486092251"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#A85837",
       "rgb": {
@@ -5022,12 +6571,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9223",
       "name": "Redstone Shadow",
       "code": "9223",
+      "ean": [
+        "0762486092237"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#3A1F24",
       "rgb": {
@@ -5038,12 +6592,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9238",
       "name": "Regal Purple",
       "code": "9238",
+      "ean": [
+        "0762486092381"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#2E001D",
       "rgb": {
@@ -5054,12 +6613,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9496",
       "name": "Reliquary Gold",
       "code": "9496",
+      "ean": [
+        "0762486094965"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#A89E57",
       "rgb": {
@@ -5070,12 +6634,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9429",
       "name": "Rich Leather",
       "code": "9429",
+      "ean": [
+        "0762486094293"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#7A592E",
       "rgb": {
@@ -5086,12 +6655,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9115",
       "name": "Ritterlich Blue",
       "code": "9115",
+      "ean": [
+        "0762486091155"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#003760",
       "rgb": {
@@ -5102,12 +6676,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9608",
       "name": "Rose Gold",
       "code": "9608",
+      "ean": null,
       "set": "Master Series Paints Core Colors",
       "hex": "#AF8684",
       "rgb": {
@@ -5118,12 +6695,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9069",
       "name": "Rosy Highlight",
       "code": "9069",
+      "ean": [
+        "0762486090691"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#E8BBA4",
       "rgb": {
@@ -5134,12 +6716,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9067",
       "name": "Rosy Shadow",
       "code": "9067",
+      "ean": [
+        "0762486090677"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#CF9685",
       "rgb": {
@@ -5150,12 +6737,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9068",
       "name": "Rosy Skin",
       "code": "9068",
+      "ean": [
+        "0762486090684"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#ECAE9F",
       "rgb": {
@@ -5166,12 +6758,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9313",
       "name": "Rotting Wood",
       "code": "9313",
+      "ean": [
+        "0762486093135"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#554921",
       "rgb": {
@@ -5182,12 +6779,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9240",
       "name": "Royal Purple",
       "code": "9240",
+      "ean": [
+        "0762486092404"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#840053",
       "rgb": {
@@ -5198,12 +6800,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9101",
       "name": "Ruby Red",
       "code": "9101",
+      "ean": [
+        "0762486091018"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#EDB091",
       "rgb": {
@@ -5214,12 +6821,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9441",
       "name": "Ruddy Flesh",
       "code": "9441",
+      "ean": [
+        "0762486094415"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#7B4F2A",
       "rgb": {
@@ -5230,12 +6842,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9109",
       "name": "Ruddy Leather",
       "code": "9109",
+      "ean": [
+        "0762486091094"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#6A342A",
       "rgb": {
@@ -5246,12 +6863,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9320",
       "name": "Runic Glow",
       "code": "9320",
+      "ean": [
+        "0762486093203"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#E759A1",
       "rgb": {
@@ -5262,12 +6884,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9424",
       "name": "Runic Purple",
       "code": "9424",
+      "ean": [
+        "0762486094248"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#6F3366",
       "rgb": {
@@ -5278,12 +6905,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9199",
       "name": "Russet Brown",
       "code": "9199",
+      "ean": [
+        "0762486091995"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#531000",
       "rgb": {
@@ -5294,12 +6926,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9072",
       "name": "Rust Brown",
       "code": "9072",
+      "ean": [
+        "0762486090721"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#B24A41",
       "rgb": {
@@ -5310,12 +6947,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9428",
       "name": "Saddle Brown",
       "code": "9428",
+      "ean": [
+        "0762486094286"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#583924",
       "rgb": {
@@ -5326,12 +6968,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9247",
       "name": "Saffron Sunset",
       "code": "9247",
+      "ean": [
+        "0762486092473"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#EEA501",
       "rgb": {
@@ -5342,12 +6989,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9249",
       "name": "Sandy Brown",
       "code": "9249",
+      "ean": [
+        "0762486092497"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#B88532",
       "rgb": {
@@ -5358,12 +7010,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9016",
       "name": "Sapphire Blue",
       "code": "9016",
+      "ean": [
+        "0762486090165"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#29458F",
       "rgb": {
@@ -5374,12 +7031,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89514",
       "name": "Sarenrae Yellow",
       "code": "89514",
+      "ean": [
+        "0762486895142"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#FEBD3F",
       "rgb": {
@@ -5390,12 +7052,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9444",
       "name": "Scholar Flesh",
       "code": "9444",
+      "ean": [
+        "0762486094446"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#E4B895",
       "rgb": {
@@ -5406,12 +7073,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9125",
       "name": "Scorched Metal",
       "code": "9125",
+      "ean": [
+        "0762486091254"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#975F46",
       "rgb": {
@@ -5422,12 +7094,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89504",
       "name": "Seoni Scarlet",
       "code": "89504",
+      "ean": [
+        "0762486895043"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#EF3743",
       "rgb": {
@@ -5438,12 +7115,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9309",
       "name": "Sepia Liner",
       "code": "9309",
+      "ean": [
+        "0762486093098"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#4F3212",
       "rgb": {
@@ -5454,12 +7136,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9310",
       "name": "Sepia Wash",
       "code": "9310",
+      "ean": [
+        "0762486093104"
+      ],
       "set": "Master Series Paints Core Colors Wash",
       "hex": "#2F1F12",
       "rgb": {
@@ -5470,12 +7157,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89536",
       "name": "Seugathi Purple",
       "code": "89536",
+      "ean": [
+        "0762486895364"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#873276",
       "rgb": {
@@ -5486,12 +7178,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9270",
       "name": "Shadow Green",
       "code": "9270",
+      "ean": [
+        "0762486092701"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#29610A",
       "rgb": {
@@ -5502,12 +7199,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9052",
       "name": "Shadowed Steel",
       "code": "9052",
+      "ean": [
+        "0762486090523"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#7A7A7A",
       "rgb": {
@@ -5518,12 +7220,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9085",
       "name": "Shadowed Stone",
       "code": "9085",
+      "ean": [
+        "0762486090851"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#64615C",
       "rgb": {
@@ -5534,12 +7241,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89501",
       "name": "Shelyn Blush",
       "code": "89501",
+      "ean": [
+        "0762486895012"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#F7B0AA",
       "rgb": {
@@ -5550,12 +7262,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9161",
       "name": "Shield Brown",
       "code": "9161",
+      "ean": [
+        "0762486091612"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#7D5329",
       "rgb": {
@@ -5566,12 +7283,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9454",
       "name": "Shining Mithril",
       "code": "9454",
+      "ean": [
+        "0762486094545"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#C8C4C3",
       "rgb": {
@@ -5582,12 +7304,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89542",
       "name": "Shoanti Sienna",
       "code": "89542",
+      "ean": [
+        "0762486895425"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#BA6954",
       "rgb": {
@@ -5598,12 +7325,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89503",
       "name": "Sinspawn Pink",
       "code": "89503",
+      "ean": [
+        "0762486895036"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#E5BBBF",
       "rgb": {
@@ -5614,12 +7346,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9489",
       "name": "Siren's Song",
       "code": "9489",
+      "ean": [
+        "0762486094897"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#41B5AC",
       "rgb": {
@@ -5630,12 +7367,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9435",
       "name": "Skeleton Bone",
       "code": "9435",
+      "ean": [
+        "0762486094354"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#D8D1BF",
       "rgb": {
@@ -5646,12 +7388,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9465",
       "name": "Skeleton Key",
       "code": "9465",
+      "ean": [
+        "0762486094651"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#535A53",
       "rgb": {
@@ -5662,12 +7409,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89548",
       "name": "Skeleton White",
       "code": "89548",
+      "ean": [
+        "0762486895487"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#F2F2E8",
       "rgb": {
@@ -5678,12 +7430,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9018",
       "name": "Sky Blue",
       "code": "9018",
+      "ean": [
+        "0762486090189"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#4BA3D5",
       "rgb": {
@@ -5694,12 +7451,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9021",
       "name": "Snow Shadow",
       "code": "9021",
+      "ean": [
+        "0762486090219"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#7F93AC",
       "rgb": {
@@ -5710,12 +7472,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9230",
       "name": "Soft Blue",
       "code": "9230",
+      "ean": [
+        "0762486092305"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#124560",
       "rgb": {
@@ -5726,12 +7493,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9479",
       "name": "Solid Black",
       "code": "9479",
+      "ean": [
+        "0762486094798"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#000000",
       "rgb": {
@@ -5742,12 +7514,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9478",
       "name": "Solid White",
       "code": "9478",
+      "ean": [
+        "0762486094781"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#FFFFFF",
       "rgb": {
@@ -5758,12 +7535,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9609",
       "name": "Sophie Champagne",
       "code": "9609",
+      "ean": [
+        "0762486096099"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#EBD5A3",
       "rgb": {
@@ -5774,12 +7556,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9324",
       "name": "Sorcerous Mist",
       "code": "9324",
+      "ean": [
+        "0762486093241"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#B98DA4",
       "rgb": {
@@ -5790,12 +7577,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9105",
       "name": "Sparkling Amethyst",
       "code": "9105",
+      "ean": [
+        "0762486091056"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#B2AFCA",
       "rgb": {
@@ -5806,12 +7598,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9104",
       "name": "Sparkling Blue",
       "code": "9104",
+      "ean": [
+        "0762486091049"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#A8B9C9",
       "rgb": {
@@ -5822,12 +7619,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9689",
       "name": "Sparkling Snow",
       "code": "9689",
+      "ean": null,
       "set": "Master Series Paints Core Colors",
       "hex": "#C3D0D6",
       "rgb": {
@@ -5838,12 +7638,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9277",
       "name": "Spattered Crimson",
       "code": "9277",
+      "ean": [
+        "0762486092770"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#5E0010",
       "rgb": {
@@ -5854,12 +7659,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9416",
       "name": "Spectral Glow",
       "code": "9416",
+      "ean": [
+        "0762486094163"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#58B9AE",
       "rgb": {
@@ -5870,12 +7680,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9273",
       "name": "Splintered Bone",
       "code": "9273",
+      "ean": [
+        "0762486092732"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#DAD9A9",
       "rgb": {
@@ -5886,12 +7701,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9142",
       "name": "Stained Ivory",
       "code": "9142",
+      "ean": [
+        "0762486091421"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#C7A369",
       "rgb": {
@@ -5902,12 +7722,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9682",
       "name": "Stark Naked",
       "code": "9682",
+      "ean": [
+        "0762486096822"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#FDC78B",
       "rgb": {
@@ -5918,12 +7743,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9312",
       "name": "Steel Wash",
       "code": "9312",
+      "ean": [
+        "0762486093128"
+      ],
       "set": "Master Series Paints Core Colors Wash",
       "hex": "#212224",
       "rgb": {
@@ -5934,12 +7764,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9086",
       "name": "Stone Grey",
       "code": "9086",
+      "ean": [
+        "0762486090868"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#7C7771",
       "rgb": {
@@ -5950,12 +7785,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9311",
       "name": "Stone Wash",
       "code": "9311",
+      "ean": [
+        "0762486093111"
+      ],
       "set": "Master Series Paints Core Colors Wash",
       "hex": "#282421",
       "rgb": {
@@ -5966,12 +7806,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9088",
       "name": "Stormy Grey",
       "code": "9088",
+      "ean": [
+        "0762486090882"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#464646",
       "rgb": {
@@ -5982,12 +7827,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9423",
       "name": "Styx Purple",
       "code": "9423",
+      "ean": [
+        "0762486094231"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#200434",
       "rgb": {
@@ -5998,12 +7848,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9462",
       "name": "Succubus Kiss",
       "code": "9462",
+      "ean": [
+        "0762486094620"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#7A0025",
       "rgb": {
@@ -6014,12 +7869,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9008",
       "name": "Sun Yellow",
       "code": "9008",
+      "ean": [
+        "0762486090080"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#F7C027",
       "rgb": {
@@ -6030,12 +7890,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9406",
       "name": "Sunrise Orange",
       "code": "9406",
+      "ean": [
+        "0762486094064"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#F37022",
       "rgb": {
@@ -6046,12 +7911,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9267",
       "name": "Sunset Purple",
       "code": "9267",
+      "ean": [
+        "0762486092671"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#5961B2",
       "rgb": {
@@ -6062,12 +7932,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9482",
       "name": "Suntan Flesh",
       "code": "9482",
+      "ean": [
+        "0762486094828"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#B26D2A",
       "rgb": {
@@ -6078,12 +7953,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9078",
       "name": "Surf Aqua",
       "code": "9078",
+      "ean": [
+        "0762486090783"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#64B3BA",
       "rgb": {
@@ -6094,12 +7974,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9175",
       "name": "Swamp Green",
       "code": "9175",
+      "ean": [
+        "0762486091759"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#2A2400",
       "rgb": {
@@ -6110,12 +7995,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89540",
       "name": "Taldan Pink",
       "code": "89540",
+      "ean": [
+        "0762486895401"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#E2B7A6",
       "rgb": {
@@ -6126,12 +8016,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9045",
       "name": "Tanned Highlight",
       "code": "9045",
+      "ean": [
+        "0762486090455"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#D2A681",
       "rgb": {
@@ -6142,12 +8037,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9031",
       "name": "Tanned Leather",
       "code": "9031",
+      "ean": [
+        "0762486090318"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#B78349",
       "rgb": {
@@ -6158,12 +8058,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9043",
       "name": "Tanned Shadow",
       "code": "9043",
+      "ean": [
+        "0762486090431"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#A3755E",
       "rgb": {
@@ -6174,12 +8079,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9044",
       "name": "Tanned Skin",
       "code": "9044",
+      "ean": [
+        "0762486090448"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#BC8D6F",
       "rgb": {
@@ -6190,12 +8100,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9198",
       "name": "Tarnished Brass",
       "code": "9198",
+      "ean": [
+        "0762486091988"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#513B01",
       "rgb": {
@@ -6206,12 +8121,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9305",
       "name": "Tarnished Copper",
       "code": "9305",
+      "ean": [
+        "0762486093050"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#96381F",
       "rgb": {
@@ -6222,12 +8142,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9206",
       "name": "Tarnished Steel",
       "code": "9206",
+      "ean": [
+        "0762486092060"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#8B8A88",
       "rgb": {
@@ -6238,12 +8163,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9444b",
       "name": "Tawny Flesh",
       "code": "9444b",
+      "ean": null,
       "set": "Master Series Paints Bones",
       "hex": "#E4B895",
       "rgb": {
@@ -6254,12 +8182,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9438",
       "name": "Tempest Grey",
       "code": "9438",
+      "ean": [
+        "0762486094385"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#47484D",
       "rgb": {
@@ -6270,12 +8203,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9056",
       "name": "Templar Blue",
       "code": "9056",
+      "ean": [
+        "0762486090561"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#314659",
       "rgb": {
@@ -6286,12 +8224,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9486",
       "name": "Tendril Pink",
       "code": "9486",
+      "ean": [
+        "0762486094866"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#F498C1",
       "rgb": {
@@ -6302,12 +8245,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9122",
       "name": "Terran Khaki",
       "code": "9122",
+      "ean": [
+        "0762486091223"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#C7BA9A",
       "rgb": {
@@ -6318,12 +8266,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89537",
       "name": "Thuvian Sun Orchid",
       "code": "89537",
+      "ean": [
+        "0762486895371"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#E21E8E",
       "rgb": {
@@ -6334,12 +8287,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89518",
       "name": "Tian Xia Jade",
       "code": "89518",
+      "ean": [
+        "0762486895180"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#00955E",
       "rgb": {
@@ -6350,12 +8308,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9455",
       "name": "Troll Hide",
       "code": "9455",
+      "ean": [
+        "0762486094552"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#555205",
       "rgb": {
@@ -6366,12 +8329,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9419",
       "name": "Tropical Blue",
       "code": "9419",
+      "ean": [
+        "0762486094194"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#0275A2",
       "rgb": {
@@ -6382,12 +8350,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9017",
       "name": "True Blue",
       "code": "9017",
+      "ean": [
+        "0762486090172"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#007CBA",
       "rgb": {
@@ -6398,12 +8371,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9207",
       "name": "True Silver",
       "code": "9207",
+      "ean": [
+        "0762486092077"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#B2B1AF",
       "rgb": {
@@ -6414,12 +8392,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9481",
       "name": "Turf Green",
       "code": "9481",
+      "ean": [
+        "0762486094811"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#28813F",
       "rgb": {
@@ -6430,12 +8413,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9691",
       "name": "Turkey Brown",
       "code": "9691",
+      "ean": [
+        "0762486096914"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#764C24",
       "rgb": {
@@ -6446,12 +8434,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9020",
       "name": "Twilight Blue",
       "code": "9020",
+      "ean": [
+        "0762486090202"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#384963",
       "rgb": {
@@ -6462,12 +8455,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9483",
       "name": "Twilight Purple",
       "code": "9483",
+      "ean": [
+        "0762486094835"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#213165",
       "rgb": {
@@ -6478,12 +8476,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9188",
       "name": "Ultramarine Blue",
       "code": "9188",
+      "ean": [
+        "0762486091889"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#014D7E",
       "rgb": {
@@ -6494,12 +8497,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9189",
       "name": "Ultramarine Highlight",
       "code": "9189",
+      "ean": [
+        "0762486091896"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#0175BE",
       "rgb": {
@@ -6510,12 +8518,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9187",
       "name": "Ultramarine Shadow",
       "code": "9187",
+      "ean": [
+        "0762486091872"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#00223D",
       "rgb": {
@@ -6526,12 +8539,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9447",
       "name": "Undead Flesh",
       "code": "9447",
+      "ean": [
+        "0762486094477"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#DFDDD1",
       "rgb": {
@@ -6542,12 +8560,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89547",
       "name": "Unicorn White",
       "code": "89547",
+      "ean": [
+        "0762486895470"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#F2F2E8",
       "rgb": {
@@ -6558,12 +8581,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9127",
       "name": "Uniform Brown",
       "code": "9127",
+      "ean": [
+        "0762486091278"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#6A4F00",
       "rgb": {
@@ -6574,12 +8602,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89508",
       "name": "Urgathoa Red",
       "code": "89508",
+      "ean": [
+        "0762486895081"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#6F2A3D",
       "rgb": {
@@ -6590,12 +8623,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-89552",
       "name": "Valeros Gold",
       "code": "89552",
+      "ean": [
+        "0762486895524"
+      ],
       "set": "Master Series Paints Pathfinder",
       "hex": "#A4834E",
       "rgb": {
@@ -6606,12 +8644,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9276",
       "name": "Vampiric Highlight",
       "code": "9276",
+      "ean": [
+        "0762486092763"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#E9E2C8",
       "rgb": {
@@ -6622,12 +8665,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9461",
       "name": "Vampiric Mist",
       "code": "9461",
+      "ean": [
+        "0762486094613"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#EAEAEC",
       "rgb": {
@@ -6638,12 +8686,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9274",
       "name": "Vampiric Shadow",
       "code": "9274",
+      "ean": [
+        "0762486092749"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#A1A08B",
       "rgb": {
@@ -6654,12 +8707,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9275",
       "name": "Vampiric Skin",
       "code": "9275",
+      "ean": [
+        "0762486092756"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#D0C4AC",
       "rgb": {
@@ -6670,12 +8728,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9266",
       "name": "Violet Light",
       "code": "9266",
+      "ean": [
+        "0762486092664"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#162874",
       "rgb": {
@@ -6686,12 +8749,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9026",
       "name": "Violet Red",
       "code": "9026",
+      "ean": [
+        "0762486090264"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#611E47",
       "rgb": {
@@ -6702,12 +8770,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9237",
       "name": "Violet Shadow",
       "code": "9237",
+      "ean": [
+        "0762486092374"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#440039",
       "rgb": {
@@ -6718,12 +8791,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9228",
       "name": "Viper Green",
       "code": "9228",
+      "ean": [
+        "0762486092282"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#008F37",
       "rgb": {
@@ -6734,12 +8812,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9417",
       "name": "Void Blue",
       "code": "9417",
+      "ean": [
+        "0762486094170"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#021B54",
       "rgb": {
@@ -6750,12 +8833,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9405",
       "name": "Volcanic Orange",
       "code": "9405",
+      "ean": [
+        "0762486094057"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#E24920",
       "rgb": {
@@ -6766,12 +8854,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9268",
       "name": "Volcano Brown",
       "code": "9268",
+      "ean": [
+        "0762486092688"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#482428",
       "rgb": {
@@ -6782,12 +8875,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9136",
       "name": "Walnut Brown",
       "code": "9136",
+      "ean": [
+        "0762486091360"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#460000",
       "rgb": {
@@ -6798,12 +8896,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9443",
       "name": "Warrior Flesh",
       "code": "9443",
+      "ean": [
+        "0762486094439"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#AB754F",
       "rgb": {
@@ -6814,12 +8917,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9300",
       "name": "Wash Medium",
       "code": "9300",
+      "ean": [
+        "0762486093005"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#FFFFFF",
       "rgb": {
@@ -6830,12 +8938,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9087",
       "name": "Weathered Stone",
       "code": "9087",
+      "ean": [
+        "0762486090875"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#948F8C",
       "rgb": {
@@ -6846,12 +8959,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9411",
       "name": "Wilderness Green",
       "code": "9411",
+      "ean": [
+        "0762486094118"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#173708",
       "rgb": {
@@ -6862,12 +8980,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9477",
       "name": "Witchcraft Purple",
       "code": "9477",
+      "ean": [
+        "0762486094774"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#8B4D7C",
       "rgb": {
@@ -6878,12 +9001,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9434",
       "name": "Wolf Grey",
       "code": "9434",
+      "ean": [
+        "0762486094347"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#7C7469",
       "rgb": {
@@ -6894,12 +9022,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9476",
       "name": "Woodland Brown",
       "code": "9476",
+      "ean": [
+        "0762486094767"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#A17036",
       "rgb": {
@@ -6910,12 +9043,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9160",
       "name": "Woodstain Brown",
       "code": "9160",
+      "ean": [
+        "0762486091605"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#573F27",
       "rgb": {
@@ -6926,12 +9064,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9229",
       "name": "Worn Navy",
       "code": "9229",
+      "ean": [
+        "0762486092299"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#121315",
       "rgb": {
@@ -6942,12 +9085,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9159",
       "name": "Worn Olive",
       "code": "9159",
+      "ean": [
+        "0762486091599"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#837417",
       "rgb": {
@@ -6958,12 +9106,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9492",
       "name": "Wyvern Leather",
       "code": "9492",
+      "ean": [
+        "0762486094927"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#6E352E",
       "rgb": {
@@ -6974,12 +9127,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9487",
       "name": "Yellow Mold",
       "code": "9487",
+      "ean": [
+        "0762486094873"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#FCF8C8",
       "rgb": {
@@ -6990,12 +9148,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9143",
       "name": "Yellowed Ivory",
       "code": "9143",
+      "ean": [
+        "0762486091438"
+      ],
       "set": "Master Series Paints Core Colors",
       "hex": "#D3BD84",
       "rgb": {
@@ -7006,12 +9169,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "reaper-9445",
       "name": "Youthful Flesh",
       "code": "9445",
+      "ean": [
+        "0762486094453"
+      ],
       "set": "Master Series Paints Bones",
       "hex": "#FCBD88",
       "rgb": {
@@ -7022,7 +9190,9 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     }
   ]
 }

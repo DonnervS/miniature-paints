@@ -1,6 +1,6 @@
 {
   "$schema": "../../schema/brand.schema.json",
-  "schema": "miniature-paints/v4",
+  "schema": "miniature-paints/v5",
   "displayName": "Foundry",
   "company": "Wargames Foundry Limited",
   "address": {
@@ -20,6 +20,7 @@
       "id": "foundry-126b",
       "name": "African Flesh",
       "code": "126B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#73484F",
       "rgb": {
@@ -30,12 +31,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-126c",
       "name": "African Flesh Light",
       "code": "126C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#8F4F50",
       "rgb": {
@@ -46,12 +50,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-126a",
       "name": "African Flesh Shade",
       "code": "126A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#5B444A",
       "rgb": {
@@ -62,12 +69,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-93b",
       "name": "American Green",
       "code": "93B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#76716B",
       "rgb": {
@@ -78,12 +88,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-93c",
       "name": "American Green Light",
       "code": "93C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#808274",
       "rgb": {
@@ -94,12 +107,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-93a",
       "name": "American Green Shade",
       "code": "93A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#5A554F",
       "rgb": {
@@ -110,12 +126,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-94b",
       "name": "American Olive Green",
       "code": "94B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#313E44",
       "rgb": {
@@ -126,12 +145,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-94c",
       "name": "American Olive Green Light",
       "code": "94C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#37594F",
       "rgb": {
@@ -142,12 +164,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-94a",
       "name": "American Olive Green Shade",
       "code": "94A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#2F363E",
       "rgb": {
@@ -158,12 +183,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-92b",
       "name": "American Tan",
       "code": "92B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#C2B08A",
       "rgb": {
@@ -174,12 +202,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-92c",
       "name": "American Tan Light",
       "code": "92C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#DCCAA4",
       "rgb": {
@@ -190,12 +221,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-92a",
       "name": "American Tan Shade",
       "code": "92A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#AD9F7A",
       "rgb": {
@@ -206,12 +240,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-33b",
       "name": "Arctic Grey",
       "code": "33B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#BEC0BF",
       "rgb": {
@@ -222,12 +259,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-33a",
       "name": "Arctic Grey Shade",
       "code": "33A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#929292",
       "rgb": {
@@ -238,12 +278,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-35b",
       "name": "Armour",
       "code": "35B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#D1D3D2",
       "rgb": {
@@ -254,12 +297,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-35c",
       "name": "Armour Light",
       "code": "35C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#C5C9CC",
       "rgb": {
@@ -270,12 +316,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-35a",
       "name": "Armour Shade",
       "code": "35A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#919191",
       "rgb": {
@@ -286,12 +335,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-107b",
       "name": "Austrian Gun Ochre",
       "code": "107B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#C0C46D",
       "rgb": {
@@ -302,12 +354,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-107c",
       "name": "Austrian Gun Ochre Light",
       "code": "107C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#DCCF66",
       "rgb": {
@@ -318,12 +373,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-107a",
       "name": "Austrian Gun Ochre Shade",
       "code": "107A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#A1B669",
       "rgb": {
@@ -334,12 +392,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-67b",
       "name": "Austrian White",
       "code": "67B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#DCE1DD",
       "rgb": {
@@ -350,12 +411,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-67c",
       "name": "Austrian White Light",
       "code": "67C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#E6E6E6",
       "rgb": {
@@ -366,12 +430,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-67a",
       "name": "Austrian White Shade",
       "code": "67A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#CDD4CC",
       "rgb": {
@@ -382,12 +449,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-10b",
       "name": "Base Sand",
       "code": "10B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#E9C384",
       "rgb": {
@@ -398,12 +468,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-10c",
       "name": "Base Sand Light",
       "code": "10C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#F5DEB2",
       "rgb": {
@@ -414,12 +487,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-10a",
       "name": "Base Sand Shade",
       "code": "10A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#D7A96B",
       "rgb": {
@@ -430,12 +506,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-73b",
       "name": "Bavarian Cornflower Blue",
       "code": "73B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#0B72DB",
       "rgb": {
@@ -446,12 +525,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-73c",
       "name": "Bavarian Cornflower Blue Light",
       "code": "73C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#2395ED",
       "rgb": {
@@ -462,12 +544,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-73a",
       "name": "Bavarian Cornflower Blue Shade",
       "code": "73A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#1E3E67",
       "rgb": {
@@ -478,12 +563,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-42b",
       "name": "Bay Brown",
       "code": "42B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#6B3020",
       "rgb": {
@@ -494,12 +582,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-42c",
       "name": "Bay Brown Light",
       "code": "42C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#823C00",
       "rgb": {
@@ -510,12 +601,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-42a",
       "name": "Bay Brown Shade",
       "code": "42A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#2C110A",
       "rgb": {
@@ -526,12 +620,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-105b",
       "name": "Blackened Barrel",
       "code": "105B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#191919",
       "rgb": {
@@ -542,12 +639,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-105c",
       "name": "Blackened Barrel Light",
       "code": "105C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#323232",
       "rgb": {
@@ -558,12 +658,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-105a",
       "name": "Blackened Barrel Shade",
       "code": "105A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#010101",
       "rgb": {
@@ -574,12 +677,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-9b",
       "name": "Bone yard",
       "code": "9B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#E3CE95",
       "rgb": {
@@ -590,12 +696,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-9c",
       "name": "Bone yard Light",
       "code": "9C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#FDF7D3",
       "rgb": {
@@ -606,12 +715,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-9a",
       "name": "Bone yard Shade",
       "code": "9A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#D2A552",
       "rgb": {
@@ -622,12 +734,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-41b",
       "name": "Bright Bottle Green",
       "code": "41B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#0D4613",
       "rgb": {
@@ -638,12 +753,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-41c",
       "name": "Bright Bottle Green Light",
       "code": "41C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#207125",
       "rgb": {
@@ -654,12 +772,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-41a",
       "name": "Bright Bottle Green Shade",
       "code": "41A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#001A00",
       "rgb": {
@@ -670,12 +791,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-25b",
       "name": "Bright Green",
       "code": "25B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#00963B",
       "rgb": {
@@ -686,12 +810,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-25c",
       "name": "Bright Green Light",
       "code": "25C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#63C686",
       "rgb": {
@@ -702,12 +829,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-25a",
       "name": "Bright Green Shade",
       "code": "25A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#056E33",
       "rgb": {
@@ -718,12 +848,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-15b",
       "name": "Bright Red",
       "code": "15B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#E22915",
       "rgb": {
@@ -734,12 +867,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-15c",
       "name": "Bright Red Light",
       "code": "15C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#CA5B09",
       "rgb": {
@@ -750,12 +886,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-15a",
       "name": "Bright Red Shade",
       "code": "15A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#962B23",
       "rgb": {
@@ -766,12 +905,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-91b",
       "name": "British Blanco Green",
       "code": "91B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#7A8F80",
       "rgb": {
@@ -782,12 +924,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-91c",
       "name": "British Blanco Green Light",
       "code": "91C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#65806D",
       "rgb": {
@@ -798,12 +943,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-91a",
       "name": "British Blanco Green Shade",
       "code": "91A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#4C564B",
       "rgb": {
@@ -814,12 +962,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-75b",
       "name": "British Blue Grey",
       "code": "75B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#5D7790",
       "rgb": {
@@ -830,12 +981,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-75c",
       "name": "British Blue Grey Light",
       "code": "75C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#7896B0",
       "rgb": {
@@ -846,12 +1000,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-75a",
       "name": "British Blue Grey Shade",
       "code": "75A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#0E456C",
       "rgb": {
@@ -862,12 +1019,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-97b",
       "name": "British Denison Brown",
       "code": "97B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#6A5746",
       "rgb": {
@@ -878,12 +1038,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-97c",
       "name": "British Denison Brown Light",
       "code": "97C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#EDD7C0",
       "rgb": {
@@ -894,12 +1057,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-97a",
       "name": "British Denison Brown Shade",
       "code": "97A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#B2A289",
       "rgb": {
@@ -910,12 +1076,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-98b",
       "name": "British Denison Green",
       "code": "98B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#4E5447",
       "rgb": {
@@ -926,12 +1095,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-98c",
       "name": "British Denison Green Light",
       "code": "98C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#626D5C",
       "rgb": {
@@ -942,12 +1114,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-98a",
       "name": "British Denison Green Shade",
       "code": "98A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#303133",
       "rgb": {
@@ -958,12 +1133,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-99b",
       "name": "British Denison Tan",
       "code": "99B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#9D7960",
       "rgb": {
@@ -974,12 +1152,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-99c",
       "name": "British Denison Tan Light",
       "code": "99C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#B3957C",
       "rgb": {
@@ -990,12 +1171,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-99a",
       "name": "British Denison Tan Shade",
       "code": "99A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#7F6B62",
       "rgb": {
@@ -1006,12 +1190,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-90b",
       "name": "British Equipment Canvas",
       "code": "90B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#CBC385",
       "rgb": {
@@ -1022,12 +1209,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-90c",
       "name": "British Equipment Canvas Light",
       "code": "90C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#F2EBB7",
       "rgb": {
@@ -1038,12 +1228,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-90a",
       "name": "British Equipment Canvas Shade",
       "code": "90A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#585135",
       "rgb": {
@@ -1054,12 +1247,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-89b",
       "name": "British Equipment Tan",
       "code": "89B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#85796D",
       "rgb": {
@@ -1070,12 +1266,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-89c",
       "name": "British Equipment Tan Light",
       "code": "89C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#AA9C87",
       "rgb": {
@@ -1086,12 +1285,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-89a",
       "name": "British Equipment Tan Shade",
       "code": "89A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#7D7369",
       "rgb": {
@@ -1102,12 +1304,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-108b",
       "name": "British Gun Grey",
       "code": "108B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#89A0A8",
       "rgb": {
@@ -1118,12 +1323,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-108c",
       "name": "British Gun Grey Light",
       "code": "108C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#9FB2B8",
       "rgb": {
@@ -1134,12 +1342,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-108a",
       "name": "British Gun Grey Shade",
       "code": "108A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#7997A2",
       "rgb": {
@@ -1150,12 +1361,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-68b",
       "name": "British Redcoat",
       "code": "68B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#E5040C",
       "rgb": {
@@ -1166,12 +1380,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-68c",
       "name": "British Redcoat Light",
       "code": "68C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#F39174",
       "rgb": {
@@ -1182,12 +1399,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-68a",
       "name": "British Redcoat Shade",
       "code": "68A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#AD181E",
       "rgb": {
@@ -1198,12 +1418,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-74b",
       "name": "British Royal Blue",
       "code": "74B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#213953",
       "rgb": {
@@ -1214,12 +1437,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-74c",
       "name": "British Royal Blue Light",
       "code": "74C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#0F386C",
       "rgb": {
@@ -1230,12 +1456,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-74a",
       "name": "British Royal Blue Shade",
       "code": "74A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#283B42",
       "rgb": {
@@ -1246,12 +1475,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-100b",
       "name": "British Uniform Brown",
       "code": "100B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#75553F",
       "rgb": {
@@ -1262,12 +1494,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-100c",
       "name": "British Uniform Brown Light",
       "code": "100C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#886341",
       "rgb": {
@@ -1278,12 +1513,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-100a",
       "name": "British Uniform Brown Shade",
       "code": "100A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#63583C",
       "rgb": {
@@ -1294,12 +1532,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-103b",
       "name": "Bronze Barrel",
       "code": "103B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#836241",
       "rgb": {
@@ -1310,12 +1551,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-103c",
       "name": "Bronze Barrel Light",
       "code": "103C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#C1A454",
       "rgb": {
@@ -1326,12 +1570,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-103a",
       "name": "Bronze Barrel Shade",
       "code": "103A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#74644B",
       "rgb": {
@@ -1342,12 +1589,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-7b",
       "name": "Buff Leather",
       "code": "7B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#EDBB5A",
       "rgb": {
@@ -1358,12 +1608,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-7c",
       "name": "Buff Leather Light",
       "code": "7C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#F6CD8D",
       "rgb": {
@@ -1374,12 +1627,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-7a",
       "name": "Buff Leather Shade",
       "code": "7A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#D79750",
       "rgb": {
@@ -1390,12 +1646,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-44b",
       "name": "Burning Gold",
       "code": "44B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#FFFFBA",
       "rgb": {
@@ -1406,12 +1665,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-44c",
       "name": "Burning Gold Light",
       "code": "44C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#F8F6D0",
       "rgb": {
@@ -1422,12 +1684,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-44a",
       "name": "Burning Gold Shade",
       "code": "44A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#ECE07C",
       "rgb": {
@@ -1438,12 +1703,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-43b",
       "name": "Burnished Copper",
       "code": "43B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#AC915C",
       "rgb": {
@@ -1454,12 +1722,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-43c",
       "name": "Burnished Copper Light",
       "code": "43C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#F3EEC4",
       "rgb": {
@@ -1470,12 +1741,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-43a",
       "name": "Burnished Copper Shade",
       "code": "43A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#795219",
       "rgb": {
@@ -1486,12 +1760,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-55b",
       "name": "Butter Fudge",
       "code": "55B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#D87A08",
       "rgb": {
@@ -1502,12 +1779,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-55c",
       "name": "Butter Fudge Light",
       "code": "55C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#E99B05",
       "rgb": {
@@ -1518,12 +1798,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-55a",
       "name": "Butter Fudge Shade",
       "code": "55A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#915203",
       "rgb": {
@@ -1534,12 +1817,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-46b",
       "name": "Cadaverous Green",
       "code": "46B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#8FC590",
       "rgb": {
@@ -1550,12 +1836,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-46c",
       "name": "Cadaverous Green Light",
       "code": "46C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#B8DEB7",
       "rgb": {
@@ -1566,12 +1855,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-46a",
       "name": "Cadaverous Green Shade",
       "code": "46A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#629979",
       "rgb": {
@@ -1582,12 +1874,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-8b",
       "name": "Canvas",
       "code": "8B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#FCD296",
       "rgb": {
@@ -1598,12 +1893,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-8c",
       "name": "Canvas Light",
       "code": "8C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#FFF3E3",
       "rgb": {
@@ -1614,12 +1912,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-8a",
       "name": "Canvas Shade",
       "code": "8A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#DBA366",
       "rgb": {
@@ -1630,12 +1931,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-34b",
       "name": "Charcoal Black",
       "code": "34B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#433F3C",
       "rgb": {
@@ -1646,12 +1950,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-34c",
       "name": "Charcoal Black Light",
       "code": "34C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#595856",
       "rgb": {
@@ -1662,12 +1969,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-34a",
       "name": "Charcoal Black Shade",
       "code": "34A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#000000",
       "rgb": {
@@ -1678,12 +1988,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-53b",
       "name": "Chestnut",
       "code": "53B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#833F00",
       "rgb": {
@@ -1694,12 +2007,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-53c",
       "name": "Chestnut Light",
       "code": "53C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#CC8543",
       "rgb": {
@@ -1710,12 +2026,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-53a",
       "name": "Chestnut Shade",
       "code": "53A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#56392B",
       "rgb": {
@@ -1726,12 +2045,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-117b",
       "name": "Confederate Grey",
       "code": "117B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#526477",
       "rgb": {
@@ -1742,12 +2064,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-117c",
       "name": "Confederate Grey Light",
       "code": "117C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#5A6E85",
       "rgb": {
@@ -1758,12 +2083,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-117a",
       "name": "Confederate Grey Shade",
       "code": "117A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#4C5866",
       "rgb": {
@@ -1774,12 +2102,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-54b",
       "name": "Conker Brown",
       "code": "54B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#603606",
       "rgb": {
@@ -1790,12 +2121,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-54c",
       "name": "Conker Brown Light",
       "code": "54C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#804509",
       "rgb": {
@@ -1806,12 +2140,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-54a",
       "name": "Conker Brown Shade",
       "code": "54A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#371718",
       "rgb": {
@@ -1822,12 +2159,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-121b",
       "name": "Dark African Flesh",
       "code": "121B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#5B4F43",
       "rgb": {
@@ -1838,12 +2178,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-121c",
       "name": "Dark African Flesh Light",
       "code": "121C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#786755",
       "rgb": {
@@ -1854,12 +2197,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-121a",
       "name": "Dark African Flesh Shade",
       "code": "121A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#4D4C4A",
       "rgb": {
@@ -1870,12 +2216,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-20b",
       "name": "Deep Blue",
       "code": "20B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#003E72",
       "rgb": {
@@ -1886,12 +2235,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-20c",
       "name": "Deep Blue Light",
       "code": "20C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#005192",
       "rgb": {
@@ -1902,12 +2254,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-20a",
       "name": "Deep Blue Shade",
       "code": "20A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#052A47",
       "rgb": {
@@ -1918,12 +2273,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-45b",
       "name": "Deep Brown Leather",
       "code": "45B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#BA936A",
       "rgb": {
@@ -1934,12 +2292,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-45c",
       "name": "Deep Brown Leather Light",
       "code": "45C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#9E6808",
       "rgb": {
@@ -1950,12 +2311,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-45a",
       "name": "Deep Brown Leather Shade",
       "code": "45A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#3F2504",
       "rgb": {
@@ -1966,12 +2330,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-64b",
       "name": "Deep Maroon",
       "code": "64B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#662E55",
       "rgb": {
@@ -1982,12 +2349,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-64c",
       "name": "Deep Maroon Light",
       "code": "64C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#BA6E8A",
       "rgb": {
@@ -1998,12 +2368,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-64a",
       "name": "Deep Maroon Shade",
       "code": "64A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#390F25",
       "rgb": {
@@ -2014,12 +2387,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-58b",
       "name": "Deep Mauve",
       "code": "58B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#560029",
       "rgb": {
@@ -2030,12 +2406,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-58c",
       "name": "Deep Mauve Light",
       "code": "58C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#9C0C58",
       "rgb": {
@@ -2046,12 +2425,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-58a",
       "name": "Deep Mauve Shade",
       "code": "58A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#2F0219",
       "rgb": {
@@ -2062,12 +2444,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-12b",
       "name": "Drab",
       "code": "12B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#917B41",
       "rgb": {
@@ -2078,12 +2463,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-116b",
       "name": "Drab Butternut",
       "code": "116B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#7E6651",
       "rgb": {
@@ -2094,12 +2482,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-116c",
       "name": "Drab Butternut Light",
       "code": "116C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#8A7154",
       "rgb": {
@@ -2110,12 +2501,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-116a",
       "name": "Drab Butternut Shade",
       "code": "116A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#776246",
       "rgb": {
@@ -2126,12 +2520,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-12c",
       "name": "Drab Light",
       "code": "12C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#B7A37E",
       "rgb": {
@@ -2142,12 +2539,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-12a",
       "name": "Drab Shade",
       "code": "12A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#5A4E1A",
       "rgb": {
@@ -2158,12 +2558,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-6b",
       "name": "Dusky Flesh",
       "code": "6B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#93591A",
       "rgb": {
@@ -2174,12 +2577,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-6c",
       "name": "Dusky Flesh Light",
       "code": "6C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#CE9552",
       "rgb": {
@@ -2190,12 +2596,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-6a",
       "name": "Dusky Flesh Shade",
       "code": "6A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#6E3B20",
       "rgb": {
@@ -2206,12 +2615,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-101b",
       "name": "Equipment Black",
       "code": "101B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#323941",
       "rgb": {
@@ -2222,12 +2634,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-101c",
       "name": "Equipment Black Light",
       "code": "101C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#3B4C5E",
       "rgb": {
@@ -2238,12 +2653,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-101a",
       "name": "Equipment Black Shade",
       "code": "101A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#2A2E39",
       "rgb": {
@@ -2254,12 +2672,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-127c",
       "name": "Expert Flesh",
       "code": "127C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#FEA36A",
       "rgb": {
@@ -2270,12 +2691,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-127a",
       "name": "Expert Flesh Deep Shade",
       "code": "127A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#D45947",
       "rgb": {
@@ -2286,12 +2710,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-127f",
       "name": "Expert Flesh Final Highlight",
       "code": "127F",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#F9EDCE",
       "rgb": {
@@ -2302,12 +2729,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-127d",
       "name": "Expert Flesh Light",
       "code": "127D",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#FBB27F",
       "rgb": {
@@ -2318,12 +2748,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-127b",
       "name": "Expert Flesh Shade",
       "code": "127B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#ED775B",
       "rgb": {
@@ -2334,12 +2767,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-127e",
       "name": "Expert Flesh Ultra Light",
       "code": "127E",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#FCC89D",
       "rgb": {
@@ -2350,12 +2786,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-5b",
       "name": "Flesh",
       "code": "5B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#FC9D4D",
       "rgb": {
@@ -2366,12 +2805,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-5c",
       "name": "Flesh Light",
       "code": "5C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#FDCDA5",
       "rgb": {
@@ -2382,12 +2824,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-5a",
       "name": "Flesh Shade",
       "code": "5A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#C26424",
       "rgb": {
@@ -2398,12 +2843,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-26b",
       "name": "Forest Green",
       "code": "26B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#497945",
       "rgb": {
@@ -2414,12 +2862,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-26c",
       "name": "Forest Green Light",
       "code": "26C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#7E9C84",
       "rgb": {
@@ -2430,12 +2881,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-26a",
       "name": "Forest Green Shade",
       "code": "26A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#153422",
       "rgb": {
@@ -2446,12 +2900,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-65b",
       "name": "French Blue",
       "code": "65B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#1D3460",
       "rgb": {
@@ -2462,12 +2919,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-65c",
       "name": "French Blue Light",
       "code": "65C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#19496D",
       "rgb": {
@@ -2478,12 +2938,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-65a",
       "name": "French Blue Shade",
       "code": "65A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#152437",
       "rgb": {
@@ -2494,12 +2957,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-71b",
       "name": "French Chasseur A Cheval Green",
       "code": "71B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#1A3B34",
       "rgb": {
@@ -2510,12 +2976,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-71c",
       "name": "French Chasseur A Cheval Green Light",
       "code": "71C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#2D5143",
       "rgb": {
@@ -2526,12 +2995,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-71a",
       "name": "French Chasseur A Cheval Green Shade",
       "code": "71A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#172B2C",
       "rgb": {
@@ -2542,12 +3014,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-70b",
       "name": "French Dragoon Green",
       "code": "70B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#356332",
       "rgb": {
@@ -2558,12 +3033,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-70c",
       "name": "French Dragoon Green Light",
       "code": "70C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#D2E9B5",
       "rgb": {
@@ -2574,12 +3052,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-70a",
       "name": "French Dragoon Green Shade",
       "code": "70A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#627F6D",
       "rgb": {
@@ -2590,12 +3071,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-109b",
       "name": "French Gun Olive Green",
       "code": "109B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#89B26E",
       "rgb": {
@@ -2606,12 +3090,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-109c",
       "name": "French Gun Olive Green Light",
       "code": "109C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#A5BF82",
       "rgb": {
@@ -2622,12 +3109,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-109a",
       "name": "French Gun Olive Green Shade",
       "code": "109A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#508655",
       "rgb": {
@@ -2638,12 +3128,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-76b",
       "name": "French Hussar Sky Blue",
       "code": "76B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#9EC8F2",
       "rgb": {
@@ -2654,12 +3147,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-76c",
       "name": "French Hussar Sky Blue Light",
       "code": "76C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#7EAAD1",
       "rgb": {
@@ -2670,12 +3166,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-76a",
       "name": "French Hussar Sky Blue Shade",
       "code": "76A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#2C5A95",
       "rgb": {
@@ -2686,12 +3185,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-77b",
       "name": "German Early Field Grey",
       "code": "77B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#798D82",
       "rgb": {
@@ -2702,12 +3204,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-77c",
       "name": "German Early Field Grey Light",
       "code": "77C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#859B8E",
       "rgb": {
@@ -2718,12 +3223,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-77a",
       "name": "German Early Field Grey Shade",
       "code": "77A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#69726F",
       "rgb": {
@@ -2734,12 +3242,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-78b",
       "name": "German Late Field Grey",
       "code": "78B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#687878",
       "rgb": {
@@ -2750,12 +3261,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-78c",
       "name": "German Late Field Grey Light",
       "code": "78C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#828A8D",
       "rgb": {
@@ -2766,12 +3280,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-78a",
       "name": "German Late Field Grey Shade",
       "code": "78A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#5F6565",
       "rgb": {
@@ -2782,12 +3299,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-86b",
       "name": "German Oak Leaf Orange",
       "code": "86B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#D9763B",
       "rgb": {
@@ -2798,12 +3318,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-86c",
       "name": "German Oak Leaf Orange Light",
       "code": "86C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#F29367",
       "rgb": {
@@ -2814,12 +3337,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-86a",
       "name": "German Oak Leaf Orange Shade",
       "code": "86A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#BB7C51",
       "rgb": {
@@ -2830,12 +3356,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-87b",
       "name": "German Pea Pattern Green",
       "code": "87B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#85933E",
       "rgb": {
@@ -2846,12 +3375,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-87c",
       "name": "German Pea Pattern Green Light",
       "code": "87C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#9EAA56",
       "rgb": {
@@ -2862,12 +3394,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-87a",
       "name": "German Pea Pattern Green Shade",
       "code": "87A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#727B46",
       "rgb": {
@@ -2878,12 +3413,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-88b",
       "name": "German Pea Pattern Tan",
       "code": "88B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#AC8460",
       "rgb": {
@@ -2894,12 +3432,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-88c",
       "name": "German Pea Pattern Tan Light",
       "code": "88C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#CBA380",
       "rgb": {
@@ -2910,12 +3451,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-88a",
       "name": "German Pea Pattern Tan Shade",
       "code": "88A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#987C64",
       "rgb": {
@@ -2926,12 +3470,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-83b",
       "name": "German Splinter Brown",
       "code": "83B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#4E3E2E",
       "rgb": {
@@ -2942,12 +3489,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-83c",
       "name": "German Splinter Brown Light",
       "code": "83C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#6A553A",
       "rgb": {
@@ -2958,12 +3508,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-83a",
       "name": "German Splinter Brown Shade",
       "code": "83A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#3B322D",
       "rgb": {
@@ -2974,12 +3527,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-84b",
       "name": "German Splinter Green",
       "code": "84B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#425B45",
       "rgb": {
@@ -2990,12 +3546,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-84c",
       "name": "German Splinter Green Light",
       "code": "84C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#5A7F5D",
       "rgb": {
@@ -3006,12 +3565,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-84a",
       "name": "German Splinter Green Shade",
       "code": "84A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#4F5950",
       "rgb": {
@@ -3022,12 +3584,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-85b",
       "name": "German Splinter Tan",
       "code": "85B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#7F7865",
       "rgb": {
@@ -3038,12 +3603,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-85c",
       "name": "German Splinter Tan Light",
       "code": "85C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#9A9377",
       "rgb": {
@@ -3054,12 +3622,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-85a",
       "name": "German Splinter Tan Shade",
       "code": "85A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#666352",
       "rgb": {
@@ -3070,12 +3641,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-36b",
       "name": "Gold",
       "code": "36B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#E0C580",
       "rgb": {
@@ -3086,12 +3660,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-36a",
       "name": "Gold Shade",
       "code": "36A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#9F7F12",
       "rgb": {
@@ -3102,12 +3679,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-31b",
       "name": "Granite",
       "code": "31B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#5D5B4E",
       "rgb": {
@@ -3118,12 +3698,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-31c",
       "name": "Granite Light",
       "code": "31C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#868779",
       "rgb": {
@@ -3134,12 +3717,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-31a",
       "name": "Granite Shade",
       "code": "31A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#4C4741",
       "rgb": {
@@ -3150,12 +3736,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-104b",
       "name": "Gun Metal",
       "code": "104B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#9D9E9F",
       "rgb": {
@@ -3166,12 +3755,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-104c",
       "name": "Gun Metal Light",
       "code": "104C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#E7E8E9",
       "rgb": {
@@ -3182,12 +3774,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-104a",
       "name": "Gun Metal Shade",
       "code": "104A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#656667",
       "rgb": {
@@ -3198,12 +3793,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-47b",
       "name": "Leather & Metal Washes",
       "code": "47B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#B6A18E",
       "rgb": {
@@ -3214,12 +3812,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-47c",
       "name": "Leather & Metal Washes Light",
       "code": "47C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#BEBEBE",
       "rgb": {
@@ -3230,12 +3831,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-47a",
       "name": "Leather & Metal Washes Shade",
       "code": "47A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#DDBA9E",
       "rgb": {
@@ -3246,12 +3850,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-1b",
       "name": "Lemon",
       "code": "1B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#FFEB2B",
       "rgb": {
@@ -3262,12 +3869,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-1c",
       "name": "Lemon Light",
       "code": "1C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#FFF77B",
       "rgb": {
@@ -3278,12 +3888,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-1a",
       "name": "Lemon Shade",
       "code": "1A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#E1AB03",
       "rgb": {
@@ -3294,12 +3907,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-60b",
       "name": "Madder Red",
       "code": "60B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#8E2313",
       "rgb": {
@@ -3310,12 +3926,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-60c",
       "name": "Madder Red Light",
       "code": "60C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#B31E18",
       "rgb": {
@@ -3326,12 +3945,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-60a",
       "name": "Madder Red Shade",
       "code": "60A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#560A0A",
       "rgb": {
@@ -3342,12 +3964,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-125b",
       "name": "Mediterranean Flesh",
       "code": "125B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#E48066",
       "rgb": {
@@ -3358,12 +3983,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-125c",
       "name": "Mediterranean Flesh Light",
       "code": "125C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#FB966A",
       "rgb": {
@@ -3374,12 +4002,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-125a",
       "name": "Mediterranean Flesh Shade",
       "code": "125A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#D76C4A",
       "rgb": {
@@ -3390,12 +4021,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-29b",
       "name": "Moss",
       "code": "29B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#978942",
       "rgb": {
@@ -3406,12 +4040,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-29c",
       "name": "Moss Light",
       "code": "29C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#B0A474",
       "rgb": {
@@ -3422,12 +4059,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-29a",
       "name": "Moss Shade",
       "code": "29A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#605F27",
       "rgb": {
@@ -3438,12 +4078,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-72b",
       "name": "Musket Stock Brown",
       "code": "72B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#513230",
       "rgb": {
@@ -3454,12 +4097,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-72c",
       "name": "Musket Stock Brown Light",
       "code": "72C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#5F3938",
       "rgb": {
@@ -3470,12 +4116,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-72a",
       "name": "Musket Stock Brown Shade",
       "code": "72A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#2C1F26",
       "rgb": {
@@ -3486,12 +4135,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-120b",
       "name": "Native American Flesh",
       "code": "120B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#E96F57",
       "rgb": {
@@ -3502,12 +4154,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-120c",
       "name": "Native American Flesh Light",
       "code": "120C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#F88862",
       "rgb": {
@@ -3518,12 +4173,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-120a",
       "name": "Native American Flesh Shade",
       "code": "120A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#B95851",
       "rgb": {
@@ -3534,12 +4192,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-123b",
       "name": "Near Eastern Flesh",
       "code": "123B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#AF8473",
       "rgb": {
@@ -3550,12 +4211,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-123c",
       "name": "Near Eastern Flesh Light",
       "code": "123C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#C19278",
       "rgb": {
@@ -3566,12 +4230,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-123a",
       "name": "Near Eastern Flesh Shade",
       "code": "123A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#A07064",
       "rgb": {
@@ -3582,12 +4249,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-62b",
       "name": "Night Sky",
       "code": "62B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#326576",
       "rgb": {
@@ -3598,12 +4268,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-62c",
       "name": "Night Sky Light",
       "code": "62C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#4A7887",
       "rgb": {
@@ -3614,12 +4287,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-62a",
       "name": "Night Sky Shade",
       "code": "62A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#2B5470",
       "rgb": {
@@ -3630,12 +4306,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-16b",
       "name": "Nipple Pink",
       "code": "16B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#F4A5A1",
       "rgb": {
@@ -3646,12 +4325,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-16c",
       "name": "Nipple Pink Light",
       "code": "16C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#ECD3CE",
       "rgb": {
@@ -3662,12 +4344,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-16a",
       "name": "Nipple Pink Shade",
       "code": "16A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#EF5A6D",
       "rgb": {
@@ -3678,12 +4363,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-124b",
       "name": "North African Flesh",
       "code": "124B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#B66961",
       "rgb": {
@@ -3694,12 +4382,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-124c",
       "name": "North African Flesh Light",
       "code": "124C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#D17961",
       "rgb": {
@@ -3710,12 +4401,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-124a",
       "name": "North African Flesh Shade",
       "code": "124A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#865544",
       "rgb": {
@@ -3726,12 +4420,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-4b",
       "name": "Ochre",
       "code": "4B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#F1B04C",
       "rgb": {
@@ -3742,12 +4439,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-4c",
       "name": "Ochre Light",
       "code": "4C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#FFD352",
       "rgb": {
@@ -3758,12 +4458,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-4a",
       "name": "Ochre Shade",
       "code": "4A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#E39411",
       "rgb": {
@@ -3774,12 +4477,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-3b",
       "name": "Orange",
       "code": "3B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#FA9414",
       "rgb": {
@@ -3790,12 +4496,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-3c",
       "name": "Orange Light",
       "code": "3C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#FFBF0F",
       "rgb": {
@@ -3806,12 +4515,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-3a",
       "name": "Orange Shade",
       "code": "3A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#E17A13",
       "rgb": {
@@ -3822,12 +4534,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-122b",
       "name": "Oriental Flesh",
       "code": "122B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#E29F5B",
       "rgb": {
@@ -3838,12 +4553,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-122c",
       "name": "Oriental Flesh Light",
       "code": "122C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#F0B58B",
       "rgb": {
@@ -3854,12 +4572,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-122a",
       "name": "Oriental Flesh Shade",
       "code": "122A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#C17E54",
       "rgb": {
@@ -3870,12 +4591,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-56b",
       "name": "Palomino",
       "code": "56B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#DE9A53",
       "rgb": {
@@ -3886,12 +4610,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-56c",
       "name": "Palomino Light",
       "code": "56C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#D9BC6E",
       "rgb": {
@@ -3902,12 +4629,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-56a",
       "name": "Palomino Shade",
       "code": "56A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#9E670A",
       "rgb": {
@@ -3918,12 +4648,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-61b",
       "name": "Peaty Brown",
       "code": "61B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#563D38",
       "rgb": {
@@ -3934,12 +4667,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-61c",
       "name": "Peaty Brown Light",
       "code": "61C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#72634E",
       "rgb": {
@@ -3950,12 +4686,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-61a",
       "name": "Peaty Brown Shade",
       "code": "61A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#2F1D1D",
       "rgb": {
@@ -3966,12 +4705,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-28b",
       "name": "Phlegm Green",
       "code": "28B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#667033",
       "rgb": {
@@ -3982,12 +4724,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-28c",
       "name": "Phlegm Green Light",
       "code": "28C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#8E9C44",
       "rgb": {
@@ -3998,12 +4743,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-28a",
       "name": "Phlegm Green Shade",
       "code": "28A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#525B26",
       "rgb": {
@@ -4014,12 +4762,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-66b",
       "name": "Prussian Blue",
       "code": "66B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#111D37",
       "rgb": {
@@ -4030,12 +4781,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-66c",
       "name": "Prussian Blue Light",
       "code": "66C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#0F274B",
       "rgb": {
@@ -4046,12 +4800,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-66a",
       "name": "Prussian Blue Shade",
       "code": "66A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#080F15",
       "rgb": {
@@ -4062,12 +4819,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-106b",
       "name": "Prussian Gun Mid Blue",
       "code": "106B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#46769E",
       "rgb": {
@@ -4078,12 +4838,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-106c",
       "name": "Prussian Gun Mid Blue Light",
       "code": "106C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#5C98BC",
       "rgb": {
@@ -4094,12 +4857,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-106a",
       "name": "Prussian Gun Mid Blue Shade",
       "code": "106A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#45607D",
       "rgb": {
@@ -4110,12 +4876,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-63b",
       "name": "Quagmire",
       "code": "63B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#464938",
       "rgb": {
@@ -4126,12 +4895,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-63c",
       "name": "Quagmire Light",
       "code": "63C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#6E6D51",
       "rgb": {
@@ -4142,12 +4914,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-63a",
       "name": "Quagmire Shade",
       "code": "63A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#3A3434",
       "rgb": {
@@ -4158,12 +4933,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-30b",
       "name": "Raw Linen",
       "code": "30B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#D5A505",
       "rgb": {
@@ -4174,12 +4952,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-30c",
       "name": "Raw Linen Light",
       "code": "30C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#E5D961",
       "rgb": {
@@ -4190,12 +4971,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-30a",
       "name": "Raw Linen Shade",
       "code": "30A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#817D34",
       "rgb": {
@@ -4206,12 +4990,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-11b",
       "name": "Rawhide",
       "code": "11B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#9F8459",
       "rgb": {
@@ -4222,12 +5009,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-11c",
       "name": "Rawhide Light",
       "code": "11C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#AC9B81",
       "rgb": {
@@ -4238,12 +5028,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-11a",
       "name": "Rawhide Shade",
       "code": "11A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#775937",
       "rgb": {
@@ -4254,12 +5047,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-118b",
       "name": "Rebel Grey",
       "code": "118B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#606970",
       "rgb": {
@@ -4270,12 +5066,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-118c",
       "name": "Rebel Grey Light",
       "code": "118C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#6C7883",
       "rgb": {
@@ -4286,12 +5085,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-118a",
       "name": "Rebel Grey Shade",
       "code": "118A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#515A61",
       "rgb": {
@@ -4302,12 +5104,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-102b",
       "name": "Red Oxide",
       "code": "102B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#594345",
       "rgb": {
@@ -4318,12 +5123,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-102c",
       "name": "Red Oxide Light",
       "code": "102C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#674448",
       "rgb": {
@@ -4334,12 +5142,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-102a",
       "name": "Red Oxide Shade",
       "code": "102A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#514644",
       "rgb": {
@@ -4350,12 +5161,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-115b",
       "name": "Rich Butternut",
       "code": "115B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#976C51",
       "rgb": {
@@ -4366,12 +5180,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-115c",
       "name": "Rich Butternut Light",
       "code": "115C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#A2855B",
       "rgb": {
@@ -4382,12 +5199,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-115a",
       "name": "Rich Butternut Shade",
       "code": "115A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#815C49",
       "rgb": {
@@ -4398,12 +5218,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-19b",
       "name": "Royal Purple",
       "code": "19B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#664C95",
       "rgb": {
@@ -4414,12 +5237,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-19c",
       "name": "Royal Purple Light",
       "code": "19C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#8D7CA0",
       "rgb": {
@@ -4430,12 +5256,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-19a",
       "name": "Royal Purple Shade",
       "code": "19A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#45135A",
       "rgb": {
@@ -4446,12 +5275,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-69b",
       "name": "Russian Green",
       "code": "69B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#223428",
       "rgb": {
@@ -4462,12 +5294,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-69c",
       "name": "Russian Green Light",
       "code": "69C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#303E31",
       "rgb": {
@@ -4478,12 +5313,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-69a",
       "name": "Russian Green Shade",
       "code": "69A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#1E2A20",
       "rgb": {
@@ -4494,12 +5332,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-110b",
       "name": "Russian Gun Apple Green",
       "code": "110B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#497551",
       "rgb": {
@@ -4510,12 +5351,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-110c",
       "name": "Russian Gun Apple Green Light",
       "code": "110C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#72A27A",
       "rgb": {
@@ -4526,12 +5370,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-110a",
       "name": "Russian Gun Apple Green Shade",
       "code": "110A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#3D5E53",
       "rgb": {
@@ -4542,12 +5389,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-38b",
       "name": "Scarlet",
       "code": "38B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#E23300",
       "rgb": {
@@ -4558,12 +5408,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-38c",
       "name": "Scarlet Light",
       "code": "38C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#F15606",
       "rgb": {
@@ -4574,12 +5427,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-38a",
       "name": "Scarlet Shade",
       "code": "38A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#B60002",
       "rgb": {
@@ -4590,12 +5446,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-18b",
       "name": "Shadow Pink",
       "code": "18B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#B33A89",
       "rgb": {
@@ -4606,12 +5465,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-18c",
       "name": "Shadow Pink Light",
       "code": "18C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#D7679F",
       "rgb": {
@@ -4622,12 +5484,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-18a",
       "name": "Shadow Pink Shade",
       "code": "18A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#6A1D47",
       "rgb": {
@@ -4638,12 +5503,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-36c",
       "name": "Shiny",
       "code": "36C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#FFFAB8",
       "rgb": {
@@ -4654,12 +5522,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-21b",
       "name": "Sky Blue",
       "code": "21B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#4A8AC7",
       "rgb": {
@@ -4670,12 +5541,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-21c",
       "name": "Sky Blue Light",
       "code": "21C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#7D9DC4",
       "rgb": {
@@ -4686,12 +5560,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-21a",
       "name": "Sky Blue Shade",
       "code": "21A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#025297",
       "rgb": {
@@ -4702,12 +5579,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-32b",
       "name": "Slate Grey",
       "code": "32B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#606467",
       "rgb": {
@@ -4718,12 +5598,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-32c",
       "name": "Slate Grey Light",
       "code": "32C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#7A7B7D",
       "rgb": {
@@ -4734,12 +5617,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-32a",
       "name": "Slate Grey Shade",
       "code": "32A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#484D51",
       "rgb": {
@@ -4750,12 +5636,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-119b",
       "name": "South American Flesh",
       "code": "119B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#B26E5B",
       "rgb": {
@@ -4766,12 +5655,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-119c",
       "name": "South American Flesh Light",
       "code": "119C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#D08572",
       "rgb": {
@@ -4782,12 +5674,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-119a",
       "name": "South American Flesh Shade",
       "code": "119A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#955553",
       "rgb": {
@@ -4798,12 +5693,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-81b",
       "name": "Soviet Equipment Green",
       "code": "81B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#555B39",
       "rgb": {
@@ -4814,12 +5712,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-81c",
       "name": "Soviet Equipment Green Light",
       "code": "81C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#7B8151",
       "rgb": {
@@ -4830,12 +5731,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-81a",
       "name": "Soviet Equipment Green Shade",
       "code": "81A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#3F422F",
       "rgb": {
@@ -4846,12 +5750,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-82b",
       "name": "Soviet Helmet Green",
       "code": "82B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#A3A26A",
       "rgb": {
@@ -4862,12 +5769,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-82c",
       "name": "Soviet Helmet Green Light",
       "code": "82C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#B3B27C",
       "rgb": {
@@ -4878,12 +5788,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-82a",
       "name": "Soviet Helmet Green Shade",
       "code": "82A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#848559",
       "rgb": {
@@ -4894,12 +5807,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-80b",
       "name": "Soviet Summer Drab",
       "code": "80B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#ADA88A",
       "rgb": {
@@ -4910,12 +5826,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-80c",
       "name": "Soviet Summer Drab Light",
       "code": "80C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#C9C3A3",
       "rgb": {
@@ -4926,12 +5845,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-80a",
       "name": "Soviet Summer Drab Shade",
       "code": "80A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#A19F88",
       "rgb": {
@@ -4942,12 +5864,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-79b",
       "name": "Soviet Summer Tan",
       "code": "79B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#81784F",
       "rgb": {
@@ -4958,12 +5883,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-79c",
       "name": "Soviet Summer Tan Light",
       "code": "79C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#998C5F",
       "rgb": {
@@ -4974,12 +5902,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-79a",
       "name": "Soviet Summer Tan Shade",
       "code": "79A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#6D6B54",
       "rgb": {
@@ -4990,12 +5921,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-95b",
       "name": "Soviet Winter Brown",
       "code": "95B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#44323E",
       "rgb": {
@@ -5006,12 +5940,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-95c",
       "name": "Soviet Winter Brown Light",
       "code": "95C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#6C5461",
       "rgb": {
@@ -5022,12 +5959,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-95a",
       "name": "Soviet Winter Brown Shade",
       "code": "95A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#473646",
       "rgb": {
@@ -5038,12 +5978,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-96b",
       "name": "Soviet Winter Green",
       "code": "96B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#676364",
       "rgb": {
@@ -5054,12 +5997,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-96c",
       "name": "Soviet Winter Green Light",
       "code": "96C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#7F776A",
       "rgb": {
@@ -5070,12 +6016,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-96a",
       "name": "Soviet Winter Green Shade",
       "code": "96A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#504E51",
       "rgb": {
@@ -5086,12 +6035,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-13b",
       "name": "Spearshaft",
       "code": "13B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#A0623B",
       "rgb": {
@@ -5102,12 +6054,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-13c",
       "name": "Spearshaft Light",
       "code": "13C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#B39B53",
       "rgb": {
@@ -5118,12 +6073,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-13a",
       "name": "Spearshaft Shade",
       "code": "13A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#68341C",
       "rgb": {
@@ -5134,12 +6092,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-57b",
       "name": "Stone",
       "code": "57B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#66757C",
       "rgb": {
@@ -5150,12 +6111,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-57c",
       "name": "Stone Light",
       "code": "57C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#8297A8",
       "rgb": {
@@ -5166,12 +6130,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-57a",
       "name": "Stone Shade",
       "code": "57A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#49515E",
       "rgb": {
@@ -5182,12 +6149,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-39b",
       "name": "Storm Blue",
       "code": "39B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#324E64",
       "rgb": {
@@ -5198,12 +6168,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-39c",
       "name": "Storm Blue Light",
       "code": "39C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#576973",
       "rgb": {
@@ -5214,12 +6187,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-39a",
       "name": "Storm Blue Shade",
       "code": "39A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#254047",
       "rgb": {
@@ -5230,12 +6206,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-27b",
       "name": "Storm Green",
       "code": "27B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#445A4D",
       "rgb": {
@@ -5246,12 +6225,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-27c",
       "name": "Storm Green Light",
       "code": "27C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#566C57",
       "rgb": {
@@ -5262,12 +6244,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-27a",
       "name": "Storm Green Shade",
       "code": "27A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#353F24",
       "rgb": {
@@ -5278,12 +6263,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-14b",
       "name": "Tan",
       "code": "14B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#9F5913",
       "rgb": {
@@ -5294,12 +6282,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-14c",
       "name": "Tan Light",
       "code": "14C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#C57B3A",
       "rgb": {
@@ -5310,12 +6301,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-14a",
       "name": "Tan Shade",
       "code": "14A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#542F15",
       "rgb": {
@@ -5326,12 +6320,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-24b",
       "name": "Teal Blue",
       "code": "24B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#008483",
       "rgb": {
@@ -5342,12 +6339,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-24c",
       "name": "Teal Blue Light",
       "code": "24C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#0A9C92",
       "rgb": {
@@ -5358,12 +6358,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-24a",
       "name": "Teal Blue Shade",
       "code": "24A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#004A57",
       "rgb": {
@@ -5374,12 +6377,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-37b",
       "name": "Teracotta",
       "code": "37B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#791A06",
       "rgb": {
@@ -5390,12 +6396,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-37c",
       "name": "Teracotta Light",
       "code": "37C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#915354",
       "rgb": {
@@ -5406,12 +6415,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-37a",
       "name": "Teracotta Shade",
       "code": "37A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#5D2822",
       "rgb": {
@@ -5422,12 +6434,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-23b",
       "name": "Tomb Blue",
       "code": "23B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#57A6CD",
       "rgb": {
@@ -5438,12 +6453,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-23c",
       "name": "Tomb Blue Light",
       "code": "23C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#7CB7C7",
       "rgb": {
@@ -5454,12 +6472,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-23a",
       "name": "Tomb Blue Shade",
       "code": "23A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#3D7BAA",
       "rgb": {
@@ -5470,12 +6491,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-111b",
       "name": "Union Blue",
       "code": "111B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#2A404D",
       "rgb": {
@@ -5486,12 +6510,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-111c",
       "name": "Union Blue Light",
       "code": "111C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#2D5066",
       "rgb": {
@@ -5502,12 +6529,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-111a",
       "name": "Union Blue Shade",
       "code": "111A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#26343F",
       "rgb": {
@@ -5518,12 +6548,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-112b",
       "name": "Union Trouser Blue",
       "code": "112B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#2A93B0",
       "rgb": {
@@ -5534,12 +6567,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-112c",
       "name": "Union Trouser Blue Light",
       "code": "112C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#5EBCFA",
       "rgb": {
@@ -5550,12 +6586,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-112a",
       "name": "Union Trouser Blue Shade",
       "code": "112A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#577192",
       "rgb": {
@@ -5566,12 +6605,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-40b",
       "name": "Violet",
       "code": "40B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#434A81",
       "rgb": {
@@ -5582,12 +6624,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-40c",
       "name": "Violet Light",
       "code": "40C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#7362CA",
       "rgb": {
@@ -5598,12 +6643,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-40a",
       "name": "Violet Shade",
       "code": "40A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#1C175A",
       "rgb": {
@@ -5614,12 +6662,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-22b",
       "name": "Vivid Blue",
       "code": "22B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#20A7E9",
       "rgb": {
@@ -5630,12 +6681,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-22c",
       "name": "Vivid Blue Light",
       "code": "22C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#87C3E7",
       "rgb": {
@@ -5646,12 +6700,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-22a",
       "name": "Vivid Blue Shade",
       "code": "22A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#0893CE",
       "rgb": {
@@ -5662,12 +6719,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-33c",
       "name": "White",
       "code": "33C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#FFFFFF",
       "rgb": {
@@ -5678,12 +6738,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-17b",
       "name": "Wine Stain Red",
       "code": "17B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#C2446A",
       "rgb": {
@@ -5694,12 +6757,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-17c",
       "name": "Wine Stain Red Light",
       "code": "17C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#BE7995",
       "rgb": {
@@ -5710,12 +6776,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-17a",
       "name": "Wine Stain Red Shade",
       "code": "17A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#763032",
       "rgb": {
@@ -5726,12 +6795,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-2b",
       "name": "Yellow",
       "code": "2B",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#FFD60B",
       "rgb": {
@@ -5742,12 +6814,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-2c",
       "name": "Yellow Light",
       "code": "2C",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#FEE958",
       "rgb": {
@@ -5758,12 +6833,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "foundry-2a",
       "name": "Yellow Shade",
       "code": "2A",
+      "ean": null,
       "set": "Foundry Paint System",
       "hex": "#F8B409",
       "rgb": {
@@ -5774,7 +6852,9 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     }
   ]
 }

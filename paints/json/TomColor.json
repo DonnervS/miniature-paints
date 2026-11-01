@@ -1,6 +1,6 @@
 {
   "$schema": "../../schema/brand.schema.json",
-  "schema": "miniature-paints/v4",
+  "schema": "miniature-paints/v5",
   "displayName": "Tom Color",
   "company": "Tom Colors Ltda",
   "address": {
@@ -20,6 +20,7 @@
       "id": "tomcolor-tc-0146",
       "name": "4bo Green",
       "code": "TC-0146",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#43481F",
       "rgb": {
@@ -30,12 +31,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0129",
       "name": "626 Camouflage Grey Raf",
       "code": "TC-0129",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#999EA1",
       "rgb": {
@@ -46,12 +50,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0097",
       "name": "A-14 Steel Grey (russian WW2 Cockpit)",
       "code": "TC-0097",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#697173",
       "rgb": {
@@ -62,12 +69,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0219",
       "name": "A-24m",
       "code": "TC-0219",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#2C2B19",
       "rgb": {
@@ -78,12 +88,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0075",
       "name": "Afrika Mustard",
       "code": "TC-0075",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#A28253",
       "rgb": {
@@ -94,12 +107,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0158",
       "name": "Amarelo",
       "code": "TC-0158",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#FFFC01",
       "rgb": {
@@ -110,12 +126,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcup-01",
       "name": "Amarelo Girassol",
       "code": "TCUP-01",
+      "ean": null,
       "set": "Tom Colors - UP",
       "hex": "#F8E52F",
       "rgb": {
@@ -126,12 +145,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcup-02",
       "name": "Amarelo Helena",
       "code": "TCUP-02",
+      "ean": null,
       "set": "Tom Colors - UP",
       "hex": "#FFBC03",
       "rgb": {
@@ -142,12 +164,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0209",
       "name": "Amarelo Mostarda",
       "code": "TC-0209",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#D5C800",
       "rgb": {
@@ -158,12 +183,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcup-03",
       "name": "Amarelo Piquenique",
       "code": "TCUP-03",
+      "ean": null,
       "set": "Tom Colors - UP",
       "hex": "#DDB204",
       "rgb": {
@@ -174,12 +202,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0186",
       "name": "Amt-11 Light Grey",
       "code": "TC-0186",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#6D7D8C",
       "rgb": {
@@ -190,12 +221,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0177",
       "name": "Amt-12 Dark Grey",
       "code": "TC-0177",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#60606A",
       "rgb": {
@@ -206,12 +240,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0210",
       "name": "Amt-4 Old",
       "code": "TC-0210",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#4B481D",
       "rgb": {
@@ -222,12 +259,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0178",
       "name": "Amt-6",
       "code": "TC-0178",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#1B2121",
       "rgb": {
@@ -238,12 +278,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0160",
       "name": "Ana 601 Insignia White",
       "code": "TC-0160",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#E9E9E1",
       "rgb": {
@@ -254,12 +297,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0161",
       "name": "Ana 603 Sea Grey",
       "code": "TC-0161",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#596068",
       "rgb": {
@@ -270,12 +316,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0159",
       "name": "Ana 607 Sea Blue",
       "code": "TC-0159",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#3A434C",
       "rgb": {
@@ -286,12 +335,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0162",
       "name": "Ana 608 Intermed. Blue",
       "code": "TC-0162",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#62737D",
       "rgb": {
@@ -302,12 +354,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0174",
       "name": "Ana 611 Interior Green",
       "code": "TC-0174",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#67623A",
       "rgb": {
@@ -318,12 +373,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0163",
       "name": "Ana 613 Olive Drab",
       "code": "TC-0163",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#51503C",
       "rgb": {
@@ -334,12 +392,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0170",
       "name": "Ana 616 Sand",
       "code": "TC-0170",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#AF9282",
       "rgb": {
@@ -350,12 +411,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0173",
       "name": "Ana 620 Light Gull Grey",
       "code": "TC-0173",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#B1AEA7",
       "rgb": {
@@ -366,12 +430,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0169",
       "name": "Ana 621 Dark Dull Grey",
       "code": "TC-0169",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#757A74",
       "rgb": {
@@ -382,12 +449,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0144",
       "name": "Antifoliage Green",
       "code": "TC-0144",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#567959",
       "rgb": {
@@ -398,12 +468,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcup-15",
       "name": "Arara Azul",
       "code": "TCUP-15",
+      "ean": null,
       "set": "Tom Colors - UP",
       "hex": "#0034BB",
       "rgb": {
@@ -414,12 +487,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0007",
       "name": "Azul",
       "code": "TC-0007",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#020C65",
       "rgb": {
@@ -430,12 +506,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcup-20",
       "name": "Azul Do Charlie",
       "code": "TCUP-20",
+      "ean": null,
       "set": "Tom Colors - UP",
       "hex": "#293EA9",
       "rgb": {
@@ -446,12 +525,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0159-2",
       "name": "Azul Luminoso",
       "code": "TC-0159",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#224062",
       "rgb": {
@@ -462,12 +544,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcup-25",
       "name": "Azul Marshmallow",
       "code": "TCUP-25",
+      "ean": null,
       "set": "Tom Colors - UP",
       "hex": "#35A9DA",
       "rgb": {
@@ -478,12 +563,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcup-19",
       "name": "Azul Oceano",
       "code": "TCUP-19",
+      "ean": null,
       "set": "Tom Colors - UP",
       "hex": "#041738",
       "rgb": {
@@ -494,12 +582,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0123",
       "name": "Azure Blue",
       "code": "TC-0123",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#7EA0C5",
       "rgb": {
@@ -510,12 +601,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0213",
       "name": "Baby Room Blue",
       "code": "TC-0213",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#879BCE",
       "rgb": {
@@ -526,12 +620,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0181",
       "name": "Barley Grey",
       "code": "TC-0181",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#97A6A9",
       "rgb": {
@@ -542,12 +639,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0306",
       "name": "Base Skin Tone",
       "code": "TC-0306",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#F2E0BC",
       "rgb": {
@@ -558,12 +658,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0111",
       "name": "Bianco Neve 6",
       "code": "TC-0111",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#E0E1DC",
       "rgb": {
@@ -574,12 +677,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0255",
       "name": "Black Uniform Base",
       "code": "TC-0255",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#25221D",
       "rgb": {
@@ -590,12 +696,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0235",
       "name": "Black Uniform Light",
       "code": "TC-0235",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#5B5E63",
       "rgb": {
@@ -606,12 +715,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0234",
       "name": "Black Uniform Shadow",
       "code": "TC-0234",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#262626",
       "rgb": {
@@ -622,12 +734,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0145",
       "name": "Blue Grey 058m",
       "code": "TC-0145",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#74878D",
       "rgb": {
@@ -638,12 +753,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0001",
       "name": "Branco",
       "code": "TC-0001",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#FFFFFF",
       "rgb": {
@@ -654,12 +772,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0135",
       "name": "Branco Lavado",
       "code": "TC-0135",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#E9E4C6",
       "rgb": {
@@ -670,12 +791,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0188",
       "name": "Bronze Green",
       "code": "TC-0188",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#2E4028",
       "rgb": {
@@ -686,12 +810,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0232",
       "name": "Bs263 Atlantic Grey",
       "code": "TC-0232",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#677373",
       "rgb": {
@@ -702,12 +829,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0143",
       "name": "Bs381c:638 Grey",
       "code": "TC-0143",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#696C71",
       "rgb": {
@@ -718,12 +848,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0244",
       "name": "Buff (drybrush)",
       "code": "TC-0244",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#E6D480",
       "rgb": {
@@ -734,12 +867,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0226",
       "name": "Carc Middlestone",
       "code": "TC-0226",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#C6AB96",
       "rgb": {
@@ -750,12 +886,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0060",
       "name": "Carc Tan",
       "code": "TC-0060",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#B79975",
       "rgb": {
@@ -766,12 +905,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcup-04",
       "name": "Chama da Mula Sem Cabeça",
       "code": "TCUP-04",
+      "ean": null,
       "set": "Tom Colors - UP",
       "hex": "#FC9606",
       "rgb": {
@@ -782,12 +924,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0204",
       "name": "Cinza Azulado Médio",
       "code": "TC-0204",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#4A5B6B",
       "rgb": {
@@ -798,12 +943,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0207",
       "name": "Cinza Médio",
       "code": "TC-0207",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#7B8A91",
       "rgb": {
@@ -814,12 +962,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0127",
       "name": "Cockpit Green Raf",
       "code": "TC-0127",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#909E91",
       "rgb": {
@@ -830,12 +981,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0240",
       "name": "Couro Branco",
       "code": "TC-0240",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#D8D1BF",
       "rgb": {
@@ -846,12 +1000,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcup-13",
       "name": "Couro Da Cuca",
       "code": "TCUP-13",
+      "ean": null,
       "set": "Tom Colors - UP",
       "hex": "#0F2822",
       "rgb": {
@@ -862,12 +1019,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0098",
       "name": "Dark Black Green Ijn",
       "code": "TC-0098",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#444643",
       "rgb": {
@@ -878,12 +1038,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0311",
       "name": "Dark Blue 438m",
       "code": "TC-0311",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#153238",
       "rgb": {
@@ -894,12 +1057,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0067",
       "name": "Dark Cammo Grey Bs629",
       "code": "TC-0067",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#68798D",
       "rgb": {
@@ -910,12 +1076,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0118",
       "name": "Dark Earth Raf",
       "code": "TC-0118",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#5D4A29",
       "rgb": {
@@ -926,12 +1095,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0119",
       "name": "Dark Green Raf",
       "code": "TC-0119",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#4F5143",
       "rgb": {
@@ -942,12 +1114,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0134",
       "name": "Dark Mediterranean Blue",
       "code": "TC-0134",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#223754",
       "rgb": {
@@ -958,12 +1133,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0125",
       "name": "Dark Sea Grey",
       "code": "TC-0125",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#4D5760",
       "rgb": {
@@ -974,12 +1152,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0310",
       "name": "Deck Tan",
       "code": "TC-0310",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#CDB593",
       "rgb": {
@@ -990,12 +1171,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0109",
       "name": "Deep Dark Green Ijn",
       "code": "TC-0109",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#36504D",
       "rgb": {
@@ -1006,12 +1190,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0320",
       "name": "Deep Skin Tone",
       "code": "TC-0320",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#634F36",
       "rgb": {
@@ -1022,12 +1209,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0216",
       "name": "Dk Olive Green 328m",
       "code": "TC-0216",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#2B3928",
       "rgb": {
@@ -1038,12 +1228,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0101",
       "name": "Dunkelgrau Dkm51",
       "code": "TC-0101",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#828D9F",
       "rgb": {
@@ -1054,12 +1247,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcup-14",
       "name": "Escama do Boitatá",
       "code": "TCUP-14",
+      "ean": null,
       "set": "Tom Colors - UP",
       "hex": "#295673",
       "rgb": {
@@ -1070,12 +1266,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0116",
       "name": "Extra Dark Sea Green Raf",
       "code": "TC-0116",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#475643",
       "rgb": {
@@ -1086,12 +1285,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0165",
       "name": "Extra Dark Sea Grey",
       "code": "TC-0165",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#60606A",
       "rgb": {
@@ -1102,12 +1304,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0009",
       "name": "FS 10266",
       "code": "TC-0009",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#C8924C",
       "rgb": {
@@ -1118,12 +1323,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0010",
       "name": "FS 13655",
       "code": "TC-0010",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#F4B215",
       "rgb": {
@@ -1134,12 +1342,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0026",
       "name": "FS 14151",
       "code": "TC-0026",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#6E6C2F",
       "rgb": {
@@ -1150,12 +1361,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0011",
       "name": "FS 15045",
       "code": "TC-0011",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#142A38",
       "rgb": {
@@ -1166,12 +1380,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0012",
       "name": "FS 15050",
       "code": "TC-0012",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#183652",
       "rgb": {
@@ -1182,12 +1399,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0058",
       "name": "FS 30051",
       "code": "TC-0058",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#512B14",
       "rgb": {
@@ -1198,12 +1418,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0027",
       "name": "FS 30095",
       "code": "TC-0027",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#9D7C4F",
       "rgb": {
@@ -1214,12 +1437,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-fs-30117",
       "name": "FS 30117 Earth Red",
       "code": "FS-30117",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#372415",
       "rgb": {
@@ -1230,12 +1456,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0045",
       "name": "FS 30118",
       "code": "TC-0045",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#6E5326",
       "rgb": {
@@ -1246,12 +1475,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0131",
       "name": "FS 30140 Air Force Brown",
       "code": "TC-0131",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#665043",
       "rgb": {
@@ -1262,12 +1494,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0051",
       "name": "FS 30219",
       "code": "TC-0051",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#825F3F",
       "rgb": {
@@ -1278,12 +1513,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0008",
       "name": "FS 30260",
       "code": "TC-0008",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#BFA35A",
       "rgb": {
@@ -1294,12 +1532,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0020",
       "name": "FS 30279",
       "code": "TC-0020",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#B9986D",
       "rgb": {
@@ -1310,12 +1551,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0044",
       "name": "FS 33070",
       "code": "TC-0044",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#505338",
       "rgb": {
@@ -1326,12 +1570,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0025",
       "name": "FS 33481 Zinc Chromate Yellow",
       "code": "TC-0025",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#ACA300",
       "rgb": {
@@ -1342,12 +1589,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0059",
       "name": "FS 33531",
       "code": "TC-0059",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#C1AE9F",
       "rgb": {
@@ -1358,12 +1608,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0028",
       "name": "FS 34079",
       "code": "TC-0028",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#42412C",
       "rgb": {
@@ -1374,12 +1627,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0043",
       "name": "FS 34083",
       "code": "TC-0043",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#667147",
       "rgb": {
@@ -1390,12 +1646,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0016",
       "name": "FS 34086",
       "code": "TC-0016",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#3F402E",
       "rgb": {
@@ -1406,12 +1665,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0017",
       "name": "FS 34088",
       "code": "TC-0017",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#5C583F",
       "rgb": {
@@ -1422,12 +1684,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0018",
       "name": "FS 34092",
       "code": "TC-0018",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#4A5952",
       "rgb": {
@@ -1438,12 +1703,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0054",
       "name": "FS 34094",
       "code": "TC-0054",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#3B4B2E",
       "rgb": {
@@ -1454,12 +1722,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0041",
       "name": "FS 34102",
       "code": "TC-0041",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#5C644C",
       "rgb": {
@@ -1470,12 +1741,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0256",
       "name": "FS 34159",
       "code": "TC-0256",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#5F7066",
       "rgb": {
@@ -1486,12 +1760,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0037",
       "name": "FS 34227",
       "code": "TC-0037",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#79896F",
       "rgb": {
@@ -1502,12 +1779,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0029",
       "name": "FS 34424",
       "code": "TC-0029",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#B2BB8E",
       "rgb": {
@@ -1518,12 +1798,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0015",
       "name": "FS 35164",
       "code": "TC-0015",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#627281",
       "rgb": {
@@ -1534,12 +1817,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0023",
       "name": "FS 35189",
       "code": "TC-0023",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#789FA4",
       "rgb": {
@@ -1550,12 +1836,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0032",
       "name": "FS 35231",
       "code": "TC-0032",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#7094B4",
       "rgb": {
@@ -1566,12 +1855,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0048",
       "name": "FS 35237",
       "code": "TC-0048",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#6E7E8D",
       "rgb": {
@@ -1582,12 +1874,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0253",
       "name": "FS 36081 Dark Gunship Grey",
       "code": "TC-0253",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#25221D",
       "rgb": {
@@ -1598,12 +1893,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0014",
       "name": "FS 36118 Gunship Grey",
       "code": "TC-0014",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#414149",
       "rgb": {
@@ -1614,12 +1912,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0034",
       "name": "FS 36152",
       "code": "TC-0034",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#5D6268",
       "rgb": {
@@ -1630,12 +1931,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0021",
       "name": "FS 36176",
       "code": "TC-0021",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#6E7881",
       "rgb": {
@@ -1646,12 +1950,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0030",
       "name": "FS 36187",
       "code": "TC-0030",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#5B7075",
       "rgb": {
@@ -1662,12 +1969,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0019",
       "name": "FS 36231",
       "code": "TC-0019",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#7E8386",
       "rgb": {
@@ -1678,12 +1988,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0031",
       "name": "FS 36270",
       "code": "TC-0031",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#848A8A",
       "rgb": {
@@ -1694,12 +2007,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0039",
       "name": "FS 36314",
       "code": "TC-0039",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#8B908C",
       "rgb": {
@@ -1710,12 +2026,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0050",
       "name": "FS 36320",
       "code": "TC-0050",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#8B959E",
       "rgb": {
@@ -1726,12 +2045,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0042",
       "name": "FS 36375",
       "code": "TC-0042",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#8491A4",
       "rgb": {
@@ -1742,12 +2064,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0024",
       "name": "FS 36440",
       "code": "TC-0024",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#959A94",
       "rgb": {
@@ -1758,12 +2083,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0047",
       "name": "FS 36622",
       "code": "TC-0047",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#D1D2C2",
       "rgb": {
@@ -1774,12 +2102,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0035",
       "name": "FS 37030",
       "code": "TC-0035",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#0B0F10",
       "rgb": {
@@ -1790,12 +2121,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0013",
       "name": "FS 37875 Insignia White",
       "code": "TC-0013",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#E9E9DF",
       "rgb": {
@@ -1806,12 +2140,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0157",
       "name": "Faded Blue Jeans",
       "code": "TC-0157",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#70929B",
       "rgb": {
@@ -1822,12 +2159,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0252",
       "name": "Field Grey Base 1 (verde)",
       "code": "TC-0252",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#5C6759",
       "rgb": {
@@ -1838,12 +2178,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0321",
       "name": "Field Grey Base 2 (cinza)",
       "code": "TC-0321",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#434538",
       "rgb": {
@@ -1854,12 +2197,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0153",
       "name": "Field Grey Green Shadow",
       "code": "TC-0153",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#464C3E",
       "rgb": {
@@ -1870,12 +2216,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0055",
       "name": "Field Uniform Brown",
       "code": "TC-0055",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#8C6848",
       "rgb": {
@@ -1886,12 +2235,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0229",
       "name": "Flat Dark Earth",
       "code": "TC-0229",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#816F61",
       "rgb": {
@@ -1902,12 +2254,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0223",
       "name": "Flight Deck Stain",
       "code": "TC-0223",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#26252A",
       "rgb": {
@@ -1918,12 +2273,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0138",
       "name": "Foliage Green",
       "code": "TC-0138",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#3E534C",
       "rgb": {
@@ -1934,12 +2292,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0192",
       "name": "Forerst Green 2",
       "code": "TC-0192",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#375322",
       "rgb": {
@@ -1950,12 +2311,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0222",
       "name": "Forest Green",
       "code": "TC-0222",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#43451E",
       "rgb": {
@@ -1966,12 +2330,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0192-2",
       "name": "Forest Green V.2",
       "code": "TC-0192",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#3B4B30",
       "rgb": {
@@ -1982,12 +2349,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0231",
       "name": "German Pale Brown",
       "code": "TC-0231",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#7D6857",
       "rgb": {
@@ -1998,12 +2368,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0155",
       "name": "Giallo Mimetico 1",
       "code": "TC-0155",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#CFAE5F",
       "rgb": {
@@ -2014,12 +2387,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0141",
       "name": "Giallo Mimetico 2",
       "code": "TC-0141",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#C2A945",
       "rgb": {
@@ -2030,12 +2406,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0132",
       "name": "Giallo Mimetico 4",
       "code": "TC-0132",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#A68248",
       "rgb": {
@@ -2046,12 +2425,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0136",
       "name": "Grigio Azzurro Scuro 3",
       "code": "TC-0136",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#414850",
       "rgb": {
@@ -2062,12 +2444,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0139",
       "name": "Grigio Mimetico",
       "code": "TC-0139",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#919690",
       "rgb": {
@@ -2078,12 +2463,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0269",
       "name": "Grigio Verde",
       "code": "TC-0269",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#555D48",
       "rgb": {
@@ -2094,12 +2482,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0141-2",
       "name": "Gris Bleu Chair",
       "code": "TC-0141",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#66899C",
       "rgb": {
@@ -2110,12 +2501,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0137",
       "name": "Gris Bleu Fonce",
       "code": "TC-0137",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#577077",
       "rgb": {
@@ -2126,12 +2520,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0176",
       "name": "Haze Grey Usn WW2",
       "code": "TC-0176",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#8A8E91",
       "rgb": {
@@ -2142,12 +2539,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0305",
       "name": "Highlight Skin Tone",
       "code": "TC-0305",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#D2DAE5",
       "rgb": {
@@ -2158,12 +2558,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0243",
       "name": "Hull Red",
       "code": "TC-0243",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#381A02",
       "rgb": {
@@ -2174,12 +2577,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0218",
       "name": "Idf Green",
       "code": "TC-0218",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#394320",
       "rgb": {
@@ -2190,12 +2596,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0107",
       "name": "Ija Light Green Grey",
       "code": "TC-0107",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#89A08C",
       "rgb": {
@@ -2206,12 +2615,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0166",
       "name": "Japan Flight Suit Base",
       "code": "TC-0166",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#745B25",
       "rgb": {
@@ -2222,12 +2634,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0230",
       "name": "Japan Uniform Base",
       "code": "TC-0230",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#956F1A",
       "rgb": {
@@ -2238,12 +2653,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0103",
       "name": "Khaki Brown Ija",
       "code": "TC-0103",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#655847",
       "rgb": {
@@ -2254,12 +2672,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0152",
       "name": "Leather Brown",
       "code": "TC-0152",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#4C382F",
       "rgb": {
@@ -2270,12 +2691,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0227",
       "name": "Leather Suit Base",
       "code": "TC-0227",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#201404",
       "rgb": {
@@ -2286,12 +2710,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0309",
       "name": "Leather Suit Shadow",
       "code": "TC-0309",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#201404",
       "rgb": {
@@ -2302,12 +2729,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0228",
       "name": "Light Green",
       "code": "TC-0228",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#788442",
       "rgb": {
@@ -2318,12 +2748,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0208",
       "name": "Light Grey 627",
       "code": "TC-0208",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#B8B9B3",
       "rgb": {
@@ -2334,12 +2767,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0056",
       "name": "Light Wood",
       "code": "TC-0056",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#D5BE78",
       "rgb": {
@@ -2350,12 +2786,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0247",
       "name": "London Grey RAL 7026",
       "code": "TC-0247",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#364349",
       "rgb": {
@@ -2366,12 +2805,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0102",
       "name": "Luftwaffe WW2 Uniform Base",
       "code": "TC-0102",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#3A4849",
       "rgb": {
@@ -2382,12 +2824,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0195",
       "name": "Luftwaffe WW2 Uniform Light",
       "code": "TC-0195",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#565855",
       "rgb": {
@@ -2398,12 +2843,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0046",
       "name": "Luftwaffe WW2 Uniform Shadow",
       "code": "TC-0046",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#07131F",
       "rgb": {
@@ -2414,12 +2862,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0172",
       "name": "M-485 Blue Grey",
       "code": "TC-0172",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#70838A",
       "rgb": {
@@ -2430,12 +2881,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0185",
       "name": "Marrone Mimetico 1",
       "code": "TC-0185",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#843731",
       "rgb": {
@@ -2446,12 +2900,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0201",
       "name": "Marrone Mimetico 53193",
       "code": "TC-0201",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#785D48",
       "rgb": {
@@ -2462,12 +2919,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0168",
       "name": "Medium Green 42",
       "code": "TC-0168",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#3B564F",
       "rgb": {
@@ -2478,12 +2938,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0122",
       "name": "Medium Sea Grey",
       "code": "TC-0122",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#6B6B63",
       "rgb": {
@@ -2494,12 +2957,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0307",
       "name": "Medium Skin Tone",
       "code": "TC-0307",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#C9AD86",
       "rgb": {
@@ -2510,12 +2976,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0187",
       "name": "Medium Tan",
       "code": "TC-0187",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#A0846E",
       "rgb": {
@@ -2526,12 +2995,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0175",
       "name": "Merdc Forest Green",
       "code": "TC-0175",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#454C19",
       "rgb": {
@@ -2542,12 +3014,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0113",
       "name": "Middlestone Raf",
       "code": "TC-0113",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#A37D3E",
       "rgb": {
@@ -2558,12 +3033,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0184",
       "name": "Mig 25/31 Grey",
       "code": "TC-0184",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#BFC0BB",
       "rgb": {
@@ -2574,12 +3052,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0200",
       "name": "Nato Black",
       "code": "TC-0200",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#202423",
       "rgb": {
@@ -2590,12 +3071,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0198",
       "name": "Nato Brown",
       "code": "TC-0198",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#493326",
       "rgb": {
@@ -2606,12 +3090,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0199",
       "name": "Nato Green",
       "code": "TC-0199",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#2B3F26",
       "rgb": {
@@ -2622,12 +3109,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0189",
       "name": "Navy Blue Usn WW2",
       "code": "TC-0189",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#4B6C73",
       "rgb": {
@@ -2638,12 +3128,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0171",
       "name": "NeutRAL Grey 43 Versão 1",
       "code": "TC-0171",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#6A6B66",
       "rgb": {
@@ -2654,12 +3147,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0149",
       "name": "Nicciola Chiaro 4",
       "code": "TC-0149",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#8B705B",
       "rgb": {
@@ -2670,12 +3166,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0114",
       "name": "Night Blue",
       "code": "TC-0114",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#022135",
       "rgb": {
@@ -2686,12 +3185,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0217",
       "name": "Night Grey",
       "code": "TC-0217",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#24201D",
       "rgb": {
@@ -2702,12 +3204,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcup-17",
       "name": "Noz Moscada",
       "code": "TCUP-17",
+      "ean": null,
       "set": "Tom Colors - UP",
       "hex": "#351814",
       "rgb": {
@@ -2718,12 +3223,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0147",
       "name": "Nº 9 Olive Drab Us Army WW2",
       "code": "TC-0147",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#423C1C",
       "rgb": {
@@ -2734,12 +3242,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0121",
       "name": "Ocean Grey Raf",
       "code": "TC-0121",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#6B7775",
       "rgb": {
@@ -2750,12 +3261,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0202",
       "name": "Ochre Brown",
       "code": "TC-0202",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#B58D4F",
       "rgb": {
@@ -2766,12 +3280,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0167",
       "name": "Olive Drab 41",
       "code": "TC-0167",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#5F5935",
       "rgb": {
@@ -2782,12 +3299,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0104",
       "name": "Olive Green Ija",
       "code": "TC-0104",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#4C483D",
       "rgb": {
@@ -2798,12 +3318,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-raf",
       "name": "Oxford Blue",
       "code": "RAF",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#002147",
       "rgb": {
@@ -2814,12 +3337,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0225",
       "name": "Oxide Brown",
       "code": "TC-0225",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#673222",
       "rgb": {
@@ -2830,12 +3356,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0069",
       "name": "Pale Green Idf",
       "code": "TC-0069",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#75845B",
       "rgb": {
@@ -2846,12 +3375,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0203",
       "name": "Pastel Green",
       "code": "TC-0203",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#9DA282",
       "rgb": {
@@ -2862,12 +3394,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcup-18",
       "name": "Pelo de Lobisomem",
       "code": "TCUP-18",
+      "ean": null,
       "set": "Tom Colors - UP",
       "hex": "#3A1F16",
       "rgb": {
@@ -2878,12 +3413,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0004",
       "name": "Preto",
       "code": "TC-0004",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#000000",
       "rgb": {
@@ -2894,12 +3432,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0214",
       "name": "Preto Locomotiva",
       "code": "TC-0214",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#040404",
       "rgb": {
@@ -2910,12 +3451,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcp-003",
       "name": "Primer Acrílico Branco",
       "code": "TCP-003",
+      "ean": null,
       "set": "Tom Colors - Primer",
       "hex": "#FFFFFF",
       "rgb": {
@@ -2926,12 +3470,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcp-001",
       "name": "Primer Acrílico Cinza",
       "code": "TCP-001",
+      "ean": null,
       "set": "Tom Colors - Primer",
       "hex": "#A1ABAD",
       "rgb": {
@@ -2942,12 +3489,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcp-004",
       "name": "Primer Acrílico Flesh Base",
       "code": "TCP-004",
+      "ean": null,
       "set": "Tom Colors - Primer",
       "hex": "#DFCB90",
       "rgb": {
@@ -2958,12 +3508,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcp-006",
       "name": "Primer Acrílico Olive Drab",
       "code": "TCP-006",
+      "ean": null,
       "set": "Tom Colors - Primer",
       "hex": "#3A4032",
       "rgb": {
@@ -2974,12 +3527,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcp-002",
       "name": "Primer Acrílico Preto",
       "code": "TCP-002",
+      "ean": null,
       "set": "Tom Colors - Primer",
       "hex": "#060608",
       "rgb": {
@@ -2990,12 +3546,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcp-005",
       "name": "Primer Acrílico Zinc Chromate Yellow",
       "code": "TCP-005",
+      "ean": null,
       "set": "Tom Colors - Primer",
       "hex": "#EBD238",
       "rgb": {
@@ -3006,12 +3565,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0084",
       "name": "RAL 5008 Graublau",
       "code": "TC-0084",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#303A46",
       "rgb": {
@@ -3022,12 +3584,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0089",
       "name": "RAL 6011",
       "code": "TC-0089",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#6D7B58",
       "rgb": {
@@ -3038,12 +3603,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0093",
       "name": "RAL 7000 Squirrel Grey",
       "code": "TC-0093",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#7A878D",
       "rgb": {
@@ -3054,12 +3622,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0091",
       "name": "RAL 7001 Silbergrau",
       "code": "TC-0091",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#959CA4",
       "rgb": {
@@ -3070,12 +3641,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0086",
       "name": "RAL 7009",
       "code": "TC-0086",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#656661",
       "rgb": {
@@ -3086,12 +3660,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0085",
       "name": "RAL 7011 Iron Grey",
       "code": "TC-0085",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#545C5F",
       "rgb": {
@@ -3102,12 +3679,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0088",
       "name": "RAL 7012 Basaltgrau",
       "code": "TC-0088",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#565E61",
       "rgb": {
@@ -3118,12 +3698,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0092",
       "name": "RAL 7035",
       "code": "TC-0092",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#C5C7C4",
       "rgb": {
@@ -3134,12 +3717,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0087",
       "name": "RAL 7042 Trafic Grey",
       "code": "TC-0087",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#7B7F7E",
       "rgb": {
@@ -3150,12 +3736,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0065",
       "name": "Radome Grey Modern Jets",
       "code": "TC-0065",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#828888",
       "rgb": {
@@ -3166,12 +3755,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0212",
       "name": "Raf Dark Green 1975-now",
       "code": "TC-0212",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#434E52",
       "rgb": {
@@ -3182,12 +3774,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0115",
       "name": "Raf Insignia Blue",
       "code": "TC-0115",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#02224B",
       "rgb": {
@@ -3198,12 +3793,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0117",
       "name": "Raf Light Aircraft Grey",
       "code": "TC-0117",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#B0B1AB",
       "rgb": {
@@ -3214,12 +3812,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0096",
       "name": "Raf Pru Blue Faded",
       "code": "TC-0096",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#648CA6",
       "rgb": {
@@ -3230,12 +3831,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0099",
       "name": "Raf WW2 Uniform Base",
       "code": "TC-0099",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#384452",
       "rgb": {
@@ -3246,12 +3850,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0193",
       "name": "Raf WW2 Uniform Shadow",
       "code": "TC-0193",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#0D1917",
       "rgb": {
@@ -3262,12 +3869,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0066",
       "name": "Rlm 02 Grau",
       "code": "TC-0066",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#0D0D0D",
       "rgb": {
@@ -3278,12 +3888,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0300",
       "name": "Rlm 04",
       "code": "TC-0300",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#0B0C07",
       "rgb": {
@@ -3294,12 +3907,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0082",
       "name": "Rlm 21 Weiss",
       "code": "TC-0082",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#0C0C0C",
       "rgb": {
@@ -3310,12 +3926,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0312",
       "name": "Rlm 22 Schwarz",
       "code": "TC-0312",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#0C0C0C",
       "rgb": {
@@ -3326,12 +3945,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0036",
       "name": "Rlm 61",
       "code": "TC-0036",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#0D0D0D",
       "rgb": {
@@ -3342,12 +3964,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0296",
       "name": "Rlm 62",
       "code": "TC-0296",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#0D0D0D",
       "rgb": {
@@ -3358,12 +3983,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0106",
       "name": "Rlm 63",
       "code": "TC-0106",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#0D0D0D",
       "rgb": {
@@ -3374,12 +4002,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0068",
       "name": "Rlm 65",
       "code": "TC-0068",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#0C0E0D",
       "rgb": {
@@ -3390,12 +4021,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0301",
       "name": "Rlm 66",
       "code": "TC-0301",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#0C0C0C",
       "rgb": {
@@ -3406,12 +4040,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0077",
       "name": "Rlm 70",
       "code": "TC-0077",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#0D0D0D",
       "rgb": {
@@ -3422,12 +4059,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0070",
       "name": "Rlm 71 Dunkelgrun",
       "code": "TC-0070",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#0D0D0D",
       "rgb": {
@@ -3438,12 +4078,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0254",
       "name": "Rlm 73",
       "code": "TC-0254",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#23241C",
       "rgb": {
@@ -3454,12 +4097,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0071",
       "name": "Rlm 74",
       "code": "TC-0071",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#0D0D0D",
       "rgb": {
@@ -3470,12 +4116,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0072",
       "name": "Rlm 75",
       "code": "TC-0072",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#0C0C0C",
       "rgb": {
@@ -3486,12 +4135,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0073",
       "name": "Rlm 76 (v.2)",
       "code": "TC-0073",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#0B0D0C",
       "rgb": {
@@ -3502,12 +4154,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0298",
       "name": "Rlm 78",
       "code": "TC-0298",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#0D0D0D",
       "rgb": {
@@ -3518,12 +4173,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0299",
       "name": "Rlm 79",
       "code": "TC-0299",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#0D0D0D",
       "rgb": {
@@ -3534,12 +4192,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0081",
       "name": "Rlm 80",
       "code": "TC-0081",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#0D0D0D",
       "rgb": {
@@ -3550,12 +4211,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0074",
       "name": "Rlm 81 (v.1)",
       "code": "TC-0074",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#0D0D0D",
       "rgb": {
@@ -3566,12 +4230,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0076",
       "name": "Rlm 82",
       "code": "TC-0076",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#0D0D0D",
       "rgb": {
@@ -3582,12 +4249,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0249",
       "name": "Rlm 83",
       "code": "TC-0249",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#0E0E0E",
       "rgb": {
@@ -3598,12 +4268,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcup-23",
       "name": "Rosa Cessna",
       "code": "TCUP-23",
+      "ean": null,
       "set": "Tom Colors - UP",
       "hex": "#DF82AE",
       "rgb": {
@@ -3614,12 +4287,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcup-24",
       "name": "Rosa Nina",
       "code": "TCUP-24",
+      "ean": null,
       "set": "Tom Colors - UP",
       "hex": "#F5305E",
       "rgb": {
@@ -3630,12 +4306,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcup-21",
       "name": "Roxo Puro",
       "code": "TCUP-21",
+      "ean": null,
       "set": "Tom Colors - UP",
       "hex": "#43135D",
       "rgb": {
@@ -3646,12 +4325,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0064",
       "name": "Russian 4bo Green",
       "code": "TC-0064",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#2C3719",
       "rgb": {
@@ -3662,12 +4344,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0250",
       "name": "Russian Uniform Shadow",
       "code": "TC-0250",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#373A25",
       "rgb": {
@@ -3678,12 +4363,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0248",
       "name": "Rusted Umber",
       "code": "TC-0248",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#513D36",
       "rgb": {
@@ -3694,12 +4382,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0097-2",
       "name": "Schlickgrau 58",
       "code": "TC-0097",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#57605D",
       "rgb": {
@@ -3710,12 +4401,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0142",
       "name": "Seafoam Green",
       "code": "TC-0142",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#ADB699",
       "rgb": {
@@ -3726,12 +4420,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0308",
       "name": "Shadow Skin Tone",
       "code": "TC-0308",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#574632",
       "rgb": {
@@ -3742,12 +4439,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0233",
       "name": "Ship Grey",
       "code": "TC-0233",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#A6ABAE",
       "rgb": {
@@ -3758,12 +4458,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0130",
       "name": "Silbergrau Dkm50",
       "code": "TC-0130",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#ADB1BD",
       "rgb": {
@@ -3774,12 +4477,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0241",
       "name": "Silver Grey",
       "code": "TC-0241",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#9BA0A4",
       "rgb": {
@@ -3790,12 +4496,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0120",
       "name": "Sky Type S",
       "code": "TC-0120",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#A2A48C",
       "rgb": {
@@ -3806,12 +4515,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0100",
       "name": "Stencil White",
       "code": "TC-0100",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#E0E0D8",
       "rgb": {
@@ -3822,12 +4534,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcup-05",
       "name": "Suco De Laranja",
       "code": "TCUP-05",
+      "ean": null,
       "set": "Tom Colors - UP",
       "hex": "#EB3102",
       "rgb": {
@@ -3838,12 +4553,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0211",
       "name": "Terra",
       "code": "TC-0211",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#7D6A5B",
       "rgb": {
@@ -3854,12 +4572,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0148",
       "name": "Terre Fonce",
       "code": "TC-0148",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#645045",
       "rgb": {
@@ -3870,12 +4591,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0088-2",
       "name": "Tire Black",
       "code": "TC-0088",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#3D383C",
       "rgb": {
@@ -3886,12 +4610,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0268",
       "name": "Tire Black Highlight",
       "code": "TC-0268",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#58595B",
       "rgb": {
@@ -3902,12 +4629,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0156",
       "name": "U.s. Modern Vehicles Tan",
       "code": "TC-0156",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#CFB674",
       "rgb": {
@@ -3918,12 +4648,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0140",
       "name": "US Desert Sand",
       "code": "TC-0140",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#C09E79",
       "rgb": {
@@ -3934,12 +4667,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0239",
       "name": "US Merdc Field Drab",
       "code": "TC-0239",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#8E7C68",
       "rgb": {
@@ -3950,12 +4686,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0090",
       "name": "USAF Modern Uniform Base",
       "code": "TC-0090",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#2A3C22",
       "rgb": {
@@ -3966,12 +4705,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0061",
       "name": "USAF Modern Uniform Light",
       "code": "TC-0061",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#586031",
       "rgb": {
@@ -3982,12 +4724,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0237",
       "name": "USAF Modern Uniform Shadow",
       "code": "TC-0237",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#162017",
       "rgb": {
@@ -3998,12 +4743,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0105",
       "name": "USAF Pilot Belts And Details",
       "code": "TC-0105",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#9B9251",
       "rgb": {
@@ -4014,12 +4762,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0238",
       "name": "USAF WW2 Pilot Uniform Shadow",
       "code": "TC-0238",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#313423",
       "rgb": {
@@ -4030,12 +4781,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcup-16",
       "name": "Ultra Branco",
       "code": "TCUP-16",
+      "ean": null,
       "set": "Tom Colors - UP",
       "hex": "#FFFFFF",
       "rgb": {
@@ -4046,12 +4800,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcup-22",
       "name": "Ultra Preto",
       "code": "TCUP-22",
+      "ean": null,
       "set": "Tom Colors - UP",
       "hex": "#000000",
       "rgb": {
@@ -4062,12 +4819,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0242",
       "name": "Usaaf WW2 Pilot Uniform Base",
       "code": "TC-0242",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#4D4629",
       "rgb": {
@@ -4078,12 +4838,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0006",
       "name": "Verde",
       "code": "TC-0006",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#107902",
       "rgb": {
@@ -4094,12 +4857,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcup-12",
       "name": "Verde Brasil",
       "code": "TCUP-12",
+      "ean": null,
       "set": "Tom Colors - UP",
       "hex": "#043726",
       "rgb": {
@@ -4110,12 +4876,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0110",
       "name": "Verde Khaki",
       "code": "TC-0110",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#5D573F",
       "rgb": {
@@ -4126,12 +4895,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0206",
       "name": "Verde Mimetico 2",
       "code": "TC-0206",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#2E483F",
       "rgb": {
@@ -4142,12 +4914,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0224",
       "name": "Verde Mimetico 3",
       "code": "TC-0224",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#555A43",
       "rgb": {
@@ -4158,12 +4933,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0179",
       "name": "Verde Mimetico 53192",
       "code": "TC-0179",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#739D75",
       "rgb": {
@@ -4174,12 +4952,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0150",
       "name": "Verde Oliva Scuro 2",
       "code": "TC-0150",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#313A35",
       "rgb": {
@@ -4190,12 +4971,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0205",
       "name": "Verde Selva",
       "code": "TC-0205",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#3D3C28",
       "rgb": {
@@ -4206,12 +4990,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcup-11",
       "name": "Verde do Duende",
       "code": "TCUP-11",
+      "ean": null,
       "set": "Tom Colors - UP",
       "hex": "#169522",
       "rgb": {
@@ -4222,12 +5009,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcup-08",
       "name": "Vermelho Beterraba",
       "code": "TCUP-08",
+      "ean": null,
       "set": "Tom Colors - UP",
       "hex": "#971A22",
       "rgb": {
@@ -4238,12 +5028,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcup-10",
       "name": "Vermelho Cabelo do Curupira",
       "code": "TCUP-10",
+      "ean": null,
       "set": "Tom Colors - UP",
       "hex": "#950602",
       "rgb": {
@@ -4254,12 +5047,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcup-06",
       "name": "Vermelho Flame",
       "code": "TCUP-06",
+      "ean": null,
       "set": "Tom Colors - UP",
       "hex": "#E42417",
       "rgb": {
@@ -4270,12 +5066,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcup-09",
       "name": "Vermelho Gorro de Saci",
       "code": "TCUP-09",
+      "ean": null,
       "set": "Tom Colors - UP",
       "hex": "#C70D22",
       "rgb": {
@@ -4286,12 +5085,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tcup-07",
       "name": "Vermelho Melancia",
       "code": "TCUP-07",
+      "ean": null,
       "set": "Tom Colors - UP",
       "hex": "#DD2F46",
       "rgb": {
@@ -4302,12 +5104,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0005",
       "name": "Vermelho Puro",
       "code": "TC-0005",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#CC0809",
       "rgb": {
@@ -4318,12 +5123,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0183",
       "name": "Vvs Dark Green",
       "code": "TC-0183",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#224618",
       "rgb": {
@@ -4334,12 +5142,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "tomcolor-tc-0220",
       "name": "Woodbrown Médio",
       "code": "TC-0220",
+      "ean": null,
       "set": "Tom Colors",
       "hex": "#6F5B36",
       "rgb": {
@@ -4350,7 +5161,9 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     }
   ]
 }

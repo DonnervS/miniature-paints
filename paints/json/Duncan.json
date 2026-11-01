@@ -1,6 +1,6 @@
 {
   "$schema": "../../schema/brand.schema.json",
-  "schema": "miniature-paints/v4",
+  "schema": "miniature-paints/v5",
   "displayName": "Two Thin Coats",
   "company": "Duncan Rhodes Painting Academy Limited",
   "address": {
@@ -20,6 +20,9 @@
       "id": "duncan-amethyst-rayne",
       "name": "Amethyst Rayne",
       "code": null,
+      "ean": [
+        "5060951920159"
+      ],
       "set": "Wave 1 — Shadow",
       "hex": "#524169",
       "rgb": {
@@ -36,12 +39,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-barbarian-brawn",
       "name": "Barbarian Brawn",
       "code": null,
+      "ean": [
+        "5060951920241"
+      ],
       "set": "Wave 1 — Shadow",
       "hex": "#8F5F55",
       "rgb": {
@@ -58,12 +66,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-berserker-red",
       "name": "Berserker Red",
       "code": null,
+      "ean": [
+        "5060951920005"
+      ],
       "set": "Wave 1 — Shadow",
       "hex": "#4D1B15",
       "rgb": {
@@ -80,12 +93,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-cold-corpse-blue",
       "name": "Cold Corpse Blue",
       "code": null,
+      "ean": [
+        "5060951920487"
+      ],
       "set": "Wave 1 — Shadow",
       "hex": "#51555C",
       "rgb": {
@@ -102,12 +120,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-cuirass-leather",
       "name": "Cuirass Leather",
       "code": null,
+      "ean": [
+        "5060951920272"
+      ],
       "set": "Wave 1 — Shadow",
       "hex": "#52433A",
       "rgb": {
@@ -124,12 +147,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-dark-sun-yellow",
       "name": "Dark Sun Yellow",
       "code": null,
+      "ean": [
+        "5060951920036"
+      ],
       "set": "Wave 1 — Shadow",
       "hex": "#C48639",
       "rgb": {
@@ -146,12 +174,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-doom-death-black",
       "name": "Doom Death Black",
       "code": null,
+      "ean": [
+        "5060951920180"
+      ],
       "set": "Wave 1 — Shadow",
       "hex": "#3D3937",
       "rgb": {
@@ -168,12 +201,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-dragon-fang",
       "name": "Dragon Fang",
       "code": null,
+      "ean": [
+        "5060951920302"
+      ],
       "set": "Wave 1 — Shadow",
       "hex": "#9E8460",
       "rgb": {
@@ -190,12 +228,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-dust-bowl",
       "name": "Dust Bowl",
       "code": null,
+      "ean": [
+        "5060951920364"
+      ],
       "set": "Wave 1 — Shadow",
       "hex": "#7E634B",
       "rgb": {
@@ -212,12 +255,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-griffon-claw",
       "name": "Griffon Claw",
       "code": null,
+      "ean": [
+        "5060951920333"
+      ],
       "set": "Wave 1 — Shadow",
       "hex": "#9F9085",
       "rgb": {
@@ -234,12 +282,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-marine-blue",
       "name": "Marine Blue",
       "code": null,
+      "ean": [
+        "5060951920067"
+      ],
       "set": "Wave 1 — Shadow",
       "hex": "#44496F",
       "rgb": {
@@ -256,12 +309,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-royal-cloak",
       "name": "Royal Cloak",
       "code": null,
+      "ean": [
+        "5060951920456"
+      ],
       "set": "Wave 1 — Shadow",
       "hex": "#5B4349",
       "rgb": {
@@ -278,12 +336,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-rust-orange",
       "name": "Rust Orange",
       "code": null,
+      "ean": [
+        "5060951920098"
+      ],
       "set": "Wave 1 — Shadow",
       "hex": "#BA4D37",
       "rgb": {
@@ -300,12 +363,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-scorched-earth",
       "name": "Scorched Earth",
       "code": null,
+      "ean": [
+        "5060951920517"
+      ],
       "set": "Wave 1 — Shadow",
       "hex": "#5A4D49",
       "rgb": {
@@ -322,12 +390,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-sir-coates-silver",
       "name": "Sir Coates Silver",
       "code": null,
+      "ean": [
+        "5060951920395"
+      ],
       "set": "Wave 1 — Shadow",
       "hex": "#4A4B4B",
       "rgb": {
@@ -344,12 +417,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-spartan-bronze",
       "name": "Spartan Bronze",
       "code": null,
+      "ean": [
+        "5060951920425"
+      ],
       "set": "Wave 1 — Shadow",
       "hex": "#573F30",
       "rgb": {
@@ -366,12 +444,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-wizard-grey",
       "name": "Wizard Grey",
       "code": null,
+      "ean": [
+        "5060951920210"
+      ],
       "set": "Wave 1 — Shadow",
       "hex": "#6D6C6C",
       "rgb": {
@@ -388,12 +471,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-wyvern-green",
       "name": "Wyvern Green",
       "code": null,
+      "ean": [
+        "5060951920128"
+      ],
       "set": "Wave 1 — Shadow",
       "hex": "#404A43",
       "rgb": {
@@ -410,12 +498,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-ancient-forest",
       "name": "Ancient Forest",
       "code": null,
+      "ean": [
+        "5060951920524"
+      ],
       "set": "Wave 1 — Midtone",
       "hex": "#715B52",
       "rgb": {
@@ -432,12 +525,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-boar-hide",
       "name": "Boar Hide",
       "code": null,
+      "ean": [
+        "5060951920289"
+      ],
       "set": "Wave 1 — Midtone",
       "hex": "#734539",
       "rgb": {
@@ -454,12 +552,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-carcharodon-grey",
       "name": "Carcharodon Grey",
       "code": null,
+      "ean": [
+        "5060951920227"
+      ],
       "set": "Wave 1 — Midtone",
       "hex": "#959596",
       "rgb": {
@@ -476,12 +579,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-death-reaper",
       "name": "Death Reaper",
       "code": null,
+      "ean": [
+        "5060951920197"
+      ],
       "set": "Wave 1 — Midtone",
       "hex": "#434142",
       "rgb": {
@@ -498,12 +606,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-dragon-s-gold",
       "name": "Dragon's Gold",
       "code": null,
+      "ean": [
+        "5060951920432"
+      ],
       "set": "Wave 1 — Midtone",
       "hex": "#93773E",
       "rgb": {
@@ -520,12 +633,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-dwarven-skin",
       "name": "Dwarven Skin",
       "code": null,
+      "ean": [
+        "5060951920258"
+      ],
       "set": "Wave 1 — Midtone",
       "hex": "#B07C62",
       "rgb": {
@@ -542,12 +660,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-elysium-blue",
       "name": "Elysium Blue",
       "code": null,
+      "ean": [
+        "5060951920074"
+      ],
       "set": "Wave 1 — Midtone",
       "hex": "#5279AC",
       "rgb": {
@@ -564,12 +687,15 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-emerald-green",
       "name": "Emerald Green",
       "code": null,
+      "ean": null,
       "set": "Wave 1 — Midtone",
       "hex": "#3C5C43",
       "rgb": {
@@ -586,12 +712,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-fanatic-orange",
       "name": "Fanatic Orange",
       "code": null,
+      "ean": [
+        "5060951920104"
+      ],
       "set": "Wave 1 — Midtone",
       "hex": "#D94A2E",
       "rgb": {
@@ -608,12 +739,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-ivory-tusk",
       "name": "Ivory Tusk",
       "code": null,
+      "ean": [
+        "5060951920340"
+      ],
       "set": "Wave 1 — Midtone",
       "hex": "#D2C8C0",
       "rgb": {
@@ -630,12 +766,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-plate-armour",
       "name": "Plate Armour",
       "code": null,
+      "ean": [
+        "5060951920401"
+      ],
       "set": "Wave 1 — Midtone",
       "hex": "#616362",
       "rgb": {
@@ -652,12 +793,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-sandstone",
       "name": "Sandstone",
       "code": null,
+      "ean": [
+        "5060951920371"
+      ],
       "set": "Wave 1 — Midtone",
       "hex": "#927B68",
       "rgb": {
@@ -674,12 +820,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-sanguine-scarlet",
       "name": "Sanguine Scarlet",
       "code": null,
+      "ean": [
+        "5060951920012"
+      ],
       "set": "Wave 1 — Midtone",
       "hex": "#971814",
       "rgb": {
@@ -696,12 +847,15 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-skeleton-legion",
       "name": "Skeleton Legion",
       "code": null,
+      "ean": null,
       "set": "Wave 1 — Midtone",
       "hex": "#B0966C",
       "rgb": {
@@ -718,12 +872,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-skulker-yellow",
       "name": "Skulker Yellow",
       "code": null,
+      "ean": [
+        "5060951920043"
+      ],
       "set": "Wave 1 — Midtone",
       "hex": "#F59E00",
       "rgb": {
@@ -740,12 +899,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-sorceror-s-cloak",
       "name": "Sorceror's Cloak",
       "code": null,
+      "ean": [
+        "5060951920166"
+      ],
       "set": "Wave 1 — Midtone",
       "hex": "#79588D",
       "rgb": {
@@ -762,12 +926,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-sword-hilt-burgundy",
       "name": "Sword Hilt Burgundy",
       "code": null,
+      "ean": [
+        "5060951920463"
+      ],
       "set": "Wave 1 — Midtone",
       "hex": "#773D4B",
       "rgb": {
@@ -784,12 +953,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-wolf-grey",
       "name": "Wolf Grey",
       "code": null,
+      "ean": [
+        "5060951920494"
+      ],
       "set": "Wave 1 — Midtone",
       "hex": "#627688",
       "rgb": {
@@ -806,12 +980,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-celestial-blue",
       "name": "Celestial Blue",
       "code": null,
+      "ean": [
+        "5060951920081"
+      ],
       "set": "Wave 1 — Highlight",
       "hex": "#6992C0",
       "rgb": {
@@ -828,12 +1007,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-demon-red",
       "name": "Demon Red",
       "code": null,
+      "ean": [
+        "5060951920029"
+      ],
       "set": "Wave 1 — Highlight",
       "hex": "#D21216",
       "rgb": {
@@ -850,12 +1034,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-dungeon-stone-grey",
       "name": "Dungeon Stone Grey",
       "code": null,
+      "ean": [
+        "5060951920203"
+      ],
       "set": "Wave 1 — Highlight",
       "hex": "#5C5E60",
       "rgb": {
@@ -872,12 +1061,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-elven-skin",
       "name": "Elven Skin",
       "code": null,
+      "ean": [
+        "5060951920265"
+      ],
       "set": "Wave 1 — Highlight",
       "hex": "#C49774",
       "rgb": {
@@ -894,12 +1088,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-ethereal-green",
       "name": "Ethereal Green",
       "code": null,
+      "ean": [
+        "5060951920142"
+      ],
       "set": "Wave 1 — Highlight",
       "hex": "#56802E",
       "rgb": {
@@ -916,12 +1115,15 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-fur-cloak",
       "name": "Fur Cloak",
       "code": null,
+      "ean": null,
       "set": "Wave 1 — Highlight",
       "hex": "#92534E",
       "rgb": {
@@ -938,12 +1140,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-glistening-gold",
       "name": "Glistening Gold",
       "code": null,
+      "ean": [
+        "5060951920449"
+      ],
       "set": "Wave 1 — Highlight",
       "hex": "#73654E",
       "rgb": {
@@ -960,12 +1167,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-glistening-gums",
       "name": "Glistening Gums",
       "code": null,
+      "ean": [
+        "5060951920470"
+      ],
       "set": "Wave 1 — Highlight",
       "hex": "#995879",
       "rgb": {
@@ -982,12 +1194,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-gravestone-blue",
       "name": "Gravestone Blue",
       "code": null,
+      "ean": [
+        "5060951920500"
+      ],
       "set": "Wave 1 — Highlight",
       "hex": "#7B8997",
       "rgb": {
@@ -1004,12 +1221,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-mythril-blade",
       "name": "Mythril Blade",
       "code": null,
+      "ean": [
+        "5060951920418"
+      ],
       "set": "Wave 1 — Highlight",
       "hex": "#676968",
       "rgb": {
@@ -1026,12 +1248,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-orange-flare",
       "name": "Orange Flare",
       "code": null,
+      "ean": [
+        "5060951920111"
+      ],
       "set": "Wave 1 — Highlight",
       "hex": "#EB7140",
       "rgb": {
@@ -1048,12 +1275,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-runic-purple",
       "name": "Runic Purple",
       "code": null,
+      "ean": [
+        "5060951920173"
+      ],
       "set": "Wave 1 — Highlight",
       "hex": "#9C8DB3",
       "rgb": {
@@ -1070,12 +1302,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-temple-stone",
       "name": "Temple Stone",
       "code": null,
+      "ean": [
+        "5060951920388"
+      ],
       "set": "Wave 1 — Highlight",
       "hex": "#A39179",
       "rgb": {
@@ -1092,12 +1329,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-trooper-white",
       "name": "Trooper White",
       "code": null,
+      "ean": [
+        "5060951920357"
+      ],
       "set": "Wave 1 — Highlight",
       "hex": "#EDEBE0",
       "rgb": {
@@ -1114,12 +1356,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-vampire-fang",
       "name": "Vampire Fang",
       "code": null,
+      "ean": [
+        "5060951920326"
+      ],
       "set": "Wave 1 — Highlight",
       "hex": "#CCB89A",
       "rgb": {
@@ -1136,12 +1383,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-wasteland-brown",
       "name": "Wasteland Brown",
       "code": null,
+      "ean": [
+        "5060951920531"
+      ],
       "set": "Wave 1 — Highlight",
       "hex": "#856C5C",
       "rgb": {
@@ -1158,12 +1410,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-white-star",
       "name": "White Star",
       "code": null,
+      "ean": [
+        "5060951920234"
+      ],
       "set": "Wave 1 — Highlight",
       "hex": "#F8F9F8",
       "rgb": {
@@ -1180,12 +1437,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-yellow-flame",
       "name": "Yellow Flame",
       "code": null,
+      "ean": [
+        "5060951920050"
+      ],
       "set": "Wave 1 — Highlight",
       "hex": "#F8B02C",
       "rgb": {
@@ -1202,12 +1464,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-archaic-sepia-wash",
       "name": "Archaic Sepia Wash",
       "code": null,
+      "ean": [
+        "5060951920593"
+      ],
       "set": "Wave 1 — Wash",
       "hex": "#9D7F69",
       "rgb": {
@@ -1224,12 +1491,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-battle-mud-wash",
       "name": "Battle Mud Wash",
       "code": null,
+      "ean": [
+        "5060951920555"
+      ],
       "set": "Wave 1 — Wash",
       "hex": "#6F5F52",
       "rgb": {
@@ -1246,12 +1518,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-flesh-wash",
       "name": "Flesh Wash",
       "code": null,
+      "ean": [
+        "5060951920562"
+      ],
       "set": "Wave 1 — Wash",
       "hex": "#C0A170",
       "rgb": {
@@ -1268,12 +1545,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-necrosis-green-wash",
       "name": "Necrosis Green Wash",
       "code": null,
+      "ean": [
+        "5060951920586"
+      ],
       "set": "Wave 1 — Wash",
       "hex": "#6C7F5B",
       "rgb": {
@@ -1290,12 +1572,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-oblivion-black-wash",
       "name": "Oblivion Black Wash",
       "code": null,
+      "ean": [
+        "5060951920548"
+      ],
       "set": "Wave 1 — Wash",
       "hex": "#4B4848",
       "rgb": {
@@ -1312,12 +1599,15 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-orc-flesh-wash",
       "name": "Orc Flesh Wash",
       "code": null,
+      "ean": null,
       "set": "Wave 1 — Wash",
       "hex": "#417E42",
       "rgb": {
@@ -1334,12 +1624,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-abyss-blue",
       "name": "Abyss Blue",
       "code": null,
+      "ean": [
+        "5060951920722"
+      ],
       "set": "Wave 2 — Shadow",
       "hex": "#334C66",
       "rgb": {
@@ -1356,12 +1651,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-argonaut-skin",
       "name": "Argonaut Skin",
       "code": null,
+      "ean": [
+        "5060951920968"
+      ],
       "set": "Wave 2 — Shadow",
       "hex": "#A6906D",
       "rgb": {
@@ -1378,12 +1678,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-ashen-grey",
       "name": "Ashen Grey",
       "code": null,
+      "ean": [
+        "5060951920876"
+      ],
       "set": "Wave 2 — Shadow",
       "hex": "#505349",
       "rgb": {
@@ -1400,12 +1705,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-dread-red",
       "name": "Dread Red",
       "code": null,
+      "ean": [
+        "5060951920661"
+      ],
       "set": "Wave 2 — Shadow",
       "hex": "#6E4040",
       "rgb": {
@@ -1422,12 +1732,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-druid-flesh",
       "name": "Druid Flesh",
       "code": null,
+      "ean": [
+        "5060951920999"
+      ],
       "set": "Wave 2 — Shadow",
       "hex": "#533F35",
       "rgb": {
@@ -1444,12 +1759,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-field-grey",
       "name": "Field Grey",
       "code": null,
+      "ean": [
+        "5060951920784"
+      ],
       "set": "Wave 2 — Shadow",
       "hex": "#6D735E",
       "rgb": {
@@ -1466,12 +1786,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-fury-green",
       "name": "Fury Green",
       "code": null,
+      "ean": [
+        "5060951920814"
+      ],
       "set": "Wave 2 — Shadow",
       "hex": "#6C6B4D",
       "rgb": {
@@ -1488,12 +1813,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-gyzmo-fur",
       "name": "Gyzmo Fur",
       "code": null,
+      "ean": [
+        "5060951920937"
+      ],
       "set": "Wave 2 — Shadow",
       "hex": "#D28950",
       "rgb": {
@@ -1510,12 +1840,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-hydra-green",
       "name": "Hydra Green",
       "code": null,
+      "ean": [
+        "5060951920845"
+      ],
       "set": "Wave 2 — Shadow",
       "hex": "#344C4F",
       "rgb": {
@@ -1532,12 +1867,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-noble-steed-brown",
       "name": "Noble Steed Brown",
       "code": null,
+      "ean": [
+        "5060951920906"
+      ],
       "set": "Wave 2 — Shadow",
       "hex": "#76543A",
       "rgb": {
@@ -1554,12 +1894,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-orc-hide",
       "name": "Orc Hide",
       "code": null,
+      "ean": [
+        "5060951920753"
+      ],
       "set": "Wave 2 — Shadow",
       "hex": "#7B9B6A",
       "rgb": {
@@ -1576,12 +1921,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-perisher-pink",
       "name": "Perisher Pink",
       "code": null,
+      "ean": [
+        "5060951920630"
+      ],
       "set": "Wave 2 — Shadow",
       "hex": "#BA636A",
       "rgb": {
@@ -1598,12 +1948,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-sentient-turquoise",
       "name": "Sentient Turquoise",
       "code": null,
+      "ean": [
+        "5060951920692"
+      ],
       "set": "Wave 2 — Shadow",
       "hex": "#3C83A3",
       "rgb": {
@@ -1620,12 +1975,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-asmodeus-red",
       "name": "Asmodeus Red",
       "code": null,
+      "ean": [
+        "5060951920678"
+      ],
       "set": "Wave 2 — Midtone",
       "hex": "#8F494A",
       "rgb": {
@@ -1642,12 +2002,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-cursed-blue",
       "name": "Cursed Blue",
       "code": null,
+      "ean": [
+        "5060951920708"
+      ],
       "set": "Wave 2 — Midtone",
       "hex": "#439AB4",
       "rgb": {
@@ -1664,12 +2029,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-dry-rust-brown",
       "name": "Dry Rust Brown",
       "code": null,
+      "ean": [
+        "5060951920913"
+      ],
       "set": "Wave 2 — Midtone",
       "hex": "#B9783F",
       "rgb": {
@@ -1686,12 +2056,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-eidolon-grey",
       "name": "Eidolon Grey",
       "code": null,
+      "ean": [
+        "5060951920883"
+      ],
       "set": "Wave 2 — Midtone",
       "hex": "#545649",
       "rgb": {
@@ -1708,12 +2083,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-goblinoid-green",
       "name": "Goblinoid Green",
       "code": null,
+      "ean": [
+        "5060951920760"
+      ],
       "set": "Wave 2 — Midtone",
       "hex": "#8AB86B",
       "rgb": {
@@ -1730,12 +2110,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-gung-ho-green",
       "name": "Gung-Ho Green",
       "code": null,
+      "ean": [
+        "5060951920821"
+      ],
       "set": "Wave 2 — Midtone",
       "hex": "#A8A365",
       "rgb": {
@@ -1752,12 +2137,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-hot-pink",
       "name": "Hot Pink",
       "code": null,
+      "ean": [
+        "5060951920647"
+      ],
       "set": "Wave 2 — Midtone",
       "hex": "#E285A6",
       "rgb": {
@@ -1774,12 +2164,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-jade-green",
       "name": "Jade Green",
       "code": null,
+      "ean": [
+        "5060951920852"
+      ],
       "set": "Wave 2 — Midtone",
       "hex": "#327B67",
       "rgb": {
@@ -1796,12 +2191,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-kronos-flesh",
       "name": "Kronos Flesh",
       "code": null,
+      "ean": [
+        "5060951920975"
+      ],
       "set": "Wave 2 — Midtone",
       "hex": "#BF9C6F",
       "rgb": {
@@ -1818,12 +2218,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-manticore-ochre",
       "name": "Manticore Ochre",
       "code": null,
+      "ean": [
+        "5060951920944"
+      ],
       "set": "Wave 2 — Midtone",
       "hex": "#D69945",
       "rgb": {
@@ -1840,12 +2245,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-paladin-flesh",
       "name": "Paladin Flesh",
       "code": null,
+      "ean": [
+        "5060951921002"
+      ],
       "set": "Wave 2 — Midtone",
       "hex": "#77584C",
       "rgb": {
@@ -1862,12 +2272,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-ranger-cloak",
       "name": "Ranger Cloak",
       "code": null,
+      "ean": [
+        "5060951920791"
+      ],
       "set": "Wave 2 — Midtone",
       "hex": "#7F8452",
       "rgb": {
@@ -1884,12 +2299,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-witching-hour-blue",
       "name": "Witching Hour Blue",
       "code": null,
+      "ean": [
+        "5060951920739"
+      ],
       "set": "Wave 2 — Midtone",
       "hex": "#326BB3",
       "rgb": {
@@ -1906,12 +2326,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-ares-flesh",
       "name": "Ares Flesh",
       "code": null,
+      "ean": [
+        "5060951920982"
+      ],
       "set": "Wave 2 — Highlight",
       "hex": "#DEC388",
       "rgb": {
@@ -1928,12 +2353,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-bard-skin",
       "name": "Bard Skin",
       "code": null,
+      "ean": [
+        "5060951921019"
+      ],
       "set": "Wave 2 — Highlight",
       "hex": "#967064",
       "rgb": {
@@ -1950,12 +2380,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-cerberus-brown",
       "name": "Cerberus Brown",
       "code": null,
+      "ean": [
+        "5060951920951"
+      ],
       "set": "Wave 2 — Highlight",
       "hex": "#E0AF5A",
       "rgb": {
@@ -1972,12 +2407,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-evil-eye-red",
       "name": "Evil Eye Red",
       "code": null,
+      "ean": [
+        "5060951920685"
+      ],
       "set": "Wave 2 — Highlight",
       "hex": "#C25F51",
       "rgb": {
@@ -1994,12 +2434,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-ghoul-green",
       "name": "Ghoul Green",
       "code": null,
+      "ean": [
+        "5060951920869"
+      ],
       "set": "Wave 2 — Highlight",
       "hex": "#53BE98",
       "rgb": {
@@ -2016,12 +2461,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-green-beret",
       "name": "Green Beret",
       "code": null,
+      "ean": [
+        "5060951920838"
+      ],
       "set": "Wave 2 — Highlight",
       "hex": "#ACAC87",
       "rgb": {
@@ -2038,12 +2488,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-kobold-grey",
       "name": "Kobold Grey",
       "code": null,
+      "ean": [
+        "5060951920807"
+      ],
       "set": "Wave 2 — Highlight",
       "hex": "#878C76",
       "rgb": {
@@ -2060,12 +2515,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-leviathan-blue",
       "name": "Leviathan Blue",
       "code": null,
+      "ean": [
+        "5060951920746"
+      ],
       "set": "Wave 2 — Highlight",
       "hex": "#3C7CC0",
       "rgb": {
@@ -2082,12 +2542,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-neo-pink",
       "name": "Neo Pink",
       "code": null,
+      "ean": [
+        "5060951920654"
+      ],
       "set": "Wave 2 — Highlight",
       "hex": "#F3BFD8",
       "rgb": {
@@ -2104,12 +2569,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-ray-gun-glow",
       "name": "Ray Gun Glow",
       "code": null,
+      "ean": [
+        "5060951920715"
+      ],
       "set": "Wave 2 — Highlight",
       "hex": "#46B1C3",
       "rgb": {
@@ -2126,12 +2596,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-rodent-grey",
       "name": "Rodent Grey",
       "code": null,
+      "ean": [
+        "5060951920890"
+      ],
       "set": "Wave 2 — Highlight",
       "hex": "#707265",
       "rgb": {
@@ -2148,12 +2623,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-satyr-brown",
       "name": "Satyr Brown",
       "code": null,
+      "ean": [
+        "5060951920920"
+      ],
       "set": "Wave 2 — Highlight",
       "hex": "#D69757",
       "rgb": {
@@ -2170,12 +2650,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-troll-snot-green",
       "name": "Troll Snot Green",
       "code": null,
+      "ean": [
+        "5060951920777"
+      ],
       "set": "Wave 2 — Highlight",
       "hex": "#9EC576",
       "rgb": {
@@ -2192,12 +2677,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-amulet-purple",
       "name": "Amulet Purple",
       "code": null,
+      "ean": [
+        "5060951921071"
+      ],
       "set": "Wave 2 — Brights",
       "hex": "#BDADD2",
       "rgb": {
@@ -2214,12 +2704,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-craven-yellow",
       "name": "Craven Yellow",
       "code": null,
+      "ean": [
+        "5060951921033"
+      ],
       "set": "Wave 2 — Brights",
       "hex": "#ECED6A",
       "rgb": {
@@ -2236,12 +2731,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-flaming-forge-orange",
       "name": "Flaming Forge Orange",
       "code": null,
+      "ean": [
+        "5060951921057"
+      ],
       "set": "Wave 2 — Brights",
       "hex": "#EBA645",
       "rgb": {
@@ -2258,12 +2758,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-gigawatt-blue",
       "name": "Gigawatt Blue",
       "code": null,
+      "ean": [
+        "5060951921040"
+      ],
       "set": "Wave 2 — Brights",
       "hex": "#56B7E8",
       "rgb": {
@@ -2280,12 +2785,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-hellspawn-red",
       "name": "Hellspawn Red",
       "code": null,
+      "ean": [
+        "5060951921026"
+      ],
       "set": "Wave 2 — Brights",
       "hex": "#BF3B2F",
       "rgb": {
@@ -2302,12 +2812,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-talisman-green",
       "name": "Talisman Green",
       "code": null,
+      "ean": [
+        "5060951921064"
+      ],
       "set": "Wave 2 — Brights",
       "hex": "#7AC142",
       "rgb": {
@@ -2324,12 +2839,15 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-battle-axe-brass",
       "name": "Battle Axe Brass",
       "code": null,
+      "ean": null,
       "set": "Wave 2 — Metallic",
       "hex": "#D6AA81",
       "rgb": {
@@ -2346,12 +2864,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-dwarven-iron",
       "name": "Dwarven Iron",
       "code": null,
+      "ean": [
+        "5060951921088"
+      ],
       "set": "Wave 2 — Metallic",
       "hex": "#777873",
       "rgb": {
@@ -2368,12 +2891,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-overlord-brass",
       "name": "Overlord Brass",
       "code": null,
+      "ean": [
+        "5060951921118"
+      ],
       "set": "Wave 2 — Metallic",
       "hex": "#C09E77",
       "rgb": {
@@ -2390,12 +2918,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-platinum-crown",
       "name": "Platinum Crown",
       "code": null,
+      "ean": [
+        "5060951921132"
+      ],
       "set": "Wave 2 — Metallic",
       "hex": "#DED1B8",
       "rgb": {
@@ -2412,12 +2945,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-steampunk-copper",
       "name": "Steampunk Copper",
       "code": null,
+      "ean": [
+        "5060951921101"
+      ],
       "set": "Wave 2 — Metallic",
       "hex": "#B8653B",
       "rgb": {
@@ -2434,12 +2972,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-top-brass",
       "name": "Top Brass",
       "code": null,
+      "ean": [
+        "5060951921125"
+      ],
       "set": "Wave 2 — Metallic",
       "hex": "#C79D5E",
       "rgb": {
@@ -2456,12 +2999,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-blue-glaze",
       "name": "Blue Glaze",
       "code": null,
+      "ean": [
+        "5060951921194"
+      ],
       "set": "Wave 2 — Glaze",
       "hex": "#8D9CCD",
       "rgb": {
@@ -2478,12 +3026,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-green-glaze",
       "name": "Green Glaze",
       "code": null,
+      "ean": [
+        "5060951921217"
+      ],
       "set": "Wave 2 — Glaze",
       "hex": "#AFD694",
       "rgb": {
@@ -2500,12 +3053,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-orange-glaze",
       "name": "Orange Glaze",
       "code": null,
+      "ean": [
+        "5060951921200"
+      ],
       "set": "Wave 2 — Glaze",
       "hex": "#F39245",
       "rgb": {
@@ -2522,12 +3080,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-purple-glaze",
       "name": "Purple Glaze",
       "code": null,
+      "ean": [
+        "5060951921224"
+      ],
       "set": "Wave 2 — Glaze",
       "hex": "#CBA3C1",
       "rgb": {
@@ -2544,12 +3107,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-red-glaze",
       "name": "Red Glaze",
       "code": null,
+      "ean": [
+        "5060951921170"
+      ],
       "set": "Wave 2 — Glaze",
       "hex": "#F17F64",
       "rgb": {
@@ -2566,12 +3134,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-yellow-glaze",
       "name": "Yellow Glaze",
       "code": null,
+      "ean": [
+        "5060951921187"
+      ],
       "set": "Wave 2 — Glaze",
       "hex": "#F2EF6E",
       "rgb": {
@@ -2588,12 +3161,15 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-hellion-red-wash",
       "name": "Hellion Red Wash",
       "code": null,
+      "ean": null,
       "set": "Wave 2 — Wash",
       "hex": "#865555",
       "rgb": {
@@ -2610,12 +3186,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-magi-purple-wash",
       "name": "Magi Purple Wash",
       "code": null,
+      "ean": [
+        "5060951921163"
+      ],
       "set": "Wave 2 — Wash",
       "hex": "#553B56",
       "rgb": {
@@ -2632,12 +3213,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-tempest-blue-wash",
       "name": "Tempest Blue Wash",
       "code": null,
+      "ean": [
+        "5060951921156"
+      ],
       "set": "Wave 2 — Wash",
       "hex": "#3E5163",
       "rgb": {
@@ -2654,12 +3240,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-apocalypse-sky",
       "name": "Apocalypse Sky",
       "code": null,
+      "ean": [
+        "5060951921316"
+      ],
       "set": "Wave 3 — Brights",
       "hex": "#E74E42",
       "rgb": {
@@ -2676,12 +3267,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-carapace-green",
       "name": "Carapace Green",
       "code": null,
+      "ean": [
+        "5060951921736"
+      ],
       "set": "Wave 3 — Brights",
       "hex": "#4A7F50",
       "rgb": {
@@ -2698,12 +3294,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-emperor-s-purple",
       "name": "Emperor's Purple",
       "code": null,
+      "ean": [
+        "5060951921729"
+      ],
       "set": "Wave 3 — Brights",
       "hex": "#6C5877",
       "rgb": {
@@ -2720,12 +3321,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-enchantment-blue",
       "name": "Enchantment Blue",
       "code": null,
+      "ean": [
+        "5060951921712"
+      ],
       "set": "Wave 3 — Brights",
       "hex": "#3C6A8A",
       "rgb": {
@@ -2742,12 +3348,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-fire-opal",
       "name": "Fire Opal",
       "code": null,
+      "ean": [
+        "5060951921743"
+      ],
       "set": "Wave 3 — Brights",
       "hex": "#9C6047",
       "rgb": {
@@ -2764,12 +3375,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-inferno-orange",
       "name": "Inferno Orange",
       "code": null,
+      "ean": [
+        "5060951921323"
+      ],
       "set": "Wave 3 — Brights",
       "hex": "#D14A33",
       "rgb": {
@@ -2786,12 +3402,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-omega-blue",
       "name": "Omega Blue",
       "code": null,
+      "ean": [
+        "5060951921705"
+      ],
       "set": "Wave 3 — Brights",
       "hex": "#549795",
       "rgb": {
@@ -2808,12 +3429,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-red-rage",
       "name": "Red Rage",
       "code": null,
+      "ean": [
+        "5060951921309"
+      ],
       "set": "Wave 3 — Brights",
       "hex": "#6B362C",
       "rgb": {
@@ -2830,12 +3456,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-scarab-red",
       "name": "Scarab Red",
       "code": null,
+      "ean": [
+        "5060951921699"
+      ],
       "set": "Wave 3 — Brights",
       "hex": "#954142",
       "rgb": {
@@ -2852,12 +3483,15 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-septic-green",
       "name": "Septic Green",
       "code": null,
+      "ean": null,
       "set": "Wave 3 — Brights",
       "hex": "#AFB33B",
       "rgb": {
@@ -2874,12 +3508,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-ancient-gold",
       "name": "Ancient Gold",
       "code": null,
+      "ean": [
+        "5060951921750"
+      ],
       "set": "Wave 3 — Metallic",
       "hex": "#675A3F",
       "rgb": {
@@ -2896,12 +3535,15 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-bits-o-tin",
       "name": "Bits O'Tin",
       "code": null,
+      "ean": null,
       "set": "Wave 3 — Metallic",
       "hex": "#806F63",
       "rgb": {
@@ -2918,12 +3560,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-blue-steel",
       "name": "Blue Steel",
       "code": null,
+      "ean": [
+        "5060951921781"
+      ],
       "set": "Wave 3 — Metallic",
       "hex": "#6D7875",
       "rgb": {
@@ -2940,12 +3587,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-chaos-bronze",
       "name": "Chaos Bronze",
       "code": null,
+      "ean": [
+        "5060951921774"
+      ],
       "set": "Wave 3 — Metallic",
       "hex": "#8F7963",
       "rgb": {
@@ -2962,12 +3614,15 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-doom-metal",
       "name": "Doom Metal",
       "code": null,
+      "ean": null,
       "set": "Wave 3 — Metallic",
       "hex": "#5C5850",
       "rgb": {
@@ -2984,12 +3639,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-heirloom-gold",
       "name": "Heirloom Gold",
       "code": null,
+      "ean": [
+        "5060951921798"
+      ],
       "set": "Wave 3 — Metallic",
       "hex": "#9F8351",
       "rgb": {
@@ -3006,12 +3666,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-aztec-turquoise-wash",
       "name": "Aztec Turquoise Wash",
       "code": null,
+      "ean": [
+        "5060951921835"
+      ],
       "set": "Wave 3 — Wash",
       "hex": "#9EA7A7",
       "rgb": {
@@ -3028,12 +3693,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-bone-wash",
       "name": "Bone Wash",
       "code": null,
+      "ean": [
+        "5060951921842"
+      ],
       "set": "Wave 3 — Wash",
       "hex": "#CDC0BB",
       "rgb": {
@@ -3050,12 +3720,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-hazard-yellow-wash",
       "name": "Hazard Yellow Wash",
       "code": null,
+      "ean": [
+        "5060951921828"
+      ],
       "set": "Wave 3 — Wash",
       "hex": "#EDD2C4",
       "rgb": {
@@ -3072,12 +3747,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-smoke-grey-wash",
       "name": "Smoke Grey Wash",
       "code": null,
+      "ean": [
+        "5060951921811"
+      ],
       "set": "Wave 3 — Wash",
       "hex": "#ECEAE6",
       "rgb": {
@@ -3094,12 +3774,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-gloss-varnish",
       "name": "Gloss Varnish",
       "code": null,
+      "ean": [
+        "5060951921927"
+      ],
       "set": "Wave 3 — Varnish",
       "hex": "#A09C9D",
       "rgb": {
@@ -3116,12 +3801,15 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-satin-varnish",
       "name": "Satin Varnish",
       "code": null,
+      "ean": null,
       "set": "Wave 3 — Varnish",
       "hex": "#C8C5C6",
       "rgb": {
@@ -3138,12 +3826,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-ambush-yellow",
       "name": "Ambush Yellow",
       "code": null,
+      "ean": [
+        "5060951921354"
+      ],
       "set": "Wave 3 — Highlight",
       "hex": "#E5CC75",
       "rgb": {
@@ -3160,12 +3853,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-amphora-red",
       "name": "Amphora Red",
       "code": null,
+      "ean": [
+        "5060951921279"
+      ],
       "set": "Wave 3 — Shadow",
       "hex": "#492127",
       "rgb": {
@@ -3182,12 +3880,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-antiquity-green",
       "name": "Antiquity Green",
       "code": null,
+      "ean": [
+        "5060951921460"
+      ],
       "set": "Wave 3 — Midtone",
       "hex": "#30807C",
       "rgb": {
@@ -3204,12 +3907,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-boot-strap-brown",
       "name": "Boot Strap Brown",
       "code": null,
+      "ean": [
+        "5060951921613"
+      ],
       "set": "Wave 3 — Midtone",
       "hex": "#855E44",
       "rgb": {
@@ -3226,12 +3934,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-centurion-red",
       "name": "Centurion Red",
       "code": null,
+      "ean": [
+        "5060951921293"
+      ],
       "set": "Wave 3 — Highlight",
       "hex": "#EA3232",
       "rgb": {
@@ -3248,12 +3961,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-contagion-green",
       "name": "Contagion Green",
       "code": null,
+      "ean": [
+        "5060951921422"
+      ],
       "set": "Wave 3 — Shadow",
       "hex": "#91A180",
       "rgb": {
@@ -3270,12 +3988,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-cyber-pink",
       "name": "Cyber Pink",
       "code": null,
+      "ean": [
+        "5060951921637"
+      ],
       "set": "Wave 3 — Brights",
       "hex": "#C64D8A",
       "rgb": {
@@ -3292,12 +4015,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-decadent-purple",
       "name": "Decadent Purple",
       "code": null,
+      "ean": [
+        "5060951921590"
+      ],
       "set": "Wave 3 — Highlight",
       "hex": "#C4C0D6",
       "rgb": {
@@ -3314,12 +4042,15 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-eldar-robe",
       "name": "Eldar Robe",
       "code": null,
+      "ean": null,
       "set": "Wave 3 — Shadow",
       "hex": "#1E5BA4",
       "rgb": {
@@ -3336,12 +4067,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-elixir-green",
       "name": "Elixir Green",
       "code": null,
+      "ean": [
+        "5060951921644"
+      ],
       "set": "Wave 3 — Brights",
       "hex": "#7CC790",
       "rgb": {
@@ -3358,12 +4094,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-emperor-red",
       "name": "Emperor Red",
       "code": null,
+      "ean": [
+        "5060951921286"
+      ],
       "set": "Wave 3 — Midtone",
       "hex": "#A03042",
       "rgb": {
@@ -3380,12 +4121,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-enchantress-purple",
       "name": "Enchantress Purple",
       "code": null,
+      "ean": [
+        "5060951921552"
+      ],
       "set": "Wave 3 — Midtone",
       "hex": "#5B3564",
       "rgb": {
@@ -3402,12 +4148,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-enticing-purple",
       "name": "Enticing Purple",
       "code": null,
+      "ean": [
+        "5060951921583"
+      ],
       "set": "Wave 3 — Midtone",
       "hex": "#837C8E",
       "rgb": {
@@ -3424,12 +4175,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-faust-blue",
       "name": "Faust Blue",
       "code": null,
+      "ean": [
+        "5060951921514"
+      ],
       "set": "Wave 3 — Shadow",
       "hex": "#48525C",
       "rgb": {
@@ -3446,12 +4202,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-flak-gun-yellow",
       "name": "Flak Gun Yellow",
       "code": null,
+      "ean": [
+        "5060951921347"
+      ],
       "set": "Wave 3 — Midtone",
       "hex": "#C8AC5C",
       "rgb": {
@@ -3468,12 +4229,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-frost-blue",
       "name": "Frost Blue",
       "code": null,
+      "ean": [
+        "5060951921538"
+      ],
       "set": "Wave 3 — Highlight",
       "hex": "#7A979F",
       "rgb": {
@@ -3490,12 +4256,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-incubus-purple",
       "name": "Incubus Purple",
       "code": null,
+      "ean": [
+        "5060951921576"
+      ],
       "set": "Wave 3 — Shadow",
       "hex": "#6D6A6F",
       "rgb": {
@@ -3512,12 +4283,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-ion-blue",
       "name": "Ion Blue",
       "code": null,
+      "ean": [
+        "5060951921668"
+      ],
       "set": "Wave 3 — Brights",
       "hex": "#B9D8DB",
       "rgb": {
@@ -3534,12 +4310,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-legion-green",
       "name": "Legion Green",
       "code": null,
+      "ean": [
+        "5060951921415"
+      ],
       "set": "Wave 3 — Highlight",
       "hex": "#276D67",
       "rgb": {
@@ -3556,12 +4337,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-mythic-turquoise",
       "name": "Mythic Turquoise",
       "code": null,
+      "ean": [
+        "5060951921477"
+      ],
       "set": "Wave 3 — Highlight",
       "hex": "#589F9E",
       "rgb": {
@@ -3578,12 +4364,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-oxidation-green",
       "name": "Oxidation Green",
       "code": null,
+      "ean": [
+        "5060951921453"
+      ],
       "set": "Wave 3 — Shadow",
       "hex": "#33444E",
       "rgb": {
@@ -3600,12 +4391,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-pale-skin",
       "name": "Pale Skin",
       "code": null,
+      "ean": [
+        "5060951921682"
+      ],
       "set": "Wave 3 — Brights",
       "hex": "#CBAD7B",
       "rgb": {
@@ -3622,12 +4418,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-panzer-yellow",
       "name": "Panzer Yellow",
       "code": null,
+      "ean": [
+        "5060951921330"
+      ],
       "set": "Wave 3 — Shadow",
       "hex": "#A68F42",
       "rgb": {
@@ -3644,12 +4445,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-pestilence-green",
       "name": "Pestilence Green",
       "code": null,
+      "ean": [
+        "5060951921446"
+      ],
       "set": "Wave 3 — Highlight",
       "hex": "#D6E298",
       "rgb": {
@@ -3666,12 +4472,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-relic-blue",
       "name": "Relic Blue",
       "code": null,
+      "ean": [
+        "5060951921491"
+      ],
       "set": "Wave 3 — Midtone",
       "hex": "#2481BF",
       "rgb": {
@@ -3688,12 +4499,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-scabbard-brown",
       "name": "Scabbard Brown",
       "code": null,
+      "ean": [
+        "5060951921606"
+      ],
       "set": "Wave 3 — Shadow",
       "hex": "#7D5F49",
       "rgb": {
@@ -3710,12 +4526,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-seafarer-blue",
       "name": "Seafarer Blue",
       "code": null,
+      "ean": [
+        "5060951921507"
+      ],
       "set": "Wave 3 — Highlight",
       "hex": "#4A9DCC",
       "rgb": {
@@ -3732,12 +4553,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-serpent-eye-yellow",
       "name": "Serpent Eye Yellow",
       "code": null,
+      "ean": [
+        "5060951921361"
+      ],
       "set": "Wave 3 — Shadow",
       "hex": "#F5D310",
       "rgb": {
@@ -3754,12 +4580,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-shadow-blue",
       "name": "Shadow Blue",
       "code": null,
+      "ean": [
+        "5060951921521"
+      ],
       "set": "Wave 3 — Midtone",
       "hex": "#51646E",
       "rgb": {
@@ -3776,12 +4607,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-solar-flare",
       "name": "Solar Flare",
       "code": null,
+      "ean": [
+        "5060951921651"
+      ],
       "set": "Wave 3 — Brights",
       "hex": "#F18122",
       "rgb": {
@@ -3798,12 +4634,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-spectral-purple",
       "name": "Spectral Purple",
       "code": null,
+      "ean": [
+        "5060951921569"
+      ],
       "set": "Wave 3 — Highlight",
       "hex": "#9C5B9C",
       "rgb": {
@@ -3820,12 +4661,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-sun-bleach-yellow",
       "name": "Sun Bleach Yellow",
       "code": null,
+      "ean": [
+        "5060951921378"
+      ],
       "set": "Wave 3 — Midtone",
       "hex": "#F6E754",
       "rgb": {
@@ -3842,12 +4688,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-traitor-green",
       "name": "Traitor Green",
       "code": null,
+      "ean": [
+        "5060951921408"
+      ],
       "set": "Wave 3 — Midtone",
       "hex": "#2E524F",
       "rgb": {
@@ -3864,12 +4715,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-twin-suns-yellow",
       "name": "Twin Suns Yellow",
       "code": null,
+      "ean": [
+        "5060951921385"
+      ],
       "set": "Wave 3 — Highlight",
       "hex": "#E6E8AE",
       "rgb": {
@@ -3886,12 +4742,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-vambrace-brown",
       "name": "Vambrace Brown",
       "code": null,
+      "ean": [
+        "5060951921620"
+      ],
       "set": "Wave 3 — Highlight",
       "hex": "#9E745D",
       "rgb": {
@@ -3908,12 +4769,15 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-von-evile-purple",
       "name": "Von Evile Purple",
       "code": null,
+      "ean": null,
       "set": "Wave 3 — Shadow",
       "hex": "#22102D",
       "rgb": {
@@ -3930,12 +4794,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-war-master-green",
       "name": "War Master Green",
       "code": null,
+      "ean": [
+        "5060951921392"
+      ],
       "set": "Wave 3 — Shadow",
       "hex": "#384143",
       "rgb": {
@@ -3952,12 +4821,17 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "duncan-zombie-rot",
       "name": "Zombie Rot",
       "code": null,
+      "ean": [
+        "5060951921439"
+      ],
       "set": "Wave 3 — Midtone",
       "hex": "#B5B87B",
       "rgb": {
@@ -3974,7 +4848,9 @@
           "unit": "ml"
         }
       ],
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     }
   ]
 }

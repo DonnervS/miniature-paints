@@ -1,6 +1,6 @@
 {
   "$schema": "../../schema/brand.schema.json",
-  "schema": "miniature-paints/v4",
+  "schema": "miniature-paints/v5",
   "displayName": "Creature",
   "company": "Creature Caster",
   "address": {
@@ -20,6 +20,9 @@
       "id": "creature-mpa-053",
       "name": "Black",
       "code": "MPA-053",
+      "ean": [
+        "0628504411537"
+      ],
       "set": "Monument Pro Acryl Transparent",
       "hex": "#09070B",
       "rgb": {
@@ -30,12 +33,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-040",
       "name": "Black Brown",
       "code": "MPA-040",
+      "ean": [
+        "0628504411407"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#2C282A",
       "rgb": {
@@ -46,12 +54,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-046",
       "name": "Blue",
       "code": "MPA-046",
+      "ean": [
+        "0628504411469"
+      ],
       "set": "Monument Pro Acryl Transparent",
       "hex": "#081144",
       "rgb": {
@@ -62,12 +75,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-005",
       "name": "Blue",
       "code": "MPA-005",
+      "ean": [
+        "0628504411056"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#105AC4",
       "rgb": {
@@ -78,12 +96,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-003",
       "name": "Bold Pyrrole Red",
       "code": "MPA-003",
+      "ean": [
+        "0628504411032"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#D00903",
       "rgb": {
@@ -94,12 +117,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-001",
       "name": "Bold Titanium White",
       "code": "MPA-001",
+      "ean": [
+        "0628504411018"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#E7E3E2",
       "rgb": {
@@ -110,12 +138,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-031",
       "name": "Bright Gold",
       "code": "MPA-031",
+      "ean": [
+        "0628504411315"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#C99855",
       "rgb": {
@@ -126,12 +159,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-022",
       "name": "Bright Ivory",
       "code": "MPA-022",
+      "ean": [
+        "0628504411223"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#ECE6D0",
       "rgb": {
@@ -142,12 +180,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-045",
       "name": "Bright Neutral Grey",
       "code": "MPA-045",
+      "ean": [
+        "0628504411452"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#B9BCB5",
       "rgb": {
@@ -158,12 +201,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-015",
       "name": "Bright Warm Grey",
       "code": "MPA-015",
+      "ean": [
+        "0628504411155"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#C7C8B2",
       "rgb": {
@@ -174,12 +222,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-039",
       "name": "Bright Yellow Green",
       "code": "MPA-039",
+      "ean": [
+        "0628504411391"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#82B704",
       "rgb": {
@@ -190,12 +243,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-032",
       "name": "Bronze",
       "code": "MPA-032",
+      "ean": [
+        "0628504411322"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#654B2D",
       "rgb": {
@@ -206,12 +264,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-052",
       "name": "Brown",
       "code": "MPA-052",
+      "ean": [
+        "0628504411520"
+      ],
       "set": "Monument Pro Acryl Transparent",
       "hex": "#120B0A",
       "rgb": {
@@ -222,12 +285,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-037",
       "name": "Burnt Orange",
       "code": "MPA-037",
+      "ean": [
+        "0628504411377"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#861E05",
       "rgb": {
@@ -238,12 +306,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-008",
       "name": "Burnt Red",
       "code": "MPA-008",
+      "ean": [
+        "0628504411087"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#801C15",
       "rgb": {
@@ -254,12 +327,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-020",
       "name": "Camo Green",
       "code": "MPA-020",
+      "ean": [
+        "0628504411209"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#2C4D22",
       "rgb": {
@@ -270,12 +348,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-002",
       "name": "Coal Black",
       "code": "MPA-002",
+      "ean": [
+        "0628504411025"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#0B0B0B",
       "rgb": {
@@ -286,12 +369,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-027",
       "name": "Copper",
       "code": "MPA-027",
+      "ean": [
+        "0628504411278"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#9E5423",
       "rgb": {
@@ -302,12 +390,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-034",
       "name": "Dark Blue",
       "code": "MPA-034",
+      "ean": [
+        "0628504411346"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#141D26",
       "rgb": {
@@ -318,12 +411,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-036",
       "name": "Dark Camo Green",
       "code": "MPA-036",
+      "ean": [
+        "0628504411360"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#233124",
       "rgb": {
@@ -334,12 +432,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-014",
       "name": "Dark Grey Blue",
       "code": "MPA-014",
+      "ean": [
+        "0628504411148"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#0D3366",
       "rgb": {
@@ -350,12 +453,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-044",
       "name": "Dark Neutral Grey",
       "code": "MPA-044",
+      "ean": [
+        "0628504411445"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#292D2F",
       "rgb": {
@@ -366,12 +474,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-035",
       "name": "Dark Purple",
       "code": "MPA-035",
+      "ean": [
+        "0628504411353"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#0F0C37",
       "rgb": {
@@ -382,12 +495,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-030",
       "name": "Dark Silver",
       "code": "MPA-030",
+      "ean": [
+        "0628504411308"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#0D1215",
       "rgb": {
@@ -398,12 +516,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-019",
       "name": "Dark Umber",
       "code": "MPA-019",
+      "ean": [
+        "0628504411193"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#2F1C10",
       "rgb": {
@@ -414,12 +537,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-016",
       "name": "Dark Warm Grey",
       "code": "MPA-016",
+      "ean": [
+        "0628504411162"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#484D51",
       "rgb": {
@@ -430,12 +558,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-013",
       "name": "Faded Ultramarine",
       "code": "MPA-013",
+      "ean": [
+        "0628504411131"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#7BA2DD",
       "rgb": {
@@ -446,12 +579,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-017",
       "name": "Golden Brown",
       "code": "MPA-017",
+      "ean": [
+        "0628504411179"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#DBAC44",
       "rgb": {
@@ -462,12 +600,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-006",
       "name": "Golden Yellow",
       "code": "MPA-006",
+      "ean": [
+        "0628504411063"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#F3E21F",
       "rgb": {
@@ -478,12 +621,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-004",
       "name": "Green",
       "code": "MPA-004",
+      "ean": [
+        "0628504411049"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#269B41",
       "rgb": {
@@ -494,12 +642,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-048",
       "name": "Green",
       "code": "MPA-048",
+      "ean": [
+        "0628504411483"
+      ],
       "set": "Monument Pro Acryl Transparent",
       "hex": "#0C3333",
       "rgb": {
@@ -510,12 +663,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-023",
       "name": "Ivory",
       "code": "MPA-023",
+      "ean": [
+        "0628504411230"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#DFD3BA",
       "rgb": {
@@ -526,12 +684,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-021",
       "name": "Jade",
       "code": "MPA-021",
+      "ean": [
+        "0628504411216"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#10545A",
       "rgb": {
@@ -542,12 +705,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-026",
       "name": "Light Bronze",
       "code": "MPA-026",
+      "ean": [
+        "0628504411261"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#967E51",
       "rgb": {
@@ -558,12 +726,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-018",
       "name": "Light Umber",
       "code": "MPA-018",
+      "ean": [
+        "0628504411186"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#663820",
       "rgb": {
@@ -574,12 +747,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-011",
       "name": "Magenta",
       "code": "MPA-011",
+      "ean": [
+        "0628504411117"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#BF3C6C",
       "rgb": {
@@ -590,12 +768,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-009",
       "name": "Mahogany",
       "code": "MPA-009",
+      "ean": [
+        "0628504411094"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#240D09",
       "rgb": {
@@ -606,12 +789,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-033",
       "name": "Metallic Medium",
       "code": "MPA-033",
+      "ean": [
+        "0628504411339"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#DADBD5",
       "rgb": {
@@ -622,12 +810,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-041",
       "name": "Olive Flesh",
       "code": "MPA-041",
+      "ean": [
+        "0628504411414"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#D5C18F",
       "rgb": {
@@ -638,12 +831,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-007",
       "name": "Orange",
       "code": "MPA-007",
+      "ean": [
+        "0628504411070"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#F67B00",
       "rgb": {
@@ -654,12 +852,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-050",
       "name": "Orange",
       "code": "MPA-050",
+      "ean": [
+        "0628504411506"
+      ],
       "set": "Monument Pro Acryl Transparent",
       "hex": "#BC1700",
       "rgb": {
@@ -670,12 +873,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-043",
       "name": "Pale Pink",
       "code": "MPA-043",
+      "ean": [
+        "0628504411438"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#FABEB3",
       "rgb": {
@@ -686,12 +894,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-051",
       "name": "Purple",
       "code": "MPA-051",
+      "ean": [
+        "0628504411513"
+      ],
       "set": "Monument Pro Acryl Transparent",
       "hex": "#221B29",
       "rgb": {
@@ -702,12 +915,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-010",
       "name": "Purple",
       "code": "MPA-010",
+      "ean": [
+        "0628504411100"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#89338C",
       "rgb": {
@@ -718,12 +936,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-047",
       "name": "Red",
       "code": "MPA-047",
+      "ean": [
+        "0628504411476"
+      ],
       "set": "Monument Pro Acryl Transparent",
       "hex": "#910200",
       "rgb": {
@@ -734,12 +957,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-028",
       "name": "Rich Gold",
       "code": "MPA-028",
+      "ean": [
+        "0628504411285"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#C88B2A",
       "rgb": {
@@ -750,12 +978,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-042",
       "name": "Shadow Flesh",
       "code": "MPA-042",
+      "ean": [
+        "0628504411421"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#974634",
       "rgb": {
@@ -766,12 +999,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-025",
       "name": "Silver",
       "code": "MPA-025",
+      "ean": [
+        "0628504411254"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#B3B8BC",
       "rgb": {
@@ -782,12 +1020,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-012",
       "name": "Sky Blue",
       "code": "MPA-012",
+      "ean": [
+        "0628504411124"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#2DAEE8",
       "rgb": {
@@ -798,12 +1041,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-024",
       "name": "Tan Flesh",
       "code": "MPA-024",
+      "ean": [
+        "0628504411247"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#DBAE88",
       "rgb": {
@@ -814,12 +1062,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-029",
       "name": "White Gold",
       "code": "MPA-029",
+      "ean": [
+        "0628504411292"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#AC9C83",
       "rgb": {
@@ -830,12 +1083,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-049",
       "name": "Yellow",
       "code": "MPA-049",
+      "ean": [
+        "0628504411490"
+      ],
       "set": "Monument Pro Acryl Transparent",
       "hex": "#E2AB06",
       "rgb": {
@@ -846,12 +1104,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
       "id": "creature-mpa-038",
       "name": "Yellow Ochre",
       "code": "MPA-038",
+      "ean": [
+        "0628504411384"
+      ],
       "set": "Monument Pro Acryl",
       "hex": "#BB841F",
       "rgb": {
@@ -862,7 +1125,9 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     }
   ]
 }

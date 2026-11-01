@@ -10,6 +10,7 @@ on:
     branches: [main]
     paths:
       - 'paints/markdown/**.md'
+      - 'measurements/**'
       - 'scripts/build_paints.py'
       - '.github/workflows/build-paints-json.yml'
 

@@ -1,6 +1,6 @@
 {
   "$schema": "../../schema/brand.schema.json",
-  "schema": "miniature-paints/v4",
+  "schema": "miniature-paints/v5",
   "displayName": "Scale75",
   "company": "SCALE75 HOBBIES AND GAMES, S.L.",
   "address": {
@@ -17,9 +17,12 @@
   "paintCount": 358,
   "paints": [
     {
-      "id": "scale75-abyssal-blue",
+      "id": "scale75-sc-08",
       "name": "Abyssal Blue",
-      "code": null,
+      "code": "SC-08",
+      "ean": [
+        "8412548244273"
+      ],
       "set": "Scale Color Range",
       "hex": "#292A2F",
       "rgb": {
@@ -30,12 +33,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-acid-green",
+      "id": "scale75-sin-25",
       "name": "Acid Green",
-      "code": null,
+      "code": "SIN-25",
+      "ean": [
+        "8412548900803"
+      ],
       "set": "Instant Colors Range",
       "hex": "#C4D964",
       "rgb": {
@@ -46,12 +54,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-acid-pink",
+      "id": "scale75-sfx-02",
       "name": "Acid Pink",
-      "code": null,
+      "code": "SFX-02",
+      "ean": [
+        "8423153061483"
+      ],
       "set": "FX Range",
       "hex": "#F81DFE",
       "rgb": {
@@ -62,12 +75,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-adriatic-blue",
+      "id": "scale75-sc-15",
       "name": "Adriatic Blue",
-      "code": null,
+      "code": "SC-15",
+      "ean": [
+        "8412548245577"
+      ],
       "set": "Scale Color Range",
       "hex": "#128A9B",
       "rgb": {
@@ -78,12 +96,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-african-shadow",
+      "id": "scale75-sc-24",
       "name": "African Shadow",
-      "code": null,
+      "code": "SC-24",
+      "ean": [
+        "8412548247199"
+      ],
       "set": "Scale Color Range",
       "hex": "#56424B",
       "rgb": {
@@ -94,12 +117,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-airnrhod-blue",
+      "id": "scale75-sfg-29",
       "name": "Airnrhod Blue",
-      "code": null,
+      "code": "SFG-29",
+      "ean": [
+        "8412548270159"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#39398F",
       "rgb": {
@@ -110,12 +138,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-aldebaran-red",
+      "id": "scale75-sc-38",
       "name": "Aldebaran Red",
-      "code": null,
+      "code": "SC-38",
+      "ean": [
+        "8412548250250"
+      ],
       "set": "Scale Color Range",
       "hex": "#BE331E",
       "rgb": {
@@ -126,12 +159,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-alizarin-green",
+      "id": "scale75-sart-62",
       "name": "Alizarin Green",
-      "code": null,
+      "code": "SART-62",
+      "ean": [
+        "8435635306142"
+      ],
       "set": "Artist Range",
       "hex": "#26944B",
       "rgb": {
@@ -142,12 +180,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-amarth-blue",
+      "id": "scale75-sfg-30",
       "name": "Amarth Blue",
-      "code": null,
+      "code": "SFG-30",
+      "ean": [
+        "8412548270166"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#0582C5",
       "rgb": {
@@ -158,12 +201,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-amber-alchemy",
+      "id": "scale75-sc-93",
       "name": "Amber Alchemy",
-      "code": null,
+      "code": "SC-93",
+      "ean": [
+        "8412548275260"
+      ],
       "set": "Metal N Alchemy Range",
       "hex": "#B89E85",
       "rgb": {
@@ -174,12 +222,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-american-olive",
+      "id": "scale75-sw-48",
       "name": "American Olive",
-      "code": null,
+      "code": "SW-48",
+      "ean": [
+        "8423153056892"
+      ],
       "set": "Warfront  Range",
       "hex": "#736737",
       "rgb": {
@@ -190,12 +243,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-amethyst-alchemy",
+      "id": "scale75-sc-70",
       "name": "Amethyst Alchemy",
-      "code": null,
+      "code": "SC-70",
+      "ean": [
+        "8412548257402"
+      ],
       "set": "Metal N Alchemy Range",
       "hex": "#9F8EB0",
       "rgb": {
@@ -206,12 +264,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-ancestral-blue",
+      "id": "scale75-sin-33",
       "name": "Ancestral Blue",
-      "code": null,
+      "code": "SIN-33",
+      "ean": [
+        "8412548900889"
+      ],
       "set": "Instant Colors Range",
       "hex": "#61ABC4",
       "rgb": {
@@ -222,12 +285,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-antares-red",
+      "id": "scale75-sc-37",
       "name": "Antares Red",
-      "code": null,
+      "code": "SC-37",
+      "ean": [
+        "8412548250243"
+      ],
       "set": "Scale Color Range",
       "hex": "#C11E21",
       "rgb": {
@@ -238,12 +306,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-anthartic-grey",
+      "id": "scale75-sc-04",
       "name": "Anthartic Grey",
-      "code": null,
+      "code": "SC-04",
+      "ean": [
+        "8412548244235"
+      ],
       "set": "Scale Color Range",
       "hex": "#42424C",
       "rgb": {
@@ -254,12 +327,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-arabic-shadow",
+      "id": "scale75-sc-22",
       "name": "Arabic Shadow",
-      "code": null,
+      "code": "SC-22",
+      "ean": [
+        "8412548247175"
+      ],
       "set": "Scale Color Range",
       "hex": "#7C6833",
       "rgb": {
@@ -270,12 +348,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-arbuckles-brown",
+      "id": "scale75-sfg-34",
       "name": "Arbuckles Brown",
-      "code": null,
+      "code": "SFG-34",
+      "ean": [
+        "8412548270883"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#3C2922",
       "rgb": {
@@ -286,12 +369,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-arcane-purple",
+      "id": "scale75-sin-27",
       "name": "Arcane Purple",
-      "code": null,
+      "code": "SIN-27",
+      "ean": [
+        "8412548900827"
+      ],
       "set": "Instant Colors Range",
       "hex": "#350D4C",
       "rgb": {
@@ -302,12 +390,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-ardenes-green",
+      "id": "scale75-sc-45",
       "name": "Ardenes Green",
-      "code": null,
+      "code": "SC-45",
+      "ean": [
+        "8412548251455"
+      ],
       "set": "Scale Color Range",
       "hex": "#566345",
       "rgb": {
@@ -318,12 +411,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-arphen-jade",
+      "id": "scale75-sfg-28",
       "name": "Arphen Jade",
-      "code": null,
+      "code": "SFG-28",
+      "ean": [
+        "8412548270142"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#035D53",
       "rgb": {
@@ -334,12 +432,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-art-black",
+      "id": "scale75-sart-02",
       "name": "Art Black",
-      "code": null,
+      "code": "SART-02",
+      "ean": [
+        "8423153061766"
+      ],
       "set": "Artist Range",
       "hex": "#101010",
       "rgb": {
@@ -350,12 +453,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-art-white",
+      "id": "scale75-sart-01",
       "name": "Art White",
-      "code": null,
+      "code": "SART-01",
+      "ean": [
+        "8423153061759"
+      ],
       "set": "Artist Range",
       "hex": "#FEFEFE",
       "rgb": {
@@ -366,12 +474,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-artic-blue",
+      "id": "scale75-sart-44",
       "name": "Artic Blue",
-      "code": null,
+      "code": "SART-44",
+      "ean": [
+        "8423153062282"
+      ],
       "set": "Artist Range",
       "hex": "#888FA1",
       "rgb": {
@@ -382,12 +495,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-artic-blue-2",
+      "id": "scale75-sc-05",
       "name": "Artic Blue",
-      "code": null,
+      "code": "SC-05",
+      "ean": [
+        "8412548244242"
+      ],
       "set": "Scale Color Range",
       "hex": "#9FB3BC",
       "rgb": {
@@ -398,12 +516,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-baal-crimson",
+      "id": "scale75-sfg-04",
       "name": "Baal Crimson",
-      "code": null,
+      "code": "SFG-04",
+      "ean": [
+        "8412548268101"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#E11A39",
       "rgb": {
@@ -414,12 +537,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-basic-flesh",
+      "id": "scale75-sc-20",
       "name": "Basic Flesh",
-      "code": null,
+      "code": "SC-20",
+      "ean": [
+        "8412548247151"
+      ],
       "set": "Scale Color Range",
       "hex": "#D0B393",
       "rgb": {
@@ -430,12 +558,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-basilisk-green",
+      "id": "scale75-sin-43",
       "name": "Basilisk Green",
-      "code": null,
+      "code": "SIN-43",
+      "ean": [
+        "8412548900988"
+      ],
       "set": "Instant Colors Range",
       "hex": "#3D5152",
       "rgb": {
@@ -446,12 +579,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-beherit-red",
+      "id": "scale75-sfg-05",
       "name": "Beherit Red",
-      "code": null,
+      "code": "SFG-05",
+      "ean": [
+        "8412548268118"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#E2390E",
       "rgb": {
@@ -462,12 +600,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-belladonna-green",
+      "id": "scale75-sin-22",
       "name": "Belladonna Green",
-      "code": null,
+      "code": "SIN-22",
+      "ean": [
+        "8412548900773"
+      ],
       "set": "Instant Colors Range",
       "hex": "#4CA579",
       "rgb": {
@@ -478,12 +621,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-bering-blue",
+      "id": "scale75-sc-06",
       "name": "Bering Blue",
-      "code": null,
+      "code": "SC-06",
+      "ean": [
+        "8412548244259"
+      ],
       "set": "Scale Color Range",
       "hex": "#6C8997",
       "rgb": {
@@ -494,12 +642,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-birch",
+      "id": "scale75-sc-25",
       "name": "Birch",
-      "code": null,
+      "code": "SC-25",
+      "ean": [
+        "8412548248110"
+      ],
       "set": "Scale Color Range",
       "hex": "#EFD2B0",
       "rgb": {
@@ -510,12 +663,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-black",
+      "id": "scale75-sc-00",
       "name": "Black",
-      "code": null,
+      "code": "SC-00",
+      "ean": [
+        "8412548245591"
+      ],
       "set": "Scale Color Range",
       "hex": "#2C2C2C",
       "rgb": {
@@ -526,12 +684,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-black-forest-green",
+      "id": "scale75-sc-41",
       "name": "Black Forest Green",
-      "code": null,
+      "code": "SC-41",
+      "ean": [
+        "8412548251417"
+      ],
       "set": "Scale Color Range",
       "hex": "#004834",
       "rgb": {
@@ -542,12 +705,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-black-ink",
+      "id": "scale75-sart-79",
       "name": "Black Ink",
-      "code": null,
+      "code": "SART-79",
+      "ean": [
+        "8435635306319"
+      ],
       "set": "Artist Range",
       "hex": "#1B1A18",
       "rgb": {
@@ -558,12 +726,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-black-leather",
+      "id": "scale75-sc-32",
       "name": "Black Leather",
-      "code": null,
+      "code": "SC-32",
+      "ean": [
+        "8412548248189"
+      ],
       "set": "Scale Color Range",
       "hex": "#422A2A",
       "rgb": {
@@ -574,12 +747,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-black-metal",
+      "id": "scale75-sc-63",
       "name": "Black Metal",
-      "code": null,
+      "code": "SC-63",
+      "ean": [
+        "8412548257334"
+      ],
       "set": "Metal N Alchemy Range",
       "hex": "#484848",
       "rgb": {
@@ -590,12 +768,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-blackert-brown",
+      "id": "scale75-sfg-40",
       "name": "Blackert Brown",
-      "code": null,
+      "code": "SFG-40",
+      "ean": [
+        "8412548270944"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#B8825C",
       "rgb": {
@@ -606,12 +789,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-blood-red",
+      "id": "scale75-sc-36",
       "name": "Blood Red",
-      "code": null,
+      "code": "SC-36",
+      "ean": [
+        "8412548250236"
+      ],
       "set": "Scale Color Range",
       "hex": "#912727",
       "rgb": {
@@ -622,12 +810,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-bloodfest-crimson",
+      "id": "scale75-sfg-11",
       "name": "Bloodfest Crimson",
-      "code": null,
+      "code": "SFG-11",
+      "ean": [
+        "8412548267890"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#6A033B",
       "rgb": {
@@ -638,12 +831,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-boreal-green",
+      "id": "scale75-sc-42",
       "name": "Boreal Green",
-      "code": null,
+      "code": "SC-42",
+      "ean": [
+        "8412548251424"
+      ],
       "set": "Scale Color Range",
       "hex": "#00563E",
       "rgb": {
@@ -654,12 +852,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-bosh-chesnut",
+      "id": "scale75-sfg-35",
       "name": "Bosh Chesnut",
-      "code": null,
+      "code": "SFG-35",
+      "ean": [
+        "8412548270890"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#69452F",
       "rgb": {
@@ -670,12 +873,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-braineater-azure",
+      "id": "scale75-sfg-12",
       "name": "Braineater Azure",
-      "code": null,
+      "code": "SFG-12",
+      "ean": [
+        "8412548267906"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#676AAF",
       "rgb": {
@@ -686,12 +894,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-braun",
+      "id": "scale75-sw-28",
       "name": "Braun",
-      "code": null,
+      "code": "SW-28",
+      "ean": [
+        "8423153054546"
+      ],
       "set": "Warfront  Range",
       "hex": "#E5C89E",
       "rgb": {
@@ -702,12 +915,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-brilli-white",
+      "id": "scale75-sfx-00",
       "name": "Brilli White",
-      "code": null,
+      "code": "SFX-00",
+      "ean": [
+        "8423153061520"
+      ],
       "set": "FX Range",
       "hex": "#FEFEFE",
       "rgb": {
@@ -718,12 +936,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-brown-gray",
+      "id": "scale75-sc-59",
       "name": "Brown Gray",
-      "code": null,
+      "code": "SC-59",
+      "ean": [
+        "8412548252971"
+      ],
       "set": "Scale Color Range",
       "hex": "#7B7170",
       "rgb": {
@@ -734,12 +957,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-brown-leather",
+      "id": "scale75-sc-31",
       "name": "Brown Leather",
-      "code": null,
+      "code": "SC-31",
+      "ean": [
+        "8412548248172"
+      ],
       "set": "Scale Color Range",
       "hex": "#4D2C1D",
       "rgb": {
@@ -750,12 +978,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-buff",
+      "id": "scale75-sart-13",
       "name": "Buff",
-      "code": null,
+      "code": "SART-13",
+      "ean": [
+        "8423153061971"
+      ],
       "set": "Artist Range",
       "hex": "#B29D82",
       "rgb": {
@@ -766,12 +999,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-burgundy-wine-red",
+      "id": "scale75-sart-54",
       "name": "Burgundy Wine Red",
-      "code": null,
+      "code": "SART-54",
+      "ean": [
+        "8435635306067"
+      ],
       "set": "Artist Range",
       "hex": "#5A2212",
       "rgb": {
@@ -782,12 +1020,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-burnt-sienna",
+      "id": "scale75-sart-42",
       "name": "Burnt Sienna",
-      "code": null,
+      "code": "SART-42",
+      "ean": [
+        "8423153062268"
+      ],
       "set": "Artist Range",
       "hex": "#7C2D06",
       "rgb": {
@@ -798,12 +1041,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-burnt-sienna-umber",
+      "id": "scale75-sart-06",
       "name": "Burnt Sienna Umber",
-      "code": null,
+      "code": "SART-06",
+      "ean": [
+        "8423153061803"
+      ],
       "set": "Artist Range",
       "hex": "#4C2A20",
       "rgb": {
@@ -814,12 +1062,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-burnt-skin",
+      "id": "scale75-sart-12",
       "name": "Burnt Skin",
-      "code": null,
+      "code": "SART-12",
+      "ean": [
+        "8423153061865"
+      ],
       "set": "Artist Range",
       "hex": "#654023",
       "rgb": {
@@ -830,12 +1083,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-burnt-umber",
+      "id": "scale75-sart-38",
       "name": "Burnt Umber",
-      "code": null,
+      "code": "SART-38",
+      "ean": [
+        "8423153062220"
+      ],
       "set": "Artist Range",
       "hex": "#51402C",
       "rgb": {
@@ -846,12 +1104,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-cantabric-blue",
+      "id": "scale75-sc-53",
       "name": "Cantabric Blue",
-      "code": null,
+      "code": "SC-53",
+      "ean": [
+        "8412548252056"
+      ],
       "set": "Scale Color Range",
       "hex": "#164765",
       "rgb": {
@@ -862,12 +1125,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-caribbean-blue",
+      "id": "scale75-sc-49",
       "name": "Caribbean Blue",
-      "code": null,
+      "code": "SC-49",
+      "ean": [
+        "8412548251943"
+      ],
       "set": "Scale Color Range",
       "hex": "#75B6B0",
       "rgb": {
@@ -878,12 +1146,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-caspian-blue",
+      "id": "scale75-sc-07",
       "name": "Caspian Blue",
-      "code": null,
+      "code": "SC-07",
+      "ean": [
+        "8412548244266"
+      ],
       "set": "Scale Color Range",
       "hex": "#2A4F58",
       "rgb": {
@@ -894,12 +1167,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-chesknut-ink",
+      "id": "scale75-sart-84",
       "name": "Chesknut Ink",
-      "code": null,
+      "code": "SART-84",
+      "ean": [
+        "8435635306364"
+      ],
       "set": "Artist Range",
       "hex": "#40362D",
       "rgb": {
@@ -910,12 +1188,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-chink-orange",
+      "id": "scale75-sfg-37",
       "name": "Chink Orange",
-      "code": null,
+      "code": "SFG-37",
+      "ean": [
+        "8412548270913"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#B2621B",
       "rgb": {
@@ -926,12 +1209,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-citrine-alchemy",
+      "id": "scale75-sc-75",
       "name": "Citrine Alchemy",
-      "code": null,
+      "code": "SC-75",
+      "ean": [
+        "8412548259482"
+      ],
       "set": "Metal N Alchemy Range",
       "hex": "#EFE1C7",
       "rgb": {
@@ -942,12 +1230,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-city-dust",
+      "id": "scale75-swe-08",
       "name": "City Dust",
-      "code": null,
+      "code": "SWE-08",
+      "ean": [
+        "8423153061285"
+      ],
       "set": "Soil Works",
       "hex": "#C6C1BD",
       "rgb": {
@@ -958,12 +1251,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-cobalt-blue",
+      "id": "scale75-sart-27",
       "name": "Cobalt Blue",
-      "code": null,
+      "code": "SART-27",
+      "ean": [
+        "8423153062114"
+      ],
       "set": "Artist Range",
       "hex": "#005E91",
       "rgb": {
@@ -974,12 +1272,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-cobalt-metal",
+      "id": "scale75-sc-68",
       "name": "Cobalt Metal",
-      "code": null,
+      "code": "SC-68",
+      "ean": [
+        "8412548257389"
+      ],
       "set": "Metal N Alchemy Range",
       "hex": "#7FA2B5",
       "rgb": {
@@ -990,12 +1293,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-cobalt-violet-grey",
+      "id": "scale75-sart-53",
       "name": "Cobalt Violet Grey",
-      "code": null,
+      "code": "SART-53",
+      "ean": [
+        "8435635306050"
+      ],
       "set": "Artist Range",
       "hex": "#73768B",
       "rgb": {
@@ -1006,12 +1314,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-cokum-copper",
+      "id": "scale75-sfg-38",
       "name": "Cokum Copper",
-      "code": null,
+      "code": "SFG-38",
+      "ean": [
+        "8412548270920"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#A37021",
       "rgb": {
@@ -1022,12 +1335,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-coral-red",
+      "id": "scale75-sart-58",
       "name": "Coral Red",
-      "code": null,
+      "code": "SART-58",
+      "ean": [
+        "8435635306104"
+      ],
       "set": "Artist Range",
       "hex": "#F73724",
       "rgb": {
@@ -1038,12 +1356,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-cork-brown",
+      "id": "scale75-sart-49",
       "name": "Cork Brown",
-      "code": null,
+      "code": "SART-49",
+      "ean": null,
       "set": "Artist Range",
       "hex": "#9F8D78",
       "rgb": {
@@ -1054,12 +1375,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-corrupted-stamina",
+      "id": "scale75-sin-23",
       "name": "Corrupted Stamina",
-      "code": null,
+      "code": "SIN-23",
+      "ean": [
+        "8412548900780"
+      ],
       "set": "Instant Colors Range",
       "hex": "#699D0C",
       "rgb": {
@@ -1070,12 +1396,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-cremeweiss",
+      "id": "scale75-sw-27",
       "name": "Cremeweiss",
-      "code": null,
+      "code": "SW-27",
+      "ean": [
+        "8423153054539"
+      ],
       "set": "Warfront  Range",
       "hex": "#FCFCE0",
       "rgb": {
@@ -1086,12 +1417,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-crimsom",
+      "id": "scale75-sart-10",
       "name": "Crimsom",
-      "code": null,
+      "code": "SART-10",
+      "ean": [
+        "8423153061841"
+      ],
       "set": "Artist Range",
       "hex": "#C22335",
       "rgb": {
@@ -1102,12 +1438,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-crimson-ink",
+      "id": "scale75-sart-81",
       "name": "Crimson Ink",
-      "code": null,
+      "code": "SART-81",
+      "ean": [
+        "8435635306333"
+      ],
       "set": "Artist Range",
       "hex": "#9F1C2B",
       "rgb": {
@@ -1118,12 +1459,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-dark-brown-ochre",
+      "id": "scale75-sart-41",
       "name": "Dark Brown Ochre",
-      "code": null,
+      "code": "SART-41",
+      "ean": [
+        "8423153062251"
+      ],
       "set": "Artist Range",
       "hex": "#1E1317",
       "rgb": {
@@ -1134,12 +1480,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-dark-earth",
+      "id": "scale75-sw-33",
       "name": "Dark Earth",
-      "code": null,
+      "code": "SW-33",
+      "ean": [
+        "8423153055086"
+      ],
       "set": "Warfront  Range",
       "hex": "#643722",
       "rgb": {
@@ -1150,12 +1501,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-dark-kraken",
+      "id": "scale75-sin-45",
       "name": "Dark Kraken",
-      "code": null,
+      "code": "SIN-45",
+      "ean": [
+        "8412548901008"
+      ],
       "set": "Instant Colors Range",
       "hex": "#194A5B",
       "rgb": {
@@ -1166,12 +1522,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-dark-mud",
+      "id": "scale75-swe-02",
       "name": "Dark Mud",
-      "code": null,
+      "code": "SWE-02",
+      "ean": [
+        "8423153061223"
+      ],
       "set": "Soil Works",
       "hex": "#210200",
       "rgb": {
@@ -1182,12 +1543,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-dark-prussian-blue",
+      "id": "scale75-sart-66",
       "name": "Dark Prussian Blue",
-      "code": null,
+      "code": "SART-66",
+      "ean": [
+        "8435635306180"
+      ],
       "set": "Artist Range",
       "hex": "#252430",
       "rgb": {
@@ -1198,12 +1564,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-dark-rust",
+      "id": "scale75-swe-01",
       "name": "Dark Rust",
-      "code": null,
+      "code": "SWE-01",
+      "ean": [
+        "8423153061216"
+      ],
       "set": "Soil Works",
       "hex": "#6B3729",
       "rgb": {
@@ -1214,12 +1585,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-dark-sand",
+      "id": "scale75-swe-03",
       "name": "Dark Sand",
-      "code": null,
+      "code": "SWE-03",
+      "ean": [
+        "8423153061230"
+      ],
       "set": "Soil Works",
       "hex": "#D4BB92",
       "rgb": {
@@ -1230,12 +1606,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-dark-stains",
+      "id": "scale75-swe-06",
       "name": "Dark Stains",
-      "code": null,
+      "code": "SWE-06",
+      "ean": [
+        "8423153061261"
+      ],
       "set": "Soil Works",
       "hex": "#000000",
       "rgb": {
@@ -1246,12 +1627,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-dark-ultramarine",
+      "id": "scale75-sart-29",
       "name": "Dark Ultramarine",
-      "code": null,
+      "code": "SART-29",
+      "ean": [
+        "8423153062138"
+      ],
       "set": "Artist Range",
       "hex": "#32297A",
       "rgb": {
@@ -1262,12 +1648,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-dark-violet",
+      "id": "scale75-sart-25",
       "name": "Dark Violet",
-      "code": null,
+      "code": "SART-25",
+      "ean": [
+        "8423153062091"
+      ],
       "set": "Artist Range",
       "hex": "#481A3F",
       "rgb": {
@@ -1278,12 +1669,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-dead-flesh",
+      "id": "scale75-sin-11",
       "name": "Dead Flesh",
-      "code": null,
+      "code": "SIN-11",
+      "ean": [
+        "8412548900667"
+      ],
       "set": "Instant Colors Range",
       "hex": "#7F6662",
       "rgb": {
@@ -1294,12 +1690,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-decay-black",
+      "id": "scale75-sfg-00",
       "name": "Decay Black",
-      "code": null,
+      "code": "SFG-00",
+      "ean": [
+        "8412548271569"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#1C1C1C",
       "rgb": {
@@ -1310,12 +1711,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-decayed-metal",
+      "id": "scale75-sc-87",
       "name": "Decayed Metal",
-      "code": null,
+      "code": "SC-87",
+      "ean": [
+        "8412548275208"
+      ],
       "set": "Metal N Alchemy Range",
       "hex": "#5D4038",
       "rgb": {
@@ -1326,12 +1732,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-deep-blue",
+      "id": "scale75-sc-55",
       "name": "Deep Blue",
-      "code": null,
+      "code": "SC-55",
+      "ean": [
+        "8412548252070"
+      ],
       "set": "Scale Color Range",
       "hex": "#383B4A",
       "rgb": {
@@ -1342,12 +1753,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-deep-ocean",
+      "id": "scale75-sw-61",
       "name": "Deep Ocean",
-      "code": null,
+      "code": "SW-61",
+      "ean": [
+        "8423153060059"
+      ],
       "set": "Warfront  Range",
       "hex": "#000B2B",
       "rgb": {
@@ -1358,12 +1774,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-deep-red",
+      "id": "scale75-sc-35",
       "name": "Deep Red",
-      "code": null,
+      "code": "SC-35",
+      "ean": [
+        "8412548250229"
+      ],
       "set": "Scale Color Range",
       "hex": "#701B20",
       "rgb": {
@@ -1374,12 +1795,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-demon-brown",
+      "id": "scale75-sin-44",
       "name": "Demon Brown",
-      "code": null,
+      "code": "SIN-44",
+      "ean": [
+        "8412548900995"
+      ],
       "set": "Instant Colors Range",
       "hex": "#66271E",
       "rgb": {
@@ -1390,12 +1816,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-desert-yellow",
+      "id": "scale75-sw-31",
       "name": "Desert Yellow",
-      "code": null,
+      "code": "SW-31",
+      "ean": [
+        "8423153055062"
+      ],
       "set": "Warfront  Range",
       "hex": "#D9AF75",
       "rgb": {
@@ -1406,12 +1837,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-despair-green",
+      "id": "scale75-sfg-43",
       "name": "Despair Green",
-      "code": null,
+      "code": "SFG-43",
+      "ean": [
+        "8412548271583"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#17383D",
       "rgb": {
@@ -1422,12 +1858,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-dragon-blood",
+      "id": "scale75-sin-02",
       "name": "Dragon Blood",
-      "code": null,
+      "code": "SIN-02",
+      "ean": [
+        "8412548900575"
+      ],
       "set": "Instant Colors Range",
       "hex": "#810622",
       "rgb": {
@@ -1438,12 +1879,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-drain-life",
+      "id": "scale75-sin-07",
       "name": "Drain Life",
-      "code": null,
+      "code": "SIN-07",
+      "ean": [
+        "8412548900629"
+      ],
       "set": "Instant Colors Range",
       "hex": "#E69464",
       "rgb": {
@@ -1454,12 +1900,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-dubai-brown",
+      "id": "scale75-sc-13",
       "name": "Dubai Brown",
-      "code": null,
+      "code": "SC-13",
+      "ean": [
+        "8412548245553"
+      ],
       "set": "Scale Color Range",
       "hex": "#583D22",
       "rgb": {
@@ -1470,12 +1921,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-dunkelbraun-brown",
+      "id": "scale75-sw-05",
       "name": "Dunkelbraun Brown",
-      "code": null,
+      "code": "SW-05",
+      "ean": [
+        "8423153054072"
+      ],
       "set": "Warfront  Range",
       "hex": "#413028",
       "rgb": {
@@ -1486,12 +1942,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-dunkelgelb-44",
+      "id": "scale75-sw-24",
       "name": "Dunkelgelb 44",
-      "code": null,
+      "code": "SW-24",
+      "ean": [
+        "8423153054508"
+      ],
       "set": "Warfront  Range",
       "hex": "#DED1B1",
       "rgb": {
@@ -1502,12 +1963,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-dunkelgelb-yellow",
+      "id": "scale75-sw-00",
       "name": "Dunkelgelb Yellow",
-      "code": null,
+      "code": "SW-00",
+      "ean": [
+        "8423153054027"
+      ],
       "set": "Warfront  Range",
       "hex": "#CBB550",
       "rgb": {
@@ -1518,12 +1984,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-dunkelgrau-gray",
+      "id": "scale75-sw-04",
       "name": "Dunkelgrau Gray",
-      "code": null,
+      "code": "SW-04",
+      "ean": [
+        "8423153054065"
+      ],
       "set": "Warfront  Range",
       "hex": "#57585A",
       "rgb": {
@@ -1534,12 +2005,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-dust-in-summertime",
+      "id": "scale75-sse-061",
       "name": "Dust In Summertime",
-      "code": null,
+      "code": "SSE-061",
+      "ean": [
+        "7426974774045"
+      ],
       "set": "Soil Works",
       "hex": "#727556",
       "rgb": {
@@ -1550,12 +2026,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-dwarven-gold",
+      "id": "scale75-sc-73",
       "name": "Dwarven Gold",
-      "code": null,
+      "code": "SC-73",
+      "ean": [
+        "8412548259475"
+      ],
       "set": "Metal N Alchemy Range",
       "hex": "#D68D2F",
       "rgb": {
@@ -1566,12 +2047,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-earth-green",
+      "id": "scale75-sart-36",
       "name": "Earth Green",
-      "code": null,
+      "code": "SART-36",
+      "ean": [
+        "8423153062206"
+      ],
       "set": "Artist Range",
       "hex": "#4A3C2F",
       "rgb": {
@@ -1582,12 +2068,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-eclipse-grey",
+      "id": "scale75-sc-16",
       "name": "Eclipse Grey",
-      "code": null,
+      "code": "SC-16",
+      "ean": [
+        "8412548245584"
+      ],
       "set": "Scale Color Range",
       "hex": "#363636",
       "rgb": {
@@ -1598,12 +2089,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-eldandil-violet",
+      "id": "scale75-sfg-27",
       "name": "Eldandil Violet",
-      "code": null,
+      "code": "SFG-27",
+      "ean": [
+        "8412548270135"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#2B1A3C",
       "rgb": {
@@ -1614,12 +2110,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-electric-blue",
+      "id": "scale75-sfx-04",
       "name": "Electric Blue",
-      "code": null,
+      "code": "SFX-04",
+      "ean": [
+        "8423153061537"
+      ],
       "set": "FX Range",
       "hex": "#021AFE",
       "rgb": {
@@ -1630,12 +2131,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-elixir-green",
+      "id": "scale75-sin-28",
       "name": "Elixir Green",
-      "code": null,
+      "code": "SIN-28",
+      "ean": [
+        "8412548900834"
+      ],
       "set": "Instant Colors Range",
       "hex": "#005C4D",
       "rgb": {
@@ -1646,12 +2152,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-elven-gold",
+      "id": "scale75-sc-74",
       "name": "Elven Gold",
-      "code": null,
+      "code": "SC-74",
+      "ean": [
+        "8412548259468"
+      ],
       "set": "Metal N Alchemy Range",
       "hex": "#CDAB47",
       "rgb": {
@@ -1662,12 +2173,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-emerald-alchemy",
+      "id": "scale75-sc-69",
       "name": "Emerald Alchemy",
-      "code": null,
+      "code": "SC-69",
+      "ean": [
+        "8412548257396"
+      ],
       "set": "Metal N Alchemy Range",
       "hex": "#78A098",
       "rgb": {
@@ -1678,12 +2194,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-emerald-green",
+      "id": "scale75-sart-33",
       "name": "Emerald Green",
-      "code": null,
+      "code": "SART-33",
+      "ean": [
+        "8423153062176"
+      ],
       "set": "Artist Range",
       "hex": "#165341",
       "rgb": {
@@ -1694,12 +2215,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-endurance-brown",
+      "id": "scale75-sin-35",
       "name": "Endurance Brown",
-      "code": null,
+      "code": "SIN-35",
+      "ean": [
+        "8412548900902"
+      ],
       "set": "Instant Colors Range",
       "hex": "#773F1C",
       "rgb": {
@@ -1710,12 +2236,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-estus-yellow",
+      "id": "scale75-sin-09",
       "name": "Estus Yellow",
-      "code": null,
+      "code": "SIN-09",
+      "ean": [
+        "8412548900643"
+      ],
       "set": "Instant Colors Range",
       "hex": "#FEE459",
       "rgb": {
@@ -1726,12 +2257,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-evil-root",
+      "id": "scale75-sin-19",
       "name": "Evil Root",
-      "code": null,
+      "code": "SIN-19",
+      "ean": [
+        "8412548900742"
+      ],
       "set": "Instant Colors Range",
       "hex": "#F07E4A",
       "rgb": {
@@ -1742,12 +2278,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-fairy-blood",
+      "id": "scale75-sin-12",
       "name": "Fairy Blood",
-      "code": null,
+      "code": "SIN-12",
+      "ean": [
+        "8412548900674"
+      ],
       "set": "Instant Colors Range",
       "hex": "#414874",
       "rgb": {
@@ -1758,12 +2299,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-fall-green",
+      "id": "scale75-sc-48",
       "name": "Fall Green",
-      "code": null,
+      "code": "SC-48",
+      "ean": [
+        "8412548251486"
+      ],
       "set": "Scale Color Range",
       "hex": "#C9D161",
       "rgb": {
@@ -1774,12 +2320,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-field-gray",
+      "id": "scale75-sc-46",
       "name": "Field Gray",
-      "code": null,
+      "code": "SC-46",
+      "ean": [
+        "8412548251462"
+      ],
       "set": "Scale Color Range",
       "hex": "#66736C",
       "rgb": {
@@ -1790,12 +2341,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-field-grey-1",
+      "id": "scale75-sw-38",
       "name": "Field Grey 1",
-      "code": null,
+      "code": "SW-38",
+      "ean": [
+        "8423153055246"
+      ],
       "set": "Warfront  Range",
       "hex": "#39553C",
       "rgb": {
@@ -1806,12 +2362,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-field-grey-2",
+      "id": "scale75-sw-39",
       "name": "Field Grey 2",
-      "code": null,
+      "code": "SW-39",
+      "ean": [
+        "8423153055253"
+      ],
       "set": "Warfront  Range",
       "hex": "#3F4C45",
       "rgb": {
@@ -1822,12 +2383,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-flat-black",
+      "id": "scale75-sw-15",
       "name": "Flat Black",
-      "code": null,
+      "code": "SW-15",
+      "ean": [
+        "8423153054171"
+      ],
       "set": "Warfront  Range",
       "hex": "#1C1C1C",
       "rgb": {
@@ -1838,12 +2404,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-flight-blue",
+      "id": "scale75-sw-55",
       "name": "Flight Blue",
-      "code": null,
+      "code": "SW-55",
+      "ean": [
+        "8423153058001"
+      ],
       "set": "Warfront  Range",
       "hex": "#01688B",
       "rgb": {
@@ -1854,12 +2425,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-frenzy-orange",
+      "id": "scale75-sin-37",
       "name": "Frenzy Orange",
-      "code": null,
+      "code": "SIN-37",
+      "ean": [
+        "8412548900926"
+      ],
       "set": "Instant Colors Range",
       "hex": "#EC6001",
       "rgb": {
@@ -1870,12 +2446,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-fuchsia",
+      "id": "scale75-sc-34",
       "name": "Fuchsia",
-      "code": null,
+      "code": "SC-34",
+      "ean": [
+        "8412548250212"
+      ],
       "set": "Scale Color Range",
       "hex": "#AA336B",
       "rgb": {
@@ -1886,12 +2467,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-fuel-and-grease",
+      "id": "scale75-sse-053",
       "name": "Fuel And Grease",
-      "code": null,
+      "code": "SSE-053",
+      "ean": [
+        "8423153061568"
+      ],
       "set": "Soil Works",
       "hex": "#EEEAE9",
       "rgb": {
@@ -1902,12 +2488,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-full-healing",
+      "id": "scale75-sin-08",
       "name": "Full Healing",
-      "code": null,
+      "code": "SIN-08",
+      "ean": [
+        "8412548900636"
+      ],
       "set": "Instant Colors Range",
       "hex": "#FEEF00",
       "rgb": {
@@ -1918,12 +2509,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-garnet-alchemy",
+      "id": "scale75-sc-89",
       "name": "Garnet Alchemy",
-      "code": null,
+      "code": "SC-89",
+      "ean": [
+        "8412548275222"
+      ],
       "set": "Metal N Alchemy Range",
       "hex": "#88424D",
       "rgb": {
@@ -1934,12 +2530,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-gelbraun-brown",
+      "id": "scale75-sw-06",
       "name": "Gelbraun Brown",
-      "code": null,
+      "code": "SW-06",
+      "ean": [
+        "8423153054089"
+      ],
       "set": "Warfront  Range",
       "hex": "#D5AC74",
       "rgb": {
@@ -1950,12 +2551,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-gobi-brown",
+      "id": "scale75-sc-12",
       "name": "Gobi Brown",
-      "code": null,
+      "code": "SC-12",
+      "ean": [
+        "8412548245546"
+      ],
       "set": "Scale Color Range",
       "hex": "#6E5A3F",
       "rgb": {
@@ -1966,12 +2572,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-goblin-flesh",
+      "id": "scale75-sfg-24",
       "name": "Goblin Flesh",
-      "code": null,
+      "code": "SFG-24",
+      "ean": [
+        "8412548269092"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#77B840",
       "rgb": {
@@ -1982,12 +2593,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-golden-flesh",
+      "id": "scale75-sart-08",
       "name": "Golden Flesh",
-      "code": null,
+      "code": "SART-08",
+      "ean": [
+        "8423153061827"
+      ],
       "set": "Artist Range",
       "hex": "#E2A76D",
       "rgb": {
@@ -1998,12 +2614,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-golden-skin",
+      "id": "scale75-sc-19",
       "name": "Golden Skin",
-      "code": null,
+      "code": "SC-19",
+      "ean": [
+        "8412548247144"
+      ],
       "set": "Scale Color Range",
       "hex": "#EDC89C",
       "rgb": {
@@ -2014,12 +2635,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-golem-grey",
+      "id": "scale75-sin-42",
       "name": "Golem Grey",
-      "code": null,
+      "code": "SIN-42",
+      "ean": [
+        "8412548900971"
+      ],
       "set": "Instant Colors Range",
       "hex": "#2C3031",
       "rgb": {
@@ -2030,12 +2656,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-graphene-gray",
+      "id": "scale75-sc-58",
       "name": "Graphene Gray",
-      "code": null,
+      "code": "SC-58",
+      "ean": [
+        "8412548252964"
+      ],
       "set": "Scale Color Range",
       "hex": "#4A515B",
       "rgb": {
@@ -2046,12 +2677,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-graphite",
+      "id": "scale75-sc-03",
       "name": "Graphite",
-      "code": null,
+      "code": "SC-03",
+      "ean": [
+        "8412548244228"
+      ],
       "set": "Scale Color Range",
       "hex": "#8B8C87",
       "rgb": {
@@ -2062,12 +2698,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-grau",
+      "id": "scale75-sw-29",
       "name": "Grau",
-      "code": null,
+      "code": "SW-29",
+      "ean": [
+        "8423153054553"
+      ],
       "set": "Warfront  Range",
       "hex": "#E8D5C4",
       "rgb": {
@@ -2078,12 +2719,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-graugrun-gray",
+      "id": "scale75-sw-07",
       "name": "Graugrun Gray",
-      "code": null,
+      "code": "SW-07",
+      "ean": [
+        "8423153054096"
+      ],
       "set": "Warfront  Range",
       "hex": "#A08848",
       "rgb": {
@@ -2094,12 +2740,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-grease",
+      "id": "scale75-swe-07",
       "name": "Grease",
-      "code": null,
+      "code": "SWE-07",
+      "ean": [
+        "8423153061278"
+      ],
       "set": "Soil Works",
       "hex": "#3E2D25",
       "rgb": {
@@ -2110,12 +2761,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-green-grey",
+      "id": "scale75-sart-16",
       "name": "Green Grey",
-      "code": null,
+      "code": "SART-16",
+      "ean": [
+        "8423153062008"
+      ],
       "set": "Artist Range",
       "hex": "#2C3033",
       "rgb": {
@@ -2126,12 +2782,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-green-moss",
+      "id": "scale75-swe-09",
       "name": "Green Moss",
-      "code": null,
+      "code": "SWE-09",
+      "ean": [
+        "8423153061292"
+      ],
       "set": "Soil Works",
       "hex": "#1C7C23",
       "rgb": {
@@ -2142,12 +2803,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-green-ochre",
+      "id": "scale75-sw-30",
       "name": "Green Ochre",
-      "code": null,
+      "code": "SW-30",
+      "ean": [
+        "8423153055055"
+      ],
       "set": "Warfront  Range",
       "hex": "#948123",
       "rgb": {
@@ -2158,12 +2824,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-greenskin-flesh",
+      "id": "scale75-sfg-21",
       "name": "Greenskin Flesh",
-      "code": null,
+      "code": "SFG-21",
+      "ean": [
+        "8412548269061"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#006F34",
       "rgb": {
@@ -2174,12 +2845,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-grey-spell",
+      "id": "scale75-sin-32",
       "name": "Grey Spell",
-      "code": null,
+      "code": "SIN-32",
+      "ean": [
+        "8412548900872"
+      ],
       "set": "Instant Colors Range",
       "hex": "#808FB0",
       "rgb": {
@@ -2190,12 +2866,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-grizzly-brown",
+      "id": "scale75-sin-34",
       "name": "Grizzly Brown",
-      "code": null,
+      "code": "SIN-34",
+      "ean": [
+        "8412548900896"
+      ],
       "set": "Instant Colors Range",
       "hex": "#50181B",
       "rgb": {
@@ -2206,12 +2887,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-harvester-flesh",
+      "id": "scale75-sfg-15",
       "name": "Harvester Flesh",
-      "code": null,
+      "code": "SFG-15",
+      "ean": [
+        "8412548267937"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#D0A791",
       "rgb": {
@@ -2222,12 +2908,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-hastur-purple",
+      "id": "scale75-sfg-02",
       "name": "Hastur Purple",
-      "code": null,
+      "code": "SFG-02",
+      "ean": [
+        "8412548267982"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#740331",
       "rgb": {
@@ -2238,12 +2929,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-health-red",
+      "id": "scale75-sin-03",
       "name": "Health Red",
-      "code": null,
+      "code": "SIN-03",
+      "ean": [
+        "8412548900582"
+      ],
       "set": "Instant Colors Range",
       "hex": "#C31610",
       "rgb": {
@@ -2254,12 +2950,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-heavy-metal",
+      "id": "scale75-sc-65",
       "name": "Heavy Metal",
-      "code": null,
+      "code": "SC-65",
+      "ean": [
+        "8412548257358"
+      ],
       "set": "Metal N Alchemy Range",
       "hex": "#9C9DA1",
       "rgb": {
@@ -2270,12 +2971,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-hellbound-flesh",
+      "id": "scale75-sfg-16",
       "name": "Hellbound Flesh",
-      "code": null,
+      "code": "SFG-16",
+      "ean": [
+        "8412548267944"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#9CB1AC",
       "rgb": {
@@ -2286,12 +2992,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-hiril-blue",
+      "id": "scale75-sfg-33",
       "name": "Hiril Blue",
-      "code": null,
+      "code": "SFG-33",
+      "ean": [
+        "8412548270197"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#4AA9BF",
       "rgb": {
@@ -2302,12 +3013,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-huldra-blue",
+      "id": "scale75-sfg-26",
       "name": "Huldra Blue",
-      "code": null,
+      "code": "SFG-26",
+      "ean": [
+        "8412548270128"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#234256",
       "rgb": {
@@ -2318,12 +3034,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-human-flesh",
+      "id": "scale75-sin-15",
       "name": "Human Flesh",
-      "code": null,
+      "code": "SIN-15",
+      "ean": [
+        "8412548900704"
+      ],
       "set": "Instant Colors Range",
       "hex": "#DAAB97",
       "rgb": {
@@ -2334,12 +3055,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-hykey-yellow",
+      "id": "scale75-sfg-41",
       "name": "Hykey Yellow",
-      "code": null,
+      "code": "SFG-41",
+      "ean": [
+        "8412548270951"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#EFD491",
       "rgb": {
@@ -2350,12 +3076,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-indian-shadow",
+      "id": "scale75-sc-23",
       "name": "Indian Shadow",
-      "code": null,
+      "code": "SC-23",
+      "ean": [
+        "8412548247182"
+      ],
       "set": "Scale Color Range",
       "hex": "#673D3F",
       "rgb": {
@@ -2366,12 +3097,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-inktense-black",
+      "id": "scale75-sc-79",
       "name": "Inktense Black",
-      "code": null,
+      "code": "SC-79",
+      "ean": [
+        "8412548260785"
+      ],
       "set": "Inktensity Range",
       "hex": "#292929",
       "rgb": {
@@ -2382,12 +3118,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-inktense-blue",
+      "id": "scale75-sc-83",
       "name": "Inktense Blue",
-      "code": null,
+      "code": "SC-83",
+      "ean": [
+        "8412548260822"
+      ],
       "set": "Inktensity Range",
       "hex": "#012861",
       "rgb": {
@@ -2398,12 +3139,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-inktense-chesnut",
+      "id": "scale75-sc-81",
       "name": "Inktense Chesnut",
-      "code": null,
+      "code": "SC-81",
+      "ean": [
+        "8412548260808"
+      ],
       "set": "Inktensity Range",
       "hex": "#803C15",
       "rgb": {
@@ -2414,12 +3160,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-inktense-green",
+      "id": "scale75-sc-84",
       "name": "Inktense Green",
-      "code": null,
+      "code": "SC-84",
+      "ean": [
+        "8412548260839"
+      ],
       "set": "Inktensity Range",
       "hex": "#043E32",
       "rgb": {
@@ -2430,12 +3181,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-inktense-red",
+      "id": "scale75-sc-85",
       "name": "Inktense Red",
-      "code": null,
+      "code": "SC-85",
+      "ean": [
+        "8412548260846"
+      ],
       "set": "Inktensity Range",
       "hex": "#A91E21",
       "rgb": {
@@ -2446,12 +3202,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-inktense-violet",
+      "id": "scale75-sc-82",
       "name": "Inktense Violet",
-      "code": null,
+      "code": "SC-82",
+      "ean": [
+        "8412548260815"
+      ],
       "set": "Inktensity Range",
       "hex": "#49196F",
       "rgb": {
@@ -2462,12 +3223,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-inktense-wood",
+      "id": "scale75-sc-80",
       "name": "Inktense Wood",
-      "code": null,
+      "code": "SC-80",
+      "ean": [
+        "8412548260792"
+      ],
       "set": "Inktensity Range",
       "hex": "#493326",
       "rgb": {
@@ -2478,12 +3244,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-inktense-yellow",
+      "id": "scale75-sc-86",
       "name": "Inktense Yellow",
-      "code": null,
+      "code": "SC-86",
+      "ean": [
+        "8412548260853"
+      ],
       "set": "Inktensity Range",
       "hex": "#E3BE15",
       "rgb": {
@@ -2494,12 +3265,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-innsmouth-blue",
+      "id": "scale75-sfg-46",
       "name": "Innsmouth Blue",
-      "code": null,
+      "code": "SFG-46",
+      "ean": [
+        "8412548271613"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#00596B",
       "rgb": {
@@ -2510,12 +3286,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-intense-yellow",
+      "id": "scale75-sart-19",
       "name": "Intense Yellow",
-      "code": null,
+      "code": "SART-19",
+      "ean": [
+        "8423153062039"
+      ],
       "set": "Artist Range",
       "hex": "#F2CB02",
       "rgb": {
@@ -2526,12 +3307,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-irati-green",
+      "id": "scale75-sc-43",
       "name": "Irati Green",
-      "code": null,
+      "code": "SC-43",
+      "ean": [
+        "8412548251431"
+      ],
       "set": "Scale Color Range",
       "hex": "#008721",
       "rgb": {
@@ -2542,12 +3328,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-iroko",
+      "id": "scale75-sc-27",
       "name": "Iroko",
-      "code": null,
+      "code": "SC-27",
+      "ean": [
+        "8412548248134"
+      ],
       "set": "Scale Color Range",
       "hex": "#B28F4D",
       "rgb": {
@@ -2558,12 +3349,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-ishtar-pink",
+      "id": "scale75-sfg-07",
       "name": "Ishtar Pink",
-      "code": null,
+      "code": "SFG-07",
+      "ean": [
+        "8412548268170"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#FC9363",
       "rgb": {
@@ -2574,12 +3370,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-jade-green",
+      "id": "scale75-sart-63",
       "name": "Jade Green",
-      "code": null,
+      "code": "SART-63",
+      "ean": [
+        "8435635306159"
+      ],
       "set": "Artist Range",
       "hex": "#2FBEAF",
       "rgb": {
@@ -2590,12 +3391,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-jorildyn-turquoise",
+      "id": "scale75-sfg-31",
       "name": "Jorildyn Turquoise",
-      "code": null,
+      "code": "SFG-31",
+      "ean": [
+        "8412548270173"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#067DA7",
       "rgb": {
@@ -2606,12 +3412,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-kalahari-orange",
+      "id": "scale75-sc-14",
       "name": "Kalahari Orange",
-      "code": null,
+      "code": "SC-14",
+      "ean": [
+        "8412548245560"
+      ],
       "set": "Scale Color Range",
       "hex": "#A3563C",
       "rgb": {
@@ -2622,12 +3433,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-kunzite-alchemy",
+      "id": "scale75-sc-77",
       "name": "Kunzite Alchemy",
-      "code": null,
+      "code": "SC-77",
+      "ean": [
+        "8412548259512"
+      ],
       "set": "Metal N Alchemy Range",
       "hex": "#CA9FBB",
       "rgb": {
@@ -2638,12 +3454,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-leaden-sky",
+      "id": "scale75-sw-37",
       "name": "Leaden Sky",
-      "code": null,
+      "code": "SW-37",
+      "ean": [
+        "8423153055239"
+      ],
       "set": "Warfront  Range",
       "hex": "#404F70",
       "rgb": {
@@ -2654,12 +3475,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-lemon-yellow",
+      "id": "scale75-sart-55",
       "name": "Lemon Yellow",
-      "code": null,
+      "code": "SART-55",
+      "ean": [
+        "8435635306074"
+      ],
       "set": "Artist Range",
       "hex": "#EBEA52",
       "rgb": {
@@ -2670,12 +3496,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-lendanis-grey",
+      "id": "scale75-sfg-32",
       "name": "Lendanis Grey",
-      "code": null,
+      "code": "SFG-32",
+      "ean": [
+        "8412548270180"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#8B8DA4",
       "rgb": {
@@ -2686,12 +3517,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-leviathan-blue",
+      "id": "scale75-sin-46",
       "name": "Leviathan Blue",
-      "code": null,
+      "code": "SIN-46",
+      "ean": [
+        "8412548901015"
+      ],
       "set": "Instant Colors Range",
       "hex": "#005E70",
       "rgb": {
@@ -2702,12 +3538,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-life-red",
+      "id": "scale75-sin-05",
       "name": "Life Red",
-      "code": null,
+      "code": "SIN-05",
+      "ean": [
+        "8412548900605"
+      ],
       "set": "Instant Colors Range",
       "hex": "#E63217",
       "rgb": {
@@ -2718,12 +3559,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-light-moss-green",
+      "id": "scale75-sart-31",
       "name": "Light Moss Green",
-      "code": null,
+      "code": "SART-31",
+      "ean": [
+        "8423153062152"
+      ],
       "set": "Artist Range",
       "hex": "#61701B",
       "rgb": {
@@ -2734,12 +3580,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-light-rust",
+      "id": "scale75-swe-00",
       "name": "Light Rust",
-      "code": null,
+      "code": "SWE-00",
+      "ean": [
+        "8423153061209"
+      ],
       "set": "Soil Works",
       "hex": "#C1682C",
       "rgb": {
@@ -2750,12 +3601,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-light-skin",
+      "id": "scale75-sc-18",
       "name": "Light Skin",
-      "code": null,
+      "code": "SC-18",
+      "ean": [
+        "8412548247137"
+      ],
       "set": "Scale Color Range",
       "hex": "#E2B890",
       "rgb": {
@@ -2766,12 +3622,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-light-skin-2",
+      "id": "scale75-sart-09",
       "name": "Light Skin",
-      "code": null,
+      "code": "SART-09",
+      "ean": [
+        "8423153061834"
+      ],
       "set": "Artist Range",
       "hex": "#D3B5AD",
       "rgb": {
@@ -2782,12 +3643,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-light-sky",
+      "id": "scale75-sw-56",
       "name": "Light Sky",
-      "code": null,
+      "code": "SW-56",
+      "ean": [
+        "8423153058018"
+      ],
       "set": "Warfront  Range",
       "hex": "#7890B4",
       "rgb": {
@@ -2798,12 +3664,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-light-ultramarine",
+      "id": "scale75-sart-28",
       "name": "Light Ultramarine",
-      "code": null,
+      "code": "SART-28",
+      "ean": [
+        "8423153062121"
+      ],
       "set": "Artist Range",
       "hex": "#263E88",
       "rgb": {
@@ -2814,12 +3685,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-lilith-yellow",
+      "id": "scale75-sfg-09",
       "name": "Lilith Yellow",
-      "code": null,
+      "code": "SFG-09",
+      "ean": [
+        "8412548268156"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#FDEA83",
       "rgb": {
@@ -2830,12 +3706,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-lime-green",
+      "id": "scale75-sart-61",
       "name": "Lime Green",
-      "code": null,
+      "code": "SART-61",
+      "ean": [
+        "8435635306135"
+      ],
       "set": "Artist Range",
       "hex": "#ACE44A",
       "rgb": {
@@ -2846,12 +3727,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-love-affair",
+      "id": "scale75-sin-04",
       "name": "Love Affair",
-      "code": null,
+      "code": "SIN-04",
+      "ean": [
+        "8412548900599"
+      ],
       "set": "Instant Colors Range",
       "hex": "#E92B37",
       "rgb": {
@@ -2862,12 +3748,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-magenta",
+      "id": "scale75-sart-23",
       "name": "Magenta",
-      "code": null,
+      "code": "SART-23",
+      "ean": [
+        "8423153062077"
+      ],
       "set": "Artist Range",
       "hex": "#C60A85",
       "rgb": {
@@ -2878,12 +3769,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-magic-blue",
+      "id": "scale75-sin-31",
       "name": "Magic Blue",
-      "code": null,
+      "code": "SIN-31",
+      "ean": [
+        "8412548900865"
+      ],
       "set": "Instant Colors Range",
       "hex": "#147797",
       "rgb": {
@@ -2894,12 +3790,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-mana-regeneration",
+      "id": "scale75-sin-30",
       "name": "Mana Regeneration",
-      "code": null,
+      "code": "SIN-30",
+      "ean": [
+        "8412548900858"
+      ],
       "set": "Instant Colors Range",
       "hex": "#0184D2",
       "rgb": {
@@ -2910,12 +3811,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-marduk-yellow",
+      "id": "scale75-sfg-08",
       "name": "Marduk Yellow",
-      "code": null,
+      "code": "SFG-08",
+      "ean": [
+        "8412548268149"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#FFEF00",
       "rgb": {
@@ -2926,12 +3832,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-mars-orange",
+      "id": "scale75-sc-39",
       "name": "Mars Orange",
-      "code": null,
+      "code": "SC-39",
+      "ean": [
+        "8412548250267"
+      ],
       "set": "Scale Color Range",
       "hex": "#AF6631",
       "rgb": {
@@ -2942,12 +3853,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-mayhem-red",
+      "id": "scale75-sfg-03",
       "name": "Mayhem Red",
-      "code": null,
+      "code": "SFG-03",
+      "ean": [
+        "8412548268095"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#9F0D20",
       "rgb": {
@@ -2958,12 +3874,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-mediterranean-blue",
+      "id": "scale75-sc-51",
       "name": "Mediterranean Blue",
-      "code": null,
+      "code": "SC-51",
+      "ean": [
+        "8412548251981"
+      ],
       "set": "Scale Color Range",
       "hex": "#4D73B2",
       "rgb": {
@@ -2974,12 +3895,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-medium-wet",
+      "id": "scale75-swa-01",
       "name": "Medium Wet",
-      "code": null,
+      "code": "SWA-01",
+      "ean": [
+        "8423153061452"
+      ],
       "set": "Soil Works",
       "hex": "#FFFFFF",
       "rgb": {
@@ -2990,12 +3916,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-merm-green",
+      "id": "scale75-sfg-20",
       "name": "Merm Green",
-      "code": null,
+      "code": "SFG-20",
+      "ean": [
+        "8412548269054"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#455236",
       "rgb": {
@@ -3006,12 +3937,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-mid-ground-earth",
+      "id": "scale75-swe-05",
       "name": "Mid Ground / Earth",
-      "code": null,
+      "code": "SWE-05",
+      "ean": [
+        "8423153061254"
+      ],
       "set": "Soil Works",
       "hex": "#C8AD7E",
       "rgb": {
@@ -3022,12 +3958,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-misfits-green",
+      "id": "scale75-sfg-10",
       "name": "Misfits Green",
-      "code": null,
+      "code": "SFG-10",
+      "ean": [
+        "8412548267883"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#004B31",
       "rgb": {
@@ -3038,12 +3979,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-miskatonic-grey",
+      "id": "scale75-sfg-47",
       "name": "Miskatonic Grey",
-      "code": null,
+      "code": "SFG-47",
+      "ean": [
+        "8412548271620"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#BBB7B4",
       "rgb": {
@@ -3054,12 +4000,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-mojave-white",
+      "id": "scale75-sc-62",
       "name": "Mojave White",
-      "code": null,
+      "code": "SC-62",
+      "ean": [
+        "8412548253008"
+      ],
       "set": "Scale Color Range",
       "hex": "#D2CEB5",
       "rgb": {
@@ -3070,12 +4021,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-moonray-flesh",
+      "id": "scale75-sfg-17",
       "name": "Moonray Flesh",
-      "code": null,
+      "code": "SFG-17",
+      "ean": [
+        "8412548267951"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#F0D7A1",
       "rgb": {
@@ -3086,12 +4042,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-moonstone-alchemy",
+      "id": "scale75-sc-94",
       "name": "Moonstone Alchemy",
-      "code": null,
+      "code": "SC-94",
+      "ean": [
+        "8412548275277"
+      ],
       "set": "Metal N Alchemy Range",
       "hex": "#BC937F",
       "rgb": {
@@ -3102,12 +4063,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-moss-green",
+      "id": "scale75-sart-11",
       "name": "Moss Green",
-      "code": null,
+      "code": "SART-11",
+      "ean": [
+        "8423153061858"
+      ],
       "set": "Artist Range",
       "hex": "#43492F",
       "rgb": {
@@ -3118,12 +4084,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-nacar",
+      "id": "scale75-sc-02",
       "name": "Nacar",
-      "code": null,
+      "code": "SC-02",
+      "ean": [
+        "8412548244211"
+      ],
       "set": "Scale Color Range",
       "hex": "#9B9F90",
       "rgb": {
@@ -3134,12 +4105,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-naples-yellow",
+      "id": "scale75-sart-18",
       "name": "Naples Yellow",
-      "code": null,
+      "code": "SART-18",
+      "ean": [
+        "8423153062022"
+      ],
       "set": "Artist Range",
       "hex": "#DAAC22",
       "rgb": {
@@ -3150,12 +4126,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-navy-blue",
+      "id": "scale75-sc-54",
       "name": "Navy Blue",
-      "code": null,
+      "code": "SC-54",
+      "ean": [
+        "8412548252063"
+      ],
       "set": "Scale Color Range",
       "hex": "#253B6D",
       "rgb": {
@@ -3166,12 +4147,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-necro-gold",
+      "id": "scale75-sc-71",
       "name": "Necro Gold",
-      "code": null,
+      "code": "SC-71",
+      "ean": [
+        "8412548259444"
+      ],
       "set": "Metal N Alchemy Range",
       "hex": "#574E31",
       "rgb": {
@@ -3182,12 +4168,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-necro-grey",
+      "id": "scale75-sfg-42",
       "name": "Necro Grey",
-      "code": null,
+      "code": "SFG-42",
+      "ean": [
+        "8412548271576"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#303038",
       "rgb": {
@@ -3198,12 +4189,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-neon-blue",
+      "id": "scale75-sart-72",
       "name": "Neon Blue",
-      "code": null,
+      "code": "SART-72",
+      "ean": [
+        "8435635306241"
+      ],
       "set": "Artist Range",
       "hex": "#0E81D6",
       "rgb": {
@@ -3214,12 +4210,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-neon-green",
+      "id": "scale75-sart-71",
       "name": "Neon Green",
-      "code": null,
+      "code": "SART-71",
+      "ean": [
+        "8435635306234"
+      ],
       "set": "Artist Range",
       "hex": "#62F687",
       "rgb": {
@@ -3230,12 +4231,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-neon-orange",
+      "id": "scale75-sart-67",
       "name": "Neon Orange",
-      "code": null,
+      "code": "SART-67",
+      "ean": [
+        "8435635306197"
+      ],
       "set": "Artist Range",
       "hex": "#FF9E0E",
       "rgb": {
@@ -3246,12 +4252,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-neon-pink",
+      "id": "scale75-sart-68",
       "name": "Neon Pink",
-      "code": null,
+      "code": "SART-68",
+      "ean": [
+        "8435635306203"
+      ],
       "set": "Artist Range",
       "hex": "#FE3F47",
       "rgb": {
@@ -3262,12 +4273,15 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-neon-red",
+      "id": "scale75-sart-69",
       "name": "Neon Red",
-      "code": null,
+      "code": "SART-69",
+      "ean": null,
       "set": "Artist Range",
       "hex": "#EF321D",
       "rgb": {
@@ -3278,12 +4292,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-neon-yellow",
+      "id": "scale75-sart-70",
       "name": "Neon Yellow",
-      "code": null,
+      "code": "SART-70",
+      "ean": [
+        "8435635306227"
+      ],
       "set": "Artist Range",
       "hex": "#EDFE5A",
       "rgb": {
@@ -3294,12 +4313,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-ocean-blue",
+      "id": "scale75-sw-60",
       "name": "Ocean Blue",
-      "code": null,
+      "code": "SW-60",
+      "ean": [
+        "8423153060042"
+      ],
       "set": "Warfront  Range",
       "hex": "#0C2140",
       "rgb": {
@@ -3310,12 +4334,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-ocean-gray",
+      "id": "scale75-sw-49",
       "name": "Ocean Gray",
-      "code": null,
+      "code": "SW-49",
+      "ean": [
+        "8423153056908"
+      ],
       "set": "Warfront  Range",
       "hex": "#556477",
       "rgb": {
@@ -3326,12 +4355,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-odorless-thinner",
+      "id": "scale75-swth-001",
       "name": "Odorless Thinner",
-      "code": null,
+      "code": "SWTH-001",
+      "ean": [
+        "8423153061308"
+      ],
       "set": "Soil Works",
       "hex": "#DFDFDF",
       "rgb": {
@@ -3342,12 +4376,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-off-white",
+      "id": "scale75-sart-47",
       "name": "Off White",
-      "code": null,
+      "code": "SART-47",
+      "ean": [
+        "8423153062312"
+      ],
       "set": "Artist Range",
       "hex": "#DFD3B9",
       "rgb": {
@@ -3358,12 +4397,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-ogre-brown",
+      "id": "scale75-sin-38",
       "name": "Ogre Brown",
-      "code": null,
+      "code": "SIN-38",
+      "ean": [
+        "8412548900933"
+      ],
       "set": "Instant Colors Range",
       "hex": "#C07704",
       "rgb": {
@@ -3374,12 +4418,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-old-copper",
+      "id": "scale75-sc-88",
       "name": "Old Copper",
-      "code": null,
+      "code": "SC-88",
+      "ean": [
+        "8412548275215"
+      ],
       "set": "Metal N Alchemy Range",
       "hex": "#97604C",
       "rgb": {
@@ -3390,12 +4439,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-olive-brown",
+      "id": "scale75-sw-35",
       "name": "Olive Brown",
-      "code": null,
+      "code": "SW-35",
+      "ean": [
+        "8423153055215"
+      ],
       "set": "Warfront  Range",
       "hex": "#434631",
       "rgb": {
@@ -3406,12 +4460,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-olive-green",
+      "id": "scale75-sart-35",
       "name": "Olive Green",
-      "code": null,
+      "code": "SART-35",
+      "ean": [
+        "8423153062190"
+      ],
       "set": "Artist Range",
       "hex": "#585135",
       "rgb": {
@@ -3422,12 +4481,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-olivegrun-44",
+      "id": "scale75-sw-26",
       "name": "Olivegrun 44",
-      "code": null,
+      "code": "SW-26",
+      "ean": [
+        "8423153054522"
+      ],
       "set": "Warfront  Range",
       "hex": "#93A45D",
       "rgb": {
@@ -3438,12 +4502,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-olivegrun-green",
+      "id": "scale75-sw-01",
       "name": "Olivegrun Green",
-      "code": null,
+      "code": "SW-01",
+      "ean": [
+        "8423153054034"
+      ],
       "set": "Warfront  Range",
       "hex": "#5A6432",
       "rgb": {
@@ -3454,12 +4523,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-orange",
+      "id": "scale75-sw-59",
       "name": "Orange",
-      "code": null,
+      "code": "SW-59",
+      "ean": [
+        "8423153058353"
+      ],
       "set": "Warfront  Range",
       "hex": "#E9670F",
       "rgb": {
@@ -3470,12 +4544,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-orange-2",
+      "id": "scale75-sart-22",
       "name": "Orange",
-      "code": null,
+      "code": "SART-22",
+      "ean": [
+        "8423153062060"
+      ],
       "set": "Artist Range",
       "hex": "#D45B14",
       "rgb": {
@@ -3486,12 +4565,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-orange-leather",
+      "id": "scale75-sc-28",
       "name": "Orange Leather",
-      "code": null,
+      "code": "SC-28",
+      "ean": [
+        "8412548248141"
+      ],
       "set": "Scale Color Range",
       "hex": "#A06337",
       "rgb": {
@@ -3502,12 +4586,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-orange-neon",
+      "id": "scale75-sfx-01",
       "name": "Orange Neon",
-      "code": null,
+      "code": "SFX-01",
+      "ean": [
+        "8423153061513"
+      ],
       "set": "FX Range",
       "hex": "#F96401",
       "rgb": {
@@ -3518,12 +4607,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-orcish-dermis",
+      "id": "scale75-sfg-19",
       "name": "Orcish Dermis",
-      "code": null,
+      "code": "SFG-19",
+      "ean": [
+        "8412548269047"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#DB7D73",
       "rgb": {
@@ -3534,12 +4628,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-oxford-blue",
+      "id": "scale75-sart-65",
       "name": "Oxford Blue",
-      "code": null,
+      "code": "SART-65",
+      "ean": [
+        "8435635306173"
+      ],
       "set": "Artist Range",
       "hex": "#434EA8",
       "rgb": {
@@ -3550,12 +4649,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-pale-dust",
+      "id": "scale75-swe-04",
       "name": "Pale Dust",
-      "code": null,
+      "code": "SWE-04",
+      "ean": [
+        "8423153061247"
+      ],
       "set": "Soil Works",
       "hex": "#EAD1BB",
       "rgb": {
@@ -3566,12 +4670,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-pale-earth",
+      "id": "scale75-sw-34",
       "name": "Pale Earth",
-      "code": null,
+      "code": "SW-34",
+      "ean": [
+        "8423153055208"
+      ],
       "set": "Warfront  Range",
       "hex": "#5F4125",
       "rgb": {
@@ -3582,12 +4691,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-pale-skin",
+      "id": "scale75-sc-17",
       "name": "Pale Skin",
-      "code": null,
+      "code": "SC-17",
+      "ean": [
+        "8412548247120"
+      ],
       "set": "Scale Color Range",
       "hex": "#F1D9CF",
       "rgb": {
@@ -3598,12 +4712,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-pale-skin-2",
+      "id": "scale75-sart-51",
       "name": "Pale Skin",
-      "code": null,
+      "code": "SART-51",
+      "ean": [
+        "8435635306036"
+      ],
       "set": "Artist Range",
       "hex": "#F3D6CF",
       "rgb": {
@@ -3614,12 +4733,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-panzer-grey",
+      "id": "scale75-sw-46",
       "name": "Panzer Grey",
-      "code": null,
+      "code": "SW-46",
+      "ean": [
+        "8423153056878"
+      ],
       "set": "Warfront  Range",
       "hex": "#30383B",
       "rgb": {
@@ -3630,12 +4754,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-panzer-yellow",
+      "id": "scale75-sw-47",
       "name": "Panzer Yellow",
-      "code": null,
+      "code": "SW-47",
+      "ean": [
+        "8423153056885"
+      ],
       "set": "Warfront  Range",
       "hex": "#D6C78C",
       "rgb": {
@@ -3646,12 +4775,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-paralyze-blue",
+      "id": "scale75-sin-18",
       "name": "Paralyze Blue",
-      "code": null,
+      "code": "SIN-18",
+      "ean": [
+        "8412548900735"
+      ],
       "set": "Instant Colors Range",
       "hex": "#3579C0",
       "rgb": {
@@ -3662,12 +4796,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-pastel-blue",
+      "id": "scale75-sart-48",
       "name": "Pastel Blue",
-      "code": null,
+      "code": "SART-48",
+      "ean": [
+        "8423153062329"
+      ],
       "set": "Artist Range",
       "hex": "#44646F",
       "rgb": {
@@ -3678,12 +4817,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-pastel-green",
+      "id": "scale75-sart-46",
       "name": "Pastel Green",
-      "code": null,
+      "code": "SART-46",
+      "ean": [
+        "8423153062305"
+      ],
       "set": "Artist Range",
       "hex": "#929D97",
       "rgb": {
@@ -3694,12 +4838,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-pastel-pink",
+      "id": "scale75-sart-50",
       "name": "Pastel Pink",
-      "code": null,
+      "code": "SART-50",
+      "ean": [
+        "8435635306029"
+      ],
       "set": "Artist Range",
       "hex": "#D97ABA",
       "rgb": {
@@ -3710,12 +4859,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-pastel-violet",
+      "id": "scale75-sart-45",
       "name": "Pastel Violet",
-      "code": null,
+      "code": "SART-45",
+      "ean": [
+        "8423153062299"
+      ],
       "set": "Artist Range",
       "hex": "#804A95",
       "rgb": {
@@ -3726,12 +4880,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-peanut-butter",
+      "id": "scale75-sfg-39",
       "name": "Peanut Butter",
-      "code": null,
+      "code": "SFG-39",
+      "ean": [
+        "8412548270937"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#BB8103",
       "rgb": {
@@ -3742,12 +4901,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-pearl-grey",
+      "id": "scale75-sart-14",
       "name": "Pearl Grey",
-      "code": null,
+      "code": "SART-14",
+      "ean": [
+        "8423153061988"
+      ],
       "set": "Artist Range",
       "hex": "#867980",
       "rgb": {
@@ -3758,12 +4922,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-peridot-alchemy",
+      "id": "scale75-sc-78",
       "name": "Peridot Alchemy",
-      "code": null,
+      "code": "SC-78",
+      "ean": [
+        "8412548259499"
+      ],
       "set": "Metal N Alchemy Range",
       "hex": "#8A8D78",
       "rgb": {
@@ -3774,12 +4943,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-permanent-orange",
+      "id": "scale75-sart-57",
       "name": "Permanent Orange",
-      "code": null,
+      "code": "SART-57",
+      "ean": [
+        "8435635306098"
+      ],
       "set": "Artist Range",
       "hex": "#FF6B0D",
       "rgb": {
@@ -3790,12 +4964,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-petroleum-gray",
+      "id": "scale75-sc-57",
       "name": "Petroleum Gray",
-      "code": null,
+      "code": "SC-57",
+      "ean": [
+        "8412548252957"
+      ],
       "set": "Scale Color Range",
       "hex": "#554D4B",
       "rgb": {
@@ -3806,12 +4985,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-phoenix-egg",
+      "id": "scale75-sin-17",
       "name": "Phoenix Egg",
-      "code": null,
+      "code": "SIN-17",
+      "ean": [
+        "8412548900728"
+      ],
       "set": "Instant Colors Range",
       "hex": "#E5D0A3",
       "rgb": {
@@ -3822,12 +5006,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-phoenix-feather",
+      "id": "scale75-sin-14",
       "name": "Phoenix Feather",
-      "code": null,
+      "code": "SIN-14",
+      "ean": [
+        "8412548900698"
+      ],
       "set": "Instant Colors Range",
       "hex": "#D18A5C",
       "rgb": {
@@ -3838,12 +5027,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-pink-flesh",
+      "id": "scale75-sc-21",
       "name": "Pink Flesh",
-      "code": null,
+      "code": "SC-21",
+      "ean": [
+        "8412548247168"
+      ],
       "set": "Scale Color Range",
       "hex": "#D1928D",
       "rgb": {
@@ -3854,12 +5048,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-pink-flesh-2",
+      "id": "scale75-sart-07",
       "name": "Pink Flesh",
-      "code": null,
+      "code": "SART-07",
+      "ean": [
+        "8423153061810"
+      ],
       "set": "Artist Range",
       "hex": "#BD7066",
       "rgb": {
@@ -3870,12 +5069,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-pistachio-green-ink",
+      "id": "scale75-sart-82",
       "name": "Pistachio Green Ink",
-      "code": null,
+      "code": "SART-82",
+      "ean": [
+        "8435635306340"
+      ],
       "set": "Artist Range",
       "hex": "#C0CF18",
       "rgb": {
@@ -3886,12 +5090,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-primary-blue",
+      "id": "scale75-sart-03",
       "name": "Primary Blue",
-      "code": null,
+      "code": "SART-03",
+      "ean": [
+        "8423153061773"
+      ],
       "set": "Artist Range",
       "hex": "#1A76B5",
       "rgb": {
@@ -3902,12 +5111,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-primary-red",
+      "id": "scale75-sart-05",
       "name": "Primary Red",
-      "code": null,
+      "code": "SART-05",
+      "ean": [
+        "8423153061797"
+      ],
       "set": "Artist Range",
       "hex": "#D53036",
       "rgb": {
@@ -3918,12 +5132,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-primary-yellow",
+      "id": "scale75-sart-04",
       "name": "Primary Yellow",
-      "code": null,
+      "code": "SART-04",
+      "ean": [
+        "8423153061780"
+      ],
       "set": "Artist Range",
       "hex": "#F4E915",
       "rgb": {
@@ -3934,12 +5153,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-primer-surface-black",
+      "id": "scale75-scpr-002",
       "name": "Primer Surface Black",
-      "code": null,
+      "code": "SCPR-002",
+      "ean": [
+        "8412548244457"
+      ],
       "set": "Primers",
       "hex": "#101318",
       "rgb": {
@@ -3950,12 +5174,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-primer-surface-gray",
+      "id": "scale75-scpr-003",
       "name": "Primer Surface Gray",
-      "code": null,
+      "code": "SCPR-003",
+      "ean": [
+        "8412548253336"
+      ],
       "set": "Primers",
       "hex": "#646464",
       "rgb": {
@@ -3966,12 +5195,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-primer-surface-white",
+      "id": "scale75-scpr-001",
       "name": "Primer Surface White",
-      "code": null,
+      "code": "SCPR-001",
+      "ean": [
+        "8412548244426"
+      ],
       "set": "Primers",
       "hex": "#C9CFD5",
       "rgb": {
@@ -3982,12 +5216,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-prusian-blue",
+      "id": "scale75-sart-30",
       "name": "Prusian Blue",
-      "code": null,
+      "code": "SART-30",
+      "ean": [
+        "8423153062145"
+      ],
       "set": "Artist Range",
       "hex": "#06293D",
       "rgb": {
@@ -3998,12 +5237,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-psychedelic-purple",
+      "id": "scale75-sfx-03",
       "name": "Psychedelic Purple",
-      "code": null,
+      "code": "SFX-03",
+      "ean": [
+        "8423153061544"
+      ],
       "set": "FX Range",
       "hex": "#BB1CFF",
       "rgb": {
@@ -4014,12 +5258,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-pure-copper",
+      "id": "scale75-sc-91",
       "name": "Pure Copper",
-      "code": null,
+      "code": "SC-91",
+      "ean": [
+        "8412548275246"
+      ],
       "set": "Metal N Alchemy Range",
       "hex": "#CC744C",
       "rgb": {
@@ -4030,12 +5279,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-purity-white",
+      "id": "scale75-sfg-01",
       "name": "Purity White",
-      "code": null,
+      "code": "SFG-01",
+      "ean": [
+        "8412548271637"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#FFFFFF",
       "rgb": {
@@ -4046,12 +5300,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-purple",
+      "id": "scale75-sart-24",
       "name": "Purple",
-      "code": null,
+      "code": "SART-24",
+      "ean": [
+        "8423153062084"
+      ],
       "set": "Artist Range",
       "hex": "#912360",
       "rgb": {
@@ -4062,12 +5321,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-rage-brown",
+      "id": "scale75-sin-36",
       "name": "Rage Brown",
-      "code": null,
+      "code": "SIN-36",
+      "ean": [
+        "8412548900919"
+      ],
       "set": "Instant Colors Range",
       "hex": "#7C2B16",
       "rgb": {
@@ -4078,12 +5342,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-ragweed-orange",
+      "id": "scale75-sin-06",
       "name": "Ragweed Orange",
-      "code": null,
+      "code": "SIN-06",
+      "ean": [
+        "8412548900612"
+      ],
       "set": "Instant Colors Range",
       "hex": "#DF6A27",
       "rgb": {
@@ -4094,12 +5363,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-rainy-gray",
+      "id": "scale75-sc-60",
       "name": "Rainy Gray",
-      "code": null,
+      "code": "SC-60",
+      "ean": [
+        "8412548252988"
+      ],
       "set": "Scale Color Range",
       "hex": "#8B8683",
       "rgb": {
@@ -4110,12 +5384,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-raw-sienna",
+      "id": "scale75-sart-21",
       "name": "Raw Sienna",
-      "code": null,
+      "code": "SART-21",
+      "ean": [
+        "8423153062053"
+      ],
       "set": "Artist Range",
       "hex": "#654226",
       "rgb": {
@@ -4126,12 +5405,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-raw-umber",
+      "id": "scale75-sart-40",
       "name": "Raw Umber",
-      "code": null,
+      "code": "SART-40",
+      "ean": [
+        "8423153062244"
+      ],
       "set": "Artist Range",
       "hex": "#765F33",
       "rgb": {
@@ -4142,12 +5426,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-red-ecstasy",
+      "id": "scale75-sfx-07",
       "name": "Red Ecstasy",
-      "code": null,
+      "code": "SFX-07",
+      "ean": [
+        "8423153061490"
+      ],
       "set": "FX Range",
       "hex": "#F81803",
       "rgb": {
@@ -4158,12 +5447,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-red-label",
+      "id": "scale75-sw-53",
       "name": "Red Label",
-      "code": null,
+      "code": "SW-53",
+      "ean": [
+        "8423153057165"
+      ],
       "set": "Warfront  Range",
       "hex": "#DF0617",
       "rgb": {
@@ -4174,12 +5468,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-red-leather",
+      "id": "scale75-sc-30",
       "name": "Red Leather",
-      "code": null,
+      "code": "SC-30",
+      "ean": [
+        "8412548248165"
+      ],
       "set": "Scale Color Range",
       "hex": "#5F3634",
       "rgb": {
@@ -4190,12 +5489,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-red-ochre",
+      "id": "scale75-sart-37",
       "name": "Red Ochre",
-      "code": null,
+      "code": "SART-37",
+      "ean": [
+        "8423153062213"
+      ],
       "set": "Artist Range",
       "hex": "#80362D",
       "rgb": {
@@ -4206,12 +5510,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-remove-mana",
+      "id": "scale75-sin-26",
       "name": "Remove Mana",
-      "code": null,
+      "code": "SIN-26",
+      "ean": [
+        "8412548900810"
+      ],
       "set": "Instant Colors Range",
       "hex": "#0D2736",
       "rgb": {
@@ -4222,12 +5531,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-replenish-blue",
+      "id": "scale75-sin-29",
       "name": "Replenish Blue",
-      "code": null,
+      "code": "SIN-29",
+      "ean": [
+        "8412548900841"
+      ],
       "set": "Instant Colors Range",
       "hex": "#01479C",
       "rgb": {
@@ -4238,12 +5552,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-resurrection-flesh",
+      "id": "scale75-sfg-14",
       "name": "Resurrection Flesh",
-      "code": null,
+      "code": "SFG-14",
+      "ean": [
+        "8412548267920"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#BB8B65",
       "rgb": {
@@ -4254,12 +5573,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-riff-green",
+      "id": "scale75-sfg-18",
       "name": "Riff Green",
-      "code": null,
+      "code": "SFG-18",
+      "ean": [
+        "8412548269030"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#1A2D29",
       "rgb": {
@@ -4270,12 +5594,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-rlyeh-grey",
+      "id": "scale75-sfg-45",
       "name": "Rlyeh Grey",
-      "code": null,
+      "code": "SFG-45",
+      "ean": [
+        "8412548271606"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#464B4E",
       "rgb": {
@@ -4286,12 +5615,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-rotbraun-44",
+      "id": "scale75-sw-25",
       "name": "Rotbraun 44",
-      "code": null,
+      "code": "SW-25",
+      "ean": [
+        "8423153054515"
+      ],
       "set": "Warfront  Range",
       "hex": "#905024",
       "rgb": {
@@ -4302,12 +5636,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-rotbraun-primer-red",
+      "id": "scale75-sw-03",
       "name": "Rotbraun Primer Red",
-      "code": null,
+      "code": "SW-03",
+      "ean": [
+        "8423153054058"
+      ],
       "set": "Warfront  Range",
       "hex": "#925447",
       "rgb": {
@@ -4318,12 +5657,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-rotbraun-red",
+      "id": "scale75-sw-02",
       "name": "Rotbraun Red",
-      "code": null,
+      "code": "SW-02",
+      "ean": [
+        "8423153054041"
+      ],
       "set": "Warfront  Range",
       "hex": "#52341A",
       "rgb": {
@@ -4334,12 +5678,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-rotten-pus",
+      "id": "scale75-sin-24",
       "name": "Rotten Pus",
-      "code": null,
+      "code": "SIN-24",
+      "ean": [
+        "8412548900797"
+      ],
       "set": "Instant Colors Range",
       "hex": "#FBB400",
       "rgb": {
@@ -4350,12 +5699,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-ruby-alchemy",
+      "id": "scale75-sc-90",
       "name": "Ruby Alchemy",
-      "code": null,
+      "code": "SC-90",
+      "ean": [
+        "8412548275239"
+      ],
       "set": "Metal N Alchemy Range",
       "hex": "#D37887",
       "rgb": {
@@ -4366,12 +5720,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-russian-green",
+      "id": "scale75-sw-43",
       "name": "Russian Green",
-      "code": null,
+      "code": "SW-43",
+      "ean": [
+        "8423153056458"
+      ],
       "set": "Warfront  Range",
       "hex": "#584F26",
       "rgb": {
@@ -4382,12 +5741,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-russian-light-green",
+      "id": "scale75-sw-44",
       "name": "Russian Light Green",
-      "code": null,
+      "code": "SW-44",
+      "ean": [
+        "8423153056465"
+      ],
       "set": "Warfront  Range",
       "hex": "#635111",
       "rgb": {
@@ -4398,12 +5762,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-russian-uniform",
+      "id": "scale75-sw-45",
       "name": "Russian Uniform",
-      "code": null,
+      "code": "SW-45",
+      "ean": [
+        "8423153056861"
+      ],
       "set": "Warfront  Range",
       "hex": "#695928",
       "rgb": {
@@ -4414,12 +5783,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-ss-camo-golden-brown",
+      "id": "scale75-sw-19",
       "name": "SS Camo Golden Brown",
-      "code": null,
+      "code": "SW-19",
+      "ean": [
+        "8423153054331"
+      ],
       "set": "Warfront  Range",
       "hex": "#F0A001",
       "rgb": {
@@ -4430,12 +5804,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-sahara-sand",
+      "id": "scale75-sw-36",
       "name": "Sahara Sand",
-      "code": null,
+      "code": "SW-36",
+      "ean": [
+        "8423153055222"
+      ],
       "set": "Warfront  Range",
       "hex": "#EFD066",
       "rgb": {
@@ -4446,12 +5825,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-sahara-yellow",
+      "id": "scale75-sc-11",
       "name": "Sahara Yellow",
-      "code": null,
+      "code": "SC-11",
+      "ean": [
+        "8412548245539"
+      ],
       "set": "Scale Color Range",
       "hex": "#AA852D",
       "rgb": {
@@ -4462,12 +5846,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-salmon-fury",
+      "id": "scale75-sin-39",
       "name": "Salmon Fury",
-      "code": null,
+      "code": "SIN-39",
+      "ean": [
+        "8412548900940"
+      ],
       "set": "Instant Colors Range",
       "hex": "#EB5650",
       "rgb": {
@@ -4478,12 +5867,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-sand-yellow",
+      "id": "scale75-sw-32",
       "name": "Sand Yellow",
-      "code": null,
+      "code": "SW-32",
+      "ean": [
+        "8423153055079"
+      ],
       "set": "Warfront  Range",
       "hex": "#EAC581",
       "rgb": {
@@ -4494,12 +5888,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-sandalwood",
+      "id": "scale75-sc-26",
       "name": "Sandalwood",
-      "code": null,
+      "code": "SC-26",
+      "ean": [
+        "8412548248127"
+      ],
       "set": "Scale Color Range",
       "hex": "#B89086",
       "rgb": {
@@ -4510,12 +5909,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-sap-green",
+      "id": "scale75-sart-34",
       "name": "Sap Green",
-      "code": null,
+      "code": "SART-34",
+      "ean": [
+        "8423153062183"
+      ],
       "set": "Artist Range",
       "hex": "#033417",
       "rgb": {
@@ -4526,12 +5930,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-savage-beige",
+      "id": "scale75-sin-41",
       "name": "Savage Beige",
-      "code": null,
+      "code": "SIN-41",
+      "ean": [
+        "8412548900964"
+      ],
       "set": "Instant Colors Range",
       "hex": "#F3D783",
       "rgb": {
@@ -4542,12 +5951,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-shadow-black",
+      "id": "scale75-sin-00",
       "name": "Shadow Black",
-      "code": null,
+      "code": "SIN-00",
+      "ean": [
+        "8412548900551"
+      ],
       "set": "Instant Colors Range",
       "hex": "#1D1F1C",
       "rgb": {
@@ -4558,12 +5972,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-shadow-blue",
+      "id": "scale75-sw-57",
       "name": "Shadow Blue",
-      "code": null,
+      "code": "SW-57",
+      "ean": [
+        "8423153058025"
+      ],
       "set": "Warfront  Range",
       "hex": "#2A3245",
       "rgb": {
@@ -4574,12 +5993,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-sharpnel-red",
+      "id": "scale75-sfg-36",
       "name": "Sharpnel Red",
-      "code": null,
+      "code": "SFG-36",
+      "ean": [
+        "8412548270906"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#6E290A",
       "rgb": {
@@ -4590,12 +6014,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-sherwood-green",
+      "id": "scale75-sc-44",
       "name": "Sherwood Green",
-      "code": null,
+      "code": "SC-44",
+      "ean": [
+        "8412548251448"
+      ],
       "set": "Scale Color Range",
       "hex": "#7D853A",
       "rgb": {
@@ -4606,12 +6035,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-sky-blue",
+      "id": "scale75-sc-50",
       "name": "Sky Blue",
-      "code": null,
+      "code": "SC-50",
+      "ean": [
+        "8412548251967"
+      ],
       "set": "Scale Color Range",
       "hex": "#2496C8",
       "rgb": {
@@ -4622,12 +6056,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-sky-blue-2",
+      "id": "scale75-sart-52",
       "name": "Sky Blue",
-      "code": null,
+      "code": "SART-52",
+      "ean": [
+        "8435635306043"
+      ],
       "set": "Artist Range",
       "hex": "#C0E4ED",
       "rgb": {
@@ -4638,12 +6077,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-slate-gray",
+      "id": "scale75-sw-42",
       "name": "Slate Gray",
-      "code": null,
+      "code": "SW-42",
+      "ean": [
+        "8423153056410"
+      ],
       "set": "Warfront  Range",
       "hex": "#372B15",
       "rgb": {
@@ -4654,12 +6098,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-slimer-green",
+      "id": "scale75-sfg-23",
       "name": "Slimer Green",
-      "code": null,
+      "code": "SFG-23",
+      "ean": [
+        "8412548269085"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#5A9032",
       "rgb": {
@@ -4670,12 +6119,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-smoke-gray",
+      "id": "scale75-sw-41",
       "name": "Smoke Gray",
-      "code": null,
+      "code": "SW-41",
+      "ean": [
+        "8423153056434"
+      ],
       "set": "Warfront  Range",
       "hex": "#886859",
       "rgb": {
@@ -4686,12 +6140,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-sol-yellow",
+      "id": "scale75-sc-40",
       "name": "Sol Yellow",
-      "code": null,
+      "code": "SC-40",
+      "ean": [
+        "8412548250274"
+      ],
       "set": "Scale Color Range",
       "hex": "#ECCB00",
       "rgb": {
@@ -4702,12 +6161,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-spectral-wolf",
+      "id": "scale75-sin-47",
       "name": "Spectral Wolf",
-      "code": null,
+      "code": "SIN-47",
+      "ean": [
+        "8412548901022"
+      ],
       "set": "Instant Colors Range",
       "hex": "#AB9FA1",
       "rgb": {
@@ -4718,12 +6182,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-speed-metal",
+      "id": "scale75-sc-66",
       "name": "Speed Metal",
-      "code": null,
+      "code": "SC-66",
+      "ean": [
+        "8412548257365"
+      ],
       "set": "Metal N Alchemy Range",
       "hex": "#D4D4D6",
       "rgb": {
@@ -4734,12 +6203,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-speed-yellow",
+      "id": "scale75-sfx-06",
       "name": "Speed Yellow",
-      "code": null,
+      "code": "SFX-06",
+      "ean": [
+        "8423153061476"
+      ],
       "set": "FX Range",
       "hex": "#FFFE00",
       "rgb": {
@@ -4750,12 +6224,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-spring-green",
+      "id": "scale75-sart-32",
       "name": "Spring Green",
-      "code": null,
+      "code": "SART-32",
+      "ean": [
+        "8423153062169"
+      ],
       "set": "Artist Range",
       "hex": "#5D9F35",
       "rgb": {
@@ -4766,12 +6245,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-spring-green-2",
+      "id": "scale75-sc-47",
       "name": "Spring Green",
-      "code": null,
+      "code": "SC-47",
+      "ean": [
+        "8412548251479"
+      ],
       "set": "Scale Color Range",
       "hex": "#7FB953",
       "rgb": {
@@ -4782,12 +6266,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-ss-camo-dark-brown",
+      "id": "scale75-sw-18",
       "name": "Ss Camo Dark Brown",
-      "code": null,
+      "code": "SW-18",
+      "ean": [
+        "8423153054324"
+      ],
       "set": "Warfront  Range",
       "hex": "#220B05",
       "rgb": {
@@ -4798,12 +6287,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-ss-camo-dark-green",
+      "id": "scale75-sw-09",
       "name": "Ss Camo Dark Green",
-      "code": null,
+      "code": "SW-09",
+      "ean": [
+        "8423153054119"
+      ],
       "set": "Warfront  Range",
       "hex": "#2A331E",
       "rgb": {
@@ -4814,12 +6308,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-ss-camo-gray-brown",
+      "id": "scale75-sw-13",
       "name": "Ss Camo Gray Brown",
-      "code": null,
+      "code": "SW-13",
+      "ean": [
+        "8423153054157"
+      ],
       "set": "Warfront  Range",
       "hex": "#6F4F36",
       "rgb": {
@@ -4830,12 +6329,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-ss-camo-grey",
+      "id": "scale75-sw-16",
       "name": "Ss Camo Grey",
-      "code": null,
+      "code": "SW-16",
+      "ean": [
+        "8423153054300"
+      ],
       "set": "Warfront  Range",
       "hex": "#8F8063",
       "rgb": {
@@ -4846,12 +6350,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-ss-camo-highlights",
+      "id": "scale75-sw-14",
       "name": "Ss Camo Highlights",
-      "code": null,
+      "code": "SW-14",
+      "ean": [
+        "8423153054164"
+      ],
       "set": "Warfront  Range",
       "hex": "#FAB861",
       "rgb": {
@@ -4862,12 +6371,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-ss-camo-italian-green",
+      "id": "scale75-sw-20",
       "name": "Ss Camo Italian Green",
-      "code": null,
+      "code": "SW-20",
+      "ean": [
+        "8423153054409"
+      ],
       "set": "Warfront  Range",
       "hex": "#3F5232",
       "rgb": {
@@ -4878,12 +6392,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-ss-camo-light-green",
+      "id": "scale75-sw-11",
       "name": "Ss Camo Light Green",
-      "code": null,
+      "code": "SW-11",
+      "ean": [
+        "8423153054133"
+      ],
       "set": "Warfront  Range",
       "hex": "#7E8126",
       "rgb": {
@@ -4894,12 +6413,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-ss-camo-medium-brown",
+      "id": "scale75-sw-08",
       "name": "Ss Camo Medium Brown",
-      "code": null,
+      "code": "SW-08",
+      "ean": [
+        "8423153054102"
+      ],
       "set": "Warfront  Range",
       "hex": "#825D31",
       "rgb": {
@@ -4910,12 +6434,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-ss-camo-medium-green",
+      "id": "scale75-sw-10",
       "name": "Ss Camo Medium Green",
-      "code": null,
+      "code": "SW-10",
+      "ean": [
+        "8423153054126"
+      ],
       "set": "Warfront  Range",
       "hex": "#4D5025",
       "rgb": {
@@ -4926,12 +6455,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-ss-camo-ocher-brown",
+      "id": "scale75-sw-12",
       "name": "Ss Camo Ocher Brown",
-      "code": null,
+      "code": "SW-12",
+      "ean": [
+        "8423153054140"
+      ],
       "set": "Warfront  Range",
       "hex": "#CFAE5F",
       "rgb": {
@@ -4942,12 +6476,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-ss-camo-red-brown",
+      "id": "scale75-sw-17",
       "name": "Ss Camo Red Brown",
-      "code": null,
+      "code": "SW-17",
+      "ean": [
+        "8423153054317"
+      ],
       "set": "Warfront  Range",
       "hex": "#593A1B",
       "rgb": {
@@ -4958,12 +6497,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-ss-camo-top-lights",
+      "id": "scale75-sw-22",
       "name": "Ss Camo Top Lights",
-      "code": null,
+      "code": "SW-22",
+      "ean": [
+        "8423153054355"
+      ],
       "set": "Warfront  Range",
       "hex": "#FBC77E",
       "rgb": {
@@ -4974,12 +6518,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-ss-camo-top-shadows",
+      "id": "scale75-sw-23",
       "name": "Ss Camo Top Shadows",
-      "code": null,
+      "code": "SW-23",
+      "ean": [
+        "8423153054362"
+      ],
       "set": "Warfront  Range",
       "hex": "#343428",
       "rgb": {
@@ -4990,12 +6539,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-ss-camo-yellow-sand",
+      "id": "scale75-sw-21",
       "name": "Ss Camo Yellow Sand",
-      "code": null,
+      "code": "SW-21",
+      "ean": [
+        "8423153054348"
+      ],
       "set": "Warfront  Range",
       "hex": "#C0A56E",
       "rgb": {
@@ -5006,12 +6560,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-sulfur-yellow",
+      "id": "scale75-sin-21",
       "name": "Sulfur Yellow",
-      "code": null,
+      "code": "SIN-21",
+      "ean": [
+        "8412548900766"
+      ],
       "set": "Instant Colors Range",
       "hex": "#FED500",
       "rgb": {
@@ -5022,12 +6581,18 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-sunset-purple",
+      "id": "scale75-sc-33",
       "name": "Sunset Purple",
-      "code": null,
+      "code": "SC-33",
+      "ean": [
+        "8412548250205",
+        "8841254825207"
+      ],
       "set": "Scale Color Range",
       "hex": "#622E54",
       "rgb": {
@@ -5038,12 +6603,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-surfer-orc-flesh",
+      "id": "scale75-sfg-22",
       "name": "Surfer Orc Flesh",
-      "code": null,
+      "code": "SFG-22",
+      "ean": [
+        "8412548269078"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#00A58B",
       "rgb": {
@@ -5054,12 +6624,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-techno-green",
+      "id": "scale75-sfx-05",
       "name": "Techno Green",
-      "code": null,
+      "code": "SFX-05",
+      "ean": [
+        "8423153061506"
+      ],
       "set": "FX Range",
       "hex": "#44FA05",
       "rgb": {
@@ -5070,12 +6645,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-tenere-yellow",
+      "id": "scale75-sc-10",
       "name": "Tenere Yellow",
-      "code": null,
+      "code": "SC-10",
+      "ean": [
+        "8412548245522"
+      ],
       "set": "Scale Color Range",
       "hex": "#E5C76F",
       "rgb": {
@@ -5086,12 +6666,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-tesla-blue",
+      "id": "scale75-sc-52",
       "name": "Tesla Blue",
-      "code": null,
+      "code": "SC-52",
+      "ean": [
+        "8412548252049"
+      ],
       "set": "Scale Color Range",
       "hex": "#414D97",
       "rgb": {
@@ -5102,12 +6687,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-thar-brown",
+      "id": "scale75-sc-61",
       "name": "Thar Brown",
-      "code": null,
+      "code": "SC-61",
+      "ean": [
+        "8412548252995"
+      ],
       "set": "Scale Color Range",
       "hex": "#B09F81",
       "rgb": {
@@ -5118,12 +6708,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-thrash-metal",
+      "id": "scale75-sc-64",
       "name": "Thrash Metal",
-      "code": null,
+      "code": "SC-64",
+      "ean": [
+        "8412548257341"
+      ],
       "set": "Metal N Alchemy Range",
       "hex": "#544943",
       "rgb": {
@@ -5134,12 +6729,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-tiamat-orange",
+      "id": "scale75-sfg-06",
       "name": "Tiamat Orange",
-      "code": null,
+      "code": "SFG-06",
+      "ean": [
+        "8412548268163"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#E97329",
       "rgb": {
@@ -5150,12 +6750,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-tindalos-red",
+      "id": "scale75-sfg-44",
       "name": "Tindalos Red",
-      "code": null,
+      "code": "SFG-44",
+      "ean": [
+        "8412548271590"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#5B2922",
       "rgb": {
@@ -5166,12 +6771,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-titanium-gray",
+      "id": "scale75-sw-40",
       "name": "Titanium Gray",
-      "code": null,
+      "code": "SW-40",
+      "ean": [
+        "8423153056397"
+      ],
       "set": "Warfront  Range",
       "hex": "#41342B",
       "rgb": {
@@ -5182,12 +6792,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-titanium-grey",
+      "id": "scale75-sart-60",
       "name": "Titanium Grey",
-      "code": null,
+      "code": "SART-60",
+      "ean": [
+        "8435635306128"
+      ],
       "set": "Artist Range",
       "hex": "#404445",
       "rgb": {
@@ -5198,12 +6813,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-toad-green",
+      "id": "scale75-sin-20",
       "name": "Toad Green",
-      "code": null,
+      "code": "SIN-20",
+      "ean": [
+        "8412548900759"
+      ],
       "set": "Instant Colors Range",
       "hex": "#475139",
       "rgb": {
@@ -5214,12 +6834,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-tourmaline-alchemy",
+      "id": "scale75-sc-76",
       "name": "Tourmaline Alchemy",
-      "code": null,
+      "code": "SC-76",
+      "ean": [
+        "8412548259505"
+      ],
       "set": "Metal N Alchemy Range",
       "hex": "#E7A8B3",
       "rgb": {
@@ -5230,12 +6855,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-toxic-waste-green",
+      "id": "scale75-sfg-25",
       "name": "Toxic Waste Green",
-      "code": null,
+      "code": "SFG-25",
+      "ean": [
+        "8412548269108"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#C7D538",
       "rgb": {
@@ -5246,12 +6876,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-turquoise",
+      "id": "scale75-sart-64",
       "name": "Turquoise",
-      "code": null,
+      "code": "SART-64",
+      "ean": [
+        "8435635306166"
+      ],
       "set": "Artist Range",
       "hex": "#03435F",
       "rgb": {
@@ -5262,12 +6897,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-turquoise-blue",
+      "id": "scale75-sart-26",
       "name": "Turquoise Blue",
-      "code": null,
+      "code": "SART-26",
+      "ean": [
+        "8423153062107"
+      ],
       "set": "Artist Range",
       "hex": "#15998E",
       "rgb": {
@@ -5278,12 +6918,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-turquoise-ink",
+      "id": "scale75-sart-83",
       "name": "Turquoise Ink",
-      "code": null,
+      "code": "SART-83",
+      "ean": [
+        "8435635306357"
+      ],
       "set": "Artist Range",
       "hex": "#204C50",
       "rgb": {
@@ -5294,12 +6939,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-undead-dragon",
+      "id": "scale75-sin-16",
       "name": "Undead Dragon",
-      "code": null,
+      "code": "SIN-16",
+      "ean": [
+        "8412548900711"
+      ],
       "set": "Instant Colors Range",
       "hex": "#B6C8BC",
       "rgb": {
@@ -5310,12 +6960,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-undead-flesh",
+      "id": "scale75-sfg-13",
       "name": "Undead Flesh",
-      "code": null,
+      "code": "SFG-13",
+      "ean": [
+        "8412548267913"
+      ],
       "set": "Fantasy & Games Range",
       "hex": "#A8B170",
       "rgb": {
@@ -5326,12 +6981,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-us-dark-brown",
+      "id": "scale75-sw-51",
       "name": "Us Dark Brown",
-      "code": null,
+      "code": "SW-51",
+      "ean": [
+        "8423153057141"
+      ],
       "set": "Warfront  Range",
       "hex": "#AE8A72",
       "rgb": {
@@ -5342,12 +7002,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-us-green",
+      "id": "scale75-sw-52",
       "name": "Us Green",
-      "code": null,
+      "code": "SW-52",
+      "ean": [
+        "8423153057158"
+      ],
       "set": "Warfront  Range",
       "hex": "#474632",
       "rgb": {
@@ -5358,12 +7023,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-us-medium-brown",
+      "id": "scale75-sw-50",
       "name": "Us Medium Brown",
-      "code": null,
+      "code": "SW-50",
+      "ean": [
+        "8423153057134"
+      ],
       "set": "Warfront  Range",
       "hex": "#D4AD84",
       "rgb": {
@@ -5374,12 +7044,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-vanilla-white",
+      "id": "scale75-sart-43",
       "name": "Vanilla White",
-      "code": null,
+      "code": "SART-43",
+      "ean": [
+        "8423153062275"
+      ],
       "set": "Artist Range",
       "hex": "#EDE8D4",
       "rgb": {
@@ -5390,12 +7065,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-vanilla-yellow",
+      "id": "scale75-sart-17",
       "name": "Vanilla Yellow",
-      "code": null,
+      "code": "SART-17",
+      "ean": [
+        "8423153062015"
+      ],
       "set": "Artist Range",
       "hex": "#D8CC68",
       "rgb": {
@@ -5406,12 +7086,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-victorian-brass",
+      "id": "scale75-sc-92",
       "name": "Victorian Brass",
-      "code": null,
+      "code": "SC-92",
+      "ean": [
+        "8412548275253"
+      ],
       "set": "Metal N Alchemy Range",
       "hex": "#B6843B",
       "rgb": {
@@ -5422,12 +7107,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-viking-gold",
+      "id": "scale75-sc-72",
       "name": "Viking Gold",
-      "code": null,
+      "code": "SC-72",
+      "ean": [
+        "8412548259451"
+      ],
       "set": "Metal N Alchemy Range",
       "hex": "#8D591F",
       "rgb": {
@@ -5438,12 +7128,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-violet",
+      "id": "scale75-sart-59",
       "name": "Violet",
-      "code": null,
+      "code": "SART-59",
+      "ean": [
+        "8435635306111"
+      ],
       "set": "Artist Range",
       "hex": "#2A1C51",
       "rgb": {
@@ -5454,12 +7149,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-violet-blue",
+      "id": "scale75-sc-56",
       "name": "Violet Blue",
-      "code": null,
+      "code": "SC-56",
+      "ean": [
+        "8412548252087"
+      ],
       "set": "Scale Color Range",
       "hex": "#604673",
       "rgb": {
@@ -5470,12 +7170,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-violet-grey",
+      "id": "scale75-sart-15",
       "name": "Violet Grey",
-      "code": null,
+      "code": "SART-15",
+      "ean": [
+        "8423153061995"
+      ],
       "set": "Artist Range",
       "hex": "#72727C",
       "rgb": {
@@ -5486,12 +7191,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-walnut",
+      "id": "scale75-sc-29",
       "name": "Walnut",
-      "code": null,
+      "code": "SC-29",
+      "ean": [
+        "8412548248158"
+      ],
       "set": "Scale Color Range",
       "hex": "#7D6450",
       "rgb": {
@@ -5502,12 +7212,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-werewolf-brown",
+      "id": "scale75-sin-01",
       "name": "Werewolf Brown",
-      "code": null,
+      "code": "SIN-01",
+      "ean": [
+        "8412548900568"
+      ],
       "set": "Instant Colors Range",
       "hex": "#553C35",
       "rgb": {
@@ -5518,12 +7233,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-white",
+      "id": "scale75-sw-58",
       "name": "White",
-      "code": null,
+      "code": "SW-58",
+      "ean": [
+        "8423153058346"
+      ],
       "set": "Warfront  Range",
       "hex": "#FFFFFF",
       "rgb": {
@@ -5534,12 +7254,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-white-2",
+      "id": "scale75-sc-01",
       "name": "White",
-      "code": null,
+      "code": "SC-01",
+      "ean": [
+        "8412548244204"
+      ],
       "set": "Scale Color Range",
       "hex": "#FFFFFF",
       "rgb": {
@@ -5550,12 +7275,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-white-ink",
+      "id": "scale75-sart-80",
       "name": "White Ink",
-      "code": null,
+      "code": "SART-80",
+      "ean": [
+        "8435635306326"
+      ],
       "set": "Artist Range",
       "hex": "#F7F7F7",
       "rgb": {
@@ -5566,12 +7296,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-white-metal",
+      "id": "scale75-sc-67",
       "name": "White Metal",
-      "code": null,
+      "code": "SC-67",
+      "ean": [
+        "8412548257372"
+      ],
       "set": "Metal N Alchemy Range",
       "hex": "#F1F1F1",
       "rgb": {
@@ -5582,12 +7317,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-white-sands",
+      "id": "scale75-sc-09",
       "name": "White Sands",
-      "code": null,
+      "code": "SC-09",
+      "ean": [
+        "8412548245430"
+      ],
       "set": "Scale Color Range",
       "hex": "#F6E1C6",
       "rgb": {
@@ -5598,12 +7338,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-wild-beast",
+      "id": "scale75-sin-40",
       "name": "Wild Beast",
-      "code": null,
+      "code": "SIN-40",
+      "ean": [
+        "8412548900957"
+      ],
       "set": "Instant Colors Range",
       "hex": "#CA854E",
       "rgb": {
@@ -5614,12 +7359,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-winter-grey",
+      "id": "scale75-sw-63",
       "name": "Winter Grey",
-      "code": null,
+      "code": "SW-63",
+      "ean": [
+        "8423153060073"
+      ],
       "set": "Warfront  Range",
       "hex": "#6E6E70",
       "rgb": {
@@ -5630,12 +7380,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-winter-shadow",
+      "id": "scale75-sw-62",
       "name": "Winter Shadow",
-      "code": null,
+      "code": "SW-62",
+      "ean": [
+        "8423153060066"
+      ],
       "set": "Warfront  Range",
       "hex": "#3A3C39",
       "rgb": {
@@ -5646,12 +7401,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-wood",
+      "id": "scale75-sart-39",
       "name": "Wood",
-      "code": null,
+      "code": "SART-39",
+      "ean": [
+        "8423153062237"
+      ],
       "set": "Artist Range",
       "hex": "#60483E",
       "rgb": {
@@ -5662,12 +7422,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-yellow-code",
+      "id": "scale75-sw-54",
       "name": "Yellow Code",
-      "code": null,
+      "code": "SW-54",
+      "ean": [
+        "8423153057172"
+      ],
       "set": "Warfront  Range",
       "hex": "#FFCB06",
       "rgb": {
@@ -5678,12 +7443,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-yellow-ocre",
+      "id": "scale75-sart-20",
       "name": "Yellow Ocre",
-      "code": null,
+      "code": "SART-20",
+      "ean": [
+        "8423153062046"
+      ],
       "set": "Artist Range",
       "hex": "#A0702E",
       "rgb": {
@@ -5694,12 +7464,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-yellow-oxide",
+      "id": "scale75-sart-56",
       "name": "Yellow Oxide",
-      "code": null,
+      "code": "SART-56",
+      "ean": [
+        "8435635306081"
+      ],
       "set": "Artist Range",
       "hex": "#4B3527",
       "rgb": {
@@ -5710,12 +7485,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-zombie-skin",
+      "id": "scale75-sin-13",
       "name": "Zombie Skin",
-      "code": null,
+      "code": "SIN-13",
+      "ean": [
+        "8412548900681"
+      ],
       "set": "Instant Colors Range",
       "hex": "#A6A869",
       "rgb": {
@@ -5726,12 +7506,17 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     },
     {
-      "id": "scale75-zucchini-green",
+      "id": "scale75-sin-10",
       "name": "Zucchini Green",
-      "code": null,
+      "code": "SIN-10",
+      "ean": [
+        "8412548900650"
+      ],
       "set": "Instant Colors Range",
       "hex": "#405B32",
       "rgb": {
@@ -5742,7 +7527,9 @@
       "shiftColors": null,
       "colourless": false,
       "potSizes": null,
-      "description": null
+      "description": null,
+      "measurements": null,
+      "measuredHex": null
     }
   ]
 }
